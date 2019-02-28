@@ -7,7 +7,7 @@ product: ad cloud
 + [Introduction](introduction.md)
 + [Implementation](implementation.md)
 + Managing your Creative Library {#managing}
-  + About
+  + [About](about.md)
   + Supported Creative Sizes
   + Image Creatives
   + Photoshop Image Creatives
@@ -17,5 +17,3 @@ product: ad cloud
   + Create and Edit
     + Create an Experience
     + Edit an Experience
-    
- 
