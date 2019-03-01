@@ -12,7 +12,7 @@ product: ad cloud
   + [Image Creatives](image-creatives.md)
   + Photoshop Image Creatives
   + Flexible Creatives
-+ Managing Experiences 
++ Managing Experiences
   + About Experiences
   + Create and Edit
     + Create an Experience
