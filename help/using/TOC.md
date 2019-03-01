@@ -8,8 +8,8 @@ product: ad cloud
 + [Implementation](implementation.md)
 + Managing your Creative Library {#managing}
   + [About](about.md)
-  + Supported Creative Sizes
-  + Image Creatives
+  + [Supported Creative Sizes](supported-sizes.md)
+  + [Image Creatives](image-creatives.md)
   + Photoshop Image Creatives
   + Flexible Creatives
 + Managing Experiences 
