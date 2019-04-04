@@ -10,6 +10,7 @@ product: ad cloud
   + [About](about.md)
   + [Supported Creative Sizes](supported-sizes.md)
   + [Image Creatives](image-creatives.md)
+  + [Image Creative Settings](image-creative-settings.md)
   + Photoshop Image Creatives
   + Flexible Creatives
 + Managing Experiences

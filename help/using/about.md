@@ -1,8 +1,8 @@
 ---
-title:
-description:
-seo-title:
-seo-description:
+title: About your Creative Library
+description: About the Creative Library
+seo-title: About the Creative Library
+seo-description: About the Creative Library
 ---
 
 # About your Creative Library

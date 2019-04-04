@@ -1,8 +1,8 @@
 ---
-title:
-description:
-seo-title:
-seo-description:
+title: Add Image Creatives
+description: How to add Image Creatives
+seo-title: Add Image Creatives
+seo-description: How to add Image Creatives
 ---
 
 # Image Creatives

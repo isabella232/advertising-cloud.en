@@ -1,8 +1,8 @@
 ---
-title:
-description:
-seo-title:
-seo-description:
+title: Supported creative sizes
+description: Supported creative sizes
+seo-title: Supported creative sizes
+seo-description: Supported creative sizes
 ---
 
 # Supported Creative Sizes
