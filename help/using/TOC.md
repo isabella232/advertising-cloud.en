@@ -11,10 +11,10 @@ product: ad cloud
   + [Supported Creative Sizes](supported-sizes.md)
   + [Image Creatives](image-creatives.md)
   + [Image Creative Settings](image-creative-settings.md)
-  + Photoshop Image Creatives
-  + Flexible Creatives
-+ Managing Experiences
-  + About Experiences
-  + Create and Edit
-    + Create an Experience
-    + Edit an Experience
+  + Photoshop Image Creatives {#photoshop-image-creatives}
+  + Flexible Creatives {#flexible-creatives}
++ Managing Experiences {#managing-experiences}
+  + About Experiences {#about-experiences}
+  + Create and Edit {#create-and-edit}
+    + Create an Experience {#create-an-experience}
+    + Edit an Experience {#edit-an-experience}
