@@ -5,6 +5,7 @@ product: ad cloud
 # Ad Cloud User Guide {#ad-cloud-user-guide}
 
 + [Introduction](introduction.md)
++ [Advertising Cloud support for General Data Protection Regulation](ad-cloud-gdpr.md)
 + [Implementation](implementation.md)
 + Managing your Creative Library {#managing}
   + [About](about.md)
