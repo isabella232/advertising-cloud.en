@@ -7,8 +7,7 @@ user-guide: null
 
 # Table of Contents {#table-of-contents}
 
-+ [Videos Index](.md)
-+ [](5749.md)
++ [5749 - Document has no title](5749.md)
 + [Channel 4 Ad Setup](channel4.md)
 + [Deal IDs](deal-ids.md)
 + [Estimating CT](estimating-ct.md)
