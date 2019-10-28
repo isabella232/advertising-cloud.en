@@ -1,3 +1,3 @@
-# Testing MD documentation for Ad Cloud
+# Collaborative documentation for Advertising Cloud Search
 
-Technical documentation for Adobe Advertising Cloud to test for syndication to the product.
+Technical documentation for Adobe Advertising Cloud Search.
