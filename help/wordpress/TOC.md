@@ -1,19 +1,13 @@
 ---
-cloud: ad-cloud
-product: adobe
+cloud: experience cloud
+product: advertising cloud
 archtype: end-user
-user-guide: null
+user-guide-title: Advertising Cloud Search Guide
+
 ---
 
-# Table of Contents {#table-of-contents}
+# Advertising Cloud Search Help {#user-guide}
 
-+ [5749 - Document has no title](5749.md)
-+ [Channel 4 Ad Setup](channel4.md)
-+ [Deal IDs](deal-ids.md)
-+ [Estimating CT](estimating-ct.md)
-+ [Freewheel Programmatic Guaranteed - Setup](freewheel-programmatic-guaranteed-setup.md)
-+ [Frequency By App Report](frequency-by-app-report.md)
-+ [Grapeshot Brand Safety](grapeshot-brand-safety.md)
 + [Homepage](homepage.md)
 + [NEW Help Section](new.md)
   + [Advertiser Management Console](new/advertiser-management-console.md)
@@ -22,6 +16,16 @@ user-guide: null
   + [Bulk Duplicate](new/bulk-duplicate.md)
   + [Performance Display Playbook](new/performance-display-playbook.md)
     + [Building a Custom Goal](new/performance-display-playbook/building-a-custom-goal.md)
+    
++ [5749 - Document has no title](5749.md)
++ [Channel 4 Ad Setup](channel4.md)
++ [Deal IDs](deal-ids.md)
++ [Estimating CT](estimating-ct.md)
++ [Freewheel Programmatic Guaranteed - Setup](freewheel-programmatic-guaranteed-setup.md)
++ [Frequency By App Report](frequency-by-app-report.md)
++ [Grapeshot Brand Safety](grapeshot-brand-safety.md)
+
+
 + [Videos](page-id-1273.md)
 + [Google Ad Rejection](page-id-3605.md)
 + [On Demand Placement](page-id-4767.md)
