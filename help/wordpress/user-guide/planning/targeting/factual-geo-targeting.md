@@ -119,7 +119,7 @@ Note: It will take 1-3 days for the build to finish. Factual will process the re
 [ ![B](assets/b.png)](assets/b.png)
 
 &nbsp;
-4.  **`Copy the information in the` `PURPLE` `&` `BLUE``boxes below in`**screenshot C**`and input in the corresponding area under import in Tubemogul's platform (see`** **`.`**
+4.  **`Copy the information in thePURPLE&BLUE``boxes below in`**screenshot C**`and input in the corresponding area under import in Tubemogul's platform (see`** **`.`**
 
 Screenshot C
 

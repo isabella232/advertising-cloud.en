@@ -38,7 +38,9 @@ See below for a full list of available Bulk Duplicate features and where to find
 &nbsp;
 
 &nbsp;
-`**CAMPAIGNS**`:
+
+## Campaigns
+
 ***Where to Find It:&nbsp;*** 
 1) "Duplicate" from the the "Settings Gear Dropdown" for a specific campaign on the Campaign page   
 2) "Duplicate" from the &nbsp;"More" button on the&nbsp;Package/Placement&nbsp;dashboard page
@@ -46,37 +48,56 @@ See below for a full list of available Bulk Duplicate features and where to find
 ![Campaigns](assets/campaigns.png)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 [ ![Campaign from Placement Editor](assets/campaign-from-placement-editor.png)](assets/campaign-from-placement-editor.png)
-***Duplication:*** 
+
+### Duplication
 1 copy
-**Settings Edit:** 
+
+### Settings Edit
 Name, flight dates, whether or not to duplicate packages and/or placements.   
 [ ![Screen Shot 2018-12-05 at 2.23.54 PM](assets/screen-shot-2018-12-05-at-2.23.54-pm.png)](assets/screen-shot-2018-12-05-at-2.23.54-pm.png)
-`**PACKAGES**`:
-***Where to Find It:&nbsp;*** 
+
+## Packages
+
+### Where to find it
+
 1) "Duplicate" from the the "Settings Gear Dropdown" for a specific Package on the Packages page   
 [ ![Packages](assets/packages.png)](assets/packages.png)
-***Duplication & Destinations:*** 
+
+### Duplication & Destinations
+
 1 copy
-***Destinations:*** 
+
+### Destinations
+
 Set Advertiser and&nbsp;Campaign&nbsp;destination
-***Settings to Edit:*** 
+
+### Settings to Edit
+
 Name, flight dates,&nbsp;whether or not to duplicate placements, maintain associated ads, duplication of pixels
 
 &#42;&#42; Cannot set flight to be in the past or outside the bounds of the Campaign
 
 ![](https://gallery.mailchimp.com/ffbc366546922ad2a8f4980c2/images/e69a395d-c137-4d42-8ce6-268ad492dbeb.png)
 
-`**PLACEMENTS**`:
-***Where to Find It:&nbsp;*** 
+## PLACEMENTS
+
+### Where to find it
+
 1) "Duplicate" from the the "Edit Dropdown" next to "Edit" for a specific Placement&nbsp;on the Placements&nbsp;page   
-2) "Duplicate" button next to the "Bulk Edit" button&nbsp;after selecting multiple Placements in the Placements page
+1) "Duplicate" button next to the "Bulk Edit" button&nbsp;after selecting multiple Placements in the Placements page
 
 [ ![Placements](assets/placements.png)](assets/placements.png)
-***Duplications:*** 
+
+### Duplications
+
 Up to 25 copies.
-***Destinations:*** 
+
+### Destinations
+
 Set Advertiser, Campaign and Package destination
-***Settings to Edit:*** 
+
+### Settings to Edit
+
 Status, flight dates
 
 &#42;&#42; Cannot set flight to be in the past or outside the bounds of the Campaign / Package
@@ -85,13 +106,13 @@ Status, flight dates
 
 &nbsp;
 
-***Caveats:***
+### Caveats
+
 All settings will be carried over from the original placement EXCEPT:
 
 * Custom Ad Scheduling if placement flight dates are changed.
 * Custom Ad Weighting and Scheduling if ads are not attached.
 * Associated Direct Deals
 * Social placements are unable to be copied.
-* If copied to a different campaign: Geo-fencing, Pixels, Ads,&nbsp;DoubleVerify Authentic Custom Brand Safety Segments, Survey control placement id.
+* If copied to a different campaign: Geo-fencing, Pixels, Ads, DoubleVerify Authentic Custom Brand Safety Segments, Survey control placement id.
 * Experiment Settings won't be copied.
-

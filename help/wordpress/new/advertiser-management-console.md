@@ -49,7 +49,7 @@ Alternatively you can navigate to the Advertiser Management Console via the foll
 
 [ ![step 3 - advertiser management console](assets/step-3-advertiser-management-console-1024x636.png)](assets/step-3-advertiser-management-console.png)
 
-`**HOW DOES IT WORK?**`
+## How does it work
 
 In the General Settings for the advertiser, input your basic settings and view Adobe integrations currently being accessed by the advertiser. If additional integrations are desired, please contact your account manager for further assistance.
 **NOTE**:&nbsp;when creating a new advertiser, you have the option to&nbsp;share all current private exchange feeds to the advertiser. This&nbsp;is a one time action and can only be&nbsp;applied&nbsp;during&nbsp;advertiser creation.

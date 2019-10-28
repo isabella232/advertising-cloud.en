@@ -23,4 +23,8 @@ isSticky: 0
 
 # Estimating CT {#estimating-ct}
 
-[ ![ct1](assets/ct11.jpg)](assets/ct11.jpg) [ ![ct 2](assets/ct-21.jpg)](assets/ct-21.jpg) [ ![ct 3](assets/ct-31.jpg)](assets/ct-31.jpg) 
+![ct1](assets/ct11.jpg)
+
+![ct 2](assets/ct-21.jpg)
+
+![ct 3](assets/ct-31.jpg)

@@ -93,7 +93,7 @@ Create your native display ad in the Ad Configurator tool. Here are the assets r
 
 * `Format:`&nbsp;JPEG / transparent PNG
 * `Recommended Minimum:`&nbsp;300x300px
-* **` `Absolute Minimum Size```: 80x80px`**
+* **Absolute Minimum Size```: 80x80px`**
 * `Ratio:`&nbsp;1x1
 
 *URL*
@@ -160,7 +160,7 @@ Once activated, both IAS and MOAT reports will be downloadable in the campaign a
 
 **4. Impression and Click Tracking Pixels**
 
-` `Impression Tracking``
+Impression Tracking``
 
 `TripleLift, ShareThrough and MoPub accepts 3rd-party impression tracking pixels. Trackers need to be a 1x1 image URL format. Place tracker in the Pixel tab of the ad.`
 
@@ -170,7 +170,7 @@ Once activated, both IAS and MOAT reports will be downloadable in the campaign a
 
 &nbsp;
 
-` `Click Tracking``
+Click Tracking``
 
 --> ClickThroughs
 
