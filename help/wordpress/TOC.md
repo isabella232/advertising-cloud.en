@@ -1,7 +1,7 @@
 ---
 cloud: experience cloud
 product: advertising cloud
-archtype: end-user
+archetype: end-user
 user-guide-title: Advertising Cloud Search Guide
 
 ---
