@@ -25,42 +25,39 @@ isSticky: 0
 
 # Bulk Duplicate {#bulk-duplicate}
 
-Our bulk duplication tool&nbsp;enables advertisers to quickly take existing campaigns, placements or packages -- and replicate them once or multiple times. The&nbsp;tool also allows users to modify certain parameters of each shell and&nbsp;set&nbsp;new destinations before executing the duplication.
+Our bulk duplication tool enables advertisers to quickly take existing campaigns, placements or packages -- and replicate them once or multiple times. The tool also allows users to modify certain parameters of each shell and set new destinations before executing the duplication.
 
-The platform will run the duplication tasks in the background and users will be able to maneuver throughout the platform and perform other tasks. Check the status reporter to view progress of all bulk actions currently still in progress. Once the duplication is complete, users will be able to apply&nbsp;additional Bulk Tools such as Bulk Edit to modify more granular parameters and settings.
+The platform will run the duplication tasks in the background and users will be able to maneuver throughout the platform and perform other tasks. Check the status reporter to view progress of all bulk actions currently still in progress. Once the duplication is complete, users will be able to apply additional Bulk Tools such as Bulk Edit to modify more granular parameters and settings.
 
-[ ![Job Manager](assets/job-manager.png)](assets/job-manager.png)
-
-&nbsp;
+![Job Manager](assets/job-manager.png)
 
 See below for a full list of available Bulk Duplicate features and where to find them:
 
-&nbsp;
-
-&nbsp;
-
 ## Campaigns
 
-***Where to Find It:&nbsp;*** 
-1) "Duplicate" from the the "Settings Gear Dropdown" for a specific campaign on the Campaign page   
-2) "Duplicate" from the &nbsp;"More" button on the&nbsp;Package/Placement&nbsp;dashboard page
+**Where to Find It** 
 
-![Campaigns](assets/campaigns.png)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+1. "Duplicate" from the the "Settings Gear Dropdown" for a specific campaign on the Campaign page   
+1. "Duplicate" from the "More" button on the Package/Placement dashboard page
 
-[ ![Campaign from Placement Editor](assets/campaign-from-placement-editor.png)](assets/campaign-from-placement-editor.png)
+![Campaigns](assets/campaigns.png)
+
+![Campaign from Placement Editor](assets/campaign-from-placement-editor.png)
 
 ### Duplication
+
 1 copy
 
 ### Settings Edit
 Name, flight dates, whether or not to duplicate packages and/or placements.   
-[ ![Screen Shot 2018-12-05 at 2.23.54 PM](assets/screen-shot-2018-12-05-at-2.23.54-pm.png)](assets/screen-shot-2018-12-05-at-2.23.54-pm.png)
+
+![Screen Shot 2018-12-05 at 2.23.54 PM](assets/screen-shot-2018-12-05-at-2.23.54-pm.png)
 
 ## Packages
 
 ### Where to find it
 
-1) "Duplicate" from the the "Settings Gear Dropdown" for a specific Package on the Packages page   
+1. "Duplicate" from the the "Settings Gear Dropdown" for a specific Package on the Packages page   
 [ ![Packages](assets/packages.png)](assets/packages.png)
 
 ### Duplication & Destinations
@@ -83,10 +80,10 @@ Name, flight dates,&nbsp;whether or not to duplicate placements, maintain associ
 
 ### Where to find it
 
-1) "Duplicate" from the the "Edit Dropdown" next to "Edit" for a specific Placement&nbsp;on the Placements&nbsp;page   
-1) "Duplicate" button next to the "Bulk Edit" button&nbsp;after selecting multiple Placements in the Placements page
+1. "Duplicate" from the the "Edit Dropdown" next to "Edit" for a specific Placement on the Placements page   
+1. "Duplicate" button next to the "Bulk Edit" button after selecting multiple Placements in the Placements page
 
-[ ![Placements](assets/placements.png)](assets/placements.png)
+![Placements](assets/placements.png)
 
 ### Duplications
 
@@ -102,9 +99,7 @@ Status, flight dates
 
 &#42;&#42; Cannot set flight to be in the past or outside the bounds of the Campaign / Package
 
-[ ![Screen Shot 2018-12-05 at 11.27.09 AM](assets/screen-shot-2018-12-05-at-11.27.09-am.png)](assets/screen-shot-2018-12-05-at-11.27.09-am.png)
-
-&nbsp;
+![Screen Shot 2018-12-05 at 11.27.09 AM](assets/screen-shot-2018-12-05-at-11.27.09-am.png)
 
 ### Caveats
 

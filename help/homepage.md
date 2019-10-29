@@ -25,38 +25,8 @@ isSticky: 0
 
 # Homepage {#homepage}
 
-#### QUICK LINKS {#quick-links}
+## QUICK LINKS {#quick-links}
 
----
 
-**GETTING STARTED** 
-[test1](#)   
-[test2](#)   
-[test3](#) 
-
-**WEBINAR** 
-[test1](#)   
-[test2](#)   
-[test3](#) 
-
-**TRAINING** 
-[test1](#)   
-[test2](#)   
-[test3](#) 
-
-**PRODUCT** 
-[test1](#)   
-[test2](#)   
-[test3](#) 
-
-**USER GUIDE** 
-[test1](#)   
-[test2](#)   
-[test3](#) 
-
-####
-
-#### FEATURED TOPICS {#featured-topics}
-
----
+## FEATURED TOPICS {#featured-topics}
 

@@ -31,7 +31,6 @@ isSticky: 0
 1. Placement structure
 1. Creative
 
----
 
 ## Step 1 -  Defining your goal
 
@@ -39,7 +38,7 @@ It is important to understand the goal of the campaign, whether Cost per Acquisi
 
 Ad Cloud has the ability to report and optimize towards a single or multiple success events through our Custom Goal tool. Once the Custom Goal is created, you can assign it to your campaign's package for reporting and algorithmic optimization.
 
-[ ![objective goals](assets/objective-goals.png)](assets/objective-goals.png)
+![objective goals](assets/objective-goals.png)
 
 Follow this link for the
 
@@ -179,8 +178,6 @@ Less is more! If you can set up less than 6 placements per package, this maximiz
 ## Step 5 - Creative
 
 * Best practice is to include as many unique ad sizes as possible to maximize reach.  Adobe's universal display template allows you to upload any standard display ad size
-
 * Make sure all placements contain *at least* all of the primary display ad sizes (300x250, 728x90, 160x600, 300x600, 320x50, and 300x50)
-
 * Update creative on aregular basis to prevent creative fatigue
 
