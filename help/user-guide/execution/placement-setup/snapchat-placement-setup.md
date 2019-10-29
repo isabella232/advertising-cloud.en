@@ -25,57 +25,50 @@ isSticky: 0
 
 # Snapchat Placement Setup {#snapchat-placement-setup}
 
-**CREATING A PLACEMENT** ``
+## CREATING A PLACEMENT
 
-* *There are two ways to enter the Placement Editor*:** New Placement Selector **or** Quick Select Dropdown** ``
+* There are two ways to enter the Placement Editor. New Placement Selector **or** Quick Select Dropdown
 
-``
+![Create Placement - selector](assets/ create-placement-selector-1024x474.png)
 
-[ ![Create Placement - selector](assets/create-placement-selector-1024x474.png)](assets/create-placement-selector.png)
+![Create Placement - quick selector](assets/create-placement-quick-selector-1024x444.png)
 
-&nbsp;
 
-[ ![Create Placement - quick selector](assets/create-placement-quick-selector-1024x444.png)](assets/create-placement-quick-selector.png)
+## BASIC PLACEMENT CREATION
 
-&nbsp;
-**BASIC PLACEMENT** ` **CREATION**`
+* Name the placement, input basic flight info and goals
 
-&nbsp;
-&nbsp;
+![Placement Basics & Goals](assets/placement-basics-goals-1024x693.png)
 
-* Name the placement, input basic flight info and goals ``
+* Packages: You can only associate Snap Ads with restricted-packages (no pacing management). 
+  
+* Budget: the minimum daily budget is $100 USD + the tech fee.
+  
+* Goal Metrics: You can optimize for impressions, swipes, video views or app installs. Note, that once your placement goes live you will not be able to modify this. 
 
-[ ![Placement Basics & Goals](assets/placement-basics-goals-1024x693.png)](assets/placement-basics-goals.png)   
-***- Packages*****: **You can only associate Snap Ads with restricted-packages (no pacing management). ``
+  >[!NOTE]
+  >
+  >Note the following caveats as well:
+  >* Only one goal is allowed per placement
+  >* Default optimization is Impressions
+  >* Once the placement is saved, the optimization goal cannot be changed
+  >* Only Long Form and Web View ad types can be attached to Snapchat placements set with the Swipes optimization goal
   
-***- Budget***: the minimum daily budget is $100 USD + the tech fee. ``
+* Max Bid: You can set your max bid based on CPM or Cost per Swipe. However, please note that all billing is based on CPM.
   
-***- Goal Metrics:*** You can optimize for impressions, swipes, video views or app installs. Note, that once your placement goes live you will not be able to modify this. ` *Note the following caveats as well:*`
+* Forecasting: Once a geo has been selected, the forecast widget on the right hand side will begin to populate with Snapchat's predictions.
+    
+## Recommendations
   
-- Only one goal is allowed per placement ``
+Snapchat advises users to plan on creating a placement‘paused’ first while awaiting approval of creative assets as Snapchat has stringent creative policies in order to prevent any delay in delivery during the actual designed flight period.
   
-- Default optimization is Impressions ``
-  
-- Once the placement is saved, the optimization goal cannot be changed ``
-  
-- Only Long Form and Web View ad types can be attached to Snapchat placements set with the Swipes optimization goal ``
-  
-***- Max Bid: ***You can set your max bid based on CPM or Cost per Swipe. However, please note that all billing is based on CPM. ``
-  
-- ***Forecasting***: Once a geo has been selected, the forecast widget on the right hand side will begin to populate with Snapchat's predictions.
-  
-``   
-***&#42;&#42; Recommendations*****:** ``
-  
-Snapchat&nbsp;advises users to&nbsp;plan on creating a placement&nbsp;‘paused’ first while awaiting approval of creative assets&nbsp;as Snapchat has stringent creative policies in order to prevent any delay in delivery during the actual designed flight period.
-  
-&nbsp;
 
-&nbsp;
-`` **TARGETING** ``
-&nbsp;
 
-1. **SNAPCHAT** ` **SPECIFIC**`&nbsp;&nbsp; ![](assets/targeting-snap2.png)
+
+## Targeting
+
+
+1. **SNAPCHAT SPECIFIC**`&nbsp;&nbsp; ![](assets/targeting-snap2.png)
 
     1. **Placement Type:** Snapchat allows you to select between Snap Ads only, or Content.
 
