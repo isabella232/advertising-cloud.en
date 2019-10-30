@@ -1,5 +1,4 @@
 ---
-edit-last: 43
 wp-page-template: default
 ldc-disable: 0
 ldc-disable-comm: 0
@@ -72,7 +71,7 @@ Recommended Settings:
 * Example: 
 
   ```
-  
+
   if you have $100K *to spend in* * `30 days, set Flight 1`* * `’s`* * `budget (days 1-10) to $25,000 (75`* * `%`* * `*`* * `$`* * `100,000/30`* * `days`* * `=`* * `$`* * `2,500 per day). Flight 2 (days 11 – 30) will be the remaining budget of $75,000.`*
   
   ```
@@ -93,7 +92,7 @@ Recommended Settings: 
 
   ![max bid 12](assets/max-bid-12.png)
 
-* Frequency Caps for Retargeting: Primary Cap of 6 impressions per day, Secondary Cap of 1 impression per 1 hour on the Package Level ``
+* Frequency Caps for Retargeting: Primary Cap of 6 impressions per day, Secondary Cap of 1 impression per 1 hour on the Package Level
 
   ![](assets/rt-freq-caps.png)
 
@@ -160,14 +159,13 @@ Less is more! If you can set up less than 6 placements per package, this maximiz
   * Remove under-performing audiences from existing placement
   * Breakout top performing audiences into a separate placement to better control budgets
 * Retargeting: Suggest one audience segment per placement to easily control bids and budgets
-
   >[!NOTE]
   > If running multiple audiences, it is recommended to suppress the audiences from each other to avoid overlap
 
   * Prospecting Audience(s): $5 Max Bid
   * Retargeting Audience(s): $12 Max Bid
 
-5. **Frequency**:
+1. **Frequency**:
    * **Prospecting**: 1x per day
    * **Retargeting**: 3x – 6x per day 
 
