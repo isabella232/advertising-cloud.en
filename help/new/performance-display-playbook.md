@@ -1,7 +1,6 @@
 ---
 edit-last: 43
 wp-page-template: default
-rawhtml-settings: 0,0,0,0
 ldc-disable: 0
 ldc-disable-comm: 0
 pubDate: Fri, 12 Jul 2019 14:26:29 +0000
@@ -72,7 +71,11 @@ Recommended Settings:
 
 * Example: 
 
-  ```if you have $100K *to spend in* * `30 days, set Flight 1`* * `’s`* * `budget (days 1-10) to $25,000 (75`* * `%`* * `*`* * `$`* * `100,000/30`* * `days`* * `=`* * `$`* * `2,500 per day). Flight 2 (days 11 – 30) will be the remaining budget of $75,000.`*```
+  ```
+  
+  if you have $100K *to spend in* * `30 days, set Flight 1`* * `’s`* * `budget (days 1-10) to $25,000 (75`* * `%`* * `*`* * `$`* * `100,000/30`* * `days`* * `=`* * `$`* * `2,500 per day). Flight 2 (days 11 – 30) will be the remaining budget of $75,000.`*
+  
+  ```
 
 ### Retargeting
 
