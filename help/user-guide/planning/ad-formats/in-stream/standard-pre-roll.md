@@ -25,38 +25,37 @@ isSticky: 0
 
 # Standard Pre-roll {#standard-pre-roll}
 
-[ ![Standard Pre-roll](assets/standard-pre-roll.png)](assets/standard-pre-roll.png)
+![Standard Pre-roll](assets/standard-pre-roll.png)
 
-### Player Action: {#player-action}
+## Player Action: {#player-action}
 
 * Video begins playing automatically with sound on when user chooses to watch a content video
 * [See the Unit in Action](http://www.tubemogul.com/configurator/ad_preview/UqrlOvnHd9U98AkH7oyL?fullsize=1)
 * See [complete ad gallery](http://www.tubemogul.com/marketing/showcase/pre-roll-standard.html)
 
-### Benefits: {#benefits}
+## Benefits: {#benefits}
 
 * In-stream video served before premium content on leading publisher sites
 * Achieve broad reach and target your audience effectively
 * Added Value companion banner provides persistent branding and drives additional clicks
 * Lowest Cost Per Click (CPC) of any unit
 
-### Best Used For: {#best-used-for}
+## Best Used For: {#best-used-for}
 
 * Complementing TV buys
 * Repurposing existing TV spots
 * Complementing social media strategy
 
-### Considerations: {#considerations}
+## Considerations: {#considerations}
 
 * Only 15s or 30s creatives
 * Inventory is in high demand, so costs may be higher
 
-### Preferred Pricing Model: {#preferred-pricing-model}
+## Preferred Pricing Model: {#preferred-pricing-model}
 
 * [CPCV](../../../../user-guide/planning/ad-formats/performance-pricing.md)
 
-### Video Specifications: {#video-specifications}
+## Video Specifications: {#video-specifications}
 
 * View asset specs&nbsp; [here](https://www.tubemogul.com/ad-specs/)
 * [VAST 2.0](http://www.iab.net/guidelines/508676/digitalvideo/vsuite/vast/vast_copy) Ad Tags
-

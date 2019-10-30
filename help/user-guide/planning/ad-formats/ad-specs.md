@@ -25,6 +25,6 @@ isSticky: 0
 
 # Ad Specs {#ad-specs}
 
-## Full list of specs can be found [here](https://www.tubemogul.com/ad-specs/). {#full-list-of-specs-can-be-found-here}
+Full list of specs can be found [here](https://www.tubemogul.com/ad-specs/).
 
 If you have any questions, reach out to your Account Manager or plaform_support@tubemogul.com 

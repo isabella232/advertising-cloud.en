@@ -25,7 +25,7 @@ isSticky: 0
 
 # Branded Autoplay {#branded-autoplay}
 
-## &nbsp; [ ![BAP](assets/bap.png)](assets/bap.png) {#brandedautoplay-brandedautoplay}
+![BAP](assets/bap.png)
 
 **Player Action:**
 
@@ -50,5 +50,5 @@ isSticky: 0
 
 **Video Specifications:**
 
-* View asset specs&nbsp; [here](../../../../user-guide/planning/ad-formats/ad-specs.md)
+* View asset specs [here](../../../../user-guide/planning/ad-formats/ad-specs.md)
 
