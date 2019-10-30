@@ -70,7 +70,8 @@ Recommended Settings:
 
   ![](assets/custom-flighting.png)
 
-* Example: if you have $100K *to spend in* * `30 days, set Flight 1`* * `’s`* * `budget (days 1-10) to $25,000 (75`* * `%`* * `*`* * `$`* * `100,000/30`* * `days`* * `=`* * `$`* * `2,500 per day). Flight 2 (days 11 – 30) will be the remaining budget of $75,000.`* ``
+* Example: 
+  ```if you have $100K *to spend in* * `30 days, set Flight 1`* * `’s`* * `budget (days 1-10) to $25,000 (75`* * `%`* * `*`* * `$`* * `100,000/30`* * `days`* * `=`* * `$`* * `2,500 per day). Flight 2 (days 11 – 30) will be the remaining budget of $75,000.`*```
 
 ### Retargeting
 
