@@ -55,30 +55,33 @@ Ad Cloud can optimize and report towards a single or multiple success events thr
 >
 > See In-Platform Set up (Multiple Properties) for more information`* ``
 
-`* `**`In-Platform Set up (``Single Property)`**`*`
-`I `f your campaign goal is Revenue (ROAS)`, your Custom Goal will look as follows. The ‘Revenue’ Property is selected and assigned a Weight of 1.
+### In-Platform Set up (Single Property)
+
+If your campaign goal is Revenue (ROAS), your Custom Goal will look as follows. The ‘Revenue’ Property is selected and assigned a Weight of 1.
 
 ![Revenue WO](assets/revenue-wo.png)
 
 >[!NOTE]
 >A Property Weight of 1 equates to a value of 1 for each $1 of revenue in Ad Cloud reporting.
-* `For`* `e` * `xample, a $250 conversion will report as $250 in Ad Cloud reporting. If assigned a 0.5 Weight, the $250 conversion will report as $125 in Ad Cloud reporting.`* ``
-* `$250 Conversion * 0.5 Property Weight = $125 in Ad Cloud reporting`* ``
-If your campaign goal is Cost per Acquisition (CPA)` and there is only one success event, your Custom Goal will look as follows. In this example, Application Submit is the success event. ``
+* For example, a $250 conversion will report as $250 in Ad Cloud reporting. If assigned a 0.5 Weight, the $250 conversion will report as $125 in Ad Cloud reporting.
+* $250 Conversion * 0.5 Property Weight = $125 in Ad Cloud reporting
+If your campaign goal is Cost per Acquisition (CPA) and there is only one success event, your Custom Goal will look as follows. In this example, Application Submit is the success event.
 
 ![App Submit WO](assets/app-submit-wo.png)
 
-`Note:With a Property Weight of 1, Ad Cloud will report a value of 1 for each conversion.It is a best practice to set your Weight at 1.
-* `For`* `e` * `xample, if there are 10 Application Submit conversions, there will be 10 Application Submit conversions in Ad Cloud reporting. If you have a Weight other than 1, multiply that Weight by the amount of conversions to get the Weighted conversion amount.`* ``
-* `10 Conversions * 0.5 Property Weight = 5 Conversions in Ad Cloud reporting`* ``
+Note: With a Property Weight of 1, Ad Cloud will report a value of 1 for each conversion.It is a best practice to set your Weight at 1.
+* For example, if there are 10 Application Submit conversions, there will be 10 Application Submit conversions in Ad Cloud reporting. If you have a Weight other than 1, multiply that Weight by the amount of conversions to get the Weighted conversion amount.
+* 10 Conversions * 0.5 Property Weight = 5 Conversions in Ad Cloud reporting
 
-`***`In-Platform Set up (Multiple Properties)`***`
-`There are two scenarios in whichyouwould use multiple Properties in a Custom Goal:
-`**1** – Your campaign goal has multiple success events. For example, you’re advertising for more than one onsite action, and all are being attributed to your Cost per Acquisition (CPA) goal. The example objective below has three separate Properties selected (PDF Download,Contact Us, andEmail Sign up), all with a Weight of 1. This is telling the Adobe Sensei algorithm that allPropertieshave equal importance.If you havePropertiesthat have varying costs or importance, you can adjust your Weights accordingly.
+In-Platform Set up (Multiple Properties)
 
-[ ![Multiple Property WO](assets/multiple-property-wo.png)](assets/multiple-property-wo.png)
+There are two scenarios in whichyouwould use multiple Properties in a Custom Goal:
 
-**2** – Your Single Property Custom Goal is not getting the minimum of 10 conversions per day. Adding additional supporting Properties to the Custom Goal can help achieve this threshold. Custom Goals that do not meet the 10 conversions per day can be due to minimal daily package spend, or there can be a limited amount of natural conversions.
+1. Your campaign goal has multiple success events. For example, you’re advertising for more than one onsite action, and all are being attributed to your Cost per Acquisition (CPA) goal. The example objective below has three separate Properties selected (PDF Download,Contact Us, andEmail Sign up), all with a Weight of 1. This is telling the Adobe Sensei algorithm that allPropertieshave equal importance.If you havePropertiesthat have varying costs or importance, you can adjust your Weights accordingly.
+
+   ![Multiple Property WO](assets/multiple-property-wo.png)
+
+1. Your Single Property Custom Goal is not getting the minimum of 10 conversions per day. Adding additional supporting Properties to the Custom Goal can help achieve this threshold. Custom Goals that do not meet the 10 conversions per day can be due to minimal daily package spend, or there can be a limited amount of natural conversions.
 
 >[!NOTE]
 >When adding supporting Properties to a Custom Goal, they should be Weighted relative to the main success event.

@@ -68,7 +68,8 @@ Snapchat advises users to plan on creating a placement‘paused’ first while a
 ## Targeting
 
 
-1. **SNAPCHAT SPECIFIC**`&nbsp;&nbsp; ![](assets/targeting-snap2.png)
+1. **SNAPCHAT SPECIFIC** 
+   ![](assets/targeting-snap2.png)
 
     1. **Placement Type:** Snapchat allows you to select between Snap Ads only, or Content.
 

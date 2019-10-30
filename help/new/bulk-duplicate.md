@@ -49,6 +49,7 @@ See below for a full list of available Bulk Duplicate features and where to find
 1 copy
 
 ### Settings Edit
+
 Name, flight dates, whether or not to duplicate packages and/or placements.   
 
 ![Screen Shot 2018-12-05 at 2.23.54 PM](assets/screen-shot-2018-12-05-at-2.23.54-pm.png)

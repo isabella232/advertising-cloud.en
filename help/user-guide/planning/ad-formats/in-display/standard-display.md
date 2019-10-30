@@ -25,41 +25,35 @@ isSticky: 0
 
 # Standard Display {#standard-display}
 
-[ ![displaysizes](assets/displaysizes.png)](assets/displaysizes.png)
-**Player Action:**
+![displaysizes](assets/displaysizes.png)
+
+## Player Action
 
 * Animated or static image displayed in web browser
 * Clicking on unit takes user to branded site or microsite
 * Flash fallback option optimizes CTR
 
-**Benefits:**
+## Benefits
 
 * Increases message association
 * Drives users down purchase funnel
 * Low CPMs
 * Large inventory scale
 
-#### Best Used For: {#best-used-for}
+## Best Used For: {#best-used-for}
 
 * Complementing a TV or digital video ad buys
 * Adding additional brand or product touchpoints
 
-#### Key Performance Indicators: {#key-performance-indicators}
+## Key Performance Indicators: {#key-performance-indicators}
 
 * Cost per conversion
 * Cost per click/action
 
-**Recommended Pricing Model:**
+## Recommended Pricing Model
 
 * [CPM](../../../../user-guide/planning/ad-formats/performance-pricing.md)
 
-**Video Specifications:**
+## Video Specifications
 
-* View asset specs&nbsp; [here](../../../../user-guide/planning/ad-formats/ad-specs.md)
-
-####
-
-####
-
-####
-
+* View asset spec [here](../../../../user-guide/planning/ad-formats/ad-specs.md)
