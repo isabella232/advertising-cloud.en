@@ -44,7 +44,11 @@ The platform supports Desktop and 300x250 mobile web units only. No mobile in-ap
 The platform supports javascript and IMG tags.
 The tags do require a small formatting change before adding into the platform. The tag below shows the additions highlighted in **YELLOW.** 
 
-```<pre><<script type="text/javascript"> &nbsp;(function(s,n,u,o,i){ for(i in o)o.hasOwnProperty(i)&&(u+='&'+i+'='+encodeURIComponent(o[i]));document.write('<script src= <span style="background-color: yellow;"><strong>\</strong></span>"'+(location.protocol=='https:'?s+u:n+u+decodeURI('<span style="background-color: yellow;"><strong>\</strong></span>" onerror=<span style="background-color: yellow;"><strong>\</strong></span>"document.write(%27<script src=%5c%27')+s+u+decodeURI('%5c%27><%27+%27/script>%27)'))+'<span style="background-color: yellow;"><strong>\</strong></span>"><'+'/script>'); }('https://s-cdn-tag.medialytics.com','http://tag.medialytics.com','/tag?format=dw',{ tagID: "sb376d0055b3a4e13aeeebe43a957157d", click: "${TM_CLICK_URL}$$_DESTINATION_URL_$$", ls: true, imppx: "" })); </script> <noscript> <a target="_blank" href="http://clk.medialytics.com/href?0.type=i&0.key=MMAdClickthrough&tagID=sb376d0055b3a4e13aeeebe43a957157d&impunique=${TM_RANDOM}"> <img src="http://c.medialytics.com /creative?type=s&tagID=sb376d0055b3a4e13aeeebe43a957157d&impunique=${TM_RANDOM}" width="300" height="250"/> </a> </noscript></pre>```
+```
+
+<pre><<script type="text/javascript"> &nbsp;(function(s,n,u,o,i){ for(i in o)o.hasOwnProperty(i)&&(u+='&'+i+'='+encodeURIComponent(o[i]));document.write('<script src= <span style="background-color: yellow;"><strong>\</strong></span>"'+(location.protocol=='https:'?s+u:n+u+decodeURI('<span style="background-color: yellow;"><strong>\</strong></span>" onerror=<span style="background-color: yellow;"><strong>\</strong></span>"document.write(%27<script src=%5c%27')+s+u+decodeURI('%5c%27><%27+%27/script>%27)'))+'<span style="background-color: yellow;"><strong>\</strong></span>"><'+'/script>'); }('https://s-cdn-tag.medialytics.com','http://tag.medialytics.com','/tag?format=dw',{ tagID: "sb376d0055b3a4e13aeeebe43a957157d", click: "${TM_CLICK_URL}$$_DESTINATION_URL_$$", ls: true, imppx: "" })); </script> <noscript> <a target="_blank" href="http://clk.medialytics.com/href?0.type=i&0.key=MMAdClickthrough&tagID=sb376d0055b3a4e13aeeebe43a957157d&impunique=${TM_RANDOM}"> <img src="http://c.medialytics.com /creative?type=s&tagID=sb376d0055b3a4e13aeeebe43a957157d&impunique=${TM_RANDOM}" width="300" height="250"/> </a> </noscript></pre>
+
+```
 
 ![conversant](assets/conversant.png)
 
@@ -52,7 +56,9 @@ The platform Supports iFrame & javascript tags for desktop and mobile web units 
 
 Conversant tags also require users to manually insert macros for tracking, see below for example code with inserted macros highlighted in **YELLOW**:   
 
-```<pre><iframe src="http://<a href="http://altfarm.mediaplex.com/ad/fm/18630-145298-44091-1?mpt=" target="_blank">altfarm.mediaplex.<wbr>com/ad/fm/18630-145298-44091-<wbr>1?mpt=</a><span style="background-color: yellow;">${TM_RANDOM}</span>&mpvc=<span style="background-color: yellow;">${TM_<wbr>CLICK_URL_URLENC}</span>" width=300 height=250 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no bordercolor="#000000">
+```
+
+<pre><iframe src="http://<a href="http://altfarm.mediaplex.com/ad/fm/18630-145298-44091-1?mpt=" target="_blank">altfarm.mediaplex.<wbr>com/ad/fm/18630-145298-44091-<wbr>1?mpt=</a><span style="background-color: yellow;">${TM_RANDOM}</span>&mpvc=<span style="background-color: yellow;">${TM_<wbr>CLICK_URL_URLENC}</span>" width=300 height=250 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no bordercolor="#000000">
 <br><script type="text/javascript" src="http://<a href="http://altfarm.mediaplex.com/ad/!js/18630-145298-44091-1?mpt=$%7BTM_RANDOM%7D&mpvc=" target="_blank">altfarm.mediaplex.<wbr>com/ad/!js/18630-145298-44091-<wbr>1?mpt=${TM_RANDOM}&mpvc=</a><span style="background-color: yellow;">${TM_<wbr>CLICK_URL_URLENC}</span>">
 <br></script>
 <br><noscript>
@@ -60,7 +66,9 @@ Conversant tags also require users to manually insert macros for tracking, see b
 <br><img src="http://<a href="http://altfarm.mediaplex.com/ad/nb/18630-145298-44091-1?mpt=" target="_blank">altfarm.mediaplex.<wbr>com/ad/nb/18630-145298-44091-<wbr>1?mpt=</a><span style="background-color: yellow;">${<wbr>TM_RANDOM}</span>"alt="Click Here" border="0">
 <br></a>
 <br></noscript>
-<br></iframe></pre>```
+<br></iframe></pre>
+
+```
 
 ![flashtalking-logo1](assets/flashtalking-logo1.jpg)
 
@@ -68,6 +76,7 @@ The platform supports iFrame & javascript tags.
 FlashTalking tags also require manual insertion of macros for click tracking, see below for example code with inserted macros highlighted in **YELLOW**:   
 
 ```
+
 <noscript> 
 <a href=" `**${TM_CLICK_URL_URLENC}**` [ht`<wbr>`tp://servedby.flashtalking.`<wbr>`com/click/8/57258;1799696;0;`<wbr>`209;0/?ft_width=300&ft_height=`<wbr>`250&url=9678632](http://servedby.flashtalking.com/click/8/57258;1799696;0;209;0/?ft_width=300&ft_height=250&url=9678632)" target="_blank"> 
 <img border="0" src=" [http://servedby.`<wbr>`flashtalking.com/imp/8/57258;`<wbr>`1799696;205;gif;Tubemogul;`<wbr>`300x250HTML5StandardwClickExte`<wbr>`nsion/](http://servedby.flashtalking.com/imp/8/57258;1799696;205;gif;Tubemogul;300x250HTML5StandardwClickExtension/)?"></a> 
@@ -95,4 +104,5 @@ ftTag += 'src=" [http://servedby.`<wbr>`flashtalking.com/imp/8/57258;`<wbr>`1799
 ftTag += '>' + ftBuildTag2 + 'script>'; 
 document.write(ftTag); 
 </script>
+
 ```

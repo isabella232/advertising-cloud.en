@@ -25,11 +25,11 @@ isSticky: 0
 
 # Performance Display Playbook {#performance-display-playbook}
 
-1. Defining your goal
-1. Defining your strategy
-1. In-platform Set-Up
-1. Placement structure
-1. Creative
+* Defining your goal
+* Defining your strategy
+* In-platform Set-Up
+* Placement structure
+* Creative
 
 ## Step 1 -  Defining your goal
 
@@ -48,7 +48,8 @@ Follow this link for the
 ### Prospecting
 
 (Upper Funnel) packages are comprised of placements with very broad targeting to reach net new consumers. Applying tactics such as Lookalike modeling, Behavioral Targeting (3rd party data), Contextual Targeting, and Site/Category Targeting findsnew audiences that are likely to convert. 
-Recommended Strategies`: **DMP Lookalikes** (Adobe Audience Manager, etc.) and **RON** (Run Of Network) 
+
+Recommended Strategies: **DMP Lookalikes** (Adobe Audience Manager, etc.) and **RON** (Run Of Network) 
 
 >[!NOTE]
 >While lookalike modeling and 3rd party data are key tactics to identify new users, it’s important to also include a Run of Network placement without audience targeting and with broad inventory targeting. 
