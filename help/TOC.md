@@ -3,20 +3,19 @@ cloud: experience cloud
 product: advertising cloud
 archetype: end-user
 user-guide-title: Advertising Cloud Search Guide
-
 ---
 
-# Advertising Cloud Search Help {#user-guide}
+# Advertising Cloud Search Help {#using}
 
 + [Homepage](homepage.md)
-+ [NEW Help Section](new.md)
++ New Help Section {#new-help-section}
+  + [NEW Help Section Overview](new.md)
   + [Advertiser Management Console](new/advertiser-management-console.md)
   + [Audio](new/audio.md)
     + [Audio FAQ](new/audio/audio-faq.md)
   + [Bulk Duplicate](new/bulk-duplicate.md)
   + [Performance Display Playbook](new/performance-display-playbook.md)
     + [Building a Custom Goal](new/performance-display-playbook/building-a-custom-goal.md)
-    
 + [5749 - Document has no title](5749.md)
 + [Channel 4 Ad Setup](channel4.md)
 + [Deal IDs](deal-ids.md)
