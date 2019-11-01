@@ -1,7 +1,7 @@
 ---
 edit-last: 17
-oembed-e572e15a7d180087c239358f295b41b8
-oembed-13eaff9c799bdcb902d4ad51e7976463
+oembed-e572e15a7d180087c239358f295b41b8: 
+oembed-13eaff9c799bdcb902d4ad51e7976463: 
 wp-page-template: default
 rawhtml-settings: 0,0,0,0
 ldc-disable: 0
