@@ -4,7 +4,6 @@ wp-page-template: default
 rawhtml-settings: 0,0,0,0
 ldc-disable: 0
 ldc-disable-comm: 0
-oembed-18e0bc413c504092d793047641569fa4
 pubDate: Wed, 30 Nov
 dc-creator: hchang@adobe.com
 guid: https://education.tubemogul.com/?page_id=6978
