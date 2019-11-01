@@ -6,7 +6,7 @@ ldc-disable: 0
 ldc-disable-comm: 0
 pubDate: Fri, 04 Jul 2014 15:58:27 +0000
 dc-creator: hchang@adobe.com
-guid: http://education.tubemogul.com/userguide/?page_id=1464
+guid: https://education.tubemogul.com/userguide/?page_id=1464
 isPermaLink: false
 description: 
 postId: 1464
@@ -32,8 +32,8 @@ isSticky: 0
 * Video begins to play automatically with sound on when page loads
 * User initiates interactive element by rolling over the overlay or interactive feature
 * See the Unit in Action:
-* [TubeMogul Online Video Gallery](http://gallery.tubemogul.com/overlay-animated.html)
-* [Overlay and Sharing Buttons](http://www.tubemogul.com/configurator/ad_preview/84wKqDi4vYyBDDVghlNp)
+* [TubeMogul Online Video Gallery](https://gallery.tubemogul.com/overlay-animated.html)
+* [Overlay and Sharing Buttons](https://www.tubemogul.com/configurator/ad_preview/84wKqDi4vYyBDDVghlNp)
 
 ### Benefits: {#benefits}
 
@@ -55,5 +55,5 @@ isSticky: 0
 ### Video Specifications: {#video-specifications}
 
 * View asset specs&nbsp; [here](https://www.tubemogul.com/ad-specs/)
-* [VPAID](http://www.iab.net/guidelines/508676/digitalvideo/vsuite/vpaid) 3rd party ad tag
+* [VPAID](https://www.iab.net/guidelines/508676/digitalvideo/vsuite/vpaid) 3rd party ad tag
 

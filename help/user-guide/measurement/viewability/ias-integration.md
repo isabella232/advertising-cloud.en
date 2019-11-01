@@ -4,7 +4,7 @@ wp-page-template: page-left-sidebar.php
 rawhtml-settings: 0,0,0,0
 pubDate: Tue, 28 Oct 2014 00:46:44 +0000
 dc-creator: hthomas@adobe.com
-guid: http://education.tubemogul.com/?page_id=2593
+guid: https://education.tubemogul.com/?page_id=2593
 isPermaLink: false
 description: 
 postId: 2593
@@ -29,7 +29,7 @@ With its sophisticated TRAQ verification, IAS scores viewability on an impressio
 
 &nbsp;
 
-![](http://help.tubemogul.com:8443/download/attachments/2786016/Screen%20Shot%202014-10-24%20at%206.58.15%20PM.png?version=1&modificationDate=1414203518000&api=v2)
+![](https://help.tubemogul.com:8443/download/attachments/2786016/Screen%20Shot%202014-10-24%20at%206.58.15%20PM.png?version=1&modificationDate=1414203518000&api=v2)
 
 &nbsp;
 
@@ -74,13 +74,13 @@ With its sophisticated TRAQ verification, IAS scores viewability on an impressio
 1. Click the checkbox to activate
 1. Download IAS reporting directly from TubeMogul's dashboard
 
-![](http://help.tubemogul.com:8443/download/attachments/2786016/Screen%20Shot%202014-10-24%20at%206.55.10%20PM.png?version=1&modificationDate=1414203518000&api=v2)
+![](https://help.tubemogul.com:8443/download/attachments/2786016/Screen%20Shot%202014-10-24%20at%206.55.10%20PM.png?version=1&modificationDate=1414203518000&api=v2)
 
 **Where to Retrieve IAS Reports**
 
 When you click on the Full Reports section of your placement, the IAS report will be available for download in the Sites tab.
 
-![](http://help.tubemogul.com:8443/download/attachments/2786016/Screen%20Shot%202014-10-24%20at%207.15.57%20PM.png?version=1&modificationDate=1414203518000&api=v2)
+![](https://help.tubemogul.com:8443/download/attachments/2786016/Screen%20Shot%202014-10-24%20at%207.15.57%20PM.png?version=1&modificationDate=1414203518000&api=v2)
 
 &nbsp;
 **Considerations**

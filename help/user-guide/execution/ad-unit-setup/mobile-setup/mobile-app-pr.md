@@ -4,7 +4,7 @@ wp-page-template: page-left-sidebar.php
 rawhtml-settings: 0,0,0,0
 pubDate: Wed, 16 Jul 2014 02:27:00 +0000
 dc-creator: hthomas@adobe.com
-guid: http://education.tubemogul.com/?page_id=2125
+guid: https://education.tubemogul.com/?page_id=2125
 isPermaLink: false
 description: 
 postId: 2125

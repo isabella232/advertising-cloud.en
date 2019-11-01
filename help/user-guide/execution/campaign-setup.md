@@ -4,7 +4,7 @@ wp-page-template: page-left-sidebar.php
 rawhtml-settings: 0,0,0,0
 pubDate: Fri, 04 Jul 2014 15:50:49 +0000
 dc-creator: hchang@adobe.com
-guid: http://education.tubemogul.com/userguide/?page_id=1426
+guid: https://education.tubemogul.com/userguide/?page_id=1426
 isPermaLink: false
 description: 
 postId: 1426
@@ -56,7 +56,7 @@ Click 'Create a New Package' and it will prompt the following box:
 * `Package Type`&#42;: The pricing method you'd like to track against
 * `3rd Party Billed Fees`: Enter a consolidated CPM amount and 3rd party fee description.
 
-    * This feature does not override fees for services provided by TubeMogul such as Nielsen, comScore and IAS. &nbsp;To bring your own rate for these services, reach out to your Account Manager. These fees will be tracked as "non-billable other cost". To see a full walkthrough of this feature, [click here](http://fast.wistia.net/embed/iframe/rhi560hsx0?popover=true).
+    * This feature does not override fees for services provided by TubeMogul such as Nielsen, comScore and IAS. &nbsp;To bring your own rate for these services, reach out to your Account Manager. These fees will be tracked as "non-billable other cost". To see a full walkthrough of this feature, [click here](https://fast.wistia.net/embed/iframe/rhi560hsx0?popover=true).
 
 *&#42;Note, the platform will only track these metrics NOT cap delivery.&nbsp;*
 

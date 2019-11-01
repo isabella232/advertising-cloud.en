@@ -4,7 +4,7 @@ wp-page-template: page-left-sidebar.php
 rawhtml-settings: 0,0,0,0
 pubDate: Fri, 04 Jul 2014 15:59:58 +0000
 dc-creator: hchang@adobe.com
-guid: http://education.tubemogul.com/userguide/?page_id=1472
+guid: https://education.tubemogul.com/userguide/?page_id=1472
 isPermaLink: false
 description: 
 postId: 1472
@@ -31,8 +31,8 @@ isSticky: 0
 * Video begins to play automatically in the app between game levels
 * User initiates interactive element by rolling over the overlay or interactive feature
 * Optional features include teasers, overlays and click to share buttons
-* [See Smartphone Interactive Pre-roll Unit in Action](http://www.tubemogul.com/marketing/showcase/interactive-in-app-pre-roll.html)
-* [See Tablet Interactive Pre-roll Unit in Action](http://www.tubemogul.com/marketing/showcase/interactive-in-app-pre-roll-tablet.html)
+* [See Smartphone Interactive Pre-roll Unit in Action](https://www.tubemogul.com/marketing/showcase/interactive-in-app-pre-roll.html)
+* [See Tablet Interactive Pre-roll Unit in Action](https://www.tubemogul.com/marketing/showcase/interactive-in-app-pre-roll-tablet.html)
 
 ### Benefits: {#benefits}
 

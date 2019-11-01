@@ -4,7 +4,7 @@ wp-page-template: page-left-sidebar.php
 rawhtml-settings: 0,0,0,0
 pubDate: Fri, 04 Jul 2014 16:15:56 +0000
 dc-creator: hchang@adobe.com
-guid: http://education.tubemogul.com/userguide/?page_id=1549
+guid: https://education.tubemogul.com/userguide/?page_id=1549
 isPermaLink: false
 description: 
 postId: 1549
@@ -28,7 +28,7 @@ isSticky: 0
 
 * Click on Surveys on the left navigation bar
 * Click on the blue button labelled “New BrandSights Survey”
-* For more information on the benefits and capabilities of each Survey ad format, download TubeMogul research [here](http://more.tubemogul.com/brandsights_survey_research_2014).
+* For more information on the benefits and capabilities of each Survey ad format, download TubeMogul research [here](https://more.tubemogul.com/brandsights_survey_research_2014).
 * You’ll see the survey screen, a form split into two short sections. Here’s how to fill in each field.
 
 `Basic`

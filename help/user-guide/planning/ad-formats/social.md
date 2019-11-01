@@ -4,7 +4,7 @@ wp-page-template: page-left-sidebar.php
 rawhtml-settings: 0,0,0,0
 pubDate: Fri, 04 Jul 2014 16:00:51 +0000
 dc-creator: hchang@adobe.com
-guid: http://education.tubemogul.com/userguide/?page_id=1478
+guid: https://education.tubemogul.com/userguide/?page_id=1478
 isPermaLink: false
 description: 
 postId: 1478
@@ -29,7 +29,7 @@ isSticky: 0
 
 * Incentivized user-initiated unit that runs in Facebook games
 * The viewer earns game credit or items upon video completion
-* [See unit in action](http://www.tubemogul.com/marketing/showcase/social-media-games.html)
+* [See unit in action](https://www.tubemogul.com/marketing/showcase/social-media-games.html)
 
 **Benefits:**
 

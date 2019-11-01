@@ -6,7 +6,7 @@ ldc-disable: 0
 ldc-disable-comm: 0
 pubDate: Fri, 04 Jul 2014 16:16:42 +0000
 dc-creator: hchang@adobe.com
-guid: http://education.tubemogul.com/userguide/?page_id=1553
+guid: https://education.tubemogul.com/userguide/?page_id=1553
 isPermaLink: false
 description: 
 postId: 1553
@@ -67,7 +67,7 @@ For an example of how the above code snippet should look like in a working HTML 
 * When building your display ad and companion banner in the platform, select the HTML5 option and upload your Container.
 * Once uploaded, the destination URL appears in the "Click URL" section. Any update to the "Click URL" overrides the URL hardcoded in the original HTML file.
 
-Caveat: Fallback images are not supported when using TubeMogul to serve HTML5 display creatives. To implement fallback images, you need to build them directly into your HTML5 creative according to the [HTML5 browser support matrix](http://caniuse.com/).
+Caveat: Fallback images are not supported when using TubeMogul to serve HTML5 display creatives. To implement fallback images, you need to build them directly into your HTML5 creative according to the [HTML5 browser support matrix](https://caniuse.com/).
 
 **For Video**
 [ ![dada](assets/dada.png)](assets/dada.png)
@@ -85,7 +85,7 @@ Caveat: Fallback images are not supported when using TubeMogul to serve HTML5 di
 
 * [Overlays](overlay.md) `:`&nbsp;Add a 300x60 banner to enhance message/brand association and drive additional clicks. For&nbsp;Expandable CTP, leverage&nbsp;the "Background"&nbsp;overlay Layer.
 
-* [Endcaps](http://education.tubemogul.com/user-guide/execution/ad-unit-setup/teasers-endcaps/) `:`Upload an image at the end of the ad to encourage traffic to the site.
+* [Endcaps](https://education.tubemogul.com/user-guide/execution/ad-unit-setup/teasers-endcaps/) `:`Upload an image at the end of the ad to encourage traffic to the site.
 
 * Sharing Buttons: Add Twitter or Facebook buttons to drive social sharing.
 * [Pixel](3rd-party-tracking-adserving/tracking-pixels.md):&nbsp;Add in 3rd party tracking pixels or TubeMogul's retargeting pixel.

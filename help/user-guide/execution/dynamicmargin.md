@@ -50,7 +50,7 @@ This feature should be used if your client issues you an insertion order, consis
 * `Package Type`&#42;: The pricing method you'd like to track against
 * `Package Rate`&#42;: The rate you'd like to track against
 * `Budget` is then auto-calculated based on the above information, and used for tracking ONLY.
-* `3rd Party Billed Fees`: Enter a consolidated CPM amount and 3rd party fee description. To see a walkthrough of this feature, [click here](http://fast.wistia.net/embed/iframe/rhi560hsx0?popover=true).
+* `3rd Party Billed Fees`: Enter a consolidated CPM amount and 3rd party fee description. To see a walkthrough of this feature, [click here](https://fast.wistia.net/embed/iframe/rhi560hsx0?popover=true).
 
     * This feature does not override fees for services provided by TubeMogul such as Nielsen, comScore and IAS. &nbsp;To bring your own rate for these services, reach out to your Account Manager. These fees will be tracked as "non-billable other cost".
 

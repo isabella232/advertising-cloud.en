@@ -6,7 +6,7 @@ ldc-disable: 0
 ldc-disable-comm: 0
 pubDate: Wed, 16 Jul 2014 08:18:28 +0000
 dc-creator: hthomas@adobe.com
-guid: http://education.tubemogul.com/?page_id=2272
+guid: https://education.tubemogul.com/?page_id=2272
 isPermaLink: false
 description: 
 postId: 2272
@@ -66,7 +66,7 @@ Overlays help with persistent branding throughout the video and can drive additi
     * -1: Behind the video
     * Background: Behind video and other overlays, will scale to full width & height, aspect ratio will not be preserved.
 
-&#42;Interactive Preroll ads will vary in size based on the site, so we recommend overlays either be set to scale (by setting width and height to percentages) or be anchored only to one side of the ad with a ‘floating’ edge on the other side when scaling is not desired. &nbsp;Scaling may distort text and details. &nbsp;(See&nbsp; [http://www.tubemogul.com/marketing/showcase/pre-roll-interactive.html](http://www.tubemogul.com/marketing/showcase/pre-roll-interactive.html)&nbsp;for examples.)   
+&#42;Interactive Preroll ads will vary in size based on the site, so we recommend overlays either be set to scale (by setting width and height to percentages) or be anchored only to one side of the ad with a ‘floating’ edge on the other side when scaling is not desired. &nbsp;Scaling may distort text and details. &nbsp;(See&nbsp; [https://www.tubemogul.com/marketing/showcase/pre-roll-interactive.html](https://www.tubemogul.com/marketing/showcase/pre-roll-interactive.html)&nbsp;for examples.)   
 **Best Practices on Designing an Overlay**
 
 * When creating the overlay, it's recommended to review the video ad to ensure that any graphics, messaging or end-cap aren't covered by the design
@@ -76,5 +76,5 @@ Overlays help with persistent branding throughout the video and can drive additi
 * Overlays can be displayed horizontally or vertically
 * The overlay shouldn't cover more than a 1/5 of the video (video player sizes can range from 720x480 to 400x300)
 
-Examples can be found in our&nbsp; [Ad Gallery](http://gallery.tubemogul.com/overlay-animated.html).
+Examples can be found in our&nbsp; [Ad Gallery](https://gallery.tubemogul.com/overlay-animated.html).
 If you have any additional questions, please reach out to&nbsp; [platform_support@tubemogul.com](mailto:platform_support@tubemogul.com.)&nbsp;. 

@@ -6,7 +6,7 @@ ldc-disable: 0
 ldc-disable-comm: 0
 pubDate: Fri, 04 Jul 2014 15:54:20 +0000
 dc-creator: hchang@adobe.com
-guid: http://education.tubemogul.com/userguide/?page_id=1448
+guid: https://education.tubemogul.com/userguide/?page_id=1448
 isPermaLink: false
 description: 
 postId: 1448
@@ -25,7 +25,7 @@ isSticky: 0
 
 # Viewability {#viewability}
 
-TubeMogul users have access to&nbsp;viewability measurement across desktop video, desktop display, mobile video and connected TV ads within the platform. Our&nbsp;viewability reporting measures whether an ad had the opportunity to be viewed by the audience. The technology tracks how much of the ad is in view, how long it is in view, and whether the browser window is active. This reporting is available for all campaigns managed via TubeMogul, works on any VPAID unit, is not specific to any one exchange, network or marketplace, requires no change to a publisher's website and detects preroll running in small in-banner space.&nbsp;&nbsp;See the technology in action [here.](http://playtime.tubemogul.com/demo/viewability/index.html)
+TubeMogul users have access to&nbsp;viewability measurement across desktop video, desktop display, mobile video and connected TV ads within the platform. Our&nbsp;viewability reporting measures whether an ad had the opportunity to be viewed by the audience. The technology tracks how much of the ad is in view, how long it is in view, and whether the browser window is active. This reporting is available for all campaigns managed via TubeMogul, works on any VPAID unit, is not specific to any one exchange, network or marketplace, requires no change to a publisher's website and detects preroll running in small in-banner space.&nbsp;&nbsp;See the technology in action [here.](https://playtime.tubemogul.com/demo/viewability/index.html)
   
 **Where to Access Viewability Reporting**
 
@@ -46,7 +46,7 @@ Video viewability goes beyond reporting whether an ad was served on a page - it 
 **What is OpenVV?**
 OpenVV is an open-source viewability solution for in-stream video advertising. TubeMogul, BrightRoll, Innovid, LiveRail and SpotXchange founded the consortium to drive the industry towards a standard for video viewability, with the belief that it will benefit brands, agencies and publishers alike. The technology tracks whether a video is in view, and is muted, whether the window is active and the exact percentage of the video that is viewable on a user's screen. To learn more, visit&nbsp;
 
-[www.openVV.org](http://www.openvv.org/)
+[www.openVV.org](https://www.openvv.org/)
 **How do you define a "viewable impression"?**
 
 * For Pre-Roll, we define a viewable impression if 50% of the video is in view for 2 consecutive seconds in the viewable browser area of an active tab.

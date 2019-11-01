@@ -4,7 +4,7 @@ wp-page-template: page-left-sidebar.php
 rawhtml-settings: 0,0,0,0
 pubDate: Fri, 04 Jul 2014 16:10:58 +0000
 dc-creator: hchang@adobe.com
-guid: http://education.tubemogul.com/userguide/?page_id=1525
+guid: https://education.tubemogul.com/userguide/?page_id=1525
 isPermaLink: false
 description: 
 postId: 1525
@@ -32,7 +32,7 @@ When writing a survey question, follow these&nbsp;guidelines:
 1. Avoid Complexity.&nbsp;Draft as concise a question as you can – then read it out loud.&nbsp;&nbsp; A question might look great on paper, but sound off when you say it out loud.
 1. Test Your Question.&nbsp;Ask a colleague to read your question and explain what s/he thinks it’s asking.&nbsp; If they don’t interpret it as you intended, try a rewrite.
 
-![](http://help.tubemogul.com:8443/download/attachments/951463/line%2011.37.19%20AM.jpg?version=1&modificationDate=1364431203000&api=v2)   
+![](https://help.tubemogul.com:8443/download/attachments/951463/line%2011.37.19%20AM.jpg?version=1&modificationDate=1364431203000&api=v2)   
 **Common Pitfalls**
   
 Even the best researchers hit roadblocks when it comes to writing survey questions, especially ones that fit into a 300x250 ad unit!&nbsp;&nbsp; Here are some common pitfalls and how to fix them.
@@ -44,7 +44,7 @@ Even the best researchers hit roadblocks when it comes to writing survey questio
 * Awareness questions that ask around a well-known brand(s).&nbsp;&nbsp; For example, imagine advertising the re-release of a Beatles album.&nbsp; If you run an ad effectiveness study with a question like, “which of the following bands have you heard of” and the answer choices include the Beatles, the Rolling Stones, U2 and Led Zeppelin, you probably won’t see a lift.
 * Answer choices that aren’t mutually exclusive or collectively exhaustive&nbsp;– in other words, two responses sort of mean the same thing or if there were other, obvious, positions that the respondent could take.
 
-![](http://help.tubemogul.com:8443/download/attachments/951463/line%2011.37.19%20AM.jpg?version=1&modificationDate=1364431203000&api=v2)
+![](https://help.tubemogul.com:8443/download/attachments/951463/line%2011.37.19%20AM.jpg?version=1&modificationDate=1364431203000&api=v2)
 
 **Standardized Survey Questions**
   

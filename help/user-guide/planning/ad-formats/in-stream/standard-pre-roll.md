@@ -6,7 +6,7 @@ ldc-disable: 0
 ldc-disable-comm: 0
 pubDate: Fri, 04 Jul 2014 15:57:58 +0000
 dc-creator: hchang@adobe.com
-guid: http://education.tubemogul.com/userguide/?page_id=1462
+guid: https://education.tubemogul.com/userguide/?page_id=1462
 isPermaLink: false
 description: 
 postId: 1462
@@ -30,8 +30,8 @@ isSticky: 0
 ## Player Action: {#player-action}
 
 * Video begins playing automatically with sound on when user chooses to watch a content video
-* [See the Unit in Action](http://www.tubemogul.com/configurator/ad_preview/UqrlOvnHd9U98AkH7oyL?fullsize=1)
-* See [complete ad gallery](http://www.tubemogul.com/marketing/showcase/pre-roll-standard.html)
+* [See the Unit in Action](https://www.tubemogul.com/configurator/ad_preview/UqrlOvnHd9U98AkH7oyL?fullsize=1)
+* See [complete ad gallery](https://www.tubemogul.com/marketing/showcase/pre-roll-standard.html)
 
 ## Benefits: {#benefits}
 
@@ -58,4 +58,4 @@ isSticky: 0
 ## Video Specifications: {#video-specifications}
 
 * View asset specs&nbsp; [here](https://www.tubemogul.com/ad-specs/)
-* [VAST 2.0](http://www.iab.net/guidelines/508676/digitalvideo/vsuite/vast/vast_copy) Ad Tags
+* [VAST 2.0](https://www.iab.net/guidelines/508676/digitalvideo/vsuite/vast/vast_copy) Ad Tags

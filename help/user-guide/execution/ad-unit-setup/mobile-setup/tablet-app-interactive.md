@@ -4,7 +4,7 @@ wp-page-template: page-left-sidebar.php
 rawhtml-settings: 0,0,0,0
 pubDate: Wed, 16 Jul 2014 02:59:13 +0000
 dc-creator: hthomas@adobe.com
-guid: http://education.tubemogul.com/?page_id=2161
+guid: https://education.tubemogul.com/?page_id=2161
 isPermaLink: false
 description: 
 postId: 2161
@@ -36,7 +36,7 @@ isSticky: 0
 
 * Upload Video: Raw creative asset. See&nbsp; [Ad Specs.](../../../../user-guide/planning/ad-formats/ad-specs.md)
 * Use Existing Video: Use a previously uploaded video to create a new ad.
-* Advanced:&nbsp;VAST Tag URL.&nbsp;To avoid reporting discrepancies, consult with your Account Manager to verify your mobile ad server has been certified.&nbsp;Tags need to be&nbsp;&nbsp; [MRAID](http://www.iab.net/mraid)&nbsp; not VAST.
+* Advanced:&nbsp;VAST Tag URL.&nbsp;To avoid reporting discrepancies, consult with your Account Manager to verify your mobile ad server has been certified.&nbsp;Tags need to be&nbsp;&nbsp; [MRAID](https://www.iab.net/mraid)&nbsp; not VAST.
 
 `Configure the Ad`
   

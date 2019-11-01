@@ -5,7 +5,7 @@ rawhtml-settings: 0,0,0,0
 post-restored-from: a:3:{s:20:"restored_revision_id";i:1704;s:16:"restored_by_user";i:7;s:13:"restored_time";i:1405372507;}
 pubDate: Fri, 04 Jul 2014 16:21:52 +0000
 dc-creator: hchang@adobe.com
-guid: http://education.tubemogul.com/userguide/?page_id=1575
+guid: https://education.tubemogul.com/userguide/?page_id=1575
 isPermaLink: false
 description: 
 postId: 1575

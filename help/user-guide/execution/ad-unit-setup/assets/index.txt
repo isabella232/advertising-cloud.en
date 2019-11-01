@@ -7,7 +7,7 @@
 	
 	<!-- ADOBE CLICK HANDLING CODE -->
 	<script type="text/javascript">
-		var clickTAG = "http://foo.com/";
+		var clickTAG = "https://foo.com/";
 
 		(function () {
 			var bindClickEvent = function () {

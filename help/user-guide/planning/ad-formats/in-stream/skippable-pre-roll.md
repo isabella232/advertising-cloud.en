@@ -6,7 +6,7 @@ ldc-disable: 0
 ldc-disable-comm: 0
 pubDate: Fri, 04 Jul 2014 15:58:47 +0000
 dc-creator: hchang@adobe.com
-guid: http://education.tubemogul.com/userguide/?page_id=1466
+guid: https://education.tubemogul.com/userguide/?page_id=1466
 isPermaLink: false
 description: 
 postId: 1466
@@ -31,7 +31,7 @@ isSticky: 0
 
 * Video begins playing automatically with sound on when user chooses to watch a content video
 * Option to skip ad appears after 5 seconds
-* [See unit in action](http://www.tubemogul.com/marketing/showcase/pre-roll-skippable.html)
+* [See unit in action](https://www.tubemogul.com/marketing/showcase/pre-roll-skippable.html)
 
 **Benefits:**
 

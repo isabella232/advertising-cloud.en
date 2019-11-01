@@ -4,7 +4,7 @@ wp-page-template: page-left-sidebar.php
 rawhtml-settings: 0,0,0,0
 pubDate: Mon, 14 Jul 2014 19:39:51 +0000
 dc-creator: hthomas@adobe.com
-guid: http://education.tubemogul.com/?page_id=1818
+guid: https://education.tubemogul.com/?page_id=1818
 isPermaLink: false
 description: 
 postId: 1818
@@ -61,7 +61,7 @@ If you are using 3rd party tracking pixels, TubeMogul enables you to add these d
 **Best Practices**
 
 * Always double check if your 3rd party pixels are a click redirect or 1x1 image pixel. To verify, drop the pixel on a browser. If it redirects, it's a click tracker; if it shows an empty blank browser, it's a 1x1 image pixel that can track any integration event.
-* Download a web-debugging tool like [Fiddler](http://www.telerik.com/fiddler)&nbsp;or&nbsp; [Charles](http://www.charlesproxy.com/)&nbsp;to help pixel check and verify that proper pixels are firing.
+* Download a web-debugging tool like [Fiddler](https://www.telerik.com/fiddler)&nbsp;or&nbsp; [Charles](https://www.charlesproxy.com/)&nbsp;to help pixel check and verify that proper pixels are firing.
 
 * Compare 3rd party tracking report with TubeMogul UI within 1 or 2 days of campaign launch and check for discrepancies.&nbsp;If there are discrepancies >10%:
 

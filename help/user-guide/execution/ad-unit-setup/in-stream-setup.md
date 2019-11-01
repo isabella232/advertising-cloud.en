@@ -4,7 +4,7 @@ wp-page-template: page-left-sidebar.php
 rawhtml-settings: 0,0,0,0
 pubDate: Fri, 04 Jul 2014 16:16:59 +0000
 dc-creator: hchang@adobe.com
-guid: http://education.tubemogul.com/userguide/?page_id=1555
+guid: https://education.tubemogul.com/userguide/?page_id=1555
 isPermaLink: false
 description: 
 postId: 1555
@@ -38,7 +38,7 @@ isSticky: 0
 * Use Existing Video: Use a previously uploaded video to create a new ad.
 * Advanced: VAST Tag URL. Use a [3rd Party Ad Tag](3rd-party-tracking-adserving/ad-tags.md) to serve your ad.
 
-    * The ad server must be&nbsp; [TubeMogul Certified](http://www.tubemogul.com/company/partners/ad-serving-and-rich-media/)prior to campaign launch.&nbsp;If your ad server is not named, please contact&nbsp; [platform_support@tubemogul.com](mailto:playtimesupport@tubemogul.com)&nbsp;to test your ad tag.
+    * The ad server must be&nbsp; [TubeMogul Certified](https://www.tubemogul.com/company/partners/ad-serving-and-rich-media/)prior to campaign launch.&nbsp;If your ad server is not named, please contact&nbsp; [platform_support@tubemogul.com](mailto:playtimesupport@tubemogul.com)&nbsp;to test your ad tag.
 
 **Configure the Ad**
   

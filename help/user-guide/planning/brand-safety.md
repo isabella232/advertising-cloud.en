@@ -6,7 +6,7 @@ ldc-disable: 0
 ldc-disable-comm: 0
 pubDate: Fri, 04 Jul 2014 15:48:17 +0000
 dc-creator: hchang@adobe.com
-guid: http://education.tubemogul.com/userguide/?page_id=1414
+guid: https://education.tubemogul.com/userguide/?page_id=1414
 isPermaLink: false
 description: 
 postId: 1414
@@ -25,6 +25,11 @@ isSticky: 0
 
 # Brand Safety {#brand-safety}
 
-We've integrated multiple layers of brand protection to ensure that your video ads never run beside content unworthy of your brand. Each component of BrandSafe acts as a barrier between your video ad and unsavory websites:&nbsp; [SiteSafe](brand-safety/sitesafe-quality.md),&nbsp; [PageSafe](brand-safety/pagesafe-proximic.md)&nbsp;and&nbsp; [PlaySafe](brand-safety/playsafe-fake-pre-roll.md). [Blacklists](/user-guide/execution/blacklists/)&nbsp;can also be applied at the account or advertiser level.
+We've integrated multiple layers of brand protection to ensure that your video ads never run beside content unworthy of your brand. Each component of BrandSafe acts as a barrier between your video ad and unsavory websites:
+
+* [SiteSafe](brand-safety/sitesafe-quality.md)
+* [PageSafe](brand-safety/pagesafe-proximic.md)
+* [PlaySafe](brand-safety/playsafe-fake-pre-roll.md)
+* [Blacklists](brand-safety/blacklists/) can also be applied at the account or advertiser level.
   
-&nbsp; [ ![safetybadges](assets/safetybadges.png)](assets/safetybadges.png) 
+![safetybadges](assets/safetybadges.png)

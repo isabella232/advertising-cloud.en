@@ -4,7 +4,7 @@ wp-page-template: page-left-sidebar.php
 rawhtml-settings: 0,0,0,0
 pubDate: Fri, 04 Jul 2014 16:04:40 +0000
 dc-creator: hchang@adobe.com
-guid: http://education.tubemogul.com/userguide/?page_id=1498
+guid: https://education.tubemogul.com/userguide/?page_id=1498
 isPermaLink: false
 description: 
 postId: 1498
@@ -38,7 +38,7 @@ Then click on the Site Tool option on the left side navigation bar. This pulls o
 
 1. Select Devices (optional): Only applicable to Mobile units. [ ![ct 3](assets/ct-3.jpg)](assets/ct-3.jpg)
 1. Topic Targeting (optional):&nbsp;Type in topics you are interested in contextually targeting. Topic Targeting allows you to target pages with content that is relevant to your audience. This type of targeting should only be applied to a small percentage of your overall buy and to nation wide campaigns. &nbsp;Activation of this feature will incur an additional fee.
-1. Brand Safety (optional):&nbsp;This feature is part of our comprehensive&nbsp; [BrandSafety Suite](../../../user-guide/planning/brand-safety.md). Use [](http://help.tubemogul.com:8443/pages/viewpage.action?pageId=950498) [PageSafe](../../../user-guide/planning/brand-safety/pagesafe-proximic.md)to&nbsp;filter out pages with undesired content. Activation of this feature will incur an additional fee.
+1. Brand Safety (optional):&nbsp;This feature is part of our comprehensive&nbsp; [BrandSafety Suite](../../../user-guide/planning/brand-safety.md). Use [](https://help.tubemogul.com:8443/pages/viewpage.action?pageId=950498) [PageSafe](../../../user-guide/planning/brand-safety/pagesafe-proximic.md)to&nbsp;filter out pages with undesired content. Activation of this feature will incur an additional fee.
 
 **Relevant filters while planning your site list:&nbsp;**
 

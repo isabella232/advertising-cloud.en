@@ -7,7 +7,7 @@ ldc-disable: 0
 ldc-disable-comm: 0
 pubDate: Wed, 04 Jun 2014 23:17:30 +0000
 dc-creator: hthomas@adobe.com
-guid: http://education.tubemogul.com/?page_id=1273
+guid: https://education.tubemogul.com/?page_id=1273
 isPermaLink: false
 description: 
 postId: 1273

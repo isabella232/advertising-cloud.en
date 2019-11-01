@@ -4,7 +4,7 @@ wp-page-template: page-left-sidebar.php
 rawhtml-settings: 0,0,0,0
 pubDate: Wed, 16 Jul 2014 07:19:42 +0000
 dc-creator: hthomas@adobe.com
-guid: http://education.tubemogul.com/?page_id=2217
+guid: https://education.tubemogul.com/?page_id=2217
 isPermaLink: false
 description: 
 postId: 2217
@@ -33,7 +33,7 @@ In the display world, conversion pixels typically track:
 
 For reference, here's DFAs docs on what they support:&nbsp;
 
-[http://www.google.com/support/dfa/partner/bin/static.py?page=guide.cs&guide=28818&topic=28831&printable=1](http://www.google.com/support/dfa/partner/bin/static.py?page=guide.cs&guide=28818&topic=28831&printable=1)
+[https://www.google.com/support/dfa/partner/bin/static.py?page=guide.cs&guide=28818&topic=28831&printable=1](https://www.google.com/support/dfa/partner/bin/static.py?page=guide.cs&guide=28818&topic=28831&printable=1)
 However, in our video world, we support the following
 
 * Click conversion - User clicked on the ad and either directly landed on the conversion page, or converted sometime later
