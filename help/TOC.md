@@ -45,7 +45,7 @@ user-guide-title: Advertising Cloud Search Guide
     + [Execution Overview](user-guide/execution.md)
     + Ad Unit Setup {#ad-unit-setup}
       + [Ad Unit Setup](user-guide/execution/ad-unit-setup.md)
-      + Third-party tracking and ad serving
+      + Third-party tracking and ad serving {#third-party-tracking}
         + [3rd Party Tracking & Ad Serving Overview](user-guide/execution/ad-unit-setup/3rd-party-tracking-adserving.md)
         + Ad Tags {#ad-tags}
           + [Ad Tags Overview](user-guide/execution/ad-unit-setup/3rd-party-tracking-adserving/ad-tags.md)
@@ -190,7 +190,7 @@ user-guide-title: Advertising Cloud Search Guide
         + [Writing Survey Questions](user-guide/planning/brandsights/survey-planning/writing-survey-questions.md)
       + [Types of Surveys](user-guide/planning/brandsights/types-surveys.md)
     + [Media Quality](user-guide/planning/media-quality.md)
-    + Partners
+    + Partners {#partners}
       + [Partners Overview](user-guide/planning/partners.md)
       + [Ad Serving](user-guide/planning/partners/ad-serving.md)
       + [Data Partners](user-guide/planning/partners/data-partners.md)

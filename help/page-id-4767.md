@@ -2,14 +2,13 @@
 edit-last: 4
 wp-page-template: default
 rawhtml-settings: 0,0,0,0
-pubDate: Wed, 30 Nov -0001 00:00:00 +0000
+pubDate: Wed, 30 Nov
 dc-creator: hthomas@adobe.com
 guid: https://education.tubemogul.com/?page_id=4767
 isPermaLink: false
 description: 
 postId: 4767
 postDate: 2015-10-22 07:35:27
-postDateGmt: 0000-00-00 00:00:00
 commentStatus: open
 pingStatus: open
 postName: 
