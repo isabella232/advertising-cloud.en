@@ -46,7 +46,7 @@ Video viewability goes beyond reporting whether an ad was served on a page - it 
 **What is OpenVV?**
 OpenVV is an open-source viewability solution for in-stream video advertising. TubeMogul, BrightRoll, Innovid, LiveRail and SpotXchange founded the consortium to drive the industry towards a standard for video viewability, with the belief that it will benefit brands, agencies and publishers alike. The technology tracks whether a video is in view, and is muted, whether the window is active and the exact percentage of the video that is viewable on a user's screen. To learn more, visit&nbsp;
 
-[www.openVV.org](https://www.openvv.org/)
+[www.openVV.org](https://www.iab.com/guidelines/open-video-viewability/)
 **How do you define a "viewable impression"?**
 
 * For Pre-Roll, we define a viewable impression if 50% of the video is in view for 2 consecutive seconds in the viewable browser area of an active tab.
