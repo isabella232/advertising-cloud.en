@@ -4,7 +4,6 @@ wp-page-template: default
 rawhtml-settings: 0,0,0,0
 pubDate: Fri, 04 Jul 2014 20:25:31 +0000
 dc-creator: hchang@adobe.com
-guid: http://education.tubemogul.com/userguide/?page_id=1730
 isPermaLink: false
 description: 
 postId: 1730

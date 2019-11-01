@@ -26,9 +26,10 @@ isSticky: 0
 # Premium Inventory {#premium-inventory}
 
 TubeMogul's DSP enables brands and agencies the ability to consolidate private inventory into the TubeMogul platform; clients gain access to integrated planning, buying and reporting for their entire buy and benefit from a streamlined workflow, maximized on-target audience delivery, cross-buy frequency management, the ability to optimize dynamically across entire video buys and viewability reporting across all video inventory sources. The Premium Inventory&nbsp;solution has combined previously separate products, TubeMogul Select and BrandAccess to maximize private inventory management. We've&nbsp;provided advertisers three solutions to manage premium inventory: On Demand, Smart Ad Serving, Simple Ad Serving. On Demand is premium inventory available to users instantly at the point of demand, whereas our Ad Serving products allow users to activate their existing private deals within the TubeMogul Platform.
+
 `<script src="//fast.wistia.com/assets/external/E-v1.js" async charset="ISO-8859-1"></script>`   
 
-**Benefits of Adding Premium Inventory Deals to Your TubeMogul Media Buy:&nbsp;**
+**Benefits of Adding Premium Inventory Deals to Your TubeMogul Media Buy:**
 
 * Direct relationships with desirable publishers
 * Access to high&nbsp;quality or specialized inventory
@@ -41,9 +42,8 @@ TubeMogul's DSP enables brands and agencies the ability to consolidate private i
 **Click Below to Get Started:&nbsp;**
 
 * [Learn more about On Demand Inventory](private-inventory/on-demand-inventory.md)
-* [Learn more about Direct Sales Reservation](https://education.tubemogul.com/user-guide/planning/private-inventory/direct-sales-reservation/)
 * [Learn more about Pre-Negotiated Deals - Formerly BrandAccess](private-inventory/brandaccess.md)
-* [Manage your feeds](/user-guide/planning/private-inventory/brandaccess/feed-management)
-* [See feed delivery and performance](/user-guide/planning/private-inventory/brandaccess/feeds-reporting/)
+* [Manage your feeds](/user-guide/planning/private-inventory/brandaccess/feed-management.md)
+* [See feed delivery and performance](/user-guide/planning/private-inventory/feeds-reporting.md)
 
 [ ![imagea](assets/imagea.png)](assets/imagea.png) 

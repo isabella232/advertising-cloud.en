@@ -8,7 +8,7 @@ getting-started-url:
 tutorials-title: Tutorials
 tutorials-url: 
 mini-toc-levels: 
-git-repo: https://github.com/AdobeDocs/ad-cloud.en
+git-repo: https://github.com/AdobeDocs/advertising-cloud.en
 ---
 
 # Metadata for internal use
