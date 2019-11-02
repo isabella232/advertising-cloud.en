@@ -1,12 +1,12 @@
 ---
 cloud: experience-cloud
-solution-title: advertising cloud
-solution-hub-url:
+solution-title: Learn & Support
+solution-hub-url: https://helpx.adobe.com/support/advertising-cloud.html
 solution-icon: assets/experience-cloud-logo-24.png
 getting-started-title: Getting Started
-getting-started-url: 
+getting-started-url: https://guided.adobe.com/#recommended/solutions/advertising-cloud
 tutorials-title: Tutorials
-tutorials-url: 
+tutorials-url: https://helpx.adobe.com/advertising-cloud/tutorials.html
 mini-toc-levels: 
 git-repo: https://github.com/AdobeDocs/advertising-cloud.en
 ---
