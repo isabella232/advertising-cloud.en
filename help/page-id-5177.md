@@ -27,23 +27,10 @@ isSticky: 0
 
 ![Strategy](assets/platform-pointers-page-header-banner.jpg)
 
-## Strategy {#strategy-1}
-
 Insights Made Easy w/ TubeMogul Special Operations
 
 &nbsp;
 
-<table>
- <tr> 
-  <td><p>
-    <su_button url="https://education.tubemogul.com/tm/category/strategy-sessions/" style="flat" background="#cf2678" center="yes" size="20" wide="yes" radius="0">
-      Strategy Sessions 
-    </su_button></p>  <p>&nbsp;</p> <p>&nbsp;</p>  </td>
-  <td><p>
-    <su_button url="https://education.tubemogul.com/tm/category/creative-services/" style="flat" background="#cf2678" size="20" center="yes" wide="yes" radius="0">
-      Creative Services 
-    </su_button></p>   </td> 
- </tr>
-</table>
+* **[Strategy Sessions](https://education.tubemogul.com/tm/category/strategy-sessions/)**
 
-&nbsp; 
+* **[Creative Services](https://education.tubemogul.com/tm/category/creative-services/)**
