@@ -17,7 +17,7 @@ user-guide-title: Advertising Cloud Search Guide
   + [Bulk Duplicate](new/bulk-duplicate.md)
   + [Performance Display Playbook](new/performance-display-playbook.md)
   + [Building a Custom Goal](new/performance-display-playbook/building-a-custom-goal.md)
-+ New Help Section {#changeme-1}
++ Misc Files {#changeme-2}
   + [5749 - Document has no title](5749.md)
   + [Channel 4 Ad Setup](channel4.md)
   + [Deal IDs](deal-ids.md)
@@ -25,7 +25,7 @@ user-guide-title: Advertising Cloud Search Guide
   + [Freewheel Programmatic Guaranteed - Setup](freewheel-programmatic-guaranteed-setup.md)
   + [Frequency By App Report](frequency-by-app-report.md)
   + [Grapeshot Brand Safety](grapeshot-brand-safety.md)
-+ Hodge Podge Resources {#changeme-2}
++ More Misc Resources {#changeme-3}
   + [Videos](page-id-1273.md)
   + [Google Ad Rejection](page-id-3605.md)
   + [On Demand Placement](page-id-4767.md)
@@ -40,7 +40,7 @@ user-guide-title: Advertising Cloud Search Guide
   + [Share Feed Across Accounts](share-feed-across-accounts.md)
   + [Thank you!](thank.md)
   + [Training](training.md)
-+ User Guide Section {#changeme-3}
++ User Guide Section {#changeme-4}
   + Execution {#execution}
     + [Execution Overview](user-guide/execution.md)
     + Ad Unit Setup {#ad-unit-setup}
