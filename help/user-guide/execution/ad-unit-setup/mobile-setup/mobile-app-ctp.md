@@ -42,8 +42,8 @@ isSticky: 0
 [ ![Mobile App CTP](assets/mobile-app-ctp.png)](assets/mobile-app-ctp.png)
 
 * Basic: Name your ad and add a landing page to the click URL field.
-* [Teaser:](/execution/ad-unit-setup/teasers-endcaps/) Upload a 320&nbsp;x50 banner to entice viewer to click and expand the ad to view in fullscreen
-* [Overlay:](/execution/ad-unit-setup/teasers-endcaps/)Upload a 320 x50 banner&nbsp;is shown while the ad is playing. Can be the same as teaser.
+* [Teaser:](/help/user-guide/planning/ad-formats/ad-features-guide/teasers-endcaps.md) Upload a 320x50 banner to entice viewer to click and expand the ad to view in fullscreen
+* [Overlay:](/help/user-guide/planning/ad-formats/ad-features-guide/teasers-endcaps.md) Upload a 320 x50 banner is shown while the ad is playing. Can be the same as teaser.
 * [Sharing Buttons:](../../../../user-guide/execution/ad-unit-setup/sharing-buttons.md) Layer on Facebook or Twitter buttons.
 * [Pixel:](../../../../user-guide/execution/ad-unit-setup/3rd-party-tracking-adserving/tracking-pixels.md)&nbsp;Add in 3rd party tracking pixels.
 * Preview the Ad in either Portrait or Landscape view.

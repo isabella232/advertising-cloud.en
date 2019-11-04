@@ -23,7 +23,7 @@ isSticky: 0
 
 # Conversions {#conversions}
 
-TubeMogul enables you to easily track and report on every conversion pixel built within the platform. Reporting is accessible on the dashboard as well as through our&nbsp; [Custom Reports](/help/user-guide/measurement/campaign-reporting/custom-reports/)tool. We can now report conversion metrics (ie. impressions conversions, view conversions, click conversions) by conversion pixel allowing you to distinguish which conversion pixel (action) drove the most conversions.
+TubeMogul enables you to easily track and report on every conversion pixel built within the platform. Reporting is accessible on the dashboard as well as through our&nbsp; [Custom Reports](/help/user-guide/measurement/campaign-reporting/email-reports.md) tool. We can now report conversion metrics (ie. impressions conversions, view conversions, click conversions) by conversion pixel allowing you to distinguish which conversion pixel (action) drove the most conversions.
 
 A conversion pixel is a piece of code that's put on a website (often ad advertiser's landing page, but possibly a publisher) to track a certain post-ad experience action.&nbsp;&nbsp;For example, registering as a Facebook fan, filling out a form, buying a product, etc.&nbsp;&nbsp;The conversion action is completely up to the advertiser and how they implement the pixel on their site.
 In the display world, conversion pixels typically track:

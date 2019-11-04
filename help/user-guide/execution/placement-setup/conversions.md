@@ -42,5 +42,4 @@ Note that a view conversion in our system is not quite the same thing as a "view
 
 Conversion pixels also support the notion of a "lookback window". &nbsp;This defines the trailing time period for which the original activity with the ad will be considered eligible for conversion. &nbsp;By default, all conversion types have a lookback window of 30 days. &nbsp;That means that if the ad was seen 40 days ago before the conversion page was hit, it would not be considered a valid conversion and wouldn't be counted.
 Conversions can be any action performed by a viewer who was exposed to an ad such as returning to the brand site, signing up for a newsletter, inquiring for more information, etc.&nbsp;&nbsp;It is recommended to [create a conversion pixel](conversions/conversion-pixel-setup.md)at least a week prior to campaign launch to ensure proper implementation and pixel firing. Once implemented, enable the conversion pixel in a particular placement.
-If you have additional questions please reach out to&nbsp; [platform_support@tubemogul.com](mailto:platform_support@tubemogul.com.)&nbsp;.
-&nbsp; 
+If you have additional questions please reach out to&nbsp; [platform_support@tubemogul.com](mailto:platform_support@tubemogul.com).

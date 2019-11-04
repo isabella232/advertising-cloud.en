@@ -23,14 +23,14 @@ isSticky: 0
 
 # CPM Setup {#cpm-setup}
 
-To set up a CPM&nbsp;placement watch our [video tutorial](/videos/#campaign-execution-tutorials) or follow the steps below:
+To set up a CPM placement watch our [video tutorial](https://education.tubemogul.com/videos/) or follow the steps below:
 
 1. Click on New Placement
 1. Select your Ad Format
 1. Select&nbsp;CPM Mode
 1. In the top right corner, click on Edit Options
 
-[ ![CPM Mode](assets/cpm-mode.png)](assets/cpm-mode.png)
+![CPM Mode](assets/cpm-mode.png)
 
 *
 

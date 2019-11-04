@@ -25,9 +25,12 @@ isSticky: 0
 
 # Media Quality Assessment {#media-quality-assessment}
 
-`TubeMogul’s Video Viewability Audit allows marketers to maximize brand visibility and ensure high-quality ad placements. The free audit is available on any pre-roll campaign – even on inventory not purchased through TubeMogul – and is not specific to any one exchange, network or marketplace.`   
+TubeMogul’s Video Viewability Audit allows marketers to maximize brand visibility and ensure high-quality ad placements. The free audit is available on any pre-roll campaign – even on inventory not purchased through TubeMogul – and is not specific to any one exchange, network or marketplace.
   
-`Our` [site-level audit reporting](../../../user-guide/measurement/viewability.md)&nbsp;
+Our [site-level audit reporting](../../../user-guide/measurement/viewability.md) provides in-depth stats on 11 different viewability metrics – so you can see exactly which variables impact viewability rates – and lets you verify site delivery across all your pre-roll video ad buys to help better inform your media buying decisions.
 
-`provides in-depth stats on 11 different viewability metrics – so you can see exactly which variables impact viewability rates – and lets you verify site delivery across all your pre-roll video ad buys to help better inform your media buying decisions.`
-Our viewability audit is free for any pre-roll campaign. The audit works on most publishers that run VPIAD enabled media and requires no integrations or changes to a publisher's website. &nbsp; [Sign up here.](assets/viewability-audit?&-hssc=98126464.1.1405404193686&-hstc=98126464.df2a89af67713586e5e8ae75fa7d4b71.1390606012450.1405399554190.1405404193686.331&hsctatracking=aa0c9dd8-2498-42ec-8af5-00507ad75d2f%7c388afe79-1c0f-44b0-b34f-f1a265e2381b) 
+Our viewability audit is free for any pre-roll campaign. The audit works on most publishers that run VPIAD enabled media and requires no integrations or changes to a publisher's website. 
+
+<!-- Fix. Bad link.
+[Sign up here.](assets/viewability-audit?&-hssc=98126464.1.1405404193686&-hstc=98126464.df2a89af67713586e5e8ae75fa7d4b71.1390606012450.1405399554190.1405404193686.331&hsctatracking=aa0c9dd8-2498-42ec-8af5-00507ad75d2f%7c388afe79-1c0f-44b0-b34f-f1a265e2381b)
+-->
