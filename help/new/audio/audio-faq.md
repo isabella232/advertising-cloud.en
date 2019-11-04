@@ -97,6 +97,8 @@ isSticky: 0
     * Brand Safety: All podcast content is verified by the audio partner
     * For full podcast lists, please go to&nbsp; [TargetSpot](https://wiki.corp.adobe.com/display/TMCS/TargetSpot)&nbsp;or&nbsp; [SoundCloud Partner Materials](https://wiki.corp.adobe.com/display/TMCS/SoundCloud)
 
+<!-- Two links above are to wiki.corp.adobe.com. Users outside the Adobe firewall won't be able to view those links. Make public? Remove? Add "(Internal Only)"? -->
+
 * Do ads on podcasts run on pre- mid- or post- roll?
 
     * Podcast ads will run pre-roll on SoundCloud and mix of all three types on TargetSpot

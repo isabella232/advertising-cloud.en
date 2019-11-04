@@ -32,7 +32,7 @@ Tracking Issues
 Performance Issues
 
 * [Low/High CTR](power-optimization/low-ctr.md)
-* [Low/High Completions](/help/user-guide/optimization/power-optimization/low-completion-rate-2/)
+* [Low/High Completions](/help/user-guide/optimization/power-optimization/low-completion-rate.md)
 * [No Site Diversity](/help/user-guide/optimization/power-optimization/no-site-diversity.md)
 * [High CPM](power-optimization/high-cpm.md)
 

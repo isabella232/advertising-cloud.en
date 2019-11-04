@@ -66,6 +66,7 @@ If your campaign goal is Revenue (ROAS), your Custom Goal will look as follows. 
 
 >[!NOTE]
 >A Property Weight of 1 equates to a value of 1 for each $1 of revenue in Ad Cloud reporting.
+
 * For example, a $250 conversion will report as $250 in Ad Cloud reporting. If assigned a 0.5 Weight, the $250 conversion will report as $125 in Ad Cloud reporting.
 * $250 Conversion * 0.5 Property Weight = $125 in Ad Cloud reporting
 If your campaign goal is Cost per Acquisition (CPA) and there is only one success event, your Custom Goal will look as follows. In this example, Application Submit is the success event.

@@ -30,14 +30,18 @@ isSticky: 0
 
 * Users have the ability to create Audio feeds directly from the Deal Set-up page.
 
-![](https://wiki.corp.adobe.com/download/attachments/1537738410/image2018-9-10_14-37-58.png?version=1&modificationDate=1536616971697&api=v2)
+![](assets/image2018-9-10_14-37-58.png)
 
 ## STEP 2 - Audio Ad Set-Up
 
 * Create an Audio ad in the ad section of the UI. The ad will be length agnostic during initial set up.
 * Upload one of the three compatible file formats (.AAC, .OGG, .MP3) and the transcoder will create a tag with all files.
 
+![](assets/image2018-9-10_14-59-36.png)
+
+<!-- assets from wiki page won't appear. I copied above image into assets folder for this and other wiki links
 ![](https://wiki.corp.adobe.com/download/attachments/1537738410/image2018-9-10_14-59-36.png?version=1&modificationDate=1536616971277&api=v2)
+-->
 
 * You won’t have the option to copy ads or campaigns and have the audio ad retain its transcoding. For Phase 1, it is recommended to create new ads.
 
@@ -46,7 +50,7 @@ isSticky: 0
 * Create an "Audio" ad in platform ad and select an “Audio” feed to attach to the placement in the placement editor UI
 * Audio ads will only deliver when attached to a placement that has an “Audio” feed attached to it.
 
-![](https://wiki.corp.adobe.com/download/attachments/1537738410/image2018-9-10_15-1-47.png?version=1&modificationDate=1536616970823&api=v2)
+![](assets/image2018-9-10_15-1-47.png)
 
 * Only 3`<sup>rd</sup>`&nbsp;party ads must be created independently and not part of the placement creation workflow
 * Copy ad and copy campaign feature will not carry over transcoding properties
