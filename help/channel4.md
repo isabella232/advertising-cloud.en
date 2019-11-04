@@ -29,7 +29,7 @@ To get started, you'll want to understand the duration of the ad as it'll determ
 
 * Navigate to the ads page and select a 15 or 30 second ad
 
-[ ![Screen Shot 2019-06-27 at 11.07.56 AM](assets/screen-shot-2019-06-27-at-11.07.56-am-300x125.png)](assets/screen-shot-2019-06-27-at-11.07.56-am.png)
+![Screen Shot 2019-06-27 at 11.07.56 AM](assets/screen-shot-2019-06-27-at-11.07.56-am-300x125.png)
 
 * Upload a video and under the Basic section&nbsp;input the "Clock Number"
 
@@ -39,15 +39,10 @@ To get started, you'll want to understand the duration of the ad as it'll determ
         * Middle sections = 4 letters followed by 3 numbers
         * Last 3 characters are numbers
 
-[ ![Screen Shot 2019-07-16 at 10.32.43 AM](assets/screen-shot-2019-07-16-at-10.32.43-am.png)](assets/screen-shot-2019-07-16-at-10.32.43-am.png)
-
-&nbsp;
-
-&nbsp;
-&nbsp;
+![Screen Shot 2019-07-16 at 10.32.43 AM](assets/screen-shot-2019-07-16-at-10.32.43-am.png)
 
 * Once you've completed the Basic section, move to the Admin tab and choose the appropriate categories across each section (Product, Sensitive, and Restricted)
 * Choose to add a companion banner where relevant
 * Under Pixel, you can add any relevant pixels for additional tracking
 
-The final step of this process will require support from an Adobe Account Manager, so you can save the ad as is and reach out to your rep. 
+The final step of this process will require support from an Adobe Account Manager, so you can save the ad as is and reach out to your rep.

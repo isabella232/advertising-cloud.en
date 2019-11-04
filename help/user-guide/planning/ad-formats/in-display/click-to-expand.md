@@ -25,7 +25,7 @@ isSticky: 0
 
 # Click to Expand {#click-to-expand}
 
-## [ ![Expandable CTP](assets/expandable-ctp.png)](assets/expandable-ctp.png) {#fullscreenexpandable-fullscreenexpandable}
+![Expandable CTP](assets/expandable-ctp.png)
 
 **Player Action:**
 
@@ -53,4 +53,3 @@ isSticky: 0
 **Video Specifications:**
 
 * View asset specs [here](../../../../user-guide/planning/ad-formats/ad-specs.md)
-

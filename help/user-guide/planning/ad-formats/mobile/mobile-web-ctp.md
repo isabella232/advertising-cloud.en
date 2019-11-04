@@ -23,7 +23,7 @@ isSticky: 0
 
 # Tablet Tap-to-Play Medium Rectangle (300x250) {#tablet-tap-to-play-medium-rectangle-x}
 
-## [ ![Mobile Web CTP](assets/mobile-web-ctp-300x297.png)](assets/mobile-web-ctp.png)
+[ ![Mobile Web CTP](assets/mobile-web-ctp-300x297.png)](assets/mobile-web-ctp.png)
 
 **Player Action:**
 
@@ -47,5 +47,3 @@ isSticky: 0
 **Video Specifications:**
 
 * View asset specs [here](../../../../user-guide/planning/ad-formats/ad-specs.md)
-
-&nbsp; 

@@ -37,8 +37,8 @@ See below for a full list of available Bulk Duplicate features and where to find
 
 **Where to Find It** 
 
-1. "Duplicate" from the the "Settings Gear Dropdown" for a specific campaign on the Campaign page   
-1. "Duplicate" from the "More" button on the Package/Placement dashboard page
+* "Duplicate" from the the "Settings Gear Dropdown" for a specific campaign on the Campaign page.
+* "Duplicate" from the "More" button on the Package/Placement dashboard page.
 
 ![Campaigns](assets/campaigns.png)
 
@@ -50,7 +50,7 @@ See below for a full list of available Bulk Duplicate features and where to find
 
 ### Settings Edit
 
-Name, flight dates, whether or not to duplicate packages and/or placements.   
+Name, flight dates, whether or not to duplicate packages and/or placements.
 
 ![Screen Shot 2018-12-05 at 2.23.54 PM](assets/screen-shot-2018-12-05-at-2.23.54-pm.png)
 
@@ -58,8 +58,9 @@ Name, flight dates, whether or not to duplicate packages and/or placements.
 
 ### Where to find it
 
-1. "Duplicate" from the the "Settings Gear Dropdown" for a specific Package on the Packages page   
-[ ![Packages](assets/packages.png)](assets/packages.png)
+1. "Duplicate" from the the "Settings Gear Dropdown" for a specific Package on the Packages page
+
+![Packages](assets/packages.png)
 
 ### Duplication & Destinations
 
@@ -74,6 +75,8 @@ Set Advertiser and&nbsp;Campaign&nbsp;destination
 Name, flight dates,&nbsp;whether or not to duplicate placements, maintain associated ads, duplication of pixels
 
 &#42;&#42; Cannot set flight to be in the past or outside the bounds of the Campaign
+
+<!--Use mailchimp link or save image to server?-->
 
 ![](https://gallery.mailchimp.com/ffbc366546922ad2a8f4980c2/images/e69a395d-c137-4d42-8ce6-268ad492dbeb.png)
 

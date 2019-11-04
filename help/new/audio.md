@@ -39,7 +39,8 @@ isSticky: 0
 
 ![](assets/image2018-9-10_14-59-36.png)
 
-<!-- assets from wiki page won't appear. I copied above image into assets folder for this and other wiki links
+<!-- assets from wiki page won't appear. I copied above image into assets folder for this and the 2 other wiki links on this page.
+
 ![](https://wiki.corp.adobe.com/download/attachments/1537738410/image2018-9-10_14-59-36.png?version=1&modificationDate=1536616971277&api=v2)
 -->
 
@@ -52,7 +53,7 @@ isSticky: 0
 
 ![](assets/image2018-9-10_15-1-47.png)
 
-* Only 3`<sup>rd</sup>`&nbsp;party ads must be created independently and not part of the placement creation workflow
+* Only 3 `<sup>rd</sup>` party ads must be created independently and not part of the placement creation workflow
 * Copy ad and copy campaign feature will not carry over transcoding properties
 * Assets are all transcoded to 196 bit rate
 * Bulk edit add blacklist/whitelist will not work for GA phase 1

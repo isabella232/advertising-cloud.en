@@ -23,7 +23,7 @@ isSticky: 0
 
 # Social {#social}
 
-## [ ![fb](assets/fb-300x208.png)](assets/fb.png)
+[ ![fb](assets/fb-300x208.png)](assets/fb.png)
 
 **Player Action**
 
@@ -50,5 +50,4 @@ isSticky: 0
 
 Video Specifications:
 
-* View asset specs&nbsp; [here](ad-specs.md)
-
+* View asset specs [here](ad-specs.md)

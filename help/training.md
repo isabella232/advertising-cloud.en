@@ -31,42 +31,86 @@ isSticky: 0
 
 The Adobe Advertising Academy Certification Program is a multi-day in-person training offered to active Adobe Advertising Cloud customers. Upon completion, you will receive a formal certificate recognizing your proficiency in programmatic media buying and advanced knowledge of how to plan, buy, measure and optimize via the Adobe Advertising Cloud platform. Contact your Account Manager to learn if you are eligible for Adobe Advertising Academy.
 
-`<center>  <iframe title="Adobe Video Publishing Cloud Player" width="854" height="480" src="https://video.tv.adobe.com/v/28493t1/?autoplay=true&enable10seconds=on" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling="no"></iframe> </center>`
+>[!VIDEO](https://video.tv.adobe.com/v/28493t1)
+
+<!--<center>  <iframe title="Adobe Video Publishing Cloud Player" width="854" height="480" src="https://video.tv.adobe.com/v/28493t1/?autoplay=true&enable10seconds=on" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling="no"></iframe> </center>-->
 
 ## Courses Offered Include {#courses-offered-include}
 
-<table>
- <tr class="training-courses"> 
-  <td size="1/2"> 
-   <table>        
-    <tr>
-     <td title="Business Module">   
-      <hr>   <h4>VIDEO AD INDUSTRY OVERVIEW</h4> <p>An introduction to the history of the digital video ecosystem with a focus on growth trends, the competitive landscape, Adobe's positioning and market growth projections.</p>  
-      <hr>   <h4>BUILDING YOUR PROGRAMMATIC BUSINESS</h4> <p>An introduction to programmatic buying and how it is changing the digital video landscape.</p>  
-      <hr>   <h4>INVENTORY, PMPS AND AD SERVING</h4> <p>An introduction to how&nbsp;Adobe unifies inventory across open RTB marketplaces, premium publishers and private inventory.</p>  
-      <hr>   <h4>BRAND SAFETY &amp; VIEWABILITY</h4> <p>An introduction into using brand safety tools and technologies.</p>  </td>
-    </tr>
-    <tr>
-     <td title="Software Module">   
-      <hr>   <h4>UI WALKTHROUGH – THE BASICS</h4> <p>A demo of&nbsp;Adobe Advertising Cloud platform. Topics include: dashboard overview, campaign set up, placement set up, and utilizing campaign planning tools to estimate inventory projections.</p>  
-      <hr>   <h4>AD FORMATS OVERVIEW</h4> <p>Learn how Adobe Advertising Cloud centralizes all digital video ad formats on its platform, enabling clients to reach audiences wherever they are watching online video.</p>  
-      <hr>   <h4>AD FORMATS: CREATIVE BEST PRACTICES</h4> <p>Tips and tricks for creating compelling video creative executions.</p>  
-      <hr>   <h4>ADVANCED AD FORMATS: MOBILE</h4> <p>In depth analysis of the current state of mobile including benefits and considerations of each mobile ad format type available in the Adobe Advertising Cloud platform.</p>  
-      <hr>   <h4>PLANNING TOOLS</h4> <p>Adobe Advertising Cloud's Platform is designed to offer media planners the best, most accurate forecasting tools to build effective cross screen and cross channel proposals.</p>  
-      <hr>   <h4>UI WALKTHROUGH – ADVANCED</h4> <p>In-depth walkthrough of the Adobe Advertising Cloud platform with hands-on campaign, placement and ad building exercises.</p>  
-      <hr>   <h4>AD TAGS &amp; 3RD PARTY TRACKING PIXELS</h4> <p>Learn more about implementing ad tags and tracking pixels on our platform through our integration with leading video ad servers and data vendors.</p>  
-      <hr>   <h4>TROUBLESHOOTING &amp; OPTIMIZATION STRATEGIES</h4> <p>Develop strategies around Adobe Advertising Cloud's real-time reporting and optimization which enables clients to generate the greatest impact for their campaigns with mid-flight refinements.</p>  
-      <hr>   <h4>ANALYTICS AND REPORTING</h4> <p>When executing video ad buys, advertisers often use a mix of direct deals, ad networks and DSPs to manage their campaigns. Not only is it difficult to manage campaign performance from siloed vendors, but there is little insight into overall reach, frequency and performance across multiple publishers.</p>  </td>
-    </tr>
-    <tr>
-     <td title="BrandSuite Module">   
-      <hr>   <h4>DATA INTEGRATIONS</h4> <p>Learn about Adobe Advertising Cloud's 3rd party data integration partners like BlueKai, Exelate, Lotame, Experian etc as well as additional data capabilities and tools.&nbsp; Whether you are working with Adobe Analytics, Adobe Audience Manager or another 3rd party DMP, through a short integration process, learn where&nbsp;to access all of your 1st, 2nd or 3rd party data through your Ad Cloud DSP account.</p> <p>&nbsp;</p>  
-      <hr>   <h4>ATTRIBUTION</h4> <p>Learn how to measure campaign attribution through the&nbsp;Adobe Advertising Cloud platform.</p> <p>&nbsp;</p>  
-      <hr>   <h4>BRANDSIGHTS</h4> <p>BrandSights enables clients to easily create, target and launch customized surveys to measure brand awareness, favorability, purchase intent and more. Real-time results generate actionable insights that give brand marketers a better understanding of their consumers in order to make smarter media decisions.</p>  </td>
-    </tr>
-   </table> </td> 
-  <br> 
-  <td size="1/2">  <p><p style="grid">Quote:  "Amazing! Incredible opportunity to get direct contact with experts in the business. Felt like we were all working together to solve issues, improve process etc. Would absolutely recommend this program to others." <i>Online Media Representative, Universal Orlando</i></p></p>   <p><p style="grid">Quote:  "Overall an excellent overview of the power of the software. Would 100% recommend this training program to others in the industry." <i>Investment Director, Mediavest</i></p></p>   <p><p style="grid">Quote:  "Great mix of overview and deep dive. I’m bringing back a lot of knowledge." <i>Manager of Digital Operations, Tier10</i></p></p>   </td> 
- </tr>
-</table>
+### Business Module
 
+**VIDEO AD INDUSTRY OVERVIEW**
+
+An introduction to the history of the digital video ecosystem with a focus on growth trends, the competitive landscape, Adobe's positioning and market growth projections.  
+
+**BUILDING YOUR PROGRAMMATIC BUSINESS**
+
+An introduction to programmatic buying and how it is changing the digital video landscape.  
+
+**INVENTORY, PMPS AND AD SERVING**
+
+An introduction to how&nbsp;Adobe unifies inventory across open RTB marketplaces, premium publishers and private inventory.  
+
+**BRAND SAFETY &amp; VIEWABILITY**
+
+An introduction into using brand safety tools and technologies.
+
+### Software Module
+
+**UI WALKTHROUGH – THE BASICS**
+
+A demo of&nbsp;Adobe Advertising Cloud platform. Topics include: dashboard overview, campaign set up, placement set up, and utilizing campaign planning tools to estimate inventory projections.  
+
+**AD FORMATS OVERVIEW**
+
+Learn how Adobe Advertising Cloud centralizes all digital video ad formats on its platform, enabling clients to reach audiences wherever they are watching online video.  
+
+**AD FORMATS: CREATIVE BEST PRACTICES**
+
+Tips and tricks for creating compelling video creative executions.  
+
+**ADVANCED AD FORMATS: MOBILE**
+
+In depth analysis of the current state of mobile including benefits and considerations of each mobile ad format type available in the Adobe Advertising Cloud platform.  
+
+**PLANNING TOOLS**
+
+Adobe Advertising Cloud's Platform is designed to offer media planners the best, most accurate forecasting tools to build effective cross screen and cross channel proposals.  
+
+**UI WALKTHROUGH – ADVANCED**
+
+In-depth walkthrough of the Adobe Advertising Cloud platform with hands-on campaign, placement and ad building exercises.  
+
+**AD TAGS & 3RD PARTY TRACKING PIXELS**
+
+Learn more about implementing ad tags and tracking pixels on our platform through our integration with leading video ad servers and data vendors.  
+
+**TROUBLESHOOTING &amp; OPTIMIZATION STRATEGIES**
+
+Develop strategies around Adobe Advertising Cloud's real-time reporting and optimization which enables clients to generate the greatest impact for their campaigns with mid-flight refinements.  
+
+**ANALYTICS AND REPORTING**
+
+When executing video ad buys, advertisers often use a mix of direct deals, ad networks and DSPs to manage their campaigns. Not only is it difficult to manage campaign performance from siloed vendors, but there is little insight into overall reach, frequency and performance across multiple publishers.  
+
+### BrandSuite Module
+
+**DATA INTEGRATIONS**
+
+Learn about Adobe Advertising Cloud's 3rd party data integration partners like BlueKai, Exelate, Lotame, Experian etc as well as additional data capabilities and tools.&nbsp; Whether you are working with Adobe Analytics, Adobe Audience Manager or another 3rd party DMP, through a short integration process, learn where&nbsp;to access all of your 1st, 2nd or 3rd party data through your Ad Cloud DSP account. 
+
+**ATTRIBUTION**
+
+Learn how to measure campaign attribution through the&nbsp;Adobe Advertising Cloud platform. 
+
+**BRANDSIGHTS**
+
+BrandSights enables clients to easily create, target and launch customized surveys to measure brand awareness, favorability, purchase intent and more. Real-time results generate actionable insights that give brand marketers a better understanding of their consumers in order to make smarter media decisions.
+
+### Customer Quotes
+
+Quote:  "Amazing! Incredible opportunity to get direct contact with experts in the business. Felt like we were all working together to solve issues, improve process etc. Would absolutely recommend this program to others." *Online Media Representative, Universal Orlando*
+
+Quote:  "Overall an excellent overview of the power of the software. Would 100% recommend this training program to others in the industry." *Investment Director, Mediavest*
+
+Quote:  "Great mix of overview and deep dive. I’m bringing back a lot of knowledge." *Manager of Digital Operations, Tier10*

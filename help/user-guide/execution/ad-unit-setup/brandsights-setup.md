@@ -54,14 +54,16 @@ isSticky: 0
         * Unlocked(Locked): This dropdown only appears when you select “Yes” in the Randomize Answers field.&nbsp;&nbsp; Use it to lock an answer choice in the same place in the question order when the rest of the options are randomized.&nbsp;&nbsp; The most common application for this would be when using an answer choice like “All of the above” or “None of the above” which most people expect to appear at the bottom of the list of options.
 
 When you’re done entering your question, click&nbsp; the large blue “Update Survey” button on the bottom right, or, to enter another question, scroll up to the beginning of the “Questions” section and click on the blue “Add a Question” link.
+
 **Create Custom Segments for Retargeting (Exposed viewers and users who completed the survey already)**
 
 * Exposed Viewers:&nbsp; If you are conducting a Control/Exposed brand lift study, start off by&nbsp; [creating a retargeting pixel](../../../user-guide/planning/targeting/retargeting/retargeting-pixel-setup.md)and collecting a cookie pool of exposed viewers. &nbsp;Make sure that once you've created the retargeting pixel, you attach it to the ad and fire it on the "Impressions" integration event.
 * Survey Completion Viewers:&nbsp; [Create a retargeting pixel](../../../user-guide/planning/targeting/retargeting/retargeting-pixel-setup.md)and collect a&nbsp;survey completion cookie pool to avoid having those users served the survey more than one time. Make sure that once you've created the retargeting pixel, you attach it to the survey and fire it on the "survey complete" integration event.
 
-**Create An Ad With The Survey&nbsp;**
+**Create An Ad With The Survey**
   
 This part of the process is similar to creating an ad using a video already uploaded to the TubeMogul platform.
+
 Here’s what is specific to creating a survey ad.
 
 * Select Ad Unit & Player Screen: Click the blue “Select” button next to 300x250 Survey Standalone.
@@ -70,8 +72,9 @@ Here’s what is specific to creating a survey ad.
     * Survey tab: Choose a survey from the list
     * Pixel tab: Here you can fire a pixel on survey-specific events&nbsp; - starts and completes – as well as on the survey impression.&nbsp; &nbsp;In the placement screen, you can then use one of these options to pixel people who have been exposed to one of these events from seeing the survey again.
 
-[ ![Screen Shot 2014-10-02 at 12.25.49 PM](assets/screen-shot-2014-10-02-at-12.25.49-pm1.png)](assets/screen-shot-2014-10-02-at-12.25.49-pm1.png)   
-**Creating a Placement & Attaching the Survey&nbsp;**
+![Screen Shot 2014-10-02 at 12.25.49 PM](assets/screen-shot-2014-10-02-at-12.25.49-pm1.png)
+
+**Creating a Placement & Attaching the Survey**
   
 The process to creating a survey placement is similar to creating a placement for a video ad.
 A couple of important pointers before we begin:
@@ -81,34 +84,36 @@ A couple of important pointers before we begin:
 
 Here’s a step by step summary of what’s different for a survey placement when you’re running an ad effectiveness study using the control/exposed methodology.
 
-<table style="height: 346px;" width="1289"> 
+<table> 
  <tbody> 
   <tr> 
-   <td> <p style="text-align: center;"><span style="color: #3366ff;"><strong>Section/Field</strong></span></p> <br></td> 
-   <td style="text-align: center;"><span style="color: #3366ff;"><strong>Control Group</strong></span></td> 
-   <td> <p style="text-align: center;"><span style="color: #3366ff;"><strong>Exposed Group</strong></span></p> <br></td> 
+   <td> <p><strong>Section/Field</strong></p> <br></td> 
+   <td><strong>Control Group</strong></td> 
+   <td> <p><strong>Exposed Group</strong></p> <br></td> 
   </tr> 
   <tr> 
-   <td><span style="color: #808080;">Survey Settings</span></td> 
+   <td>Survey Settings</td> 
    <td>Click the checkbox next to “This is a control placement”.&nbsp;&nbsp; Doing this will make the drop down menu below disappear.&nbsp;&nbsp; When you look at the reporting for this placement, you will not be able to see the data for the exposed group.</td> 
    <td>Skip the checkbox and choose your control placement from the dropdown list.&nbsp;&nbsp; Once you have done this, reporting for the exposed group will also include data for the associated control placement.</td> 
   </tr> 
   <tr> 
-   <td><span style="color: #808080;">Targeting</span></td> 
+   <td>Targeting</td> 
    <td>For control/exposed ad effectiveness studies, target to the same geos and sites as the campaign.</td> 
    <td>For control/exposed ad effectiveness studies, target to the same geos as the campaign, and check the “all available sites” box.</td> 
   </tr> 
   <tr> 
-   <td><span style="color: #808080;">Audience</span></td> 
+   <td>Audience</td> 
    <td>For control/exposed ad effectiveness studies, you want to exclude anyone who has viewed the ad, by clicking on the blue “Select Segments” link, then adding that segment to the “None of these segments” box.</td> 
    <td>For control/exposed ad effectiveness studies, you want to serve the survey only to those who have viewed the ad. To do this, click on the blue “Select Segments” link, then add the exposed segment pixel to the “Any of these segments” box.</td> 
   </tr> 
   <tr> 
-   <td><span style="color: #808080;">Budget and bid</span></td> 
-   <td colspan="2">If you are running a control/exposed survey, keep in mind that, unless the site list is very restricted, the pool for the control group is often bigger, which means more opportunities to reach potential respondents and shorter lead times to hit response targets in many cases.&nbsp;&nbsp; In most cases, you will want to collect responses from both groups in the same timeframe, so starting the control with a lower daily budget than the exposed group will slow the fielding time to even the pace of both placements.For US campaigns, the cost per response for the exposed group is about 40% higher than the control group.</td> 
+   <td>Budget and bid</td> 
+   <td>If you are running a control/exposed survey, keep in mind that, unless the site list is very restricted, the pool for the control group is often bigger, which means more opportunities to reach potential respondents and shorter lead times to hit response targets in many cases.&nbsp;&nbsp; In most cases, you will want to collect responses from both groups in the same timeframe, so starting the control with a lower daily budget than the exposed group will slow the fielding time to even the pace of both placements.For US campaigns, the cost per response for the exposed group is about 40% higher than the control group.</td> 
+   <td></td> 
   </tr> 
  </tbody> 
 </table>
 
 Finally before setting the placement live, go to Options and attach your ad to the placement.
-If you have any additional questions, please reach out to your Account Manager or email platform_support@tubemogul.com. 
+
+If you have any additional questions, please reach out to your Account Manager or email `platform_support@tubemogul.com`.

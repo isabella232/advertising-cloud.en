@@ -23,7 +23,7 @@ isSticky: 0
 
 # Phone Tap-to-Play Banner (320x50) {#phone-tap-to-play-banner-x}
 
-## [ ![Mobile App CTP](assets/mobile-app-ctp-295x300.png)](assets/mobile-app-ctp.png) {#mobileapp300x50click-to-play-mobileapp300x50click-to-play}
+[ ![Mobile App CTP](assets/mobile-app-ctp-295x300.png)](assets/mobile-app-ctp.png)
 
 **Player Action:**
 

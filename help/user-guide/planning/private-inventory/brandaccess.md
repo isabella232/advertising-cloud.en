@@ -23,7 +23,7 @@ postPassword:
 isSticky: 0
 ---
 
-# Pre- Negotiated Deals aka Smart Ad Serving {#pre-negotiated-deals-aka-smart-ad-serving}
+# Pre-Negotiated Deals aka Smart Ad Serving
 
 This feature enables advertisers with existing private deals to activate their inventory for centralized planning, buying, and measurement on the Adverting Cloud DSP.
 
@@ -35,7 +35,7 @@ To begin, click on the “Private Inventory” tab at the top of the page. From 
 
 Once you've moved into the feed creation process, the workflow is as follows:
 
-### STEP 1: Name the feed and decide on the billing structure**
+### STEP 1: Name the feed and decide on the billing structure
 
 1. Choose a Feed Name: Enter a name for your feed or auto generate a name. Example of an auto generated name: RTBDB – Publisher Name&- Advertiser- USD – $20.00 – :30 – PMP
 1. Select the Billing option you would prefer.
@@ -53,8 +53,8 @@ Once you've moved into the feed creation process, the workflow is as follows:
 
     * Identifier key that references a specific agreement to buy media inventory between a publisher and a buyer
     * Enable faster activation and tag testing process
-    * **Deal ID for video is available on Google AdX, SpotX, Liverail, and Teads**
-    * **Deal ID for display is currently only available for Google AdX**
+    * Deal ID for video is available on Google AdX, SpotX, Liverail, and Teads
+    * Deal ID for display is currently only available for Google AdX
 
 1. If you are not using a DealID select "No" and move onto the "Inventory Types" section. This will create the appropriate feed based on ad type.
 
@@ -88,7 +88,7 @@ Image
 
 ![attachad](assets/attachad1.png)
 
-A default ad is important for guaranteed feeds because it ensures that no impressions are wasted. We recommend you do this, and/or target more placements to the guaranteed feed, at your earliest convenience.When you select an ad in this section, we create a default placement in the campaign associated with the ad. The name of the placement we automatically create will be Default Placement – Guaranteed Feed – <ad name> – Account ID. 
+A default ad is important for guaranteed feeds because it ensures that no impressions are wasted. We recommend you do this, and/or target more placements to the guaranteed feed, at your earliest convenience.When you select an ad in this section, we create a default placement in the campaign associated with the ad. The name of the placement we automatically create will be Default Placement – Guaranteed Feed – `<ad name>` – Account ID. 
 
 We recommend that you keep the “Default Placement – Guaranteed Feed” somewhere in the name to distinguish it from your other placements, but you can also edit the placement and change this name. You can edit this placement and change the date range or attach more ads; however, none of the other targeting options such as geo, site list, day parts, budget etc will be available or applicable-if you have issues with volume or targeting, contact the publisher directly.
 
@@ -98,7 +98,10 @@ Note: If you are running an Interactive Pre-roll adtargeting aparticular feed, p
 
 In order to actually run your ad, whether you’ve made a guaranteed feed or not, you will need to send the tag to the publisher for testing and verification.   The system will prompt you to do this with an automatically generated email that includes all of the important details. You have two options:
 
-* Use the “Copy & Finish” button to copy the text to the clipboard; the message can then be easily pasted into an email message. If you take this option, you must also cc  [publisher_support@tubemogul.com](mailto:publisher_support@tubemogul.com) and your Account Manager to ensure our internal teams are available to assist the publisher if needed; OR
+* Use the “Copy & Finish” button to copy the text to the clipboard; the message can then be easily pasted into an email message. If you take this option, you must also cc  [publisher_support@tubemogul.com](mailto:publisher_support@tubemogul.com) and your Account Manager to ensure our internal teams are available to assist the publisher if needed;
+
+  OR
+
 * Use the “Email & Finish” button to create a message in your email client. With this option, the TubeMogul aliases will be automatically cc’d’ you just need to input the email of your publisher contact.
 
 Publishers will receive a tag pickup page via the link you send to them.

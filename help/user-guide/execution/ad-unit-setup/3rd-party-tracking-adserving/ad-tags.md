@@ -30,7 +30,7 @@ TubeMogul's platform accepts IAB VAST&nbsp;and VPAID 2.0 tags.
 
 * If using&nbsp; [VAST](http://www.iab.net/guidelines/508676/digitalvideo/vsuite/vast/vast_copy)&nbsp;(Video Ad Serving Template) tags, set up the ad as&nbsp; [Standard Pre-roll](../../../../user-guide/planning/ad-formats/in-stream/standard-pre-roll.md)&nbsp;in the platform. Unless you'd like to track [Viewability](../../../../user-guide/measurement/viewability.md) within our platform, then you should set it up as Interactive Pre-Roll.
 
-* If using&nbsp; [VPAID SWF](http://www.iab.net/vpaid)&nbsp;(Video Player-Ad Interface Definition)&nbsp;tags set up the ad as&nbsp; [Interactive Pre-roll](../../../../user-guide/planning/ad-formats/in-stream/interactive-pre-roll.md)in the platform.
+* If using [VPAID SWF](http://www.iab.net/vpaid)&nbsp;(Video Player-Ad Interface Definition)&nbsp;tags set up the ad as&nbsp; [Interactive Pre-roll](../../../../user-guide/planning/ad-formats/in-stream/interactive-pre-roll.md)in the platform.
 
     * Another more recent type of tag delivery that is rapidly growing for Interactive Pre-roll is [VPAID JS](ad-tags/vpaid-js.md).
 
@@ -40,7 +40,7 @@ TubeMogul's platform accepts IAB VAST&nbsp;and VPAID 2.0 tags.
 Please rely on the TubeMogul platform for targeting and remove all filters (geo,device,etc.) from your 3rd party ad tag.
 **Best Practices:**
 
-* For VAST tags, highly recommended to include all three video formats: &nbsp;FLV, MP4, WebM. &nbsp;If you are running a companion banner, it must also be included in the VAST XML file as <HTMLResource> Or <IFrameResource>.
+* For VAST tags, highly recommended to include all three video formats: &nbsp;FLV, MP4, WebM. &nbsp;If you are running a companion banner, it must also be included in the VAST XML file as `<HTMLResource>` Or `<IFrameResource>`.
 * For VPAID tags, include creatives, companions and tracking pixels all in the SWF file. Drop the tag on a browser and verify in the XML file that the apiFramework="VPAID".
 * If you are running on a&nbsp; [private feed](../../../../user-guide/planning/private-inventory.md), please consult with publishers on format restrictions.
 * To maximize your ability to delivery across all inventory, we strongly advise all 3rd party ad servers to be&nbsp; [SSL compliant](http://support.google.com/adxbuyer/bin/answer.py?hl=en&answer=3016708). To ensure that your ad is SSL compliant confirm that all&nbsp;tags start with "https" instead of "http". This includes 1x1 pixels as well as&nbsp;as VAST, VPAID, and MRAID tags for desktop and mobile.

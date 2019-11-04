@@ -25,7 +25,7 @@ isSticky: 0
 
 # Click to Play {#click-to-play}
 
-## [ ![ROTP](assets/rotp-300x210.png)](assets/rotp.png) {#click-to-play-click-to-play}
+[ ![ROTP](assets/rotp-300x210.png)](assets/rotp.png)
 
 **Player Action:**
 

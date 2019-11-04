@@ -60,11 +60,11 @@ Recommended Settings:
 
   ![max bid 5](assets/max-bid-5.png)
 
-* `Tighter frequency caps(1x per 24 hours)
+* Tighter frequency caps(1x per 24 hours)
 
   ![](assets/freqap-playbook.png)
 
-* `Package Custom Flighting: Ifyourcampaignextends past25 days, setacustom flight forthefirst 10 days at ~75% ofthenecessary daily budget to reduce spending duringthe ‘learningphase’.Seta2nd custom flight fortheremainder ofthebudget to spend in full.
+* Package Custom Flighting: If your campaign extends past 25 days, set a custom flight for the first 10 days at ~75% of the necessary daily budget to reduce spending during the "learning phase." Set a 2nd custom flight for the remainder of the budget to spend in full.
 
   ![](assets/custom-flighting.png)
 
@@ -108,8 +108,8 @@ Best practice is to have separate packages for upper funnel prospecting and lowe
 
 ![P & R](assets/p-r.png)
 
-1. **Basic Details**: (fill inPackage Name,Description, etc.)
-1. **Goals and Budget**: Packages must be set to `Package level pacing` to activate CPA or ROAS optimization. Enabling this feature will auto-optimize towards the Lowest CPA or Highest ROAS placements.   
+1. **Basic Details**: (fill in Package Name, Description, etc.)
+1. **Goals and Budget**: Packages must be set to `Package level pacing` to activate CPA or ROAS optimization. Enabling this feature will auto-optimize towards the Lowest CPA or Highest ROAS placements.
 
 1. **Activate Custom Flighting**: if your flight extends past 25 days
 
@@ -145,10 +145,11 @@ Less is more! If you can set up less than 6 placements per package, this maximiz
 
 1. **Site Targeting**
 
-   * **Traffic Type**: Websites only 
+   * **Traffic Type**: Websites only
+     
      >[!NOTE]
      >Adobe Ad Cloud conversion pixels currently do not track mobile app delivery
-
+     
    * **Site Tier**: Allsites
 
      ![Site vs app](assets/site-vs-app.png)
@@ -158,10 +159,11 @@ Less is more! If you can set up less than 6 placements per package, this maximiz
 * Prospecting: Suggest grouping similar category and sized audiences into one placement. Based on performance, do one of the following:
   * Remove under-performing audiences from existing placement
   * Breakout top performing audiences into a separate placement to better control budgets
-* Retargeting: Suggest one audience segment per placement to easily control bids and budgets
+* Retargeting: Suggest one audience segment per placement to easily control bids and budget
+  
   >[!NOTE]
   > If running multiple audiences, it is recommended to suppress the audiences from each other to avoid overlap
-
+  
   * Prospecting Audience(s): $5 Max Bid
   * Retargeting Audience(s): $12 Max Bid
 
@@ -183,4 +185,3 @@ Less is more! If you can set up less than 6 placements per package, this maximiz
 * Best practice is to include as many unique ad sizes as possible to maximize reach.  Adobe's universal display template allows you to upload any standard display ad size
 * Make sure all placements contain *at least* all of the primary display ad sizes (300x250, 728x90, 160x600, 300x600, 320x50, and 300x50)
 * Update creative on aregular basis to prevent creative fatigue
-
