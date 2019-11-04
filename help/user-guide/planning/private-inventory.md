@@ -39,11 +39,11 @@ TubeMogul's DSP enables brands and agencies the ability to consolidate private i
 * Real-time decisioning on the best fit audiences and impressions
 * Superior and centralized campaign analytics
 
-**Click Below to Get Started:&nbsp;**
+**Click Below to Get Started:**
 
 * [Learn more about On Demand Inventory](private-inventory/on-demand-inventory.md)
 * [Learn more about Pre-Negotiated Deals - Formerly BrandAccess](private-inventory/brandaccess.md)
-* [Manage your feeds](/user-guide/planning/private-inventory/brandaccess/feed-management.md)
-* [See feed delivery and performance](/user-guide/planning/private-inventory/feeds-reporting.md)
+* [Manage your feeds](/help/user-guide/planning/private-inventory/brandaccess/feed-management.md)
+* [See feed delivery and performance](/help/user-guide/planning/private-inventory/feeds-reporting.md)
 
 [ ![imagea](assets/imagea.png)](assets/imagea.png) 

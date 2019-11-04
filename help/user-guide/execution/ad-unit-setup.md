@@ -35,7 +35,7 @@ Click below to learn how to set up different ad formats:
 Additional Ad&nbsp;Features that can be layered on include:
 
 * [Overlays](ad-unit-setup/overlay.md)
-* [ `Teasers & Endcaps`](/user-guide/execution/ad-unit-setup/teasers-endcaps/)
+* [ `Teasers & Endcaps`](/help/user-guide/execution/ad-unit-setup/teasers-endcaps/)
 * [Sharing Buttons](ad-unit-setup/sharing-buttons.md)
 * [Companion Banner](ad-unit-setup/3rd-party-tracking-adserving/companion-banner.md)
 

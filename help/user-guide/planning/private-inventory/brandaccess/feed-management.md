@@ -53,5 +53,4 @@ To manage your feeds, go back to Private Inventory in the top navigation. This P
 * **Email Tag**
 * **Archive:** When you are a frequent user of this feature, you may want to move old feeds out of the regular view, to see only your most current inventory sources.   When you archive a feed, it will move to the archive section and be viewable by clicking on the “Archived Feeds” section at the bottom of the page. Archiving a feed will not stop traffic from running on the feed.
 * **Placements and Ads** is another way to troubleshoot and double-check that your private inventory feeds are set up properly and receiving inventory. This page uses the same Orange and Red indicators as the main Private Inventory feed management page and shows you which ads and placements are targeting a feed and which ones need attention.
-* [See Report](/user-guide/planning/private-inventory/feeds-reporting.md)
-
+* [See Report](/help/user-guide/planning/private-inventory/feeds-reporting.md)

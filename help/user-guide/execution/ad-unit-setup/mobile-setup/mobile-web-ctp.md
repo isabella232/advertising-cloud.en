@@ -42,9 +42,9 @@ isSticky: 0
 [ ![Mobile tap to play](assets/mobile-tap-to-play.png)](assets/mobile-tap-to-play.png)
 
 * Basic: Name your ad and add a landing page to the click URL field.
-* [Teasers:](/user-guide/execution/ad-unit-setup/teasers-endcaps/) Include a 300x250 image to entice viewer to user-initiated&nbsp;the video play. Recommended to have strong call to action, recognizable images and brand logo.
+* [Teasers:](/help/user-guide/execution/ad-unit-setup/teasers-endcaps/) Include a 300x250 image to entice viewer to user-initiated&nbsp;the video play. Recommended to have strong call to action, recognizable images and brand logo.
 * [Overlays:](../../../../user-guide/execution/ad-unit-setup/overlay.md)Add a 300x60 banner to enhance message/brand association and drive additional clicks.
-* [Endcap:](/user-guide/execution/ad-unit-setup/teasers-endcaps/)Finish the ad with a static image reinforcing your brand message.
+* [Endcap:](/help/user-guide/execution/ad-unit-setup/teasers-endcaps/)Finish the ad with a static image reinforcing your brand message.
 * [Pixel:](../../../../user-guide/execution/ad-unit-setup/3rd-party-tracking-adserving/tracking-pixels.md)&nbsp;Add in 3rd party tracking pixels.
 
 **Save & Submit for Review&nbsp;**

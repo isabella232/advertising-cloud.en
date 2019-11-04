@@ -81,7 +81,7 @@ Caveat: Fallback images are not supported when using TubeMogul to serve HTML5 di
 [ ![CTP](assets/ctp.png)](assets/ctp.png)
 
 * Basic: Name your ad and add a landing page to the click URL field.
-* [Teasers](/user-guide/execution/ad-unit-setup/teasers-endcaps/) `:`&nbsp;Include an image or a 7-10 second video to entice viewer to user-initiated&nbsp;the video play. Recommended to have strong call to action, recognizable images and brand logo.
+* [Teasers](/help/user-guide/execution/ad-unit-setup/teasers-endcaps/) `:`&nbsp;Include an image or a 7-10 second video to entice viewer to user-initiated&nbsp;the video play. Recommended to have strong call to action, recognizable images and brand logo.
 
 * [Overlays](overlay.md) `:`&nbsp;Add a 300x60 banner to enhance message/brand association and drive additional clicks. For&nbsp;Expandable CTP, leverage&nbsp;the "Background"&nbsp;overlay Layer.
 

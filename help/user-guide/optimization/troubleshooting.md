@@ -32,8 +32,8 @@ Tracking Issues
 Performance Issues
 
 * [Low/High CTR](power-optimization/low-ctr.md)
-* [Low/High Completions](/user-guide/optimization/power-optimization/low-completion-rate-2/)
-* [No Site Diversity](/user-guide/optimization/power-optimization/no-site-diversity/no-site-delivery/)
+* [Low/High Completions](/help/user-guide/optimization/power-optimization/low-completion-rate-2/)
+* [No Site Diversity](/help/user-guide/optimization/power-optimization/no-site-diversity/no-site-delivery/)
 * [High CPM](power-optimization/high-cpm.md)
 
 Delivery Issues

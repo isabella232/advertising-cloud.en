@@ -37,9 +37,9 @@ isSticky: 0
 **Configure the Ad**
 
 * Basic: Name your ad and add a landing page to the click URL field. &nbsp;YouTube Player is not clickable.
-* [Teasers:](/user-guide/execution/ad-unit-setup/teasers-endcaps/) Include an image or a 7-10 second video to entice viewer to user-initiated&nbsp;the video play. Recommended to have strong call to action, recognizable images and brand logo.
+* [Teasers:](/help/user-guide/execution/ad-unit-setup/teasers-endcaps/) Include an image or a 7-10 second video to entice viewer to user-initiated&nbsp;the video play. Recommended to have strong call to action, recognizable images and brand logo.
 * [Overlays](overlay.md): Add a 470x70 banner to enhance message/brand association and drive additional clicks.
-* [Endcaps](/user-guide/execution/ad-unit-setup/teasers-endcaps/): Upload an image at the end of the ad to encourage traffic to the site.
+* [Endcaps](/help/user-guide/execution/ad-unit-setup/teasers-endcaps/): Upload an image at the end of the ad to encourage traffic to the site.
 * [Sharing Buttons:](sharing-buttons.md) Add Twitter or Facebook buttons to drive social sharing.
 * Pixel: Add in 3rd party tracking pixels or TubeMogul's retargeting pixel.
 * Save & Submit for Review
