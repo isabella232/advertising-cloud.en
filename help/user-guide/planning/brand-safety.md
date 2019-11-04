@@ -30,6 +30,6 @@ We've integrated multiple layers of brand protection to ensure that your video a
 * [SiteSafe](brand-safety/sitesafe-quality.md)
 * [PageSafe](brand-safety/pagesafe-proximic.md)
 * [PlaySafe](brand-safety/playsafe-fake-pre-roll.md)
-* [Blacklists](brand-safety/blacklists/) can also be applied at the account or advertiser level.
-  
+* [Blacklists](brand-safety/blacklists/tubemogul-global-blacklist.md) can also be applied at the account or advertiser level.
+
 ![safetybadges](assets/safetybadges.png)
