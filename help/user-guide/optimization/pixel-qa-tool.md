@@ -22,8 +22,6 @@ isSticky: 0
 ---
 
 # Pixel QA Tool {#pixel-q-a-tool}
-
-**What is it:**
   
 The Pixel QA tool in the Tools menu lists all errors associated with third-party pixels in your ads and allows you to quickly troubleshoot issues. Use the tool whenever you attach a third-party pixel to an ad.
 
