@@ -21,37 +21,16 @@ postPassword:
 isSticky: 0
 ---
 
-# Pixel Q+A Tool {#pixel-q-a-tool}
+# Pixel QA Tool {#pixel-q-a-tool}
 
 **What is it:**
   
-The Pixel Q&A troubleshooting tool catches errors associated with attaching 3rd party pixels. The following are the main features included in the tool:
+The Pixel QA tool in the Tools menu lists all errors associated with third-party pixels in your ads and allows you to quickly troubleshoot issues. Use the tool whenever you attach a third-party pixel to an ad.
 
-*
+The tool lists all third-party pixel-related errors, and the ads associated with each pixel. For an error with associated ads, you can either open the settings for any associated ad so you can edit the pixel URL as needed, or edit the pixel URL or other pixel settings directly.
 
-    * A list of all 3rd party pixels and ads associated with a Campaign
-    * A filter of the following common errors with attaching 3rd party pixels:
+You can filter the error list by error type (ads with no pixels, ads without impression pixels, pixels without ads, the same pixel on different events, or the same pixel on different ads). You can also filter the list by pixel event type (such as impression or view) and pixel type (Flash, HTML, or JavaScript).
 
-        * Ads with no Pixels
-        * Ads without Impression Pixels
-        * Pixels without Ads
-        * Same Pixel on Different Events
-        * Same Pixel on Different Ads
-
-    * A filter by 3rd party Pixel Event Type (i.e. Impression or View, etc.)
-    * A filter by Pixel Type (i.e. Flash, HTML, or Javascript)
-    * The ability to edit 3rd party Pixels
-    * An export to Excel feature
+You can download the entire list to your browser's default download folder as a report in XLSM (macro-enabled Excel spreadsheet) format. For more information about your browser's download procedure, see your browser’s online help.
 
 [ ![Pixel Q&A](assets/pixel-qa.jpg)](assets/pixel-qa.jpg)
-
-**Where to find it:**
-
-Pixel Q&A can be accessed by logging into the dashboard and clicking "Tools". At the bottom left toolbar, you will see the Pixel Q&A icon.
-
-**Why it is useful:**
-
-This tool allows you to&nbsp;quickly QA and troubleshoot issues related to 3rd party pixels.&nbsp;Discrepancies between TubeMogul pixels and 3rd party pixels can easily be resolved, saving both clients and team members time.
-
-**When to use:**
-Whenever you attach a 3rd party pixel to an ad it's always best to double check using the Pixel Q&A tool. 
