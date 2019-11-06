@@ -21,6 +21,10 @@ postPassword:
 isSticky: 0
 ---
 
+# Optimization {#optimization}
+
+**Optimize on Metrics You Care About**
+
 Advertising Cloud DSP automatically adjusts spend to sites that deliver the metrics you care about most, ensuring your dollars are spent efficiently to achieve your goals.
 
 You can set up optimization goals in Advertising Cloud Search, and then choose an [optimization goal](optimization/optimization-goals.md) for each of your placements or packages.
