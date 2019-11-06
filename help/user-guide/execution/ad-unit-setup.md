@@ -24,9 +24,9 @@ isSticky: 0
 
 # Ad Unit Setup {#ad-unit-setup}
 
-TubeMogul allows you to set up multiple video ads with one single creative asset. You can use a 3rd party served ad provided by one of our [Ad Serving Partners](../../user-guide/planning/partners/inventory-partners.md) or let TubeMogul serve your ad for free by uploading your own video asset and layering on additional features such as overlays and sharing buttons.
+TubeMogul allows you to set up multiple video ads with one single creative asset. You can use a third-party ad provided by one of our [ad serving partners](../../user-guide/planning/partners/inventory-partners.md) or let TubeMogul serve your ad for free by uploading your own video asset and layering on additional features such as overlays and sharing buttons.
 
-Click below to learn how to set up different ad formats:
+You can configure different ad formats:
 
 * [In-stream Set up](ad-unit-setup/in-stream-setup.md)
 * [In-display Set up](ad-unit-setup/in-display-setup.md)
@@ -34,16 +34,16 @@ Click below to learn how to set up different ad formats:
 * [Mobile Set up](ad-unit-setup/mobile-setup.md)
 * [Connected TV Set up](ad-unit-setup/connected-tv-setup.md)
 
-Additional features that can be layered on include:
+Additional ad features include:
 
 * [Overlays](ad-unit-setup/overlay.md)
 * [Teasers & Endcaps](/help/user-guide/planning/ad-formats/ad-features-guide/teasers-endcaps.md)
 * [Sharing Buttons](ad-unit-setup/sharing-buttons.md)
 * [Companion Banner](ad-unit-setup/3rd-party-tracking-adserving/companion-banner.md)
 
-Click here for [Ad Specs](../../user-guide/planning/ad-formats/ad-specs.md) and [video tutorials](https://education.tubemogul.com/videos/#campaign-execution-tutorials).
+See the [standard specifications for supported ad types](https://www.tubemogul.com/ad-specs/) and [video tutorials for campaign execution](https://education.tubemogul.com/).
 
-Features by Ad Unit
+## Features by Ad Unit
 
 ![ad_specs_1](assets/ad-specs-1.png)
 
