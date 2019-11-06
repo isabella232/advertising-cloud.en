@@ -39,7 +39,7 @@ isSticky: 0
 
 * Combines existing pre-roll with rich media that encourages viewers to interact with the unit
 * Drives user interaction and often delivers additional brand or product information inside video player
-* TubeMogul's&nbsp;Innovid partnership&nbsp;provides you access to various interactive elements including survey, store locators, micro site, video length extension, etc.
+* TubeMogul's Innovid partnership provides you access to various interactive elements including survey, store locators, micro site, video length extension, etc.
 * Simple static overlay and sharing buttons can be added at no charge to TubeMogul served ads
 
 ## Considerations: {#considerations}
@@ -54,5 +54,5 @@ isSticky: 0
 
 ## Video Specifications: {#video-specifications}
 
-* View asset specs&nbsp; [here](https://www.tubemogul.com/ad-specs/)
+* View asset specs  [here](https://www.tubemogul.com/ad-specs/)
 * [VPAID](https://www.iab.net/guidelines/508676/digitalvideo/vsuite/vpaid) 3rd party ad tag

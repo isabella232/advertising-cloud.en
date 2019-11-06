@@ -23,4 +23,4 @@ isSticky: 0
 
 # Low Delivery {#low-delivery}
 
-If your campaign is pacing too slow, follow the steps below:&nbsp; [ ![low delivery](assets/low-delivery.png)](assets/low-delivery.png) 
+If your campaign is pacing too slow, follow the steps below:  [ ![low delivery](assets/low-delivery.png)](assets/low-delivery.png) 

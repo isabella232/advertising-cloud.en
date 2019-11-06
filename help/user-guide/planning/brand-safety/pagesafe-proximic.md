@@ -29,7 +29,7 @@ Pages are categorized into safety tiers (G, PG-13, R, etc) and objectionable top
 
 ![pagesafe](assets/pagesafe.png)
 
-&nbsp;
+ 
 
 **Brand Safety Category Definitions**
 [ ![proximic definitions](assets/proximic-definitions.png)](assets/proximic-definitions.png) 

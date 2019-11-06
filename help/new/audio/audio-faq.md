@@ -29,7 +29,7 @@ isSticky: 0
 
 * What are the category restrictions for each pub?
 
-  * Spotify -&nbsp; [see here for full list](https://www.spotify.com/us/brands/legal/advertiser-terms-and-conditions/)
+  * Spotify -  [see here for full list](https://www.spotify.com/us/brands/legal/advertiser-terms-and-conditions/)
 
     * Blacklist - Adult products (tobacco, marijuana, illegal drugs, online prescription pharmacies, sexually explicit content, etc.), dangerous weapons, illegal products, cryptocurrencies, etc.
 
@@ -37,14 +37,14 @@ isSticky: 0
 
       * Restricted (allowed with some limitations) - alcohol, online dating services, gambling, lotteries, contraceptives, supplements, competitive products to Spotify, financial, insurance, religion, etc.
 
-    * Soundcloud -&nbsp; [see here for full list](https://advertising.soundcloud.com/policies)
+    * Soundcloud -  [see here for full list](https://advertising.soundcloud.com/policies)
 
       * Blacklist - products/services that infringe 3rd party rights, illegal drugs, adult products, tobacco, other financial (see below for approved financial), dangerous weapons, political (non-profit awareness or charity groups are ok), religion, etc.
       * Restricted (allowed with some limitations) - financial (retail banks, mortgage lenders, insurance companies), alcohol, marijuana, non-prescription pharma, contraceptives, medical products, online dating services, gambling, lotteries, etc.
 
     * TargetSpot, TuneIn and iHeart
 
-      * Restricted -&nbsp;marijuana (creative review required).
+      * Restricted - marijuana (creative review required).
 
 * The client doesn't have audio assets - is there a creative service that offers script creation & narrative/voice-overs?
 
@@ -52,7 +52,7 @@ isSticky: 0
   * TuneIn has audio studios in LA and SF; no minimums but ask that you spend audio budgets with them
   * iHeart studio can produce basic audio assets. They offer this service as added value with a large budget commitment or with a guaranteed spend amount. Please reach out to your account manager for details.
   * TargetSpot has a partner that can produce audio assets.They offer this service with a guaranteed spend commitment. Please reach out to your account manager for details.
-  * We recommend that customers use&nbsp; [VoiceBunny](https://voicebunny.com/#/)&nbsp;(low production costs and 24hr turn around time).
+  * We recommend that customers use  [VoiceBunny](https://voicebunny.com/#/) (low production costs and 24hr turn around time).
 
 * How do audio publishers gather geo data?
 
@@ -71,8 +71,8 @@ isSticky: 0
   * Pre-bid and contextual features are not available on audio placements. But, we do not support any pre-bid filtering for any mobile app inventory, so audio is in line with that.
 
     * That being said, some brand safety categorization is primarily on non-audio components (i.e., url, test, content)
-    * `Oracle (Moat/Grapeshot):`&nbsp;page-level categorization is based on text / other content on the page. Audio files are not mapped in most cases, unless available to Oracle. They are currently working with Spotify to enable audio categorization of their inventory.
-    * `DoubleVerify:`&nbsp;Based on page/domain/device identifiers, rather than the audio asset
+    * `Oracle (Moat/Grapeshot):` page-level categorization is based on text / other content on the page. Audio files are not mapped in most cases, unless available to Oracle. They are currently working with Spotify to enable audio categorization of their inventory.
+    * `DoubleVerify:` Based on page/domain/device identifiers, rather than the audio asset
     * Adswizz is unable to send URL domains in some cases because it is controlled by the publishers. If publishers don't fill in the domain, Adswizz cannot pass that through.
     * iHeart, TuneIn, etc has thousands of domains due to the sheer amount of radio stations, they do not always fill in the domain names
     * When we have no domains to work with, it means we cannot use contextual services for brand safety - it would cause no bids.
@@ -92,10 +92,10 @@ isSticky: 0
 
 * Can we cherry pick podcasts to run on? How can we ensure a brand safe environment?
 
-    * TargetSpot will allow you to choose  `categories`&nbsp;of podcasts through direct deals, but not specific podcasts
+    * TargetSpot will allow you to choose  `categories` of podcasts through direct deals, but not specific podcasts
     * SoundCloud is only run of podcasts
     * Brand Safety: All podcast content is verified by the audio partner
-    * For full podcast lists, please go to&nbsp; [TargetSpot](https://wiki.corp.adobe.com/display/TMCS/TargetSpot)&nbsp;or&nbsp; [SoundCloud Partner Materials](https://wiki.corp.adobe.com/display/TMCS/SoundCloud)
+    * For full podcast lists, please go to  [TargetSpot](https://wiki.corp.adobe.com/display/TMCS/TargetSpot) or  [SoundCloud Partner Materials](https://wiki.corp.adobe.com/display/TMCS/SoundCloud)
 
 <!-- Two links above are to wiki.corp.adobe.com. Users outside the Adobe firewall won't be able to view those links. Make public? Remove? Add "(Internal Only)"? -->
 
@@ -173,7 +173,7 @@ isSticky: 0
 * Can we target 1st party CRM data on audio?
 
   * Yes, in general you can target AA and AAM data (if the client has these solutions). Again, scale would need to be monitored, and data would need to match the targeted devices (cookies for desktop, device IDs for mobile).
-  * For Spotify, 1st party CRM data can only be used on mobile -&nbsp;advertisers must send Spotify their customer data in advance of the campaign going live either thru Google's Guaranteed Audience product (upload into DV360 to push over) or Custom Audience Match via our integrations with Liveramp and Adobe. Both are in beta so there is some testing involved.
+  * For Spotify, 1st party CRM data can only be used on mobile - advertisers must send Spotify their customer data in advance of the campaign going live either thru Google's Guaranteed Audience product (upload into DV360 to push over) or Custom Audience Match via our integrations with Liveramp and Adobe. Both are in beta so there is some testing involved.
 
     * For PMPs, they must confirm their audience pool has device IDs to match with our mobile inventory only (no desktop because no identifier). They then need to confirm how big that pool is so we know whether there is scale.
 

@@ -31,7 +31,7 @@ To get started, you'll want to understand the duration of the ad as it'll determ
 
 ![Screen Shot 2019-06-27 at 11.07.56 AM](assets/screen-shot-2019-06-27-at-11.07.56-am-300x125.png)
 
-* Upload a video and under the Basic section&nbsp;input the "Clock Number"
+* Upload a video and under the Basic section input the "Clock Number"
 
     * Clock numbers are required for this process and must be in the correct format:
 

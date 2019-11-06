@@ -25,14 +25,14 @@ isSticky: 0
 
 # Certified Native Tracking Pixels {#certified-native-tracking-pixels}
 
-**Supported Viewability Pixels for Native Ads on TripleLift&nbsp;** 
+**Supported Viewability Pixels for Native Ads on TripleLift ** 
 
-For 3rd-party ads, below are the following pixels that we support for native ads being accessed through TripleLift. If a pixel not listed&nbsp;below is placed on the ad, the ad will be rejected. 
-**&nbsp;** 
+For 3rd-party ads, below are the following pixels that we support for native ads being accessed through TripleLift. If a pixel not listed below is placed on the ad, the ad will be rejected. 
+** ** 
 ***Integral Ad Science*** 
 
 [pixel.adsafeprotected.com](http://pixel.adsafeprotected.com/) 
-[integralads.com](http://integralads.com/)    &nbsp;
+[integralads.com](http://integralads.com/)     
 
 ***MOAT*** 
 [moat.com](http://moat.com/) 
@@ -40,14 +40,14 @@ For 3rd-party ads, below are the following pixels that we support for native ads
 [moatads.com](http://moatads.com/) 
 [js.moatads.com](http://js.moatads.com/) 
 [z.moatads.com](http://z.moatads.com/) 
-&nbsp;
+ 
 
-***DoubleVerify**&nbsp;* 
+***DoubleVerify** * 
 
 [doubleverify.com](http://doubleverify.com/) 
-[cdn.doubleverify.com](http://cdn.doubleverify.com/)    &nbsp;
+[cdn.doubleverify.com](http://cdn.doubleverify.com/)     
 
-***comScore*&nbsp;** 
+***comScore* ** 
 
 [comscore.com](http://comscore.com/) 
 [sb.voicefive.com](http://sb.voicefive.com/) 

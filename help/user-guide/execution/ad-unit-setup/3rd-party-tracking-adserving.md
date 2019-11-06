@@ -27,12 +27,12 @@ isSticky: 0
 
 If you are currently working with a 3rd party ad server such as DFA, Dart, Sizmec, Innovid , Pointroll etc, below are a few useful links:
 
-* [3rd-Party Ad Tags:](3rd-party-tracking-adserving/ad-tags.md)&nbsp;VAST and VPAID ad tag requirements
+* [3rd-Party Ad Tags:](3rd-party-tracking-adserving/ad-tags.md) VAST and VPAID ad tag requirements
 * [3rd-Party Tracking Pixels](3rd-party-tracking-adserving/tracking-pixels.md)
 * [3rd -Party Companion Banners](3rd-party-tracking-adserving/companion-banner.md)
-* [VAST/VPAID Validator](3rd-party-tracking-adserving/ad-tags/vastvpaid-validator.md). This tool identifies any&nbsp;potential errors with the 3rd party ad tag to help avoid delivery or playback issues.
+* [VAST/VPAID Validator](3rd-party-tracking-adserving/ad-tags/vastvpaid-validator.md). This tool identifies any potential errors with the 3rd party ad tag to help avoid delivery or playback issues.
 
 How to set it up in the platform:
 
 [ ![Adtags](assets/adtags.png)](assets/adtags.png)
-&#42;&#42; For MRAID tags, you'll need to set up ad tags in this format: <script type="text/javascript" src="CLIENT&nbsp;MRAID&nbsp;TAG"></script> 
+&#42;&#42; For MRAID tags, you'll need to set up ad tags in this format: <script type="text/javascript" src="CLIENT MRAID TAG"></script> 

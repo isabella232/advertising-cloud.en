@@ -25,11 +25,11 @@ isSticky: 0
 
 # Facebook Partnership {#facebook-partnership}
 
-TubeMogul is the first platform of it's kind to launch an API integration with Facebook to enable advertisers to execute Facebook and Instagram advertising campaigns in the same fashion as within Facebook's platform. &nbsp;Our integration&nbsp;provides&nbsp;advertisers a simplified, efficient and effortless way to plan, buy, manage and measure all their&nbsp;initiatives from a single platform. This partnership&nbsp;has several benefits including:
+TubeMogul is the first platform of it's kind to launch an API integration with Facebook to enable advertisers to execute Facebook and Instagram advertising campaigns in the same fashion as within Facebook's platform.  Our integration provides advertisers a simplified, efficient and effortless way to plan, buy, manage and measure all their initiatives from a single platform. This partnership has several benefits including:
 
 * Holistic channel management and simplified workflow
 * Global scale and reach of the 1.6 billion monthly active users
-* Granular targeting&nbsp;utilizing Facebook 1st party data
+* Granular targeting utilizing Facebook 1st party data
 * Cost efficiency
 * Increased engagement and recall
 * Full-screen takeover - specific to Instagram
@@ -49,7 +49,7 @@ Also, included in the offering this ad unit appears in people's Instagram feed a
 
 [ ![instagram](assets/instagram.png)](assets/instagram.png)
 
-&nbsp;
+ 
 `Targeting Capabilities`
 
 * The same granular audience targeting as available within Facebook's platform utilizing first party and 3rd party data from companies like Axiom, Datalogix, etc.

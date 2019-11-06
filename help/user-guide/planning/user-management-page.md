@@ -38,14 +38,14 @@ Here you'll be able to Invite a New User:
 [ ![2016-07-05_1621](assets/2016-07-05-1621.png)](assets/2016-07-05-1621.png)
 
 The user will then receive an email with all the appropriate information to create their account and password.
-This is also the page where you'll be able to set the appropriate permissions per user. To pick&nbsp;a role, click on Edit Permissions and choose from the following:
+This is also the page where you'll be able to set the appropriate permissions per user. To pick a role, click on Edit Permissions and choose from the following:
 
-* Admin – enables creation & deletion of users within their account as well as access to&nbsp;make role changes for every user on &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;tied to the account
-* General – the default setting for all new users and encompasses all non-beta&nbsp;features
+* Admin – enables creation & deletion of users within their account as well as access to make role changes for every user on                  tied to the account
+* General – the default setting for all new users and encompasses all non-beta features
 * Read Only – users cannot make any changes to the account
-* Pvt Inventory Read Only – can request On Demand inventory but&nbsp;*cannot* create or edit feeds
+* Pvt Inventory Read Only – can request On Demand inventory but *cannot* create or edit feeds
 
 [ ![2016-07-05_1628](assets/2016-07-05-1628-1024x142.png)](assets/2016-07-05-1628.png)
 
-&nbsp;
+ 
 From there, the new user should be all set! All permissions are changeable at any time by any admin user. If you have any questions, feel free to reach out to your Account Manager or platform_support@tubemogul.com 

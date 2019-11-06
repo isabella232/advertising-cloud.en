@@ -27,9 +27,9 @@ isSticky: 0
 
 Learn how to use TubeMogul's package level pacing and capping to automatically distribute delivery across placements within a package for optimal performance.
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 If you have any questions, please reach out to your Account Manager or platform_support@tubemogul.com. 

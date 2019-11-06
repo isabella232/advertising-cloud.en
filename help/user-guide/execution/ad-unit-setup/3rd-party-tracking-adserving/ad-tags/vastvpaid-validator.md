@@ -23,11 +23,11 @@ isSticky: 0
 
 # VAST/VPAID Validator {#vast-vpaid-validator}
 
-The &nbsp;VAST tag validator will automatically scan a 3rd party ad tag during the Upload or Select a Video process:
+The  VAST tag validator will automatically scan a 3rd party ad tag during the Upload or Select a Video process:
 
 [ ![Video Uploader](assets/video-uploader-1024x243.png)](assets/video-uploader.png)
 
-&nbsp;
+ 
 
 Once validated, you will see a VAST Tag Errors & Warnings modal indicating any potential issues with your ad tag.
 
@@ -37,5 +37,5 @@ If no errors are found, you will notice a green checkmark next to your tag URL.
 
 [ ![unnamed (1)](assets/unnamed-1.png)](assets/unnamed-1.png)
 
-Below is a list of possible warning and error messages. The only message that will prevent you from saving the ad tag is &nbsp;"Missing mandatory objects in the VAST tag". &nbsp;Most warnings are related to preventing delivery, tracking or video playback quality issues.
+Below is a list of possible warning and error messages. The only message that will prevent you from saving the ad tag is  "Missing mandatory objects in the VAST tag".  Most warnings are related to preventing delivery, tracking or video playback quality issues.
 [ ![New Help- Validator Descriptions](assets/new-help-validator-descriptions.png)](assets/new-help-validator-descriptions.png) 

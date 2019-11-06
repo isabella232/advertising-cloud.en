@@ -26,7 +26,7 @@ isSticky: 0
 TubeMogul has partnered with ComScore to offer audience verification reporting also known as Validated Campaign Essentials (vCE). This reporting is available within the platform via Brandpoint at the placement level or at the campaign level.
 Campaign level reporting will enable reporting on every desktop placement in the campaign. If you are interested in getting audience verification across desktop and mobile placements, see [Nielsen OCR Reporting](nielsen-ocr-reporting.md).
 
-&nbsp;
+ 
 `Activation - Campaign Level:`
 
 * Navigate to the Campaign page and click 'New Camapign'
@@ -41,7 +41,7 @@ Campaign level reporting will enable reporting on every desktop placement in the
 
 * Create a new Placement and go into 'BrandPoint view'
 * Choose your targeting selections
-* Under the verification options you can select 'Comscore VCE'&nbsp;as your measurement choice- Note this option only activates reporting for this placement
+* Under the verification options you can select 'Comscore VCE' as your measurement choice- Note this option only activates reporting for this placement
 
 [ ![comscore-bp](assets/comscore-bp1-230x300.png)](assets/comscore-bp1.png)
 `Reporting`
@@ -72,7 +72,7 @@ Campaign level reporting will enable reporting on every desktop placement in the
 
 [ ![comscore-reporting](assets/comscore-reporting.png)](assets/comscore-reporting.png)
 
-&nbsp;
+ 
 
 Reporting Availability:
 [ ![vCE minimums and reporting by country](assets/vce-minimums-and-reporting-by-country-597x1024.png)](assets/vce-minimums-and-reporting-by-country.png)If you have additional questions about Comscore or reporting options please reach out to your Account Manager or platform_demo@tubemogul.com. 

@@ -37,9 +37,9 @@ Once you've selected the ad format of choice, you will by default land on the [P
 [ ![Current View](assets/current-view.png)](assets/current-view.png)
 You can also set up a placement in BrandPoint View:
 
-* [CPM Mode](placement-setup/cpm-setup.md)&nbsp; (New Look and Feel for the same functionality as the Current View)
-* [OTP Mode (On-Target %)](placement-setup/otp-setup.md)&nbsp;(Use for Audience Guaranteed On-Target Impression buys)
-* [GRP Mode](placement-setup/grp-setup.md)&nbsp;(Mirror your TV Buys. Read more about planning GRP campaigns [here](../../user-guide/planning/brandpoint/buying-in-cost-per-point.md))
+* [CPM Mode](placement-setup/cpm-setup.md)  (New Look and Feel for the same functionality as the Current View)
+* [OTP Mode (On-Target %)](placement-setup/otp-setup.md) (Use for Audience Guaranteed On-Target Impression buys)
+* [GRP Mode](placement-setup/grp-setup.md) (Mirror your TV Buys. Read more about planning GRP campaigns [here](../../user-guide/planning/brandpoint/buying-in-cost-per-point.md))
 
 [ ![2014-07-16_0036](assets/2014-07-16-0036-300x188.png)](assets/2014-07-16-0036.png)
-&nbsp; 
+  

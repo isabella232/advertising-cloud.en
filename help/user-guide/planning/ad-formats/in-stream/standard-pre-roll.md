@@ -57,5 +57,5 @@ isSticky: 0
 
 ## Video Specifications: {#video-specifications}
 
-* View asset specs&nbsp; [here](https://www.tubemogul.com/ad-specs/)
+* View asset specs  [here](https://www.tubemogul.com/ad-specs/)
 * [VAST 2.0](https://www.iab.net/guidelines/508676/digitalvideo/vsuite/vast/vast_copy) Ad Tags

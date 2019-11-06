@@ -24,5 +24,5 @@ isSticky: 0
 # In-Stream {#in-stream}
 
 In-stream (pre-roll) videos deliver your ad in front of compelling content on premium video sites. Pre-roll is ideal for repurposed TV spots or any video that is 0:15 or 0:30 seconds long. Interactive elements can be added to our pre-roll units to drive engagement with your brand. With TubeMogul pre-roll units, advertisers don't pay for impressions – only views.
-We offer three types of in-stream units: [Standard Pre-roll](in-stream/standard-pre-roll.md),&nbsp; [Interactive Pre-roll](in-stream/interactive-pre-roll.md)&nbsp;and&nbsp; [Skippable Pre-Roll](in-stream/skippable-pre-roll.md).
+We offer three types of in-stream units: [Standard Pre-roll](in-stream/standard-pre-roll.md),  [Interactive Pre-roll](in-stream/interactive-pre-roll.md) and  [Skippable Pre-Roll](in-stream/skippable-pre-roll.md).
 [ ![Instream](assets/instream-300x170.png)](assets/instream.png) 

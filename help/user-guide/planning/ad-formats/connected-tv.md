@@ -49,5 +49,5 @@ The viewing experience for your digital video ad on a Connected TV is akin to re
 
 **Video Specifications:**
 
-* View asset specs&nbsp; [here](ad-specs.md)
+* View asset specs  [here](ad-specs.md)
 

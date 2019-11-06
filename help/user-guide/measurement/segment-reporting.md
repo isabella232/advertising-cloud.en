@@ -35,11 +35,11 @@ To access reporting, from the campaign/placement pages, navigate to the 'Full Re
 
 [ ![audienceperformance](assets/audienceperformance-1024x732.png)](assets/audienceperformance.png)
 
-&nbsp;
+ 
 
-To access reporting, from our Email Reports/Custom Reports page, navigate to the report from the Tools section and select either 'Billing or Segment Report' from the templates. The 'Billing Report' will give you audience (segment) level information on the cost of each&nbsp;segment you delivered against, whereas the 'Segment Report' will give you&nbsp;performance metrics against each segment.
+To access reporting, from our Email Reports/Custom Reports page, navigate to the report from the Tools section and select either 'Billing or Segment Report' from the templates. The 'Billing Report' will give you audience (segment) level information on the cost of each segment you delivered against, whereas the 'Segment Report' will give you performance metrics against each segment.
 
 [ ![2016-06-28_0919](assets/2016-06-28-0919-1024x787.png)](assets/2016-06-28-0919.png)
 
-&nbsp;
+ 
 If you have any additional questions, please reach out to your Account Manager or platform_demo@tubemogul.com 

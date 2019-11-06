@@ -35,6 +35,6 @@ isSticky: 0
   
 **`Scenario # 2 High Bids and Low Win Rate`**
   
-`The placement below is qualifying for a substantial amount of bids but not winning any impressions. It's likely the CPM bid is too low or the ad is still awaiting approval on certain sources.&nbsp; [ ` ![RT2](assets/rt2.jpg)
+`The placement below is qualifying for a substantial amount of bids but not winning any impressions. It's likely the CPM bid is too low or the ad is still awaiting approval on certain sources.  [ ` ![RT2](assets/rt2.jpg)
 
 `](assets/rt2.jpg)` 

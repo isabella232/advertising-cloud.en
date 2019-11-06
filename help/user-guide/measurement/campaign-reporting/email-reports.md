@@ -67,7 +67,7 @@ The options for this filter are:
 
 [![Apply Filters](assets/apply-filters-1024x427.png)](assets/apply-filters.png)
 
-&nbsp;
+ 
 
 * **2) Additional Filters:** The second type of filter is for parameters that will focus on specific data in your account. For example, if you only want to see data only on a certain advertiser, limit your report to pre-roll ads, or review activity for selected countries, you would set these values in the filters. You can filter by: Advertiser, Campaign, Placement, Ad, Ad Type, Video, Video Duration, and Country and Package.
 
@@ -75,25 +75,25 @@ Up to six filters can be applied to a single report.
 
 [ ![Filter types](assets/filter-types.png)](assets/filter-types.png)
 
-&nbsp;
+ 
 
 When you create your filter, you can also specify criteria within that filter by specifying if the value you want is equal or not equal to a value. For example, if you want to see only ad types that are not pre-roll or results that are only for one campaign. Once you have entered one criterion, you can use an “and” or an “or” command to link it to other criteria. For example, if you wanted data in your report for the US and Canada, your filter would look like this:
 
 ![Country Equals](assets/country-equals.png))
 
-&nbsp;
+ 
 
 But if you want to see only data for all countries outside the US or Canada, you would set it up this way:
 
 ![Country NOT Equals](assets/country-not-equals.png)
 
-&nbsp;
+ 
 
 Be careful when using the “and” command with “equals” in particular when creating reports. Putting these two together can actually exclude all of the data, if you set it to equal and not equal one variable. For example, this filter would exclude all of the data:
 
 ![Country Equal and NOT equals](assets/country-equal-and-not-equals.png)
 
-&nbsp;
+ 
 
 This is telling the database to get all of the records where the country is Australia but are also not Australia.
 
@@ -101,7 +101,7 @@ Putting this all together, if you wanted to create a report for May 1st – July
 
 ![Filter combo](assets/filter-combo.png)
 
-&nbsp;
+ 
 
 **Build your report**
 
@@ -109,7 +109,7 @@ In this section, you’ll be selecting the “meat” of your report and how it 
 
 [ ![Dimensions and Metrics 2](assets/dimensions-and-metrics-2.png)](assets/dimensions-and-metrics-2.png)
 
-&nbsp;
+ 
 There are two groups of items you can select here:
 
 * **Dimensions**: These are categories of data and tasks that we organize campaigns around, like advertiser, ad type, placement, etc. It also includes the time frames you want to look at (eg. hour, day, week, month, etc.) and geographic area. These will define the rows in your report.
@@ -134,7 +134,7 @@ The screenshot below shows the process for specifying you want hourly data in yo
 
 ![Selecting Dimension Metrics from list](assets/selecting-dimension-metrics-from-list.png)
 
-&nbsp;
+ 
 
 Continue doing this until you have selected all of the dimensions and metrics you want to include. Note that you can drag your selections in the box at the bottom to reorder your headers in the report.
 
@@ -142,7 +142,7 @@ This example shows what the screen would look like for a report that will show y
 
 ![CR9](assets/cr9.jpg)
 
-**&nbsp;**
+** **
 
 **Report Options**
 
@@ -152,7 +152,7 @@ These settings determine the format in which you’d like your report to be deli
 
 ![report format](assets/report-format.png)
 
-&nbsp;
+ 
 
 After you’ve set your format and headers, you canchoose options related to multi-touch attribution. Multi-touch attribution allows you to view ConversionMetrics and Custom Goals in many different ways. For example, if your Conversion Metric is “Orders” you can choose to see “Orders” based on a specified attribution rule and view-through weight.
 
@@ -160,7 +160,7 @@ Note that these options are only applicable to advertisers with multi-touch attr
 
 ![Report Options](assets/report-options1.png)
 
-&nbsp;
+ 
 
 **Attribution Rule Settings**
 
@@ -198,7 +198,7 @@ Note: cross-device options are only applicable to advertisers with cross-device 
 
 This affects the datesee Conversion Metrics and Custom Goals are associated with. “Conversion Timestamp” will show values based on the day the conversion event happened. “Event Timestamp” will show values based on the day the impression or click happened.
 
-&nbsp;
+ 
 
 **Combinations**
 
@@ -208,7 +208,7 @@ For example, if you choose the following options...
 
 ![Combo](assets/combo.png)
 
-&nbsp;
+ 
 
 ...you will see two different columns for each of your Conversion Metrics. If you had chosen “orders” as a conversions metric your report would include these columns.
 
@@ -222,13 +222,13 @@ When you’re ready to schedule or send the report, click on **Create Custom Rep
 
 ![Email Run NOw](assets/email-run-now.png)
 
-&nbsp;
+ 
 
 Scheduled reports  will be delivered to the addresses you specify at about 9 am the next morning according to the  `timezone` specified in the request as a link to a page where they can download the file.  They will look like this:
 
 ![CR12](assets/cr12.jpg)
 
-&nbsp;
+ 
 
 **Editing and deleting your reports**
 
@@ -236,6 +236,6 @@ If you ever need to change or edit your reports, simply go to the “Email Repor
 
 ![Edit Reports](assets/edit-reports.png)
 
-&nbsp;
+ 
 
 If you have any additional questions feel free to reach out the Platform Strategy team at `platform_support@Adobe Advertising Cloud.com`

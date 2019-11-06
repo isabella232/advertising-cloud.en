@@ -51,5 +51,5 @@ isSticky: 0
 
 **Video Specifications:**
 
-* View asset specs&nbsp; [here](../../../../user-guide/planning/ad-formats/ad-specs.md)
+* View asset specs  [here](../../../../user-guide/planning/ad-formats/ad-specs.md)
 

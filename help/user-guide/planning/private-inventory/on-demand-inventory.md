@@ -30,7 +30,7 @@ The On Demand option allows advertisers to instantly access premium, non-guarant
 
 [ ![selectax](assets/selectax.png)](assets/selectax.png)
 
-* Step 2: If you'd like information on the deal, hover&nbsp;on the publisher and choose "On Demand Deals".
+* Step 2: If you'd like information on the deal, hover on the publisher and choose "On Demand Deals".
 
 [ ![safas](assets/safas-1024x333.png)](assets/safas.png)
 
@@ -44,7 +44,7 @@ The On Demand option allows advertisers to instantly access premium, non-guarant
 
 *
 
-    * &nbsp;If you have any questions about the approval process, please reach out to your Account Manager or platform_support@tubemogul.com. If you are approved,&nbsp;placement set up is as follows:
+    *  If you have any questions about the approval process, please reach out to your Account Manager or platform_support@tubemogul.com. If you are approved, placement set up is as follows:
 
 `<script src="//fast.wistia.com/assets/external/E-v1.js" async charset="ISO-8859-1"></script>`
 
@@ -53,14 +53,14 @@ Walkthrough of this process:
 * To begin bidding on this inventory, you'll have to create a placement and specifically target the feed. Under the Inventory Sources section of the placement editor, you will see the option to "Customize Private Inventory".
 
 [ ![daf](assets/daf.png)](assets/daf.png)
-&nbsp;
+ 
 
 * Target the feed that you'd like to gain access to. In this example it is A&E for desktop:
 
 [ ![afawdsfa](assets/afawdsfa.png)](assets/afawdsfa.png)
-&nbsp;
+ 
 
 * Once you've done that and set your bid appropriately, your placement is all set!
 
 If you have any additional questions, please reach out to your Account Manager or platform_support@tubemogul.com.
-&nbsp; 
+  

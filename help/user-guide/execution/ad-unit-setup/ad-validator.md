@@ -27,7 +27,7 @@ isSticky: 0
 
 The Ad Validator works across all ads within the platform, performing two types of validation:
 
-* The Creative Review, which is a process that involves a specialized internal team that&nbsp;performs&nbsp;a series of qualitative checks, including watching the ad, ensuring it has the proper declared category and is ready to be viewed.
+* The Creative Review, which is a process that involves a specialized internal team that performs a series of qualitative checks, including watching the ad, ensuring it has the proper declared category and is ready to be viewed.
 
     * Available on ALL ads
 
@@ -45,7 +45,7 @@ The platform will surface the approval process on the placement as well as ad le
 
 [ ![Screen Shot 2016-08-23 at 12.09.04 PM](assets/screen-shot-2016-08-23-at-12.09.04-pm-1024x351.png)](assets/screen-shot-2016-08-23-at-12.09.04-pm.png)
 
-&nbsp;
+ 
 
 Here are the different scenarios that will be surfaced based on the Creative Review and Vast Validation process:
 

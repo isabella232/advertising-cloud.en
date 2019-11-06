@@ -23,7 +23,7 @@ isSticky: 0
 
 # Custom Segment Tool {#custom-segment-tool}
 
-**&nbsp;What is it:**
+** What is it:**
 The primary goal of the segments page is to make it easier to use and find relevant data on custom and first party segments associated with your account. This tool allows you to quickly view the segments associated with a specific advertiser, confirm their statuses and monitor user counts. It allows you to:
 
 * Group segments by advertiser

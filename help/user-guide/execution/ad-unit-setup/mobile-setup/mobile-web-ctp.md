@@ -23,7 +23,7 @@ isSticky: 0
 
 # Phone Tap-To-Play 300x50 {#phone-tap-to-play-x}
 
-**Create a New Ad&nbsp;**
+**Create a New Ad **
 
 * Click on Ads in the left navigation bar
 * Select New Ad
@@ -34,21 +34,21 @@ isSticky: 0
   
 [ ![Video Uploader](assets/video-uploader.png)](assets/video-uploader.png)
 
-* Upload Video: Raw creative asset. See&nbsp; [Ad Specs.](../../../../user-guide/planning/ad-formats/ad-specs.md)
+* Upload Video: Raw creative asset. See  [Ad Specs.](../../../../user-guide/planning/ad-formats/ad-specs.md)
 * Use Existing Video: Use a previously uploaded video to create a new ad.
 
-**Configure the Ad&nbsp;**
+**Configure the Ad **
   
 [ ![Mobile tap to play](assets/mobile-tap-to-play.png)](assets/mobile-tap-to-play.png)
 
 * Basic: Name your ad and add a landing page to the click URL field.
-* [Teasers:](/help/user-guide/planning/ad-formats/ad-features-guide/teasers-endcaps.md) Include a 300x250 image to entice viewer to user-initiated&nbsp;the video play. Recommended to have strong call to action, recognizable images and brand logo.
+* [Teasers:](/help/user-guide/planning/ad-formats/ad-features-guide/teasers-endcaps.md) Include a 300x250 image to entice viewer to user-initiated the video play. Recommended to have strong call to action, recognizable images and brand logo.
 * [Overlays:](../../../../user-guide/execution/ad-unit-setup/overlay.md)Add a 300x60 banner to enhance message/brand association and drive additional clicks.
 * [Endcap:](/help/user-guide/planning/ad-formats/ad-features-guide/teasers-endcaps.md)Finish the ad with a static image reinforcing your brand message.
-* [Pixel:](../../../../user-guide/execution/ad-unit-setup/3rd-party-tracking-adserving/tracking-pixels.md)&nbsp;Add in 3rd party tracking pixels.
+* [Pixel:](../../../../user-guide/execution/ad-unit-setup/3rd-party-tracking-adserving/tracking-pixels.md) Add in 3rd party tracking pixels.
 
-**Save & Submit for Review&nbsp;**
-TubeMogul's [ad review](../../../../user-guide/execution/ad-unit-setup/ad-reviews.md)team&nbsp;verifies&nbsp;that the ad is rendering properly and clicking through. Approval time is typically 2-4 hours on regular business hours and 24hrs on weekends.
+**Save & Submit for Review **
+TubeMogul's [ad review](../../../../user-guide/execution/ad-unit-setup/ad-reviews.md)team verifies that the ad is rendering properly and clicking through. Approval time is typically 2-4 hours on regular business hours and 24hrs on weekends.
 
 Remember to attach the Ad to a the correct placement.
-&nbsp; 
+  

@@ -25,7 +25,7 @@ isSticky: 0
 
 Located in the Placement Options page under "Current View" mode, the Basics section is where you entering in the following information:
 
-* Name: &nbsp;Suggested naming convention&nbsp;Campaign Name: Ad Unit: Duration: Targeting Parameter
+* Name:  Suggested naming convention Campaign Name: Ad Unit: Duration: Targeting Parameter
 * Status: Choose whether the placement should begin right away or stay paused until you've confirmed all details.
 * Tags: Optional key words to help you search for your placement within the TubeMogul UI.
 * Dates: Placement start and end dates.

@@ -22,14 +22,14 @@ isSticky: 0
 
 # On Demand Placement {#on-demand-placement}
 
-The On Demand Placement&nbsp;allows users to easily create premium inventory placements that only target On Demand feeds. This inventory (desktop and mobile)&nbsp;offers strong performance metrics that can help drive a variety of KPIs.
+The On Demand Placement allows users to easily create premium inventory placements that only target On Demand feeds. This inventory (desktop and mobile) offers strong performance metrics that can help drive a variety of KPIs.
 To build this placement, follow the steps below:
 
 * Navigate to the "Inventory Sources" section of a placement.
 * Ensure that Public Inventory is unchecked and that Private Inventory is selected. Click on the "Optimize to use on Demand Inventory only" box.
 
 [ ![optimize_on_demand](assets/optimize-on-demand.png)](assets/optimize-on-demand.png)
-&nbsp;
+ 
 
 * After clicking this button, you will be prompted to either select all sites or customize your list. Adding all sites will maximize your scale and allow for more opportunities to optimize.
 

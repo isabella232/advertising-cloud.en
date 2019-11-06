@@ -23,7 +23,7 @@ isSticky: 0
 
 # On Demand Placement {#on-demand-placement}
 
-Now that you've gained access to all the On Demand premium publishers you'd like to work with, we've created a placement that allows you&nbsp;to target all that inventory at once.
+Now that you've gained access to all the On Demand premium publishers you'd like to work with, we've created a placement that allows you to target all that inventory at once.
 `Feature Set Up`
 
 * Navigate to the "Inventory Sources" section of a placement and click on the "Optimize to use On Demand Inventory only" box.
@@ -40,11 +40,11 @@ Now that you've gained access to all the On Demand premium publishers you'd like
 
 [ ![ondemand4](assets/ondemand4.png)](assets/ondemand4.png)
 
-&nbsp;
+ 
 `Things to Note`:
 
 * **Max Bid**: When using this feature, the placement will automatically populate a default CPM to clear the most expensive feed (or inventory source). This max bid is only a suggestion. If the price is too high, feel free to adjust to the necessary price point. To get a range of different inventory sources and maximize the diversity of delivery, create multiple On Demand placements with different max bids.
-* **Location**:&nbsp;This is just a reminder to be sure to select the appropriate geography on your placement.
+* **Location**: This is just a reminder to be sure to select the appropriate geography on your placement.
 
-&nbsp;
+ 
 If you have any additional questions, please feel free to reach out to your Account Manager or platform_support@tubemogul.com. 

@@ -29,7 +29,7 @@ isSticky: 0
 
 Insights Made Easy w/ TubeMogul Special Operations
 
-&nbsp;
+ 
 
 * **[Strategy Sessions](https://education.tubemogul.com/tm/category/strategy-sessions/)**
 

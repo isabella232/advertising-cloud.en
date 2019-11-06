@@ -28,17 +28,17 @@ isSticky: 0
 **Create a New Ad**
 
 * Click on Ads
-* Select New Ad&nbsp;and choose&nbsp;the type of Pre-roll unit and duration you'd like to run. Keep in mind that the the duration of the ad will affect inventory&nbsp;availability.
+* Select New Ad and choose the type of Pre-roll unit and duration you'd like to run. Keep in mind that the the duration of the ad will affect inventory availability.
 
 **Upload the Video**
   
 [ ![instream uploader](assets/instream-uploader.png)](assets/instream-uploader.png)
 
-* Upload Video: Raw creative asset. See&nbsp; [Ad Specs.](../../../user-guide/planning/ad-formats/ad-specs.md)
+* Upload Video: Raw creative asset. See  [Ad Specs.](../../../user-guide/planning/ad-formats/ad-specs.md)
 * Use Existing Video: Use a previously uploaded video to create a new ad.
 * Advanced: VAST Tag URL. Use a [3rd Party Ad Tag](3rd-party-tracking-adserving/ad-tags.md) to serve your ad.
 
-    * The ad server must be [TubeMogul Certified](https://www.tubemogul.com/company/partners/ad-serving-and-rich-media/)prior to campaign launch.&nbsp;If your ad server is not named, please contact [platform_support@tubemogul.com](mailto:playtimesupport@tubemogul.com) to test your ad tag.
+    * The ad server must be [TubeMogul Certified](https://www.tubemogul.com/company/partners/ad-serving-and-rich-media/)prior to campaign launch. If your ad server is not named, please contact [platform_support@tubemogul.com](mailto:playtimesupport@tubemogul.com) to test your ad tag.
 
 **Configure the Ad**
   
@@ -46,7 +46,7 @@ isSticky: 0
 
 * Basic: Name your ad and add a landing page to the click URL field.
 * Companion Banner: Include companion banners to provide additional branding and clickthroughs.
-* Pixel:&nbsp;Add in 3rd party tracking pixels or TubeMogul's retargeting pixel
+* Pixel: Add in 3rd party tracking pixels or TubeMogul's retargeting pixel
 
 **Save & Submit for Review**
   

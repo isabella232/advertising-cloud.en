@@ -23,6 +23,6 @@ isSticky: 0
 
 # Ad Formats {#ad-formats}
 
-TubeMogul offers a variety of ad units to help you achieve your campaign goals and reach your audience wherever they are watching video online. Ad formats include&nbsp; [In-Stream](ad-formats/in-stream.md),&nbsp; [In-Display](ad-formats/in-display.md),&nbsp; [Mobile](ad-formats/mobile.md),&nbsp; [Social](ad-formats/social.md)and&nbsp; [Connected TV](ad-formats/connected-tv.md).&nbsp;Each ad format has its own strengths depending on brand objectives.TubeMogul offers a solution for brands to choose multiple formats, from a single platform, to maximize reach, optimize performance or effectively target different audiences with different videos.
+TubeMogul offers a variety of ad units to help you achieve your campaign goals and reach your audience wherever they are watching video online. Ad formats include  [In-Stream](ad-formats/in-stream.md),  [In-Display](ad-formats/in-display.md),  [Mobile](ad-formats/mobile.md),  [Social](ad-formats/social.md)and  [Connected TV](ad-formats/connected-tv.md). Each ad format has its own strengths depending on brand objectives.TubeMogul offers a solution for brands to choose multiple formats, from a single platform, to maximize reach, optimize performance or effectively target different audiences with different videos.
 [Click here](https://gallery.tubemogul.com/)to browse through TubeMogul's complete online video gallery.
 [ ![ad formats](assets/ad-formats.png)](assets/ad-formats.png) 

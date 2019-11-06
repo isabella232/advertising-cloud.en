@@ -37,10 +37,10 @@ The below will teach you how to use your GRP planning tool to project Cost Per P
 
 [ ![grp mode](assets/grp-mode.jpeg)](assets/grp-mode.jpeg)
 
-&nbsp;
+ 
 **Other Targeting Filters are Also Available**
 
 * You can still filter by specific Public Inventory, Private Inventory or Other Filters such as Day parting, Device Targeting, Audience Targeting etc.
 
-&nbsp;
-&nbsp; 
+ 
+  

@@ -68,11 +68,11 @@ Name, flight dates, whether or not to duplicate packages and/or placements.
 
 ### Destinations
 
-Set Advertiser and&nbsp;Campaign&nbsp;destination
+Set Advertiser and Campaign destination
 
 ### Settings to Edit
 
-Name, flight dates,&nbsp;whether or not to duplicate placements, maintain associated ads, duplication of pixels
+Name, flight dates, whether or not to duplicate placements, maintain associated ads, duplication of pixels
 
 &#42;&#42; Cannot set flight to be in the past or outside the bounds of the Campaign
 

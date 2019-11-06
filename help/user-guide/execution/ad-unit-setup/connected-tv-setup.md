@@ -26,11 +26,11 @@ isSticky: 0
 **Create a New Ad**
 
 * Click on Ads on the left hand menu bar
-* Select New Ad in the top right corner and select Pre-roll: Connected TV unit and duration you'd like to run. Keep in mind that the the duration of the ad will affect inventory&nbsp;availability.
+* Select New Ad in the top right corner and select Pre-roll: Connected TV unit and duration you'd like to run. Keep in mind that the the duration of the ad will affect inventory availability.
 
 **Upload the Video**
 
-* Upload Video: Raw creative asset. See&nbsp; [Ad Specs.](../../../user-guide/planning/ad-formats/ad-specs.md)
+* Upload Video: Raw creative asset. See  [Ad Specs.](../../../user-guide/planning/ad-formats/ad-specs.md)
 * Use Existing Video: Use a previously uploaded video to create a new ad.
 
 **Configure the Ad**

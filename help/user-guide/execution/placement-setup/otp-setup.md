@@ -23,22 +23,22 @@ isSticky: 0
 
 # OTP Setup {#otp-setup}
 
-To set up a&nbsp;On-Target Percentage&nbsp;placement, follow the steps below:
+To set up a On-Target Percentage placement, follow the steps below:
 
 1. Click on New Placement
 1. Select your Ad Format
-1. Select&nbsp;BrandPoint Mode> CPM Tab   
+1. Select BrandPoint Mode> CPM Tab   
    [ ![](assets/otp-setup.png)](assets/otp-setup.png)
 
-1. In the top right corner, click on Edit OptionsName your placement &nbsp;(Recommended Naming Convention: Test Campaign: OTP&nbsp;: PR15s: US )
+1. In the top right corner, click on Edit OptionsName your placement  (Recommended Naming Convention: Test Campaign: OTP : PR15s: US )
 
     * Status: Choose whether the placement should begin right away or stay paused until you've confirmed all details.
     * Tags: Optional key words to help you search for your placement within the TubeMogul UI.
     * Pacing: Determine if you'd like to spend your daily placement budget evenly across 24 hours or as fast as possible within a couple of hours of the day. Fill as Fast as Possible accelerates delivery and is effective for placements with tight targeting parameters or short flight dates.
-    * [Optimization Goals:](../../../user-guide/optimization/optimization-goals.md)&nbsp;Sites demonstrating strength in this metric will be favored during bidding
-    * [Conversions](conversions.md): TubeMogul enables you to easily track conversions through our platform. It's recommended to&nbsp; [create a conversion pixel](conversions.md)&nbsp;at least a week prior to campaign launch to ensure proper implementation and pixel firing. Once implemented, this is where you can enable the pixel on the placement level. Conversions can be any action performed by a viewer who was exposed to an ad such as returning to the brand site, signing up for a newsletter, inquiring for more information, etc.
+    * [Optimization Goals:](../../../user-guide/optimization/optimization-goals.md) Sites demonstrating strength in this metric will be favored during bidding
+    * [Conversions](conversions.md): TubeMogul enables you to easily track conversions through our platform. It's recommended to  [create a conversion pixel](conversions.md) at least a week prior to campaign launch to ensure proper implementation and pixel firing. Once implemented, this is where you can enable the pixel on the placement level. Conversions can be any action performed by a viewer who was exposed to an ad such as returning to the brand site, signing up for a newsletter, inquiring for more information, etc.
 
-1. Next,&nbsp;follow the steps below:
+1. Next, follow the steps below:
 
     * GOALS:
 
@@ -48,18 +48,18 @@ To set up a&nbsp;On-Target Percentage&nbsp;placement, follow the steps below:
         * GRP- Pick the number of GRPs you would like the placement to deliver
         * Frequency Cap- select the number of types you want to reach a unique viewer. This will be the cap for the duration of the placement.
 
-    * BUDGET:&nbsp;Choose flight dates, options for [dayparting](../../../user-guide/planning/targeting/targeting-options.md), budget and&nbsp; [inventory tier](../../../user-guide/planning/brand-safety/sitesafe-quality.md).
+    * BUDGET: Choose flight dates, options for [dayparting](../../../user-guide/planning/targeting/targeting-options.md), budget and  [inventory tier](../../../user-guide/planning/brand-safety/sitesafe-quality.md).
     
     * LOCATION:
 
 * Americas: United States, Canada
 * Europe: United Kingdom, France, Spain, Germany, Italy, Ireland, Sweden, Norway, Finland, Romania, Denmark, Netherlands, Switzerland, Belgium
 * APAC: Australia, Japan, Indonesia, Taiwan, Thailand, Malaysia, Hong Kong, Singapore, Philippines, Vietnam, China, South Korea
-* Note in-product Nielsen OCR reporting is only supported in the&nbsp;US, UK, Canada, France, Brazil, Australia, Germany and Italy.&nbsp;DMA targeting within the United States is available for the top 30 DMAs. DMA targeting is currently unavailable in all other countries.
+* Note in-product Nielsen OCR reporting is only supported in the US, UK, Canada, France, Brazil, Australia, Germany and Italy. DMA targeting within the United States is available for the top 30 DMAs. DMA targeting is currently unavailable in all other countries.
 
 1.
 
-    * PUBLIC INVENTORY: Although we typically recommend running across T1-T3 sites given this is an audience buy, if you'd like to target a specific contextual site list, we recommend you filter by % on-target &nbsp;or CPP.
+    * PUBLIC INVENTORY: Although we typically recommend running across T1-T3 sites given this is an audience buy, if you'd like to target a specific contextual site list, we recommend you filter by % on-target  or CPP.
 
 [ ![bp - site cat](assets/bp-site-cat-1024x510.jpeg)](assets/bp-site-cat.jpeg)
 
@@ -67,7 +67,7 @@ To set up a&nbsp;On-Target Percentage&nbsp;placement, follow the steps below:
 
     * [PRIVATE INVENTORY](../../../user-guide/planning/private-inventory.md)
     * [OTHER FILTERS](../../../user-guide/planning/targeting/targeting-options.md)
-    * ESTIMATED RESULTS:&nbsp;Forecast tools are determined by the GRP Goal, Frequency Cap, Budget and any additional targeting parameters set within the placement.
+    * ESTIMATED RESULTS: Forecast tools are determined by the GRP Goal, Frequency Cap, Budget and any additional targeting parameters set within the placement.
 
 [ ![bp - forecast](assets/forecast-otp.png)](assets/forecast-otp.png)
 
@@ -77,4 +77,4 @@ To set up a&nbsp;On-Target Percentage&nbsp;placement, follow the steps below:
     * Fill Rate On Target % is how likely you are to fill your impressions goal for your target audience
     * On Target % is the percentage of impressions that were delivered to your target demographic (on target impressions/total impressions).
 
-&nbsp; 
+  

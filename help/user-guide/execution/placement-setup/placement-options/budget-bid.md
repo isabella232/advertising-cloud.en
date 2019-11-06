@@ -33,9 +33,9 @@ This section of the Placement Options page provides you with an estimate of how 
 * Fill Curve Estimator: Use this to estimate the CPM (x axis represents pricing in CPM and y axis reflects the daily impressions that can be achieved for any given CPM bid).
 * Media Box: The gray box on the right of the fill curve gives you inventory and CPM pricing estimates based on recent buys.
 
-    * Estimated Fill: Percentage fill based on placement targeting (&#42;currently does not account for&nbsp; [audience targeting](../../../../user-guide/planning/targeting/behavioral.md))
+    * Estimated Fill: Percentage fill based on placement targeting (&#42;currently does not account for  [audience targeting](../../../../user-guide/planning/targeting/behavioral.md))
     * Estimated CPM: Average eCPM estimate including any additional fees.
-    * Estimated Fees: Includes additional fees incurred including&nbsp; [3rd party data](../../../../user-guide/planning/targeting/behavioral.md)or&nbsp; [Brand Safety](../../../../user-guide/planning/brand-safety/pagesafe-proximic.md). Hover over the question mark for details as shown in the screenshot below.
+    * Estimated Fees: Includes additional fees incurred including  [3rd party data](../../../../user-guide/planning/targeting/behavioral.md)or  [Brand Safety](../../../../user-guide/planning/brand-safety/pagesafe-proximic.md). Hover over the question mark for details as shown in the screenshot below.
     
     * Estimated Daily Impression: Daily impressions expected given targeting parameters, budget and bid.
     * Estimated Daily Uniques: Daily unique viewers expected

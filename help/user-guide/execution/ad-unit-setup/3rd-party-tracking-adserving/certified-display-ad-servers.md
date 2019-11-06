@@ -25,7 +25,7 @@ isSticky: 0
 
 # Certified Display Ad Servers {#certified-display-ad-servers}
 
-TubeMogul currently accepts the following certified display ad servers. Please review the below to ensure delivery and minimal reporting discrepancies,&nbsp;and make sure your 3rd party ad tags are&nbsp;SSL compliant (https).
+TubeMogul currently accepts the following certified display ad servers. Please review the below to ensure delivery and minimal reporting discrepancies, and make sure your 3rd party ad tags are SSL compliant (https).
 
 ![DFA](assets/dfa.jpg)
 
@@ -46,7 +46,7 @@ The tags do require a small formatting change before adding into the platform. T
 
 ```
 
-<pre><<script type="text/javascript"> &nbsp;(function(s,n,u,o,i){ for(i in o)o.hasOwnProperty(i)&&(u+='&'+i+'='+encodeURIComponent(o[i]));document.write('<script src= <span style="background-color: yellow;"><strong>\</strong></span>"'+(location.protocol=='https:'?s+u:n+u+decodeURI('<span style="background-color: yellow;"><strong>\</strong></span>" onerror=<span style="background-color: yellow;"><strong>\</strong></span>"document.write(%27<script src=%5c%27')+s+u+decodeURI('%5c%27><%27+%27/script>%27)'))+'<span style="background-color: yellow;"><strong>\</strong></span>"><'+'/script>'); }('https://s-cdn-tag.medialytics.com','https://tag.medialytics.com','/tag?format=dw',{ tagID: "sb376d0055b3a4e13aeeebe43a957157d", click: "${TM_CLICK_URL}$$_DESTINATION_URL_$$", ls: true, imppx: "" })); </script> <noscript> <a target="_blank" href="https://clk.medialytics.com/href?0.type=i&0.key=MMAdClickthrough&tagID=sb376d0055b3a4e13aeeebe43a957157d&impunique=${TM_RANDOM}"> <img src="https://c.medialytics.com /creative?type=s&tagID=sb376d0055b3a4e13aeeebe43a957157d&impunique=${TM_RANDOM}" width="300" height="250"/> </a> </noscript></pre>
+<pre><<script type="text/javascript">  (function(s,n,u,o,i){ for(i in o)o.hasOwnProperty(i)&&(u+='&'+i+'='+encodeURIComponent(o[i]));document.write('<script src= <span style="background-color: yellow;"><strong>\</strong></span>"'+(location.protocol=='https:'?s+u:n+u+decodeURI('<span style="background-color: yellow;"><strong>\</strong></span>" onerror=<span style="background-color: yellow;"><strong>\</strong></span>"document.write(%27<script src=%5c%27')+s+u+decodeURI('%5c%27><%27+%27/script>%27)'))+'<span style="background-color: yellow;"><strong>\</strong></span>"><'+'/script>'); }('https://s-cdn-tag.medialytics.com','https://tag.medialytics.com','/tag?format=dw',{ tagID: "sb376d0055b3a4e13aeeebe43a957157d", click: "${TM_CLICK_URL}$$_DESTINATION_URL_$$", ls: true, imppx: "" })); </script> <noscript> <a target="_blank" href="https://clk.medialytics.com/href?0.type=i&0.key=MMAdClickthrough&tagID=sb376d0055b3a4e13aeeebe43a957157d&impunique=${TM_RANDOM}"> <img src="https://c.medialytics.com /creative?type=s&tagID=sb376d0055b3a4e13aeeebe43a957157d&impunique=${TM_RANDOM}" width="300" height="250"/> </a> </noscript></pre>
 
 ```
 

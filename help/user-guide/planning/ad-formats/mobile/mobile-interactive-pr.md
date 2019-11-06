@@ -46,7 +46,7 @@ isSticky: 0
 * Adding additional brand or product touchpoints
 * Additional creative cost and ad serving fees may apply for custom executions.
 
-## Recommended&nbsp; Pricing Model: {#recommended-pricing-model}
+## Recommended  Pricing Model: {#recommended-pricing-model}
 
 * [CPM, CPCV, CPC, CPE](../../../../user-guide/planning/ad-formats/performance-pricing.md)
 

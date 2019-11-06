@@ -26,32 +26,32 @@ isSticky: 0
 Every site accessed by our buying platform has been manually screened by a dedicated team and ranked into tiers by quality. Advertisers can choose which quality tiers they want to run on.
 The guidelines for each tier:
 
-* Tier 1:&nbsp;Brand name sites that an advertiser will recognize and perceive as high quality (e.g. ESPN, Forbes)
-* Tier 2:&nbsp;Professional, quality sites, but an advertiser might not be as familiar with them (e.g. eHow, CafeMom)
-* Tier 3:&nbsp;Niche, long-tail sites that are brand safe and great for reach (e.g. RecipeLand)
-* Untiered: This bucket refers to sites that we have access to, but have yet to tier. Use this if you are looking for additional reach or &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; scale.
+* Tier 1: Brand name sites that an advertiser will recognize and perceive as high quality (e.g. ESPN, Forbes)
+* Tier 2: Professional, quality sites, but an advertiser might not be as familiar with them (e.g. eHow, CafeMom)
+* Tier 3: Niche, long-tail sites that are brand safe and great for reach (e.g. RecipeLand)
+* Untiered: This bucket refers to sites that we have access to, but have yet to tier. Use this if you are looking for additional reach or                     scale.
 
 [ ![site tool](assets/site-tool.jpeg)](assets/site-tool.jpeg)
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
-&nbsp; 
+ 
+  

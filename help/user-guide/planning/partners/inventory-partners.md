@@ -27,5 +27,5 @@ TubeMogul partners with most open exchanges to provide clients with access to op
 
 [here.](https://www.tubemogul.com/company/partners/inventory-suppliers/)
 
-&nbsp;
+ 
 [ ![Inventory](assets/inventory-1024x678.png)](assets/inventory.png) 

@@ -27,16 +27,16 @@ isSticky: 0
 
 * Click on Ads in the left navigation bar
 * Select New Ad in top right corner
-* Choose Phone&nbsp;Interactive Pre-roll
+* Choose Phone Interactive Pre-roll
 * Select 15s or 30s only
 
 `Upload the Video`
   
 [ ![Vast Upload](assets/vast-upload.png)](assets/vast-upload.png)
 
-* Upload Video: Raw creative asset. See&nbsp; [Ad Specs.](../../../../user-guide/planning/ad-formats/ad-specs.md)
+* Upload Video: Raw creative asset. See  [Ad Specs.](../../../../user-guide/planning/ad-formats/ad-specs.md)
 * Use Existing Video: Use a previously uploaded video to create a new ad.
-* Advanced:&nbsp;VAST Tag URL.&nbsp;To avoid reporting discrepancies, consult with your Account Manager to verify your mobile ad server has been certified.&nbsp;Tags need to be&nbsp;&nbsp; [MRAID](https://www.iab.net/mraid)&nbsp; not VAST.
+* Advanced: VAST Tag URL. To avoid reporting discrepancies, consult with your Account Manager to verify your mobile ad server has been certified. Tags need to be   [MRAID](https://www.iab.net/mraid)  not VAST.
 
 `Configure the Ad`
   
@@ -49,13 +49,13 @@ isSticky: 0
     * 320x480 for Background
     * 320x150 for header and footer assets
 
-* [Endcap](../../../../user-guide/planning/ad-formats/ad-features-guide/teasers-endcaps.md): Finish off with&nbsp;an image to reinforce your brand message.
-* [Pixel:](../../../../user-guide/execution/ad-unit-setup/3rd-party-tracking-adserving/tracking-pixels.md)&nbsp;Add in 3rd party tracking pixels.
+* [Endcap](../../../../user-guide/planning/ad-formats/ad-features-guide/teasers-endcaps.md): Finish off with an image to reinforce your brand message.
+* [Pixel:](../../../../user-guide/execution/ad-unit-setup/3rd-party-tracking-adserving/tracking-pixels.md) Add in 3rd party tracking pixels.
 
 `Save & Submit for Review`
   
-TubeMogul’s&nbsp; [ad review](../../../../user-guide/execution/ad-unit-setup/ad-reviews.md)&nbsp;team&nbsp;verifies&nbsp;that the ad is rendering properly and clicking through. Approval time is typically 2-4 hours on regular business hours and 24hrs on weekends.
+TubeMogul’s  [ad review](../../../../user-guide/execution/ad-unit-setup/ad-reviews.md) team verifies that the ad is rendering properly and clicking through. Approval time is typically 2-4 hours on regular business hours and 24hrs on weekends.
   
 Remember to attach the Ad to a the correct placement.
   
-&nbsp; 
+  

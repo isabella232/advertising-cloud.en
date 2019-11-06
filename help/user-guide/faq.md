@@ -29,19 +29,19 @@ isSticky: 0
 
 Generally, pre-roll impressions are more expensive than click-to-play impressions. Average cost-per-thousand (CPM) impressions for pre-roll is around $8-$15 while display ad units are around $2-$4. However, pricing can vary drastically from site-to-site or for many other reasons.
 
-**Why was my ad rejected?&nbsp;**
+**Why was my ad rejected? **
 
 Common reasons for an ad to be rejected are that the ad does not function properly or contains controversial content that publishers do not want to run. Usually the reason will be cited in the box that appears when you hover over the ad approval status.
 
-**Why isn't my ad getting traffic?&nbsp;**
+**Why isn't my ad getting traffic? **
 
 Normally this is because your Max Bid (CPM) is too low to win impressions. However, other reasons include: campaign dates have passed, the ad was deleted from the placement, the placement was paused or the ad was rejected.
 
-**Can I change my ad after it launches?&nbsp;**
+**Can I change my ad after it launches? **
 
 After your ad has been approved, any changes will require the ad to undergo ad approval. In doing so, the original ad will be pulled down and replaced with the new ad. Changing ads in-flight is not recommended.
 
-**How do I turn off my ad?&nbsp;**
+**How do I turn off my ad? **
 
 There are several ways. First, you can set the expiration date on the placement. After this date the ad will automatically stop running. Second, you can set the placement status to paused. Third, you can delete the entire placement (NOTE: We do not recommend deleting the placement because you will no longer be able to see reporting.)
 
@@ -51,7 +51,7 @@ Some clients send all of their creative to one vendor who creates tags, or bits 
 1. The vendor takes care of sending the creative to all of the other vendors on the buy: platforms and exchanges like TubeMogul, ad networks and individual publishers.
 1. The client can look in just one dashboard to see results for all of the platforms, exchanges, networks and publishers, knowing that the tracking has been implemented the same way across the board.
 
-**How many questions should I run in a survey?&nbsp;**
+**How many questions should I run in a survey? **
 An important consideration for your planning and budgeting should be the attrition rate between questions:
 
 * The median drop off rate for campaigns is 26% from Question 1 to Question 2, meaning that a typical campaign would get 100 responses for the first question and 74 for the second question.

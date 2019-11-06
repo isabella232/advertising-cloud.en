@@ -29,7 +29,7 @@ isSticky: 0
 
 `Over the next few weeks, we will share tips and tricks to get the most out of the new Placement Editor. Until then, catch a sneak peek at some of the changes in the video below!`
 
-&nbsp;
+ 
 
 [video width="2560" height="1600" mp4="https://education.tubemogul.com/wp-content/uploads/2016/09/TubeMogul-Placement-Editor-2.0-V2.mp4"][/video]
 If you have any questions, please reach out to your Account Manager or platform_support@tubemogul.com. 

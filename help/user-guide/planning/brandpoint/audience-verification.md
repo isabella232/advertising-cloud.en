@@ -23,7 +23,7 @@ isSticky: 0
 
 # Audience Verification {#audience-verification}
 
-**Benefits&nbsp;**
+**Benefits **
 
 [ ![nielsen-benefits](assets/nielsen-benefits1-1024x649.png)](assets/nielsen-benefits1.png)
 
@@ -42,4 +42,4 @@ How does Nielsen OCR work for digital?
 1. Advertisers receive reports within days about the performance of their ad campaign
 
 [Click here](../../../user-guide/measurement/nielsen-ocr-reporting.md)to learn more about Nielsen OCR Reporting within the TubeMogul platform.
-&#42; ComScore VCE reporting &nbsp;is not available in platform but can also be tracked. Please contact your Account Manager for details. 
+&#42; ComScore VCE reporting  is not available in platform but can also be tracked. Please contact your Account Manager for details. 

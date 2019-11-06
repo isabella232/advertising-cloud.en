@@ -29,7 +29,7 @@ Companion banners are served alongside the pre-roll ad and can help reinforce br
 
 **Upload Options:**
   
-**For image assets:&nbsp;**
+**For image assets: **
 
 * **Option 1:** Upload my Own Asset
 
@@ -52,7 +52,7 @@ Example of an iFrame Template:
 
   * click_through_url= 3rd party click redirect with tracking pixel and landing page
   * banner_image= upload the asset to TubeMogul and take the url in the Asset field. Example above: `http://playtime.tubemogul.com/ad_overlays/2325158_8488565.jpg`
-  * impression_pixel= 3rd party &nbsp;impression 1x1 tracker
+  * impression_pixel= 3rd party  impression 1x1 tracker
 
 * Copy the filled out iFrame
 * Go back to the ad configurator, select the size, Upload via 3rd party and paste in the iFrame you just created.

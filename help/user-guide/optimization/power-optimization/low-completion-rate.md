@@ -23,4 +23,4 @@ isSticky: 0
 
 # Low Completion Rate {#low-completion-rate}
 
-Follow the steps below to increase your completion rate:&nbsp; [ ![low completion rate](assets/low-completion-rate.png)](assets/low-completion-rate.png) 
+Follow the steps below to increase your completion rate:  [ ![low completion rate](assets/low-completion-rate.png)](assets/low-completion-rate.png) 

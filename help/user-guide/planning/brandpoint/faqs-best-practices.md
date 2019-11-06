@@ -80,37 +80,37 @@ isSticky: 0
 
 1. Is BrandPoint available in my market?
 
-    1. BrandPoint is available with Nielsen OCR reporting in the United States,&nbsp;United Kingdom, Canada, Italy, Germany, France, and Australia.&nbsp; It's also available with TubeMogul GRP reporting in the countries listed below.   
+    1. BrandPoint is available with Nielsen OCR reporting in the United States, United Kingdom, Canada, Italy, Germany, France, and Australia.  It's also available with TubeMogul GRP reporting in the countries listed below.   
        Countries Currently Available:
 
        Japan, Singapore, Belgium, China, Denmark, Finland, Brazil, Hong Kong, Indonesia, Malaysia, Netherlands, New Zealand, Norway, Philippines, Republic of Ireland, South Korea, Spain, Sweden, Switzerland, Taiwan, Thailand and Vietnam.
 
-       &nbsp;
+        
        Please contact us for expected availability in other countries.
 
 1. Why isn’t the DMA I want available through BrandPoint? When will it be available?
 
-    1. Nielsen OCR reporting is currently only available in the 30 largest DMAs in the United States.&nbsp; We will continue to add DMAs as they become available through Nielsen OCR.
+    1. Nielsen OCR reporting is currently only available in the 30 largest DMAs in the United States.  We will continue to add DMAs as they become available through Nielsen OCR.
 
 1. How are you able to report on sites where Nielsen OCR isn’t available?
 
-    1. Our system compares the audience composition of each site we serve ads on.&nbsp; We then find properties that have a similar audience composition to that site and base the prediction on those figures.
+    1. Our system compares the audience composition of each site we serve ads on.  We then find properties that have a similar audience composition to that site and base the prediction on those figures.
 
-1. In TV I buy a frequency target, you have a frequency cap.&nbsp; What’s the difference?
+1. In TV I buy a frequency target, you have a frequency cap.  What’s the difference?
 
-    1. Unlike TV, you can guarantee that one online user will see an ad no more than a specified amount of times.&nbsp; Reach and frequency, therefore, can be more accurately measured.&nbsp; If you have a certain average frequency in mind, it may be beneficial to raise the frequency cap to hit that average amount.
+    1. Unlike TV, you can guarantee that one online user will see an ad no more than a specified amount of times.  Reach and frequency, therefore, can be more accurately measured.  If you have a certain average frequency in mind, it may be beneficial to raise the frequency cap to hit that average amount.
 
 1. How long does it take to index my private marketplace / direct buy sites?
 
-    1. New private ad feeds will typically be available in the tool within 24 hours.&nbsp; However, the indexing process requires us to first run media through the feed to evaluate the site’s demographics, so it can sometimes take several days to index a site.
+    1. New private ad feeds will typically be available in the tool within 24 hours.  However, the indexing process requires us to first run media through the feed to evaluate the site’s demographics, so it can sometimes take several days to index a site.
 
 1. Is there a difference between a TV and digital GRP?
 
-    1. The calculation is the same – and in the case of BrandPoint, both are validated by Nielsen data.&nbsp; However, one might argue that a digital GRP is more valuable since the viewer has to initiate each video view (whereas most research suggests only 50% of people are actually watching the TV when it is on).&nbsp; Also, frequency caps can’t be set on TV.
+    1. The calculation is the same – and in the case of BrandPoint, both are validated by Nielsen data.  However, one might argue that a digital GRP is more valuable since the viewer has to initiate each video view (whereas most research suggests only 50% of people are actually watching the TV when it is on).  Also, frequency caps can’t be set on TV.
 
 1. Aren’t we going back in time by using GRPs in digital?
 
-    1. No, all of the other metrics we capture like completion rates, engagements, clicks and conversions are still available.&nbsp; GRP measurement is simply used to enable cross-media planning and measurement across TV and digital video.
+    1. No, all of the other metrics we capture like completion rates, engagements, clicks and conversions are still available.  GRP measurement is simply used to enable cross-media planning and measurement across TV and digital video.
 
 1. If I want to run in locations not available in BrandPoint, should I run the campaign under “CPM Mode”?
 
@@ -122,4 +122,4 @@ isSticky: 0
     1. CPM = effective CPM / on-target %
     1. CPP = (effective CPM &#42; natural population) / on-target %
 
-&nbsp; 
+  

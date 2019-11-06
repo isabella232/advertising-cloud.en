@@ -25,7 +25,7 @@ isSticky: 0
 
 # Planning {#planning}
 
-## **Welcome to our User Guide!&nbsp;** {#welcome-to-our-user-guide}
+## **Welcome to our User Guide! ** {#welcome-to-our-user-guide}
 
 If you are a new user, we recommend going through the User Guide by following the campaign life cycle stages: Planning, Execution, Optimization and Measurement. Get started below.
 **Campaign Planning Thought Process**
@@ -33,10 +33,10 @@ If you are a new user, we recommend going through the User Guide by following th
 1. Analyze campaign goals and objectives
 1. Select appropriate Ad Units
 1. Choose targeting strategies
-1. Use our planning tools to verify&nbsp;inventory availability
-1. Consider&nbsp;additional&nbsp;features available such as BrandSights, brand safety, interactive units, Private Inventory
+1. Use our planning tools to verify inventory availability
+1. Consider additional features available such as BrandSights, brand safety, interactive units, Private Inventory
 
-**Analyze&nbsp;Campaign Goals and Objectives**
+**Analyze Campaign Goals and Objectives**
 
 * `Brand`: Who is the advertiser?
 * `Campaign Goal`: What are they trying to achieve with this campaign? Is it awareness, message association, etc.

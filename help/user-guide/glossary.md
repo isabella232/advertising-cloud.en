@@ -23,4 +23,4 @@ isSticky: 0
 
 # Glossary {#glossary}
 
-Below is a glossary of commonly used terms. To find a definition to a term, please choose the first letter of the term or &nbsp; 
+Below is a glossary of commonly used terms. To find a definition to a term, please choose the first letter of the term or   

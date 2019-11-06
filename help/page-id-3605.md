@@ -29,4 +29,4 @@ If at any time during your campaign your ad gets rejected, here are a few troubl
 
     * When creating a campaign, make sure to choose the correct advertiser url. If this does not match the click through url the ad will be rejected.
 
-&nbsp; 
+  

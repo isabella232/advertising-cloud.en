@@ -49,7 +49,7 @@ An introduction to programmatic buying and how it is changing the digital video 
 
 **INVENTORY, PMPS AND AD SERVING**
 
-An introduction to how&nbsp;Adobe unifies inventory across open RTB marketplaces, premium publishers and private inventory.  
+An introduction to how Adobe unifies inventory across open RTB marketplaces, premium publishers and private inventory.  
 
 **BRAND SAFETY &amp; VIEWABILITY**
 
@@ -59,7 +59,7 @@ An introduction into using brand safety tools and technologies.
 
 **UI WALKTHROUGH – THE BASICS**
 
-A demo of&nbsp;Adobe Advertising Cloud platform. Topics include: dashboard overview, campaign set up, placement set up, and utilizing campaign planning tools to estimate inventory projections.  
+A demo of Adobe Advertising Cloud platform. Topics include: dashboard overview, campaign set up, placement set up, and utilizing campaign planning tools to estimate inventory projections.  
 
 **AD FORMATS OVERVIEW**
 
@@ -97,11 +97,11 @@ When executing video ad buys, advertisers often use a mix of direct deals, ad ne
 
 **DATA INTEGRATIONS**
 
-Learn about Adobe Advertising Cloud's 3rd party data integration partners like BlueKai, Exelate, Lotame, Experian etc as well as additional data capabilities and tools.&nbsp; Whether you are working with Adobe Analytics, Adobe Audience Manager or another 3rd party DMP, through a short integration process, learn where&nbsp;to access all of your 1st, 2nd or 3rd party data through your Ad Cloud DSP account. 
+Learn about Adobe Advertising Cloud's 3rd party data integration partners like BlueKai, Exelate, Lotame, Experian etc as well as additional data capabilities and tools.  Whether you are working with Adobe Analytics, Adobe Audience Manager or another 3rd party DMP, through a short integration process, learn where to access all of your 1st, 2nd or 3rd party data through your Ad Cloud DSP account. 
 
 **ATTRIBUTION**
 
-Learn how to measure campaign attribution through the&nbsp;Adobe Advertising Cloud platform. 
+Learn how to measure campaign attribution through the Adobe Advertising Cloud platform. 
 
 **BRANDSIGHTS**
 

@@ -23,7 +23,7 @@ isSticky: 0
 
 # Webinars {#webinars}
 
-Attend one of our free TubeMogul Webinars&nbsp;and learn the best ways to use our media buying platform to effectively deliver your brand message. These webinars are hosted by our expert Client Services&nbsp;team and are focused on special topics such as TubeMogul products and industry challenges. Sign up by clicking on the link below. &nbsp;If you prefer on-demand training on campaign execution procedures, tactics and best practices, watch our [Video Tutorials.](https://education.tubemogul.com/videos/)
+Attend one of our free TubeMogul Webinars and learn the best ways to use our media buying platform to effectively deliver your brand message. These webinars are hosted by our expert Client Services team and are focused on special topics such as TubeMogul products and industry challenges. Sign up by clicking on the link below.  If you prefer on-demand training on campaign execution procedures, tactics and best practices, watch our [Video Tutorials.](https://education.tubemogul.com/videos/)
 
 * There are no upcoming Webinars at this time. Be sure to check back in for updates!
 

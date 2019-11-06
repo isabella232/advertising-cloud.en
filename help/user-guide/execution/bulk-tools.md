@@ -32,7 +32,8 @@ Never attach the same ad one by one to multiple placements, or the same placemen
 ![unnamed (3)](assets/unnamed-3.png)
 
 
-*&#42;Note, there is a maximum of 20 selections you can do at one time.*
+>[!NOTE]
+>There is a maximum of 20 selections you can do at one time.*
 
 ## Bulk Editing {#bulk-editing}
 

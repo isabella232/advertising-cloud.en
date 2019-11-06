@@ -29,7 +29,7 @@ In addition to the account Blacklist, or exclude list, that advertisers can spec
 
 As part of our BrandSafety initiative to develop lasting, scalable, technology tools to root out activities that defraud advertisers, all sites are screened using the measures in the chart below. Those sites that do not pass through the brand safety checks are added to TubeMogul’s Global Blacklist.
 
-** [ ![bot](assets/bot.png)](assets/bot.png)&nbsp;**
+** [ ![bot](assets/bot.png)](assets/bot.png) **
 
 **How do I know if a site on my campaign is blacklisted by TubeMogul? **
 

@@ -58,15 +58,15 @@ Overlays help with persistent branding throughout the video and can drive additi
 
 * Click URL: landing page after viewer clicks on the overlay
 * X: Recommended to "Center". It prevents the overlay from moving around due to different player sizes on publisher sites.
-* Y: &nbsp;"Bottom" or "Top" depending on what position you'd like the overlay to show up on the ad.
+* Y:  "Bottom" or "Top" depending on what position you'd like the overlay to show up on the ad.
 * Layer:
 
     * 1: In front of the video
-    * 0: Same layer as the video; video will shrink to fill remaining space. &nbsp;Not recommended for Interactive Preroll
+    * 0: Same layer as the video; video will shrink to fill remaining space.  Not recommended for Interactive Preroll
     * -1: Behind the video
     * Background: Behind video and other overlays, will scale to full width & height, aspect ratio will not be preserved.
 
-&#42;Interactive Preroll ads will vary in size based on the site, so we recommend overlays either be set to scale (by setting width and height to percentages) or be anchored only to one side of the ad with a ‘floating’ edge on the other side when scaling is not desired. &nbsp;Scaling may distort text and details. &nbsp;(See&nbsp; [https://www.tubemogul.com/marketing/showcase/pre-roll-interactive.html](https://www.tubemogul.com/marketing/showcase/pre-roll-interactive.html)&nbsp;for examples.)
+&#42;Interactive Preroll ads will vary in size based on the site, so we recommend overlays either be set to scale (by setting width and height to percentages) or be anchored only to one side of the ad with a ‘floating’ edge on the other side when scaling is not desired.  Scaling may distort text and details.  (See  [https://www.tubemogul.com/marketing/showcase/pre-roll-interactive.html](https://www.tubemogul.com/marketing/showcase/pre-roll-interactive.html) for examples.)
 
 **Best Practices on Designing an Overlay**
 

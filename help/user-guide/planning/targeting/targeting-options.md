@@ -29,7 +29,7 @@ Highlight in blue the time and days of the week the placement will run. Make sur
 
 [ ![Daypart](assets/daypart.jpeg)](assets/daypart.jpeg)
 
-&nbsp;
+ 
 
 **Topic Targeting**
 

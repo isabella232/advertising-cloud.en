@@ -30,7 +30,7 @@ TubeMogul supports HTML5 creatives for standard display and companion ads. We st
 
 * Click on Ads
 * Select Display
-* Choose&nbsp;from [Click-to-Play](../../../user-guide/planning/ad-formats/in-display/click-to-play.md), [Rollover-to-Play](../../../user-guide/planning/ad-formats/in-display/rollover-to-play.md), [Branded Autoplay](../../../user-guide/planning/ad-formats/in-display/branded-autoplay.md) or [Expandable Click-to-Play](../../../user-guide/planning/ad-formats/in-display/click-to-expand.md).
+* Choose from [Click-to-Play](../../../user-guide/planning/ad-formats/in-display/click-to-play.md), [Rollover-to-Play](../../../user-guide/planning/ad-formats/in-display/rollover-to-play.md), [Branded Autoplay](../../../user-guide/planning/ad-formats/in-display/branded-autoplay.md) or [Expandable Click-to-Play](../../../user-guide/planning/ad-formats/in-display/click-to-expand.md).
 
 **For Standard Display**
   
@@ -45,10 +45,10 @@ TubeMogul supports HTML5 creatives for standard display and companion ads. We st
 
 [ ![html](assets/html.png)](assets/html.png)
 
-&nbsp;
+ 
 Insert the code snippet below inside the **<head>**element of the HTML file.
 
-&nbsp;
+ 
 
 [ ![HTML5 code snippet](assets/html5-code-snippet.png)](assets/html5-code-snippet.png)
 In the snippet:
@@ -72,24 +72,24 @@ Caveat: Fallback images are not supported when using TubeMogul to serve HTML5 di
 **For Video**
 [ ![dada](assets/dada.png)](assets/dada.png)
 
-* Upload Video: Raw creative asset. See&nbsp; [Ad Specs.](../../../user-guide/planning/ad-formats/ad-specs.md)
+* Upload Video: Raw creative asset. See  [Ad Specs.](../../../user-guide/planning/ad-formats/ad-specs.md)
 * Use Existing Video: Use a previously uploaded video to create a new ad.
-* Advanced: 3rd Party Ad Tag.&nbsp;We currently accept DFA and Sizmek SSL compliant tags.
+* Advanced: 3rd Party Ad Tag. We currently accept DFA and Sizmek SSL compliant tags.
 
 **Configure the Ad**
   
 [ ![CTP](assets/ctp.png)](assets/ctp.png)
 
 * Basic: Name your ad and add a landing page to the click URL field.
-* [Teasers](/help/user-guide/planning/ad-formats/ad-features-guide/teasers-endcaps.md) `:`&nbsp;Include an image or a 7-10 second video to entice viewer to user-initiated&nbsp;the video play. Recommended to have strong call to action, recognizable images and brand logo.
+* [Teasers](/help/user-guide/planning/ad-formats/ad-features-guide/teasers-endcaps.md) `:` Include an image or a 7-10 second video to entice viewer to user-initiated the video play. Recommended to have strong call to action, recognizable images and brand logo.
 
-* [Overlays](overlay.md) `:`&nbsp;Add a 300x60 banner to enhance message/brand association and drive additional clicks. For&nbsp;Expandable CTP, leverage&nbsp;the "Background"&nbsp;overlay Layer.
+* [Overlays](overlay.md) `:` Add a 300x60 banner to enhance message/brand association and drive additional clicks. For Expandable CTP, leverage the "Background" overlay Layer.
 
 * [Endcaps](https://education.tubemogul.com/user-guide/execution/ad-unit-setup/teasers-endcaps/) `:`Upload an image at the end of the ad to encourage traffic to the site.
 
 * Sharing Buttons: Add Twitter or Facebook buttons to drive social sharing.
-* [Pixel](3rd-party-tracking-adserving/tracking-pixels.md):&nbsp;Add in 3rd party tracking pixels or TubeMogul's retargeting pixel.
+* [Pixel](3rd-party-tracking-adserving/tracking-pixels.md): Add in 3rd party tracking pixels or TubeMogul's retargeting pixel.
 
 **Save & Submit for Review**
   
-TubeMogul's [ad review](ad-reviews.md) team&nbsp;verifies&nbsp;that the ad is rendering properly and clicking through. Approval time is typically 2-4 hours on regular business hours and 24hrs on weekends. 
+TubeMogul's [ad review](ad-reviews.md) team verifies that the ad is rendering properly and clicking through. Approval time is typically 2-4 hours on regular business hours and 24hrs on weekends. 

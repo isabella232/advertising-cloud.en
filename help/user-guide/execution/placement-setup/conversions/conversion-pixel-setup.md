@@ -25,10 +25,10 @@ isSticky: 0
 
 # Conversion Pixel Setup {#conversion-pixel-setup}
 
-**STEP 1:&nbsp;**Create a New Conversion pixel by clicking on the Tools option in the top menu bar. Then click on the Conversions tab on the left hand navigation.
+**STEP 1: **Create a New Conversion pixel by clicking on the Tools option in the top menu bar. Then click on the Conversions tab on the left hand navigation.
 
 [ ![image2013-10-18 14-18-16](assets/image2013-10-18-14-18-16-1024x354.jpeg)](assets/image2013-10-18-14-18-16.jpeg)
-**STEP 2:**&nbsp;Click on New Conversion and the platform will prompt you to choose either a Standard Conversion or Facebook Conversion pixel process. If you're tracking conversions on a Facebook placement, you can set that up [here](facebook-conversion-pixel-setup.md). Otherwise, select Standard and choose the appropriate Advertiser. If you have not created your Advertiser yet, please create it before continuing.
+**STEP 2:** Click on New Conversion and the platform will prompt you to choose either a Standard Conversion or Facebook Conversion pixel process. If you're tracking conversions on a Facebook placement, you can set that up [here](facebook-conversion-pixel-setup.md). Otherwise, select Standard and choose the appropriate Advertiser. If you have not created your Advertiser yet, please create it before continuing.
 
 <image>
 
@@ -51,7 +51,7 @@ Note: Only one conversion per-user-per-conversion-pixel is permitted every 24 ho
 **STEP 3**: Copy the HTML Tag and drop it into the website where the conversion takes place. Verify the conversion is firing with a Web Developer Tool like Charles, Firebug or Fiddler.
 
 [ ![image2013-3-25 13-34-24](assets/image2013-3-25-13-34-24.jpeg)](assets/image2013-3-25-13-34-24.jpeg)
-**STEP 4:&nbsp;**&nbsp;If the conversion pixel is activated for a campaign after placements have already been created, they will need to have the pixel explicitly activated by editing the placement and enabling the conversion tracking in each specific campaign placement:
+**STEP 4: ** If the conversion pixel is activated for a campaign after placements have already been created, they will need to have the pixel explicitly activated by editing the placement and enabling the conversion tracking in each specific campaign placement:
 
 [ ![image2013-3-25 13-37-30](assets/image2013-3-25-13-37-30-300x125.jpeg)](assets/image2013-3-25-13-37-30.jpeg)
 **Possible Stats Discrepancies**

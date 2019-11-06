@@ -23,7 +23,7 @@ isSticky: 0
 
 # Placement Options {#placement-options}
 
-Once you've clicked on New Placement, selected an Ad Unit, you will be taken to the &nbsp;Placement Options page. &nbsp;By default you are taken to Current View where you can plan your CPM impression based campaign. &nbsp;Click below to learn how to fill out each section of the Placement Options page.
+Once you've clicked on New Placement, selected an Ad Unit, you will be taken to the  Placement Options page.  By default you are taken to Current View where you can plan your CPM impression based campaign.  Click below to learn how to fill out each section of the Placement Options page.
 [ ![2014-07-16_0039](assets/2014-07-16-0039.png)](assets/2014-07-16-0039.png)
 
 * [Basics](placement-options/basics.md)

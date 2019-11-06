@@ -42,7 +42,7 @@ Note: VPAID Flash support will not be deprecated immediately to support a smooth
 
 1st-Party / TubeMogul Ads``
 
-All videos uploaded as interactive pre-roll will automatically be converted to VPAID Flash and JavaScript in TubeMogul’s platform. For overlays, it is recommended that an image is uploaded (e.g. JPEG, PNG, GIF). If a SWF/Flash file is uploaded, the ad will not be served into VPAID JavaScript &nbsp;inventory.
+All videos uploaded as interactive pre-roll will automatically be converted to VPAID Flash and JavaScript in TubeMogul’s platform. For overlays, it is recommended that an image is uploaded (e.g. JPEG, PNG, GIF). If a SWF/Flash file is uploaded, the ad will not be served into VPAID JavaScript  inventory.
 
 3rd-Party Ads``
 
@@ -65,7 +65,7 @@ All videos uploaded as interactive pre-roll will automatically be converted to V
 
 [ ![ipr-new-icons](assets/ipr-new-icons-300x203.png)](assets/ipr-new-icons.png)
 
-&nbsp;
+ 
 `Note: If you would like to only target desktop or mobile video inventory in the platform, go to`Device Type targeting in the Placement Editor and select either Computer or Smartphone and Tablet.
 [](assets/device-targeting1.png) [ ![device-targeting](assets/device-targeting2-300x188.png)](assets/device-targeting2.png)
 
@@ -73,11 +73,11 @@ Viewability Reporting``
 
 **`Under the Viewability Tab of the placement, TubeMogul metrics on the site level will include both desktop and mobile numbers. IAS and MOAT downloadable reports will also include desktop and mobile metrics, but reporting is currently blended since vendors are not separating out reporting by screen.`**
 
-&nbsp;
+ 
 
 **` [ ![viewability-reporting](assets/viewability-reporting-1024x809.png)](assets/viewability-reporting.png)`**
 
 **`If you have any additional questions please reach out to your Account Manager or platform_demo@tubemogul.com`**
 
-&nbsp;
-&nbsp; 
+ 
+  

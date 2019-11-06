@@ -25,9 +25,9 @@ isSticky: 0
 
 # Facebook Ad Setup {#facebook-ad-setup}
 
-The platform allows you to upload a video or use an existing post. If you'd like to upload a video, review the [Facebook ad specs](https://www.tubemogul.com/ad-specs/social-specs/) before creating your ad. &nbsp;Notable things to keep in mind:
+The platform allows you to upload a video or use an existing post. If you'd like to upload a video, review the [Facebook ad specs](https://www.tubemogul.com/ad-specs/social-specs/) before creating your ad.  Notable things to keep in mind:
 
-* Caption length&nbsp;can be up to 90 characters
+* Caption length can be up to 90 characters
 * Thumbnail image is required and should match the aspect ratio of your video
 * Maximum length: 45 minutes (suggested max length 3 min)
 
@@ -35,31 +35,31 @@ After you have the appropriate specs or if you'd like to use an existing post, n
 
 [ ![fb ad](assets/fb-ad.png)](assets/fb-ad.png)
 
-&nbsp;
+ 
 
 Once you've selected the ad type, you'll be able to Upload Video, Use existing video, or Use existing post.
 
 [ ![fb ad3](assets/fb-ad3.png)](assets/fb-ad3.png)
 
-&nbsp;
+ 
 
 To use an existing post, you'll need to enter the "Page Post ID" or search for the post within the account under the Basic section of the ad configurator.
 
 [ ![fb ad 4](assets/fb-ad-4.png)](assets/fb-ad-4.png)
 
-&nbsp;
+ 
 
 After that you can move to the Pixel section, if you have any pixels you'd like to attach to the ad. Move to the bottom of the page if you'd like a full list of the pixels that are accepted from Facebook.
 
 [ ![fb ad 5](assets/fb-ad-5.png)](assets/fb-ad-5.png)
 
-&nbsp;
+ 
 
 Fill out all the applicable pixel information, skipping the Pixel Provider and Save & Close. Note, the ad configurator only supports Impression pixels.
 
 [ ![fb ad 6](assets/fb-ad-6.png)](assets/fb-ad-6.png)
 
-&nbsp;
+ 
 The other option when building your ad is to select Upload Video or Use existing video. Choosing either of these options, will take you to the Basic section of the ad configurator and require that you fill out the following information:
 
 * Ad Name
@@ -76,7 +76,7 @@ The other option when building your ad is to select Upload Video or Use existing
 [ ![fb ad7](assets/fb-ad7.png)](assets/fb-ad7.png)
 
 &#42;All these fields must be filled out in order to generate a preview of your ad.
-[ ![54C6E91C-FFCF-438D-827E-2352646DAB00](assets/54c6e91c-ffcf-438d-827e-2352646dab00.png)](assets/54c6e91c-ffcf-438d-827e-2352646dab00.png)Note that Fb determines the video quality &nbsp;in preview as well as at runtime according to different parameters like detected bandwidth, device, location etc. Users can switch to HD in the preview (and in realtime) &nbsp;to improve video quality.
+[ ![54C6E91C-FFCF-438D-827E-2352646DAB00](assets/54c6e91c-ffcf-438d-827e-2352646dab00.png)](assets/54c6e91c-ffcf-438d-827e-2352646dab00.png)Note that Fb determines the video quality  in preview as well as at runtime according to different parameters like detected bandwidth, device, location etc. Users can switch to HD in the preview (and in realtime)  to improve video quality.
 
 From there add any pixels you'd like to include in the ad and Save & Close. Once this ad is attached to the Facebook placement you're all set.
 Full list of pixels that are accepted:

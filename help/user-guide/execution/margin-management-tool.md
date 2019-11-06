@@ -31,5 +31,5 @@ Manage and accurately track campaign financial margins directly in the platform 
 
 [ ![mm1](assets/mm1.png)](assets/mm1.png)
 
-&nbsp;
+ 
 The above highlights the 2 operating models that can be used with this tool. Click here to read more about [Fixed Margin](fixedmargin.md) and here to learn more about [Dynamic Margin.](dynamicmargin.md) 

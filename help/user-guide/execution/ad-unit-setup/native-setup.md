@@ -25,7 +25,7 @@ isSticky: 0
 
 # Native Ads Setup {#native-ads-setup}
 
-Below are step-by-step instructions on how to set up Native&nbsp;ad's within&nbsp;the Ad Cloud platform.
+Below are step-by-step instructions on how to set up Native ad's within the Ad Cloud platform.
 
 **1. Create Native Placement**
 
@@ -35,11 +35,11 @@ Navigate to the Placement Editor and select Native Display or Video.
 
 [ ![1.1 Native Placement Selector](assets/1.1-native-placement-selector-1024x448.png)](assets/1.1-native-placement-selector.png)
 
-&nbsp;
+ 
 
 [ ![1.11 Native Placement Selector](assets/1.11-native-placement-selector-300x150.png)](assets/1.11-native-placement-selector.png)
 
-&nbsp;
+ 
 
 Enter information in the placement, such as name, status, flight dates, location and more.
 
@@ -53,31 +53,31 @@ Enter information in the placement, such as name, status, flight dates, location
 1. `By targeting both mobile and desktop in a single placement, placement level reporting will be blended. To report by screen, target only desktop or mobile.`
 1. `To maximize delivery across all Native SSPs for mobile web, app and desktop - we recommend setting up your ad accordingly to meet min/max requirements of all inventory sources. See below:`
 
-&nbsp;
+ 
 
 **2. Create Native Ads**
 
-Navigate to the&nbsp;Ad&nbsp;Type Selector&nbsp;and select Native Display or Video.
+Navigate to the Ad Type Selector and select Native Display or Video.
 
-***Note**:&nbsp;Here is where you choose your ad type whether its Autoplay, Click-to-Play, or Display.&nbsp;Adobe will determine where to run your native campaign based&nbsp;on&nbsp;the type of native ad you attach to your native placement. Cinemagraphs are a Display ad type and can be optimized by targeting a unique feed (contact your account manager for help to set that up).*
+***Note**: Here is where you choose your ad type whether its Autoplay, Click-to-Play, or Display. Adobe will determine where to run your native campaign based on the type of native ad you attach to your native placement. Cinemagraphs are a Display ad type and can be optimized by targeting a unique feed (contact your account manager for help to set that up).*
 
 [ ![2.1 Native Ad Selector](assets/2.1-native-ad-selector-1024x463.png)](assets/2.1-native-ad-selector.png)
   
-&nbsp;
+ 
 
 **2.1 Native Display Ads**
 
 [ ![2.2 Native Display](assets/2.2-native-display-1024x649.png)](assets/2.2-native-display.png)
   
-&nbsp;
+ 
 
 Create your native display ad in the Ad Configurator tool. Here are the assets required for creating an ad:
 *Native Creative or Image Asset*
 
-* `Recommended Minimum:`&nbsp;1200 x 627px
-* `Absolute Minimum Size:`&nbsp;600x600px
-* `File Type:`&nbsp;JPEG or PNG File
-* `File Size:`&nbsp;Less than 1MB.
+* `Recommended Minimum:` 1200 x 627px
+* `Absolute Minimum Size:` 600x600px
+* `File Type:` JPEG or PNG File
+* `File Size:` Less than 1MB.
 * `Note:` &#42;Image should be free of text
 
 *Text copy*
@@ -87,35 +87,35 @@ Create your native display ad in the Ad Configurator tool. Here are the assets r
 * `Description:` **`Recommended max 100 characters, absolute max 200 characters.`**
 
 * **`CTA``(Optional):`** **`Max 15 characters`**
-* `Sponsored by (Advertiser name)`:&nbsp;25 Characters
+* `Sponsored by (Advertiser name)`: 25 Characters
 
 *Logo (optional, but recommended for more prominent branding)*
 
-* `Format:`&nbsp;JPEG / transparent PNG
-* `Recommended Minimum:`&nbsp;300x300px
+* `Format:` JPEG / transparent PNG
+* `Recommended Minimum:` 300x300px
 * **Absolute Minimum Size```: 80x80px`**
-* `Ratio:`&nbsp;1x1
+* `Ratio:` 1x1
 
 *URL*
 
 * Landing page URL
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
 **2.2 Native Video Ads**
 
 Native Video ads should follow the same specs as Display in terms of logo, headline, description, etc. You'll also need to ad a display asset as a cover image before the video renders on the viewer's page. Please follow all the above specs for those details. For the video asset specific specs, see below:
 
-Start by&nbsp;creating a video ad, either&nbsp;uploading a video asset or use previously uploaded videos. Pre-roll and other video assets can be used for native video ads
+Start by creating a video ad, either uploading a video asset or use previously uploaded videos. Pre-roll and other video assets can be used for native video ads
 
 [ ![3.0 ad upload](assets/3.0-ad-upload-1024x527.png)](assets/3.0-ad-upload.png)
   
-&nbsp;
+ 
 *Note that:*
 
-* Video assets will be hosted by&nbsp;Adobe Ad Cloud
+* Video assets will be hosted by Adobe Ad Cloud
 * Recommended Format:
 
     * 16:9 ratio
@@ -132,7 +132,7 @@ Start by&nbsp;creating a video ad, either&nbsp;uploading a video asset or use pr
     * 30MB max (Sharethrough)
     * 2MB, 5MB max (MoPub)
 
-**NOTE**: TripleLift Click-to-Play desktop is a good format for long form content. However&nbsp;please note the above recommended video specs are recommended to ensure smooth scaling across&nbsp;all inventory.
+**NOTE**: TripleLift Click-to-Play desktop is a good format for long form content. However please note the above recommended video specs are recommended to ensure smooth scaling across all inventory.
 
 **3. Access Reporting**
 Once placement and ad set-up is complete, native ads will start running. **`Reporting is available at the campaign, package, placement and ad level. Initial metrics include:`**
@@ -143,7 +143,7 @@ Once placement and ad set-up is complete, native ads will start running. **`Repo
 * `Views – video start`
 * `Completion rate: 25%, 50%, 75%, 100%`
 
-&nbsp;
+ 
 
 **6. 3rd-Party Viewability Reporting**
 
@@ -153,10 +153,10 @@ Once placement and ad set-up is complete, native ads will start running. **`Repo
 
 Once activated, both IAS and MOAT reports will be downloadable in the campaign and placement level.
 
-&nbsp;
-*****Note:***`3rd-party viewability tracking is only available for ShareThrough and TripleLift ads and is not available on MoPub inventory.`** ***For a list of certified native tracking pixels, [click here](3rd-party-tracking-adserving/certified-native-tracking-pixels.md)!&nbsp;***
+ 
+*****Note:***`3rd-party viewability tracking is only available for ShareThrough and TripleLift ads and is not available on MoPub inventory.`** ***For a list of certified native tracking pixels, [click here](3rd-party-tracking-adserving/certified-native-tracking-pixels.md)! ***
 
-&nbsp;
+ 
 
 **4. Impression and Click Tracking Pixels**
 
@@ -164,21 +164,21 @@ Impression Tracking``
 
 `TripleLift, ShareThrough and MoPub accepts 3rd-party impression tracking pixels. Trackers need to be a 1x1 image URL format. Place tracker in the Pixel tab of the ad.`
 
-&nbsp;
+ 
 
 [ ![Impression Tracking](assets/impression-tracking-1024x300.png)](assets/impression-tracking.png)
 
-&nbsp;
+ 
 
 Click Tracking``
 
 --> ClickThroughs
 
-TripleLift, ShareThrough and MoPub accepts 3rd-party click tracking pixels if the tracker has a landing page URL embedded in the tracker. If this is the case, place the click tracker URL in the Landing Page field of the Ad Configurator. NOTE: this tracks for clicks from headlines, CTAs, and the card itself that&nbsp;drives&nbsp;&nbsp;clickthroughs
+TripleLift, ShareThrough and MoPub accepts 3rd-party click tracking pixels if the tracker has a landing page URL embedded in the tracker. If this is the case, place the click tracker URL in the Landing Page field of the Ad Configurator. NOTE: this tracks for clicks from headlines, CTAs, and the card itself that drives  clickthroughs
 
 --> Video Expansions
 
 Currently this is not supported via the Ad Cloud platform
 
-&nbsp;
-&nbsp; 
+ 
+  

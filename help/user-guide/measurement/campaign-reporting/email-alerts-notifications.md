@@ -29,7 +29,7 @@ Set up automatic email alerts to your inbox, and minimize the need to log into t
 * Navigate to "My Account"
 
 [ ![myaccount](assets/myaccount-300x209.png)](assets/myaccount.png)
-&nbsp;
+ 
 
 * In the left hand side under "Communications", select "Notifications"
 * Choose a "Subscription Name" for the alerts
@@ -79,5 +79,5 @@ If you are not actively checking campaign reporting within the platform, it’s 
 * Does not send alerts on any performance level data
 * Does not email you any recent placement changes to max bids, budgets or status
 
-&nbsp;
-&nbsp; 
+ 
+  

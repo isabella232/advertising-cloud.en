@@ -37,7 +37,7 @@ isSticky: 0
 
 * Skip functionality means your ad is only viewed by the most engaged audience
 * Video served before premium content on leading YouTube channels
-* Added Value 300x60 companion banner&nbsp;provides persistent branding and drives additional clicks
+* Added Value 300x60 companion banner provides persistent branding and drives additional clicks
 
 **Considerations:**
 

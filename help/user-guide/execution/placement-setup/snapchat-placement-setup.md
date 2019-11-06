@@ -82,7 +82,7 @@ Snapchat advises users to plan on creating a placement‘paused’ first while a
         1. Certain Snap Ads need to be regulated for their content (alcohol, 13+ or R-rated, movie trailers, etc) as to not expose them to underage users, thus these ads will not be shareable.  If a Snap Ad placement has the "Regulated Content Only" denotation, shareable ads will not be allowed to be attached to the placement. ``
         1. If running ads for alcohol, gambling or R & 13+ rated movies, you are required to turn on the Regulated Content flag. ``
 
-            1. *NOTE*: these ads are NOT shareable and thus the "shareable" checkbox should not be marked within the Ad Configurator. `&nbsp; ![regulated content shareable](assets/regulated-content-shareable-300x105.png)            
+            1. *NOTE*: these ads are NOT shareable and thus the "shareable" checkbox should not be marked within the Ad Configurator. `  ![regulated content shareable](assets/regulated-content-shareable-300x105.png)            
             
                `
 
@@ -93,7 +93,7 @@ Snapchat advises users to plan on creating a placement‘paused’ first while a
         1. This is where you can leverage Snapchat's unique Lifestyle Category targeting as well as 3rd party data from partners that Snapchat has integrated with.
 
             1. *Lifestyle Categories*: Snapchat's unique targeting segments based on their user's interests / content consumption in the Snapchat Discover Feed.
-            1. *Datalogix Demographic*:&nbsp;DLX Shopper, DLX Comscore (Viewer), DLX PlaceIQ (Visitors) targeting segments.
+            1. *Datalogix Demographic*: DLX Shopper, DLX Comscore (Viewer), DLX PlaceIQ (Visitors) targeting segments.
             1. *Content Categories:* Allows advertisers to specify publisher content types for better brand messaging efficiency. Categories include: News, Entertainment, Technology and more.
 
 1. **LOCATION / GEO TARGETING [ ![GEO](assets/geo-1024x590.png)](assets/geo.png)**
@@ -113,7 +113,7 @@ Snapchat advises users to plan on creating a placement‘paused’ first while a
         
         1. **Note**: you will need to upload either a CSV or TXT format of raw (unhashed) mobile IDs or email addresses. If uploading hashed files, the files will also need to be in SHA256 format. ``
         
-        1. You can also choose to create look-alike audiences based off the created segments. These look-alike audiences are consumers who share similar characteristics with&nbsp;an the&nbsp;advertiser's existing customers.
+        1. You can also choose to create look-alike audiences based off the created segments. These look-alike audiences are consumers who share similar characteristics with an the advertiser's existing customers.
 
             1. Once you have SAMs, you will be able to create a look-alike audience off that audience pool ``
             1. Look-alike audiences are not readily available for all countries and regions [ ![Lookalikes](assets/lookalikes-300x169.png)](assets/lookalikes.png)

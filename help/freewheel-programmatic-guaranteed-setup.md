@@ -86,7 +86,7 @@ Before you get started on creating your deal, make sure you have at least one ad
 * Select the Create placement button
 * Review the final details and you're all set for deal/feed creation. The ad will be auto-submitted to Freewheel for the publisher to approve. Approval time is at the publisher's discretion.
 
-To submit a ad to an existing feed,&nbsp;you can submit via feed or via the ad process.
+To submit a ad to an existing feed, you can submit via feed or via the ad process.
 
 ## Submit Via Feed
 

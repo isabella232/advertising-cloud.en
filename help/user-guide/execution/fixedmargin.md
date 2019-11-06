@@ -24,8 +24,8 @@ isSticky: 0
 
 # Fixed Margin Management {#fixed-margin-management}
 
-Fixed Margin Management is one of the two business models supported in TubeMogul's Margin Management feature. In the past, you were asked to calculate the net budget outside of the platform, and then apply these at the campaign and placement levels. Now you can enter a&nbsp;gross budget, put in the pre-negotiated fixed margin percentage, and then TubeMogul will auto-calculate and cap spend at the net budget.
-`<script src="//fast.wistia.com/assets/external/E-v1.js" async charset="ISO-8859-1"></script>`Activating this feature at the campaign level will account for it at all levels.&nbsp;Ultimately reducing&nbsp;the amount of manual work required to figure out what your budgets are.
+Fixed Margin Management is one of the two business models supported in TubeMogul's Margin Management feature. In the past, you were asked to calculate the net budget outside of the platform, and then apply these at the campaign and placement levels. Now you can enter a gross budget, put in the pre-negotiated fixed margin percentage, and then TubeMogul will auto-calculate and cap spend at the net budget.
+`<script src="//fast.wistia.com/assets/external/E-v1.js" async charset="ISO-8859-1"></script>`Activating this feature at the campaign level will account for it at all levels. Ultimately reducing the amount of manual work required to figure out what your budgets are.
 
 [ ![fixed](assets/fixed.png)](assets/fixed.png)
 
@@ -34,11 +34,11 @@ Feature Setup:
 
 [ ![campaign basics](assets/campaign-basics1-1024x428.png)](assets/campaign-basics1.png)
 
-&nbsp;
-`Step 2`: &nbsp;Fill out the Margin Management section of the page:
+ 
+`Step 2`:  Fill out the Margin Management section of the page:
 
-* Select "Yes" to activate Margin Management&nbsp;and "Fixed" for the Margin Type (cannot be changed once the campaign is created).
-* Enter the Gross (Client's) Budget and Fixed Margin % - Using the example above of $10,000 and 10%, the platform will auto-calculate the Spend Cap (or net budget) of&nbsp;$90,000.
+* Select "Yes" to activate Margin Management and "Fixed" for the Margin Type (cannot be changed once the campaign is created).
+* Enter the Gross (Client's) Budget and Fixed Margin % - Using the example above of $10,000 and 10%, the platform will auto-calculate the Spend Cap (or net budget) of $90,000.
 
 [ ![image (11)](assets/image-111.png)](assets/image-111.png)
 
@@ -50,21 +50,21 @@ Margin Management can be found at the campaign and placement reporting pages, as
 
 [ ![reporting-mm](assets/reporting-mm.png)](assets/reporting-mm.png)
 
-&nbsp;
+ 
 
 Package level reporting is accessible in 2 ways:
 `Option 1`: Filter placements by package association in the placement list page.
 
 [ ![package reporting1](assets/package-reporting1.png)](assets/package-reporting1.png)
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 `Option 2`: Export package level data by hitting "Export" button.
 
 [ ![pacakagereporting2](assets/pacakagereporting2.png)](assets/pacakagereporting2.png)
 
-&nbsp;
+ 
 In the exported page, analyze the data using the metrics below:
 
 * Package name
@@ -80,5 +80,5 @@ In the exported page, analyze the data using the metrics below:
     * Non-Billable Data Cost
     * Non-Billable Other Cost - 3rd party billed fees will roll up here
 
-&nbsp;
+ 
 If you have any additional questions, please reach out to your Account Manager or platform_support@tubemogul.com. To check out our Dynamic Margin Management help page, [click here](dynamicmargin.md). 
