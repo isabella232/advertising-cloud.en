@@ -21,16 +21,15 @@ postPassword:
 isSticky: 0
 ---
 
-# Optimization {#optimization}
+Advertising Cloud DSP automatically adjusts spend to sites that deliver the metrics you care about most, ensuring your dollars are spent efficiently to achieve your goals.
 
-**Optimize on Metrics You Care About**
+You can set up optimization goals in Advertising Cloud Search, and then choose an [optimization goal](optimization/optimization-goals.md) for each of your placements or packages.
 
-TubeMogul automatically adjusts spend to sites&nbsp;that deliver the metrics you care about most, ensuring your dollars are spent efficiently to achieve your goals. Once a campaign starts, TubeMogul's optimization technology kicks in, powered by over four years of video analytics insight. Utilizing real-time metrics like second-by-second engagement, social network sharing and completions, TubeMogul automatically shifts spending to audiences where the ad is generating the greatest impact.
+<!-- Clarify if need a page on power optimization and edit/delete this list accordingly. -->
 Within our platform we offer two types of optimization:
 
 * [Optimization Goals (Auto Optimization)](optimization/optimization-goals.md)
 * [Power Optimization ( Manual- Complete Control)](optimization/power-optimization.md)
 
-* [Troubleshooting](optimization/troubleshooting.md)
-* Additional Troubleshooting Tools: [Pixel Q&A](optimization/pixel-qa-tool.md)and [Notifications](optimization/notifications.md)
-
+<!-- standard comment code -->
+For information about troubleshooting performance, see [Troubleshooting](optimization/troubleshooting.md). You can also view alerts in the [Notifications](optimization/notifications.md) tool and identify issues with third-party tracking pixels using the [Pixel Q&A](optimization/pixel-qa-tool.md) tool.
