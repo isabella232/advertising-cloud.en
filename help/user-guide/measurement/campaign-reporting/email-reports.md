@@ -41,7 +41,7 @@ From there, click on the Email Reports button on the far left side of the page:
 
 [![Tools - Email Reports](assets/tools-email-reports-133x300.png)](assets/tools-email-reports.png)
 
-**`Building Your Report`**
+**Building Your Report**
 
 There are several options available for detailing what should be included in your report and how it should be applied.
 
@@ -142,7 +142,6 @@ This example shows what the screen would look like for a report that will show y
 
 ![CR9](assets/cr9.jpg)
 
-** **
 
 **Report Options**
 

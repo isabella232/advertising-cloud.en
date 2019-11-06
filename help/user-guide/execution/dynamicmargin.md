@@ -27,7 +27,8 @@ Dynamic Margin Management is the second business model that is supported in Tube
 This feature should be used if your client issues you an insertion order, consisting of several line items that you have agreed to deliver a fixed amount of units or unit types at a fixed rate. In the platform the insertion order is represented as a campaign, and line items are represented as [packages](campaign-setup/packages.md). Each package will have a specific goal, rate, and placements assigned to it. The placements can have different strategies and tactics organized to deliver the line item requirements, or in our case the "package goals" and "package rates".
 `<script src="//fast.wistia.com/assets/external/E-v1.js" async charset="ISO-8859-1"></script>`   
 
-**Feature Setup:**
+## Feature Setup:
+
 `Step 1`: Navigate to the Campaigns page on the left hand side, and Create New Campaign. From there, fill out the Basic Campaign Details section.
 
 [ ![campaign basics](assets/campaign-basics1.png)](assets/campaign-basics1.png)
@@ -58,7 +59,8 @@ This feature should be used if your client issues you an insertion order, consis
 
  
 
-**Feature Setup (Placement Level):**
+## Feature Setup (Placement Level):
+
 `Step 1`: Create a package when creating/editing a placement.
 
 [ ![package-placement](assets/package-placement.png)](assets/package-placement.png)
@@ -70,36 +72,27 @@ This feature also allows you to set up 3rd Party Billed Fees at the placement le
 
 [ ![3rdparty](assets/3rdparty.png)](assets/3rdparty.png)
 
- 
-&#42;
+>[!NOTE]
+>Note only include these fees if you have not done so at the package level, or if these fees should only be associated to a single placement within the package.*
 
-*Note only include these fees if you have not done so at the package level, or if these fees should only be associated to a single placement within the package.*
-
- 
-
-**Reporting:**
+## Reporting:
 
 This is accessible in different parts of the platform, depending on the feature.
 
 Margin Management can be found at the campaign and placement reporting pages, as well as exported at the bottom of each page. Revenue will encompass media cost as well as the margin you've obtained.
 
-[ ![reporting-mm](assets/reporting-mm.png)](assets/reporting-mm.png)
-
- 
+[ ![reporting-mm](assets/reporting-mm.png)
 
 Package level reporting is accessible in 2 ways:
-`Option 1`: Filter placements by package association in the placement list page.
 
-[ ![package reporting1](assets/package-reporting1.png)](assets/package-reporting1.png)
+* Option 1: Filter placements by package association in the placement list page.
 
+  [ ![package reporting1](assets/package-reporting1.png)
  
+* Option 2: Export package level data by hitting "Export" button.
 
- 
-`Option 2`: Export package level data by hitting "Export" button.
+  [ ![pacakagereporting2](assets/pacakagereporting2.png)
 
-[ ![pacakagereporting2](assets/pacakagereporting2.png)](assets/pacakagereporting2.png)
-
- 
 In the exported page, analyze the data using the metrics below:
 
 * Package name
@@ -108,12 +101,11 @@ In the exported page, analyze the data using the metrics below:
 * Revenue (if fixed margin or package rates are used)
 * Breakout of costs by TubeMogul billed (billable) vs 3rd Party Billed (non-billable)
 
-    * Billable Media Cost
-    * Billable Data Cost
-    * Billable Other Cost
-    * Non-Billable Media Cost
-    * Non-Billable Data Cost
-    * Non-Billable Other Cost - 3rd party billed fees will roll up here
+  * Billable Media Cost
+  * Billable Data Cost
+  * Billable Other Cost
+  * Non-Billable Media Cost
+  * Non-Billable Data Cost
+  * Non-Billable Other Cost - 3rd party billed fees will roll up here
 
- 
-If you have any additional questions, please reach out to your Account Manager or platform_support@tubemogul.com. To check out our Fixed Margin Management help page, [click here](fixedmargin.md). 
+If you have any additional questions, please reach out to your Account Manager or platform_support@tubemogul.com. To check out our Fixed Margin Management help page, [click here](fixedmargin.md)
