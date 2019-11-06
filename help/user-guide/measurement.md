@@ -47,7 +47,7 @@ TubeMogul is an industry leader in real-time insights and analytics. We offer va
 
 * Tools: This section of the UI houses our [Segments,](planning/targeting/retargeting/custom-segment-tool.md) Site Tool, [Blacklist](planning/brand-safety/blacklists.md), [Email Reports](measurement/campaign-reporting/email-reports.md), and [Conversions.](execution/placement-setup/conversions.md)
 
->[!TIPs]
+>[!TIP]
 >* Export to Excel buttons are available at the bottom right corner of every reporting page
 >* Date range of your report can be adjusted in the upper right corner of the page
 >* Full Reports are available at all levels of a campaign (placement, video, ad). Click on the title hyperlink to access.
