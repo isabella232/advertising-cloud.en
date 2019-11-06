@@ -23,7 +23,7 @@ isSticky: 0
 
 # Bulk Tools {#bulk-tools}
 
-These features will reduce time spent creating and editing placements, making managing campaigns at least 5 times easier.
+Save time creating and editing placements using bulk tools.
 
 ## Attach Multiple Ads to Placements:{#attach-multiple-ads-to-placements}
 
@@ -33,15 +33,15 @@ Never attach the same ad one by one to multiple placements, or the same placemen
 
 
 >[!NOTE]
->There is a maximum of 20 selections you can do at one time.*
+>You can attach a maximum of 20 items at a time.
 
 ## Bulk Editing {#bulk-editing}
 
-Reduce the amount of effort and clicks it takes to make changes across different placements. If you scroll down to the bottom of the page, select "Bulk Edit" and choose the placements you'd like to change.
+Reduce the amount of effort and clicks it takes to make changes across different placements. Scroll down to the bottom of the page, select "Bulk Edit," and choose the placements you'd like to change.
 
 ![bulk3](assets/bulk3.png)
 
-Once prompted, you'll be able to access basic and advanced options to make changes to. Under basic you can modify:
+On the Basic tab, you can modify:
 
 * Status
 * Start/End Date
@@ -52,15 +52,13 @@ Once prompted, you'll be able to access basic and advanced options to make chang
 
 ![basic](assets/basic.png)
 
-The second or Advanced tab allows users to access additional features, such as:
+On the Advanced tab, you can edit additional features, such as:
 
-* Sites - ability to add or remove up to 5 sites at a time
+* Sites - you can add or remove up to five sites at a time
 * Dayparting
 * Optimization Goals
 * Conversion Pixels
 
 ![4 - Bulk Editor - DayParting](assets/4-bulk-editor-dayparting.png)
 
-Before hitting save, the platform will prompt you to confirm your changes and you're all done!
-
-If you have any additional questions, please reach out to your Account Manager or platform_support@tubemogul.com. 
+If you have any additional questions, contact your Account Manager or platform_support@tubemogul.com. 
