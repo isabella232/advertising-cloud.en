@@ -53,12 +53,8 @@ Click **Create a New Package** and specify the package settings.
 * Description: Optional, if you'd like an additional description
 * Goal Type: Select the metric that is your primary goal
 * Delivery Goal: The number you'd like to deliver
-* Package Type: The pricing method you'd like to track against
+* Package Type: The pricing method you'd like to track against. The platform will only track this metric, not cap delivery.
 * 3rd Party Billed Fees: Enter a consolidated CPM amount and 3rd party fee description. **Note:** This feature doesn't override fees for optional services, such as Nielsen, comScore, and IAS, are tracked as "non-billable other cost." To bring your own rate for these services, contact your Account Manager.
-
->[! NOTE]
->
-><!-- This was a footnote for Package Type," but I don't think that's right --> The platform will only track these metrics, NOT cap delivery.
 
 <!-- Where do you do this? It's not in this UI, I don't think -->Once you create a package, be sure to associate the appropriate placements with the package.
 
