@@ -74,7 +74,7 @@ Caveat: Fallback images are not supported when using TubeMogul to serve HTML5 di
 ## For Video
 [ ![dada](assets/dada.png)](assets/dada.png)
 
-* Upload Video: Raw creative asset. See  [Ad Specs.](../../../user-guide/planning/ad-formats/ad-specs.md)
+* Upload Video: Raw creative asset. See [standard specifications for supported ad types](https://www.tubemogul.com/ad-specs/)
 * Use Existing Video: Use a previously uploaded video to create a new ad.
 * Advanced: 3rd Party Ad Tag. We currently accept DFA and Sizmek SSL compliant tags.
 
