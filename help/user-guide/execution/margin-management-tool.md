@@ -23,6 +23,8 @@ isSticky: 0
 
 # Margin Management Tool {#margin-management-tool}
 
-Manage and accurately track campaign financial margins directly in the platform by applying a margin to be deducted from either the campaign or package level. Read more about [fixed margin management](fixedmargin.md) and [dynamic margin management.](dynamicmargin.md) 
+Manage and accurately track campaign financial margins directly in the platform by applying a margin to be deducted from either the campaign or package level.
+
+Read more about [fixed margin management](fixedmargin.md) and [dynamic margin management.](dynamicmargin.md) 
 
 [ ![mm1](assets/mm1.png)](assets/mm1.png)
