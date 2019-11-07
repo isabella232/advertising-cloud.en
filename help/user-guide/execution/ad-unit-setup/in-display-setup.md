@@ -58,7 +58,7 @@ In the snippet:
 >The HTML file MUST have a clickTAG variable in order to be accepted by the platform. The platform supports ONLY two spellings for the clickTAG variable: “**clickTAG”** or “**clickTag”**(any other spelling will result in the ad being rejected).
 
 * Replace the text `YOUR_LANDING_PAGE_URL_GOES_HERE` with the URL where you want your audience to land after clicking the ad.
-* Replace `TARGET_ELEMENT` with the DOM element in the ad upon which the click event should be attached (example: `document.getElementById(‘ad_container’))`.
+* Replace `TARGET_ELEMENT` with the DOM element in the ad upon which the click event should be attached. Example: `document.getElementById(‘ad_container’)`.
 
 For an example of how the above code snippet should look like in a working HTML file, click [here](assets/index.txt).
 
