@@ -48,4 +48,4 @@ isSticky: 0
 
 ## Save & Submit for Review
   
-TubeMogul's [ad review](ad-reviews.md)team verifies that the ad is rendering properly and clicking through. Approval time is typically 2-4 hours on regular business hours and 24hrs on weekends. 
+TubeMogul's [ad review](ad-reviews.md) team verifies that the ad is rendering properly and clicking through. Approval time is typically 2-4 hours on regular business hours and 24hrs on weekends. 
