@@ -33,7 +33,7 @@ Click on the Custom Ad Scheduling link to get to the page. By default, there sho
 
 [ ![ad1](assets/ad1.jpeg)](assets/ad1.jpeg)
 
-## How to Customize Flighting
+## Customize Flighting
   
 To set up multiple flights, click on 'Add Flight'.
 
@@ -53,7 +53,7 @@ Click 'Continue' and move onto the Review  page.
 
 Finish by clicking 'Save & Finish'.
 
-## Assigning a Non-Even Ad Rotation
+## Assign a Non-Even Ad Rotation
   
 To assign a specific rotation to each ad, click on the [ ![ad15](assets/ad15.png)](assets/ad15.png)  icon. Blue means that the ads are being evenly rotated, Grey means that the even rotation is off.
 
