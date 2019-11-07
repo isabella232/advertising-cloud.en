@@ -30,7 +30,7 @@ isSticky: 0
 
 ## Upload the Video
 
-* Upload Video: Raw creative asset. See  [Ad Specs.](../../../user-guide/planning/ad-formats/ad-specs.md)
+* Upload Video: Raw creative asset. See [standard specifications for supported ad types](https://www.tubemogul.com/ad-specs/). 
 * Use Existing Video: Use a previously uploaded video to create a new ad.
 * Use YouTube Player: Copy and past the YouTube video URL link.  (Use this option if you're interested in increasing YouTube channel views. Keep in mind the conversion is not typically 1 to 1)
 
