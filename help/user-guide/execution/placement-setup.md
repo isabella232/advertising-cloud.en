@@ -32,6 +32,7 @@ After you've created a new campaign, click Placements in the left navigation bar
 Click New Placement on the upper right and select the type of ad unit and duration you'll be using. Selecting the correct duration is important for in-stream units as it may determine inventory availability.
 
 [ ![placement setup 2](assets/placement-setup-2.jpg)](assets/placement-setup-2.jpg)
+
 Once you've selected the ad format of choice, you will by default land on the [Placement Options page in Current View mode](placement-setup/placement-options.md). Click on the below links to learn how to fill out each section of the Placement Options page:
 
 [ ![Current View](assets/current-view.png)](assets/current-view.png)
