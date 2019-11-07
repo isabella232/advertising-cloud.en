@@ -25,7 +25,7 @@ isSticky: 0
 
 # Native Ads Setup {#native-ads-setup}
 
-Below are step-by-step instructions on how to set up Native ad's within the Ad Cloud platform.
+Below are step-by-step instructions on how to set up native ads.
 
 ## 1. Create Native Placement
 
@@ -128,7 +128,7 @@ Once placement and ad set-up is complete, native ads will start running. Reporti
 
 ### 3rd-Party Viewability Reporting
 
-Advertsing CLoud DSP is integrated with 3rd-party vendors IAS and MOAT to enable you to measure viewability on native campaigns directly in the platform. 3rd-party viewabiltiy reporting is activated at the campaign level. Note that if activated, all applicable placements under that campaign will have access to IAS or MOAT viewability reports.
+Advertsing Cloud DSP is integrated with 3rd-party vendors IAS and MOAT to enable you to measure viewability on native campaigns directly in the platform. 3rd-party viewabiltiy reporting is activated at the campaign level. Note that if activated, all applicable placements under that campaign will have access to IAS or MOAT viewability reports.
 
 [ ![screen-shot-2016-11-04-at-5-47-43-pm](assets/screen-shot-2016-11-04-at-5.47.43-pm.png)](assets/screen-shot-2016-11-04-at-5.47.43-pm.png)
 
@@ -154,4 +154,4 @@ TripleLift, ShareThrough and MoPub accepts 3rd-party click tracking pixels if th
 
 ##### Video Expansions
 
-Currently this is not supported via the Ad Cloud platform
+Not currently supported
