@@ -35,4 +35,7 @@ If you are currently working with a 3rd party ad server such as DFA, Dart, Sizme
 How to set it up in the platform:
 
 [ ![Adtags](assets/adtags.png)](assets/adtags.png)
-&#42;&#42; For MRAID tags, you'll need to set up ad tags in this format: <script type="text/javascript" src="CLIENT MRAID TAG"></script> 
+
+>[!NOTE]
+>
+>For MRAID tags, you'll need to set up ad tags in this format: <script type="text/javascript" src="CLIENT MRAID TAG"></script> 
