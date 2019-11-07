@@ -24,19 +24,21 @@ isSticky: 0
 # BrandSights Setup {#brandsights-setup}
 
 [ ![image2013-3-27 14-42-18](assets/image2013-3-27-14-42-18.jpeg)](assets/image2013-3-27-14-42-18.jpeg)   
-**Create a Survey**
+
+## Create a Survey
 
 * Click on Surveys on the left navigation bar
 * Click on the blue button labelled “New BrandSights Survey”
 * For more information on the benefits and capabilities of each Survey ad format, download TubeMogul research [here](https://more.tubemogul.com/brandsights_survey_research_2014).
 * You’ll see the survey screen, a form split into two short sections. Here’s how to fill in each field.
 
-`Basic`
+### Basic Settings
 
 * Advertiser: Use the dropdown to select the appropriate Advertiser associated with this survey.
 * Name: This is the name of your survey.  Because surveys for every campaign in the account will be visible in the same list, consider including the title of the campaign in this field to make it easy to find later.
 
-`Questions`
+### Questions
+
 [ ![Untitled](assets/untitled.png)](assets/untitled.png)
 
 * Type: This field identifies your question as either a “Single Answer”, where respondents can only select one answer with radio buttons, or “Multiple Answers” where respondents can choose multiple options via checkboxes.   Note that there are no open ended or free text response questions; all are multiple choice.
@@ -55,12 +57,12 @@ isSticky: 0
 
 When you’re done entering your question, click  the large blue “Update Survey” button on the bottom right, or, to enter another question, scroll up to the beginning of the “Questions” section and click on the blue “Add a Question” link.
 
-**Create Custom Segments for Retargeting (Exposed viewers and users who completed the survey already)**
+## Create Custom Segments for Retargeting  to Exposed Viewers and Users Who Already Completed the Survey
 
 * Exposed Viewers:  If you are conducting a Control/Exposed brand lift study, start off by  [creating a retargeting pixel](../../../user-guide/planning/targeting/retargeting/retargeting-pixel-setup.md)and collecting a cookie pool of exposed viewers.  Make sure that once you've created the retargeting pixel, you attach it to the ad and fire it on the "Impressions" integration event.
 * Survey Completion Viewers:  [Create a retargeting pixel](../../../user-guide/planning/targeting/retargeting/retargeting-pixel-setup.md)and collect a survey completion cookie pool to avoid having those users served the survey more than one time. Make sure that once you've created the retargeting pixel, you attach it to the survey and fire it on the "survey complete" integration event.
 
-**Create An Ad With The Survey**
+## Create An Ad With The Survey
   
 This part of the process is similar to creating an ad using a video already uploaded to the TubeMogul platform.
 
@@ -74,13 +76,13 @@ Here’s what is specific to creating a survey ad.
 
 ![Screen Shot 2014-10-02 at 12.25.49 PM](assets/screen-shot-2014-10-02-at-12.25.49-pm1.png)
 
-**Creating a Placement & Attaching the Survey**
+## Create a Placement and Attach the Survey
   
 The process to creating a survey placement is similar to creating a placement for a video ad.
 A couple of important pointers before we begin:
 
 * Create the control placement first – Defining the exposed placement requires you to identify the control associated with it, but creating a control placement doesn’t require anything else to be set up.   You can complete this step later, but starting with the control helps streamline the process.
-* If you aren’t running a control/exposed style study identify placements in the “name” field – All survey results will appear in the UI as either “control” or “exposed”, even if you aren’t running that kind of study.   In order to keep results organized when you want to analyze the data, we recommend naming one placement “control” and the other “exposed”.
+* If you aren’t running a control/exposed style study identify placements in the “name” field – All survey results will appear in the UI as either “control” or “exposed”, even if you aren’t running that kind of study. In order to keep results organized when you want to analyze the data, we recommend naming one placement “control” and the other “exposed”.
 
 Here’s a step by step summary of what’s different for a survey placement when you’re running an ad effectiveness study using the control/exposed methodology.
 
@@ -114,6 +116,4 @@ Here’s a step by step summary of what’s different for a survey placement whe
  </tbody> 
 </table>
 
-Finally before setting the placement live, go to Options and attach your ad to the placement.
-
-If you have any additional questions, please reach out to your Account Manager or email `platform_support@tubemogul.com`.
+Finally, before setting the placement live, go to Options and attach your ad to the placement.
