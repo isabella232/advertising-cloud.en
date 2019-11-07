@@ -48,7 +48,7 @@ TubeMogul supports HTML5 creatives for standard display and companion ads. We st
 
 [ ![html](assets/html.png)](assets/html.png)
 
-Insert the code snippet below inside the **<head>**element of the HTML file.
+Insert the code snippet below inside the `<head>`element of the HTML file.
 
 [ ![HTML5 code snippet](assets/html5-code-snippet.png)](assets/html5-code-snippet.png)
 In the snippet:
@@ -57,8 +57,8 @@ In the snippet:
 >
 >The HTML file MUST have a clickTAG variable in order to be accepted by the platform. The platform supports ONLY two spellings for the clickTAG variable: “**clickTAG”** or “**clickTag”**(any other spelling will result in the ad being rejected).
 
-* Replace the text `**YOUR_LANDING_PAGE_URL_GOES_HERE**` with the URL where you want your audience to land after clicking the ad.
-* Replace `**TARGET_ELEMENT**` with the DOM element in the ad upon which the click event should be attached (example: **document.****getElementById(‘ad_container’**)).
+* Replace the text `YOUR_LANDING_PAGE_URL_GOES_HERE` with the URL where you want your audience to land after clicking the ad.
+* Replace `TARGET_ELEMENT` with the DOM element in the ad upon which the click event should be attached (example: `document.`getElementById(‘ad_container’))`.
 
 For an example of how the above code snippet should look like in a working HTML file, click [here](assets/index.txt).
 
@@ -83,11 +83,11 @@ Caveat: Fallback images are not supported when using TubeMogul to serve HTML5 di
 [ ![CTP](assets/ctp.png)](assets/ctp.png)
 
 * Basic: Name your ad and add a landing page to the click URL field.
-* [Teasers](/help/user-guide/planning/ad-formats/ad-features-guide/teasers-endcaps.md) `:` Include an image or a 7-10 second video to entice viewer to user-initiated the video play. Recommended to have strong call to action, recognizable images and brand logo.
+* [Teasers](/help/user-guide/planning/ad-formats/ad-features-guide/teasers-endcaps.md): Include an image or a 7-10 second video to entice viewer to user-initiated the video play. Recommended to have strong call to action, recognizable images and brand logo.
 
-* [Overlays](overlay.md) `:` Add a 300x60 banner to enhance message/brand association and drive additional clicks. For Expandable CTP, leverage the "Background" overlay Layer.
+* [Overlays](overlay.md): Add a 300x60 banner to enhance message/brand association and drive additional clicks. For Expandable CTP, leverage the "Background" overlay Layer.
 
-* [Endcaps](https://education.tubemogul.com/user-guide/execution/ad-unit-setup/teasers-endcaps/) `:`Upload an image at the end of the ad to encourage traffic to the site.
+* [Endcaps](https://education.tubemogul.com/user-guide/execution/ad-unit-setup/teasers-endcaps/): Upload an image at the end of the ad to encourage traffic to the site.
 
 * Sharing Buttons: Add Twitter or Facebook buttons to drive social sharing.
 * [Pixel](3rd-party-tracking-adserving/tracking-pixels.md): Add in 3rd party tracking pixels or TubeMogul's retargeting pixel.
