@@ -57,12 +57,12 @@ isSticky: 0
 
 When you’re done entering your question, click  the large blue “Update Survey” button on the bottom right, or, to enter another question, scroll up to the beginning of the “Questions” section and click on the blue “Add a Question” link.
 
-## Create Custom Segments for Retargeting  to Exposed Viewers and Users Who Already Completed the Survey
+## Create Custom Segments for Retargeting to Exposed Viewers and Users Who Already Completed the Survey
 
 * Exposed Viewers:  If you are conducting a Control/Exposed brand lift study, start off by  [creating a retargeting pixel](../../../user-guide/planning/targeting/retargeting/retargeting-pixel-setup.md)and collecting a cookie pool of exposed viewers.  Make sure that once you've created the retargeting pixel, you attach it to the ad and fire it on the "Impressions" integration event.
 * Survey Completion Viewers:  [Create a retargeting pixel](../../../user-guide/planning/targeting/retargeting/retargeting-pixel-setup.md)and collect a survey completion cookie pool to avoid having those users served the survey more than one time. Make sure that once you've created the retargeting pixel, you attach it to the survey and fire it on the "survey complete" integration event.
 
-## Create An Ad With The Survey
+## Create an Ad With The Survey
   
 This part of the process is similar to creating an ad using a video already uploaded to the TubeMogul platform.
 
