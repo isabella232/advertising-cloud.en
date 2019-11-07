@@ -87,9 +87,9 @@ Caveat: Fallback images are not supported when using TubeMogul to serve HTML5 di
 
 * [Overlays](overlay.md): Add a 300x60 banner to enhance message/brand association and drive additional clicks. For Expandable CTP, leverage the "Background" overlay Layer.
 
-* [Endcaps](https://education.tubemogul.com/user-guide/execution/ad-unit-setup/teasers-endcaps/): Upload an image at the end of the ad to encourage traffic to the site.
+* [Endcaps](/help/user-guide/planning/ad-formats/ad-features-guide/teasers-endcaps.md): Upload an image at the end of the ad to encourage traffic to the site.
 
-* Sharing Buttons: Add Twitter or Facebook buttons to drive social sharing.
+* [Sharing Buttons](sharing-buttons.md): Add Twitter or Facebook buttons to drive social sharing.
 * [Pixel](3rd-party-tracking-adserving/tracking-pixels.md): Add in 3rd party tracking pixels or TubeMogul's retargeting pixel.
 
 ## Save & Submit for Review
