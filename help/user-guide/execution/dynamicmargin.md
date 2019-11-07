@@ -106,8 +106,6 @@ In the exported page, analyze the data using the metrics below:
   * Non-Billable Data Cost
   * Non-Billable Other Cost - 3rd party billed fees will roll up here
 
-If you have any additional questions, contact your Account Manager or platform_support@tubemogul.com.
-
- >[!MORELIKETHIS]
+>[!MORELIKETHIS]
 >
 >[Fixed Margin Management](fixedmargin.md)
