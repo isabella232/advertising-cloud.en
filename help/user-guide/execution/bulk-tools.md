@@ -60,5 +60,3 @@ On the Advanced tab, you can edit additional features, such as:
 * Conversion Pixels
 
 ![4 - Bulk Editor - DayParting](assets/4-bulk-editor-dayparting.png)
-
-If you have any additional questions, contact your Account Manager or platform_support@tubemogul.com. 
