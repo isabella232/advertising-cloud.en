@@ -25,14 +25,15 @@ isSticky: 0
 
 Dynamic Margin Management is the second business model that is supported in TubeMogul's Margin Management feature. This option allows you to manage margins down to the placement level and optimize based on the financial efficiency of each placement. This feature gives you more flexibility than the Fixed Margin Management tool, but unlike that feature does not guarantee the margin %. It is up to the campaign manager to deliver the contracted units at or below their net margin to get the margin they want.
 This feature should be used if your client issues you an insertion order, consisting of several line items that you have agreed to deliver a fixed amount of units or unit types at a fixed rate. In the platform the insertion order is represented as a campaign, and line items are represented as [packages](campaign-setup/packages.md). Each package will have a specific goal, rate, and placements assigned to it. The placements can have different strategies and tactics organized to deliver the line item requirements, or in our case the "package goals" and "package rates".
-`<script src="//fast.wistia.com/assets/external/E-v1.js" async charset="ISO-8859-1"></script>`   
 
 ## Feature Setup:
 
-`Step 1`: Navigate to the Campaigns page on the left hand side, and Create New Campaign. From there, fill out the Basic Campaign Details section.
+Step 1: Navigate to the Campaigns page on the left hand side, and Create New Campaign. From there, fill out the Basic Campaign Details section.
 
 [ ![campaign basics](assets/campaign-basics1.png)](assets/campaign-basics1.png)
-`Step 2`: Fill out the Margin Management section of the page:
+
+Step 2: Fill out the Margin Management section of the page:
+
 [ ![image (7)](assets/image-7.png)](assets/image-7.png)
 
 * Select "Yes" to activate Margin Management and "Dynamic" for the Margin Type
@@ -40,31 +41,27 @@ This feature should be used if your client issues you an insertion order, consis
 * Budget Reserve % is an optional safeguard, that can be used if you are not comfortable in putting the entire insertion amount as the spend cap. If during the campaign you are unable to deliver the contracted amount of units, you can make the decision on whether to increase your spend cap by reducing the reserve percentage.&#42;
 * Spend Cap will be auto-calculated based on the Gross Budget and Budget Reserve %.
 
-`Step 3`: Under Packages click Create a New Package. A new form will populate prompting you to fill in the following information:
+Step 3: Under Packages click Create a New Package. A new form will populate prompting you to fill in the following information:
 [ ![packages - campaign](assets/packages-campaign.png)](assets/packages-campaign.png)
 
-* `Name`: Choose a name for your package
-* `Dates`: Flight dates, note that all placements tied to this package must fall within these dates. These dates must also fall within the campaign flight dates.
-* `Description`: Optional, if you'd like an additional description
-* `Goal Type`: Select the metric that is your primary goal
-* `Delivery Goal`: The number you'd like to deliver
-* `Package Type`&#42;: The pricing method you'd like to track against
-* `Package Rate`&#42;: The rate you'd like to track against
-* `Budget` is then auto-calculated based on the above information, and used for tracking ONLY.
-* `3rd Party Billed Fees`: Enter a consolidated CPM amount and 3rd party fee description. To see a walkthrough of this feature, [click here](https://fast.wistia.net/embed/iframe/rhi560hsx0?popover=true).
-
-    * This feature does not override fees for services provided by TubeMogul such as Nielsen, comScore and IAS.  To bring your own rate for these services, reach out to your Account Manager. These fees will be tracked as "non-billable other cost".
-
-*&#42;Note, when using Packages to track dynamic margin these are the fields that are used to calculate that metric. Enter the type and rate that was sold to your client and the platform will track against these metrics. Once again, the platform will only track these metrics NOT cap delivery. Only margin at the campaign level (using fixed margin) will cap your spend.*
-
+* Name: Choose a name for your package
+* Dates: Flight dates, note that all placements tied to this package must fall within these dates. These dates must also fall within the campaign flight dates.
+* Description: Optional, if you'd like an additional description
+* Goal Type: Select the metric that is your primary goal
+* Delivery Goal: The number you'd like to deliver
+* Package Type&#42;: The pricing method for the advertiser. This is used to calculate the dynamic margin but will not cap delivery; you can cap spending only at the campaign level using a fixed margin.
+* Package Rate&#42;: The rate for the advertiser. This is used to calculate the dynamic margin but will not cap delivery; you can cap spending only at the campaign level using a fixed margin.
+* Budget is then auto-calculated based on the above information, and used for tracking ONLY.
+* 3rd Party Billed Fees: Enter a consolidated CPM amount and 3rd party fee description.**Note:** This feature doesn't override fees for optional services, such as Nielsen, comScore, and IAS, are tracked as "non-billable other cost." To bring your own rate for these services, contact your Account Manager.
  
 
 ## Feature Setup (Placement Level):
 
-`Step 1`: Create a package when creating/editing a placement.
+Step 1: Create a package when creating/editing a placement.
 
 [ ![package-placement](assets/package-placement.png)](assets/package-placement.png)
-`Step 2`: Either choose a Package that has already been created, or Create a New Package. If you are creating a new package, the same package form as above will populate.
+
+Step 2: Either choose a Package that has already been created, or Create a New Package. If you are creating a new package, the same package form as above will populate.
 
 [ ![package-placement2](assets/package-placement2.png)](assets/package-placement2.png)
 
@@ -73,7 +70,8 @@ This feature also allows you to set up 3rd Party Billed Fees at the placement le
 [ ![3rdparty](assets/3rdparty.png)](assets/3rdparty.png)
 
 >[!NOTE]
->Note only include these fees if you have not done so at the package level, or if these fees should only be associated to a single placement within the package.*
+>
+>Only include these fees if you have not done so at the package level, or if these fees should only be associated with a single placement within the package.
 
 ## Reporting:
 
@@ -108,4 +106,8 @@ In the exported page, analyze the data using the metrics below:
   * Non-Billable Data Cost
   * Non-Billable Other Cost - 3rd party billed fees will roll up here
 
-If you have any additional questions, please reach out to your Account Manager or platform_support@tubemogul.com. To check out our Fixed Margin Management help page, [click here](fixedmargin.md)
+If you have any additional questions, contact your Account Manager or platform_support@tubemogul.com.
+
+ >[!MORELIKETHIS]
+>
+>[Fixed Margin Management](fixedmargin.md)
