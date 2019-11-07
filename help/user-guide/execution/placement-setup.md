@@ -36,6 +36,7 @@ Click New Placement on the upper right and select the type of ad unit and durati
 Once you've selected the ad format of choice, you will by default land on the [Placement Options page in Current View mode](placement-setup/placement-options.md). Click on the below links to learn how to fill out each section of the Placement Options page:
 
 [ ![Current View](assets/current-view.png)](assets/current-view.png)
+
 You can also set up a placement in BrandPoint View:
 
 * [CPM Mode](placement-setup/cpm-setup.md)  (New Look and Feel for the same functionality as the Current View)
