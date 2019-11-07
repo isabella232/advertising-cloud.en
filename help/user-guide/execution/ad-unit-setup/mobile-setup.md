@@ -30,4 +30,3 @@ TubeMogul offers three types of mobile ad units that allow you to reach major mo
 * [Tablet Interactive Pre-Roll Set-Up](mobile-setup/tablet-app-interactive.md)
 * [Phone Tap-To-Play Banner 300x50 Set-Up](mobile-setup/mobile-app-ctp.md)
 * [Tablet Tap-To-Play Medium Rectangle 300x250 Set-Up](mobile-setup/mobile-web-ctp.md)
-
