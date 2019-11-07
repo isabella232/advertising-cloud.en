@@ -48,7 +48,7 @@ If you want to target only desktop or only mobile in a single placement, apply d
 >* By targeting both mobile and desktop in a single placement, placement level reporting will be blended. To report by screen, target only desktop or mobile.
 * To maximize delivery across all Native SSPs for mobile web, app and desktop - we recommend setting up your ad accordingly to meet min/max requirements of all inventory sources.
 
-## 2. Create Native Ads**
+## 2. Create Native Ads
 
 Navigate to the Ad Type Selector and select Native Display or Video.
 
@@ -58,14 +58,13 @@ Navigate to the Ad Type Selector and select Native Display or Video.
 
 [ ![2.1 Native Ad Selector](assets/2.1-native-ad-selector-1024x463.png)](assets/2.1-native-ad-selector.png)
 
-## 2.1 Native Display Ads**
+### Native Display Ads
 
 [ ![2.2 Native Display](assets/2.2-native-display-1024x649.png)](assets/2.2-native-display.png)
 
 Create your native display ad in the Ad Configurator tool. Here are the assets required for creating an ad:
 
-### Native Creative or Image Asset
-
+Native creative or image asset requirements:
 * Recommended Minimum: 1200 x 627px
 * Absolute Minimum Size: 600x600px
 * File Type: JPEG or PNG File
@@ -74,25 +73,22 @@ Create your native display ad in the Ad Configurator tool. Here are the assets r
 >
 >The image can't include text.
 
-### Text copy
-
+Text copy requirements:
 * Title: Recommended max 25 characters, absolute max 140 characters. Should stand on own.
 * Description: Recommended max 100 characters, absolute max 200 characters.
 * CTA (Optional): Max 15 characters
 * Sponsored by (Advertiser name): 25 Characters
 
-### Logo (optional, but recommended for more prominent branding)
-
+Logo requirements (optional, but recommended for more prominent branding)
 * Format: JPEG / transparent PNG
 * Recommended Minimum: 300x300px
 * Absolute Minimum Size: 80x80px
 * Ratio: 1x1
 
-### UR
-
+URL requirements:
 * Landing page URL
 
-## 2.2 Native Video Ads**
+### Native Video Ads
 
 Native Video ads should follow the same specs as Display in terms of logo, headline, description, etc. You'll also need to ad a display asset as a cover image before the video renders on the viewer's page. Please follow all the above specs for those details. For the video asset specific specs, see below:
 
@@ -102,15 +98,15 @@ All video assets are hosted by Advertising Cloud DSP.
 
 [ ![3.0 ad upload](assets/3.0-ad-upload-1024x527.png)](assets/3.0-ad-upload.png)
   
-### Recommended Format:
+Recommended Format:
     * 16:9 ratio
     * MP4, 720p video quality
 
-### Recommended video length:
+Recommended video length:
     * 60 seconds (TripleLift)
     * 60 seconds, 120 seconds max (MoPub & ShareThrough)
 
-### Recommended video size:
+Recommended video size:
     * 30MB max (TripleLift)
     * 30MB max (Sharethrough)
     * 2MB, 5MB max (MoPub)
@@ -130,7 +126,7 @@ Once placement and ad set-up is complete, native ads will start running. Reporti
 * Completion rate: 25%, 50%, 75%, 100%
 
 
-## 6. 3rd-Party Viewability Reporting
+### 3rd-Party Viewability Reporting
 
 Advertsing CLoud DSP is integrated with 3rd-party vendors IAS and MOAT to enable you to measure viewability on native campaigns directly in the platform. 3rd-party viewabiltiy reporting is activated at the campaign level. Note that if activated, all applicable placements under that campaign will have access to IAS or MOAT viewability reports.
 
