@@ -79,15 +79,16 @@ Supported: iFrame & JavaScript tags
 
 >[!NOTE]
 >
->For each FlashTalking tag, you must manually insert macros for tracking. The example tag shows the inserted macros highlighted in yellow.
+>For each FlashTalking tag, you must manually insert the tracking macro `${TM_CLICK_URL_URLENC}` immediately before the URL in the <a href> tag and as the value of the `ftClick` variable. The example tag shows the inserted macros highlighted in yellow.
 
+<!--
 ```
 <noscript> 
-<a href=" `**${TM_CLICK_URL_URLENC}**` [ht`<wbr>`tp://servedby.flashtalking.`<wbr>`com/click/8/57258;1799696;0;`<wbr>`209;0/?ft_width=300&ft_height=`<wbr>`250&url=9678632](https://servedby.flashtalking.com/click/8/57258;1799696;0;209;0/?ft_width=300&ft_height=250&url=9678632)" target="_blank"> 
-<img border="0" src=" [https://servedby.`<wbr>`flashtalking.com/imp/8/57258;`<wbr>`1799696;205;gif;Tubemogul;`<wbr>`300x250HTML5StandardwClickExte`<wbr>`nsion/](https://servedby.flashtalking.com/imp/8/57258;1799696;205;gif;Tubemogul;300x250HTML5StandardwClickExtension/)?"></a> 
+<a href="${TM_CLICK_URL_URLENC}[http://servedby.flashtalking.com/click/8/57258;1799696;0;209;0/?ft_width=300&ft_height=250&url=9678632](https://servedby.flashtalking.com/click/8/57258;1799696;0;209;0/?ft_width=300&ft_height=250&url=9678632)" target="_blank"> 
+<img border="0" src=" [https://servedby.flashtalking.com/imp/8/57258;1799696;205;gif;Tubemogul;300x250HTML5StandardwClickExtension/](https://servedby.flashtalking.com/imp/8/57258;1799696;205;gif;Tubemogul;300x250HTML5StandardwClickExtension/)?"></a> 
 </noscript> 
 <script language="Javascript1.1" type="text/javascript"> 
-var ftClick = " `**${TM_CLICK_URL_URLENC}**";` 
+var ftClick = "${TM_CLICK_URL_URLENC}";
 var ftExpTrack_1799696 = ""; 
 var ftX = ""; 
 var ftY = ""; 
@@ -96,17 +97,18 @@ var ftOBA = 1;
 var ftContent = ""; 
 var ftCustom = ""; 
 var ftSection = " ${TM_SITE_ID_NUM}"; 
-var ftID = function(){for(var e=["${USER_ID}"],a=e.length,r= `<wbr>`"";a--;)if(e[a]&&!RegExp("[^a- `<wbr>`z0-9q-]".replace(/q/g, `<wbr>`decodeURIComponent("%5"+"C")), `<wbr>`"i").test(e[a])){r=e[a];break} `<wbr>`return r}();; 
+var ftID = function(){for(var e=["${USER_ID}"],a=e.length,r="";a--;)if(e[a]&&!RegExp("[^a-z0-9q-]".replace(/q/g,decodeURIComponent("%5"+"C")),"i").test(e[a])){r=e[a];break}return r}();; 
 var ft300x250_OOBclickTrack = ""; 
 var ftRandom = Math.random()&#42;1000000; 
 var ftBuildTag1 = "<scr"; 
 var ftBuildTag2 = "</"; 
 var ftClick_1799696 = ftClick; 
-if(typeof(ft_referrer)==" `<wbr>`undefined"){var ft_referrer=(function(){var r="";if(window==top){r=window. `<wbr>`location.href;}else{try{r= `<wbr>`window.parent.location.href;} `<wbr>`catch(e){}r=(r)?r:document. `<wbr>`referrer;}while( `<wbr>`encodeURIComponent(r).length> `<wbr>`1000){r=r.substring(0,r. `<wbr>`length-1);}return r;}());} 
-var ftDomain = (window==top)?"":(function(){ `<wbr>`var d=document.referrer,h=(d)?d. `<wbr>`match("(?::q/q/)+([qw-]+(q.[ `<wbr>`qw-]+)+)(q/)?".replace(/q/g, `<wbr>`decodeURIComponent("%"+"5C"))) `<wbr>`[1]:"";return (h&&h!=location.host)?"&ft_ `<wbr>`ifb=1&ft_domain="+ `<wbr>`encodeURIComponent(h):"";}()); 
+if(typeof(ft_referrer)=="undefined"){var ft_referrer=(function(){var r="";if(window==top){r=window.location.href;}else{try{r=window.parent.location.href;}catch(e){}r=(r)?r:document.referrer;}while(encodeURIComponent(r).length>1000){r=r.substring(0,r.length-1);}return r;}());} 
+var ftDomain = (window==top)?"":(function(){var d=document.referrer,h=(d)?d.match("(?::q/q/)+([qw-]+(q.[qw-]+)+)(q/)?".replace(/q/g,decodeURIComponent("%"+"5C")))[1]:"";return (h&&h!=location.host)?"&ft_ifb=1&ft_domain="+ encodeURIComponent(h):"";}()); 
 var ftTag = ftBuildTag1 + 'ipt language="javascript1.1" type="text/javascript" '; 
-ftTag += 'src=" [https://servedby.`<wbr>`flashtalking.com/imp/8/57258;`<wbr>`1799696;201;js;Tubemogul;`<wbr>`300x250HTML5StandardwClickExte`<wbr>`nsion/?ftx='+ftX+'&fty='+ftY+'`<wbr>`&ftadz='+ftZ+'&ftscw='+`<wbr>`ftContent+'&ft_custom='+`<wbr>`ftCustom+'&ft_section='+`<wbr>`ftSection+'&ft_id='+ftID+'&`<wbr>`ftOBA='+ftOBA+ftDomain+'&ft_`<wbr>`referrer='+encodeURIComponent(`<wbr>`ft_referrer)+'&cachebuster='+`<wbr>`ftRandom+](https://servedby.flashtalking.com/imp/8/57258;1799696;201;js;Tubemogul;300x250HTML5StandardwClickExtension/?ftx=%27+ftX+%27&fty=%27+ftY+%27&ftadz=%27+ftZ+%27&ftscw=%27+ftContent+%27&ft_custom=%27+ftCustom+%27&ft_section=%27+ftSection+%27&ft_id=%27+ftID+%27&ftOBA=%27+ftOBA+ftDomain+%27&ft_referrer=%27+encodeURIComponent(ft_referrer)+%27&cachebuster=%27+ftRandom+)'" id="ftscript_300x250" name="ftscript_300x250"'; 
+ftTag += 'src=" [https://servedby.flashtalking.com/imp/8/57258;1799696;201;js;Tubemogul;300x250HTML5StandardwClickExtension/?ftx='+ftX+'&fty='+ftY+'&ftadz='+ftZ+'&ftscw='+ftContent+'&ft_custom='+ftCustom+'&ft_section='+ftSection+'&ft_id='+ftID+'&ftOBA='+ftOBA+ftDomain+'&ft_referrer='+encodeURIComponent(ft_referrer)+'&cachebuster='+ftRandom+](https://servedby.flashtalking.com/imp/8/57258;1799696;201;js;Tubemogul;300x250HTML5StandardwClickExtension/?ftx=%27+ftX+%27&fty=%27+ftY+%27&ftadz=%27+ftZ+%27&ftscw=%27+ftContent+%27&ft_custom=%27+ftCustom+%27&ft_section=%27+ftSection+%27&ft_id=%27+ftID+%27&ftOBA=%27+ftOBA+ftDomain+%27&ft_referrer=%27+encodeURIComponent(ft_referrer)+%27&cachebuster=%27+ftRandom+)'" id="ftscript_300x250" name="ftscript_300x250"'; 
 ftTag += '>' + ftBuildTag2 + 'script>'; 
 document.write(ftTag); 
 </script>
 ```
+-->
