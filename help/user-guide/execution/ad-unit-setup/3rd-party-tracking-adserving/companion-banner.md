@@ -23,28 +23,28 @@ isSticky: 0
 
 # Companion Banner {#companion-banner}
 
-Companion banners are served alongside the pre-roll ad and can help reinforce brand and message association. TubeMogul serves these as value add and will be served around 30-40% of the time.
+Companion banners are served alongside the pre-roll ad and can help reinforce brand and message association. Advertising Cloud DSP serves these as value add around 30-40% of the time.
 
 ![companion banner](assets/companion-banner.jpeg)
 
-**Upload Options:**
+## Upload Options
   
-**For image assets: **
+### Image assets
 
-* **Option 1:** Upload my Own Asset
+* Option 1: Upload my Own Asset
 
   * Image asset: jpeg, gif, img
   * Click URL: landing page or click redirect with 3rd party click tracking pixel
   * Use Option 2 if you want to track 3rd party companion banner impression as well. You'll need to create an iFrame using the template below.
 
-* **Option 2:** Upload 3rd Party Tag- iFrame or script banner tag from one of our certified ad serving partners.
+* Option 2: Upload 3rd Party Tag- iFrame or script banner tag from one of our certified ad serving partners
 
 Example of an iFrame Template:
 
 ```
-<a href= "**INSERT CLICK TAG HERE**" target="_blank">   
-<img src="**INSERT IMAGE FILE HERE**">   
-</a> ${PIXELS} <img src="**INSERT IMPRESSION TRACKER HERE**">
+<a href= "<INSERT CLICK TAG HERE>" target="_blank">   
+<img src="<INSERT IMAGE FILE HERE>">   
+</a> ${PIXELS} <img src="<INSERT IMPRESSION TRACKER HERE>">
 ```
 
 * Copy the iFrame template to a text or word doc.
@@ -58,17 +58,17 @@ Example of an iFrame Template:
 * Go back to the ad configurator, select the size, Upload via 3rd party and paste in the iFrame you just created.
 * Refresh and verify that the companion banner
 
-**For Swf assets:**
-For swf/flash files, please use the template below instead:
+### SWF assets
+For swf/flash files, use the following template:
 
 ```
-<object type="application/x-shockwave-flash" data="**INSERT SWF FILE HERE**" width="300" height="250" id="tmContent_${RANDOM}" style="visibility: visible;">   
+<object type="application/x-shockwave-flash" data="<INSERT SWF FILE HERE>" width="300" height="250" id="tmContent_${RANDOM}" style="visibility: visible;">   
 <param name="wmode" value="transparent"><param name="allowfullscreen" value="true"><param name="allowscriptaccess" value="always">   
-<param name="flashvars" value="clickTag=**INSERT CLICK TAG HERE**">   
-</object><script src="**INSERT IMPRESSION TRACKER HERE**"/>
+<param name="flashvars" value="clickTag=<INSERT CLICK TAG HERE>">   
+</object><script src="<INSERT IMPRESSION TRACKER HERE>"/>
 ```
 
-**Sizes:**
+## Sizes
 
 * 300x250: most common and recommended on all pre-roll ads
 * 300x60: recommended if running on YouTube sites
