@@ -34,7 +34,7 @@ isSticky: 0
   
 [ ![Video Uploader](assets/video-uploader1.png)](assets/video-uploader1.png)
 
-* Upload Video: Raw creative asset. See  [Ad Specs.](../../../../user-guide/planning/ad-formats/ad-specs.md)
+* Upload Video: Raw creative asset. See the [standard specifications for supported ad types](https://www.tubemogul.com/ad-specs/).
 * Use Existing Video: Use a previously uploaded video to create a new ad.
 
 ### Configure the Ad
