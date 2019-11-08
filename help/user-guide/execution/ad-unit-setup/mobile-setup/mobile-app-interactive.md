@@ -34,7 +34,7 @@ isSticky: 0
   
 [ ![Vast Upload](assets/vast-upload.png)](assets/vast-upload.png)
 
-* Upload Video: Raw creative asset. See  [Ad Specs.](../../../../user-guide/planning/ad-formats/ad-specs.md)
+* Upload Video: Raw creative asset. See the [standard specifications for supported ad types](https://www.tubemogul.com/ad-specs/).
 * Use Existing Video: Use a previously uploaded video to create a new ad.
 * Advanced: VAST Tag URL. To avoid reporting discrepancies, consult with your Account Manager to verify your mobile ad server has been certified. Tags need to be   [MRAID](https://www.iab.net/mraid)  not VAST.
 
