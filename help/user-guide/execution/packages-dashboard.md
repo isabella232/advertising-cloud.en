@@ -33,21 +33,22 @@ It also shows campaign performance by package. Every package has a placement or 
 
 [ ![packages2](assets/packages2-1024x521.png)](assets/packages2.png)
 
-Package level stats provide you with real time information on pacing, delivery, and performance across each strategy. Package Name, Pacing & Time Elapsed, Today's Goal and Yesterday's (YD) Delivery are constant metrics whereas the other 5 (Impressions, Cost, eCPM, Completion Rate, and ClickThrough Rate) can be changed using the drop down menu on the right.
+Package-level metrics provide you with real-time information on pacing, delivery, and performance across each strategy. Package Name, Pacing & Time Elapsed, Today's Goal, and Yesterday's (YD) Delivery columns are always included, but you can edit the remaining five columns using the drop down menu on the right.
 
 [ ![packages2](assets/packages21.png)](assets/packages21.png)List of Pacing Metrics:
 
 [ ![pacingdefintion](assets/pacingdefintion.png)](assets/pacingdefintion.png)
 
-Another amazing feature of this new dashboard, is the Pacing & Time Elapsed section. The pacing bar will show you how you are performing against your goal. If the bar is red than you are behind, and if it is blue then you are ahead. If you hover over the bar then it'll show you more in-depth details for each package.
+In the Pacing & Time Elapsed section, the pacing bar indicates how you are performing against your goal. If the bar is red, then you are behind, and if it is blue, then you are ahead. For in-depth details for the package, hold the cursor over the pacing bar.
 
 [ ![package3](assets/package3-1024x406.png)](assets/package3.png)
 
-And if at any point, you'd like to see all the placements within each package, all you have to do is click on the package and it'll take you back to the placement page with the appropriate package already filtered.
+To see all the placements within each package, click the package name to return to the placement page with the appropriate package filter applied.
 
 [ ![package 4](assets/package-4-1024x600.png)](assets/package-4.png)
 
-Lastly, like any page in the UI you can use the Export button at the bottom of the page to see your data in Excel.
+You can download the entire data table to your browser's default download folder as a report in XLSM (macro-enabled Excel spreadsheet) format.
+
 >[!NOTE]
 >
 >Reporting is also available via [reports](../../user-guide/measurement/campaign-reporting/email-reports.md).
