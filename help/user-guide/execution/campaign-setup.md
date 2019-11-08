@@ -69,10 +69,8 @@ The 3rd Party Verification section includes settings for:
 Once your campaign is created, click on the blue widget next to your campaign name to enable Campaign [Optimization Goals](../../user-guide/optimization/optimization-goals.md). This feature allows users to set optimization goals and priorities in order of importance and automatically adjusts spend to sites where you are delivering the metrics you most care about, ensuring that your dollars are spent efficiently to achieve your goals.
 
 [ ![Blue_widget](assets/blue-widget.png)](assets/blue-widget.png)
-Considerations:
 
-* Campaign Optimization Goals will apply to all placements created **after** campaign goals are set. They will not apply to any placements created **before** campaign goals are set.
-
-* Any Optimization Goals set for a particular placement within the [Placement Editor](placement-setup.md) will override goals set at the campaign for that placement.
-
-  
+>[!NOTE]
+>
+>* Campaign Optimization Goals will apply to all placements created **after** campaign goals are set. They will not apply to any placements created **before** campaign goals are set.
+>* Any Optimization Goals set for a particular placement within the [Placement Editor](placement-setup.md) will override goals set at the campaign for that placement.
