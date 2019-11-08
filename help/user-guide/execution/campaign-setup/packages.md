@@ -23,6 +23,6 @@ isSticky: 0
 
 # Packages {#packages}
 
-The Packages feature enables you to group campaign placements that track back to common goals for easier management and measurement. They can be created at the campaign or placement level. To set up a package at the campaign level, refer to the [Campaign Setup](../../../user-guide/execution/campaign-setup.md) page.
+Packages are groups of placements with common goals for easier management and measurement. You can create a package at either the [campaign level](../../../user-guide/execution/campaign-setup.md) or the placement level.
 
 To ensure that all packages are tracking properly, make sure to assign every placement to the appropriate package. 
