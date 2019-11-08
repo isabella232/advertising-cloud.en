@@ -44,4 +44,3 @@ You can also set up a placement in BrandPoint View:
 * [GRP Mode](placement-setup/grp-setup.md) (Mirror your TV Buys. Read more about planning GRP campaigns [here](../../user-guide/planning/brandpoint/buying-in-cost-per-point.md))
 
 [ ![2014-07-16_0036](assets/2014-07-16-0036-300x188.png)](assets/2014-07-16-0036.png)
-  
