@@ -23,22 +23,22 @@ isSticky: 0
 
 # Tablet Interactive Pre-Roll {#tablet-interactive-pre-roll}
 
-`Create a New Ad`
+## Create a New Ad
 
 * Click on Ads in the left navigation bar
 * Select New Ad in top right corner
 * Choose Tablet Interactive Pre-roll
 * Select 15s or 30s only
 
-`Upload the Video`
+### Upload the Video
   
 [ ![Vast Upload](assets/vast-upload.png)](assets/vast-upload.png)
 
-* Upload Video: Raw creative asset. See  [Ad Specs.](../../../../user-guide/planning/ad-formats/ad-specs.md)
+* Upload Video: Raw creative asset. See the [standard specifications for supported ad types](https://www.tubemogul.com/ad-specs/).
 * Use Existing Video: Use a previously uploaded video to create a new ad.
 * Advanced: VAST Tag URL. To avoid reporting discrepancies, consult with your Account Manager to verify your mobile ad server has been certified. Tags need to be   [MRAID](https://www.iab.net/mraid)  not VAST.
 
-`Configure the Ad`
+### Configure the Ad
   
 [ ![Tablet ipr](assets/tablet-ipr.png)](assets/tablet-ipr.png)
 
@@ -51,10 +51,8 @@ isSticky: 0
 * [Endcap](../../../../user-guide/planning/ad-formats/ad-features-guide/teasers-endcaps.md): Finish off with an image to reinforce your brand message.
 * [Pixel:](../../../../user-guide/execution/ad-unit-setup/3rd-party-tracking-adserving/tracking-pixels.md) Add in 3rd party tracking pixels.
 
-`Save & Submit for Review`
+### Save & Submit for Review
   
-TubeMogul’s  [ad review](../../../../user-guide/execution/ad-unit-setup/ad-reviews.md) team verifies that the ad is rendering properly and clicking through. Approval time is typically 2-4 hours on regular business hours and 24hrs on weekends.
+The [ad review](../../../../user-guide/execution/ad-unit-setup/ad-reviews.md) team verifies that the ad is rendering properly and clicking through. Approval time is typically 2-4 hours on regular business hours and 24hrs on weekends.
   
-Remember to attach the Ad to a the correct placement.
-  
-  
+Remember to attach the ad to the correct placement.
