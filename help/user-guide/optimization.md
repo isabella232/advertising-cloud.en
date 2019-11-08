@@ -28,7 +28,7 @@ Advertising Cloud DSP automatically adjusts spend to sites that deliver the metr
 <!-- For each of your placements and packages, you can choose an [optimization goal](optimization/optimization-goals.md). The available optimization goals includes preset options, such as "Lowest Cost per Click," and custom goals you've set up as objectives in Advertising Cloud Search. -->
 
 <!-- Clarify if need a page on power optimization and edit/delete this list accordingly. -->
-Within our platform we offer two types of optimization:
+Two types of optimization are available:
 
 * [Optimization Goals (Auto Optimization)](optimization/optimization-goals.md)
 * [Power Optimization ( Manual- Complete Control)](optimization/power-optimization.md)
