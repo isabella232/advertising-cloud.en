@@ -81,7 +81,6 @@ Supported: iFrame & JavaScript tags
 >
 >For each FlashTalking tag, you must manually insert the tracking macro `${TM_CLICK_URL_URLENC}` immediately before the URL in the `<a href>` tag and as the value of the `ftClick` variable. The example tag shows the inserted macros highlighted in yellow.
 
-<!--
 ```
 <noscript> 
 <a href="${TM_CLICK_URL_URLENC}[http://servedby.flashtalking.com/click/8/57258;1799696;0;209;0/?ft_width=300&ft_height=250&url=9678632](https://servedby.flashtalking.com/click/8/57258;1799696;0;209;0/?ft_width=300&ft_height=250&url=9678632)" target="_blank"> 
@@ -111,4 +110,4 @@ ftTag += '>' + ftBuildTag2 + 'script>';
 document.write(ftTag); 
 </script>
 ```
--->
+
