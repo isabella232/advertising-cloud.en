@@ -79,7 +79,7 @@ Supported: iFrame & JavaScript tags
 
 >[!NOTE]
 >
->For each FlashTalking tag, you must manually insert the tracking macro `${TM_CLICK_URL_URLENC}` immediately before the URL in the <a href> tag and as the value of the `ftClick` variable. The example tag shows the inserted macros highlighted in yellow.
+>For each FlashTalking tag, you must manually insert the tracking macro `${TM_CLICK_URL_URLENC}` immediately before the URL in the `<a href>` tag and as the value of the `ftClick` variable. The example tag shows the inserted macros highlighted in yellow.
 
 <!--
 ```
