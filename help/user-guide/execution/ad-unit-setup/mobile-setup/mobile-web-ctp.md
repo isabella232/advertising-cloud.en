@@ -23,21 +23,21 @@ isSticky: 0
 
 # Phone Tap-To-Play 300x50 {#phone-tap-to-play-x}
 
-**Create a New Ad **
+## Create a New Ad
 
 * Click on Ads in the left navigation bar
 * Select New Ad
 * Choose Tablet Tap-to-Play Medium Rectangle > 300x250
 * Video can be any length
 
-**Upload the Video**
+### Upload the Video
   
 [ ![Video Uploader](assets/video-uploader.png)](assets/video-uploader.png)
 
-* Upload Video: Raw creative asset. See  [Ad Specs.](../../../../user-guide/planning/ad-formats/ad-specs.md)
+* Upload Video: Raw creative asset. See the [standard specifications for supported ad types](https://www.tubemogul.com/ad-specs/).
 * Use Existing Video: Use a previously uploaded video to create a new ad.
 
-**Configure the Ad **
+### Configure the Ad 
   
 [ ![Mobile tap to play](assets/mobile-tap-to-play.png)](assets/mobile-tap-to-play.png)
 
@@ -47,8 +47,7 @@ isSticky: 0
 * [Endcap:](/help/user-guide/planning/ad-formats/ad-features-guide/teasers-endcaps.md)Finish the ad with a static image reinforcing your brand message.
 * [Pixel:](../../../../user-guide/execution/ad-unit-setup/3rd-party-tracking-adserving/tracking-pixels.md) Add in 3rd party tracking pixels.
 
-**Save & Submit for Review **
-TubeMogul's [ad review](../../../../user-guide/execution/ad-unit-setup/ad-reviews.md)team verifies that the ad is rendering properly and clicking through. Approval time is typically 2-4 hours on regular business hours and 24hrs on weekends.
+### Save & Submit for Review 
+The [ad review](../../../../user-guide/execution/ad-unit-setup/ad-reviews.md)team verifies that the ad is rendering properly and clicking through. Approval time is typically 2-4 hours on regular business hours and 24hrs on weekends.
 
-Remember to attach the Ad to a the correct placement.
-  
+Remember to attach the ad to the correct placement.
