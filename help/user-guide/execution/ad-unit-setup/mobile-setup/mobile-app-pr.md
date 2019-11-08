@@ -36,17 +36,17 @@ isSticky: 0
 
 * Upload Video: Raw creative asset. See the [standard specifications for supported ad types](https://www.tubemogul.com/ad-specs/).
 * Use Existing Video: Use a previously uploaded video to create a new ad.
-* Advanced: [VAST Tag URL.](../../../../user-guide/execution/ad-unit-setup/3rd-party-tracking-adserving/ad-tags.md)To avoid reporting discrepancies, consult with your Account Manager to verify your mobile ad server has been certified.
+* Advanced: [VAST Tag URL](../../../../user-guide/execution/ad-unit-setup/3rd-party-tracking-adserving/ad-tags.md) To avoid reporting discrepancies, consult with your Account Manager to verify your mobile ad server has been certified.
 
 ### Configure the Ad
   
 [ ![Mobile PR](assets/mobile-pr.png)](assets/mobile-pr.png)
 
 * Basic: Name your ad and add a landing page to the click URL field.
-* [Pixel:](../../../../user-guide/execution/ad-unit-setup/3rd-party-tracking-adserving/tracking-pixels.md) Add in 3rd party tracking pixels.
+* [Pixel](../../../../user-guide/execution/ad-unit-setup/3rd-party-tracking-adserving/tracking-pixels.md): Add third-party tracking pixels.
 
 ### Save & Submit for Review
   
-The [ad review](../../../../user-guide/execution/ad-unit-setup/ad-reviews.md) team verifies that the ad is rendering properly and clicking through. Approval time is typically 2-4 hours on regular business hours and 24hrs on weekends.
+The [ad review] (../../../../user-guide/execution/ad-unit-setup/ad-reviews.md) team verifies that the ad is rendering properly and clicking through. Approval time is typically 2-4 hours on regular business hours and 24hrs on weekends.
   
 Remember to attach the ad to the correct placement.
