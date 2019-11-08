@@ -48,6 +48,6 @@ isSticky: 0
 * [Pixel](../../../../user-guide/execution/ad-unit-setup/3rd-party-tracking-adserving/tracking-pixels.md): Add third-party tracking pixels.
 
 ### Save & Submit for Review 
-The [ad review] (../../../../user-guide/execution/ad-unit-setup/ad-reviews.md)team verifies that the ad is rendering properly and clicking through. Approval time is typically 2-4 hours on regular business hours and 24hrs on weekends.
+The [ad review](../../../../user-guide/execution/ad-unit-setup/ad-reviews.md)team verifies that the ad is rendering properly and clicking through. Approval time is typically 2-4 hours on regular business hours and 24hrs on weekends.
 
 Remember to attach the ad to the correct placement.
