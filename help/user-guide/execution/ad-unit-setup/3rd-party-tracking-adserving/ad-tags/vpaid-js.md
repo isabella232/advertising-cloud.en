@@ -25,19 +25,19 @@ isSticky: 0
 
 # VPAID JS {#vpaid-js}
 
-* VPAID JavaScript inventory is available for desktop and mobile video
-* The viewability measurement solution includes mobile video running on VPAID JavaScript inventory using the MRC standard
-* IAS and MOAT viewability reporting encompasses mobile video if running on VPAID JavaScript
+VPAID JavaScript inventory is available for desktop and mobile video.
+
+The viewability measurement solution includes mobile video running on VPAID JavaScript inventory using the MRC standard. IAS and MOAT viewability reporting encompasses mobile video if running on VPAID JavaScript.
 
 ## Advised Actions
 
 To ensure that you are maximizing scale and are delivering across both VPAID Flash and JavaScript inventory where available, here are our advised actions.
 
-1st-Party / DSP Ads
+### 1st-Party / DSP Ads
 
 All videos uploaded as interactive pre-roll are automatically converted to VPAID Flash and JavaScript. For overlays, it is recommended that an image is uploaded (e.g. JPEG, PNG, GIF). If a SWF/Flash file is uploaded, the ad will not be served into VPAID JavaScript  inventory.
 
-3rd-Party Ads
+### 3rd-Party Ads
 
 Upload a single tag that references both VPAID Flash and JavaScript media files for maximum scale. Or, create two ads and upload a tag that references VPAID Flash and JavaScript media files separately (i.e., two tags). Advertising Cloud DSP will automatically deliver the acceptable asset based on the inventory type.
 
