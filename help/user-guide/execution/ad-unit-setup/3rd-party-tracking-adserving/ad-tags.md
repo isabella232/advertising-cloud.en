@@ -54,9 +54,7 @@ A macro serves as a shortcut for a message to the server. Macros will expand int
 
 There are several different ad tag formats and the macros are inserted in different spots in the tag depending on the third party. When using 3rd party ad tags, please replace macros with TubeMogul macros. If your ad tag includes other macros, please contact your Account Manager  for testing and a full list of macros available.
 
-## Set Up
-
-To load a third-party ad tag into DSP, do the following:
+## Create a Third-Party Ad
 
 * Click "Ads" in the left navigation bar.
 * Select "New Ad" in the top left corner.
@@ -69,7 +67,6 @@ To load a third-party ad tag into DSP, do the following:
 
 [ ![ad_tag](assets/ad-tag.png)](assets/ad-tag.png)
  
-
 * Confirm you can preview the ad before submitting it for review.
 
 ## Example VAST tag
