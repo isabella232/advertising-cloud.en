@@ -36,7 +36,7 @@ isSticky: 0
 ## Configure the Ad
 
 * Basic: Name your ad. No clickthrough functionality available for this unit.
-* [Pixel:](3rd-party-tracking-adserving/tracking-pixels.md)Add in any 3rd party tracking pixels. Note that all Connected TV pixels **should not be SSL compliant** as SSL compliant pixels on Connected TV will cause large discrepancies between your 3rd party ad-server reporting and TubeMogul's platform reporting.
+* [Pixel:] (3rd-party-tracking-adserving/tracking-pixels.md)Add in any 3rd party tracking pixels. Note that all Connected TV pixels **should not be SSL compliant** as SSL compliant pixels on Connected TV will cause large discrepancies between your 3rd party ad-server reporting and TubeMogul's platform reporting.
 
 **Save and Submit for Review**
   
