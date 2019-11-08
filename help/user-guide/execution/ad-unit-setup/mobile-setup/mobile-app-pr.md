@@ -47,6 +47,6 @@ isSticky: 0
 
 ### Save & Submit for Review
   
-The [ad review] (../../../../user-guide/execution/ad-unit-setup/ad-reviews.md) team verifies that the ad is rendering properly and clicking through. Approval time is typically 2-4 hours on regular business hours and 24hrs on weekends.
+The [ad review](../../../../user-guide/execution/ad-unit-setup/ad-reviews.md) team verifies that the ad is rendering properly and clicking through. Approval time is typically 2-4 hours on regular business hours and 24hrs on weekends.
   
 Remember to attach the ad to the correct placement.
