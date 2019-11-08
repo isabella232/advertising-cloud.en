@@ -25,24 +25,27 @@ isSticky: 0
 
 # Certified Display Ad Servers {#certified-display-ad-servers}
 
-TubeMogul currently accepts the following certified display ad servers. Please review the below to ensure delivery and minimal reporting discrepancies, and make sure your 3rd party ad tags are SSL compliant (https).
+Advertising Cloud DSP currently accepts the following certified display ad servers.
 
 ![DFA](assets/dfa.jpg)
 
-The platform supports iFrame & javascript tags only. No IMG or HREF. 
+Supported: iFrame & JavaScript tags only
 
 ![0_jivoxlogosmall](assets/0-jivoxlogosmall.gif)
 
-The platform supports all Desktop ad sizes, including rich media expandable banners and mobile in-app.
+Supported: all desktop ad sizes, including rich media expandable banners and mobile in-app
 
 ![Sizmek](assets/sizmek-300x300.png)
 
-The platform supports Desktop and 300x250 mobile web units only. No mobile in-app.
+Supported: Desktop and 300x250 mobile web units only
 
 ![medialets](assets/medialets-150x135.png)
 
-The platform supports javascript and IMG tags.
-The tags do require a small formatting change before adding into the platform. The tag below shows the additions highlighted in **YELLOW.** 
+Supported: JavaScript and IMG tags
+
+>[!NOTE]
+>
+>Each Medialets tag requires a small formatting change. The following example tag shows the additions highlighted in yellow. 
 
 ```
 
@@ -52,12 +55,13 @@ The tags do require a small formatting change before adding into the platform. T
 
 ![conversant](assets/conversant.png)
 
-The platform Supports iFrame & javascript tags for desktop and mobile web units only. No IMG, HREF, or mobile in-app tags.
+Supported: iFrame & JavaScript tags for desktop and mobile web units only
 
-Conversant tags also require users to manually insert macros for tracking, see below for example code with inserted macros highlighted in **YELLOW**:   
+>[!NOTE]
+>
+>For each Conversant tag, you must manually insert macros for tracking. The example tag shows the inserted macros highlighted in yellow. 
 
 ```
-
 <pre><iframe src="https://<a href="https://altfarm.mediaplex.com/ad/fm/18630-145298-44091-1?mpt=" target="_blank">altfarm.mediaplex.<wbr>com/ad/fm/18630-145298-44091-<wbr>1?mpt=</a><span style="background-color: yellow;">${TM_RANDOM}</span>&mpvc=<span style="background-color: yellow;">${TM_<wbr>CLICK_URL_URLENC}</span>" width=300 height=250 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no bordercolor="#000000">
 <br><script type="text/javascript" src="https://<a href="https://altfarm.mediaplex.com/ad/!js/18630-145298-44091-1?mpt=$%7BTM_RANDOM%7D&mpvc=" target="_blank">altfarm.mediaplex.<wbr>com/ad/!js/18630-145298-44091-<wbr>1?mpt=${TM_RANDOM}&mpvc=</a><span style="background-color: yellow;">${TM_<wbr>CLICK_URL_URLENC}</span>">
 <br></script>
@@ -67,16 +71,17 @@ Conversant tags also require users to manually insert macros for tracking, see b
 <br></a>
 <br></noscript>
 <br></iframe></pre>
-
 ```
 
 ![flashtalking-logo1](assets/flashtalking-logo1.jpg)
 
-The platform supports iFrame & javascript tags.
-FlashTalking tags also require manual insertion of macros for click tracking, see below for example code with inserted macros highlighted in **YELLOW**:   
+Supported: iFrame & JavaScript tags
+
+>[!NOTE]
+>
+>For each FlashTalking tag, you must manually insert macros for tracking. The example tag shows the inserted macros highlighted in yellow.
 
 ```
-
 <noscript> 
 <a href=" `**${TM_CLICK_URL_URLENC}**` [ht`<wbr>`tp://servedby.flashtalking.`<wbr>`com/click/8/57258;1799696;0;`<wbr>`209;0/?ft_width=300&ft_height=`<wbr>`250&url=9678632](https://servedby.flashtalking.com/click/8/57258;1799696;0;209;0/?ft_width=300&ft_height=250&url=9678632)" target="_blank"> 
 <img border="0" src=" [https://servedby.`<wbr>`flashtalking.com/imp/8/57258;`<wbr>`1799696;205;gif;Tubemogul;`<wbr>`300x250HTML5StandardwClickExte`<wbr>`nsion/](https://servedby.flashtalking.com/imp/8/57258;1799696;205;gif;Tubemogul;300x250HTML5StandardwClickExtension/)?"></a> 
@@ -104,5 +109,4 @@ ftTag += 'src=" [https://servedby.`<wbr>`flashtalking.com/imp/8/57258;`<wbr>`179
 ftTag += '>' + ftBuildTag2 + 'script>'; 
 document.write(ftTag); 
 </script>
-
 ```
