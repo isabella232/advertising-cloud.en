@@ -45,14 +45,14 @@ isSticky: 0
 * Basic: Name your ad and add a landing page to the click URL field.
 * [Overlay](../../../../user-guide/execution/ad-unit-setup/overlay.md): Provides for persistent branding throughout the video ad.
 
-    * 768x1024 for Background
+    * 768x1024 for gackground
     * 768x272 for header and footer assets
 
 * [Endcap](../../../../user-guide/planning/ad-formats/ad-features-guide/teasers-endcaps.md): Finish off with an image to reinforce your brand message.
-* [Pixel:](../../../../user-guide/execution/ad-unit-setup/3rd-party-tracking-adserving/tracking-pixels.md) Add in 3rd party tracking pixels.
+* [Pixel](../../../../user-guide/execution/ad-unit-setup/3rd-party-tracking-adserving/tracking-pixels.md): Add third-party tracking pixels.
 
 ### Save & Submit for Review
   
-The [ad review](../../../../user-guide/execution/ad-unit-setup/ad-reviews.md) team verifies that the ad is rendering properly and clicking through. Approval time is typically 2-4 hours on regular business hours and 24hrs on weekends.
+The [ad review] (../../../../user-guide/execution/ad-unit-setup/ad-reviews.md) team verifies that the ad is rendering properly and clicking through. Approval time is typically 2-4 hours on regular business hours and 24hrs on weekends.
   
 Remember to attach the ad to the correct placement.
