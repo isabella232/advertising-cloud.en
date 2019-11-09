@@ -21,9 +21,7 @@ postPassword:
 isSticky: 0
 ---
 
-# CPM Setup {#cpm-setup}
-
-To set up a CPM placement watch our [video tutorial](https://education.tubemogul.com/videos/) or follow the steps below:
+# CPM Placement Setup {#cpm-setup}
 
 1. Click on New Placement
 1. Select your Ad Format
@@ -33,7 +31,6 @@ To set up a CPM placement watch our [video tutorial](https://education.tubemogul
 ![CPM Mode](assets/cpm-mode.png)
 
 *
-
     * Name your placement  (Recommended Naming Convention: Test Campaign: GRP: PR15s: US )
     * Status: Choose whether the placement should begin right away or stay paused until you’ve confirmed all details.
     * Tags: Optional key words to help you search for your placement within the TubeMogul UI.
