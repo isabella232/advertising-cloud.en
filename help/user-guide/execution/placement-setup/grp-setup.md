@@ -23,12 +23,10 @@ isSticky: 0
 
 # GRP Setup {#grp-setup}
 
-To set up a GRP placement, follow the steps below:
- 
-
 1. Click on New Placement
 1. Select your Ad Format
 1. Select BrandPoint View/ GRP mode   
+
    [ ![](assets/grp-setup.png)](assets/grp-setup.png)
 
 1. In the top right corner, click on Edit OptionsName your placement  (Recommended Naming Convention: Test Campaign: GRP: PR15s: US )
@@ -52,23 +50,17 @@ To set up a GRP placement, follow the steps below:
     * BUDGET: Choose flight dates, options for [dayparting](../../../user-guide/planning/targeting/targeting-options.md), budget and [inventory tier](../../../user-guide/planning/brand-safety/sitesafe-quality.md).
     
     * LOCATION:
-
-*
-
-1.
+        * Americas: United States, Canada
+        * Europe: United Kingdom, France, Spain, Germany, Italy, Ireland, Sweden, Norway, Finland, Romania, Denmark, Netherlands, Switzerland, Belgium
+        * APAC: Australia, Japan, Indonesia, Taiwan, Thailand, Malaysia, Hong Kong, Singapore, Philippines, Vietnam, China, South Korea
+        * In-product Nielsen OCR reporting is only supported in the US, UK, Canada, France, Brazil, Australia, Germany and Italy. DMA targeting within the United States is available for the top 30 DMAs. DMA targeting is currently unavailable in all other countries.
 
     * PUBLIC INVENTORY: Although we typically recommend running across T1-T3 sites given this is an audience buy, if you'd like to target a specific contextual site list, we recommend you filter by % on-target  or CPP.
 
 [ ![bp - site cat](assets/bp-site-cat-1024x510.jpeg)](assets/bp-site-cat.jpeg)
 
-1.
-
     * [PRIVATE INVENTORY](../../../user-guide/planning/private-inventory.md)
     * [OTHER FILTERS](../../../user-guide/planning/targeting/targeting-options.md)
     * ESTIMATED RESULTS: Forecast tools are determined by the GRP Goal, Frequency Cap, Budget and any additional targeting parameters set within the placement.
 
-[ ![bp - forecast](assets/bp-forecast.jpeg)](assets/bp-forecast.jpeg)
-
-1.
-
-  
+[ ![bp - forecast](assets/bp-forecast.jpeg)](assets/bp-forecast.jpeg)  
