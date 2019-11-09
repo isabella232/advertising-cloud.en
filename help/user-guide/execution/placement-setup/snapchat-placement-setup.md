@@ -25,7 +25,7 @@ isSticky: 0
 
 # Snapchat Placement Setup {#snapchat-placement-setup}
 
-## CREATING A PLACEMENT
+## Create a Placement
 
 * There are two ways to enter the Placement Editor. New Placement Selector **or** Quick Select Dropdown
 
@@ -34,7 +34,7 @@ isSticky: 0
 ![Create Placement - quick selector](assets/create-placement-quick-selector-1024x444.png)
 
 
-## BASIC PLACEMENT CREATION
+### Basic Placement Creation
 
 * Name the placement, input basic flight info and goals
 
