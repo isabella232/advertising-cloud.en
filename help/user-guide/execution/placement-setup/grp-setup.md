@@ -59,8 +59,8 @@ isSticky: 0
 
 [ ![bp - site cat](assets/bp-site-cat-1024x510.jpeg)](assets/bp-site-cat.jpeg)
 
-    * [PRIVATE INVENTORY](../../../user-guide/planning/private-inventory.md)
-    * [OTHER FILTERS](../../../user-guide/planning/targeting/targeting-options.md)
-    * ESTIMATED RESULTS: Forecast tools are determined by the GRP Goal, Frequency Cap, Budget and any additional targeting parameters set within the placement.
+   * [PRIVATE INVENTORY](../../../user-guide/planning/private-inventory.md)
+   * [OTHER FILTERS](../../../user-guide/planning/targeting/targeting-options.md)
+   * ESTIMATED RESULTS: Forecast tools are determined by the GRP Goal, Frequency Cap, Budget and any additional targeting parameters set within the placement.
 
 [ ![bp - forecast](assets/bp-forecast.jpeg)](assets/bp-forecast.jpeg)  
