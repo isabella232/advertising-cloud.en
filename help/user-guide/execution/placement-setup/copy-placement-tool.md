@@ -23,7 +23,7 @@ isSticky: 0
 
 # Copy Placement Tool {#copy-placement-tool}
 
-You can create a new placement by copying any placement in the Placements view:
+You can create a new placement by copying any placement in the Placements view. Use this feature to:
 
 * Copy placements across campaigns - either to a new campaign or an existing one
 * Specify the number of times to copy a placement to a new or existing campaign
