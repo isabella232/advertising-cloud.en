@@ -27,10 +27,6 @@ isSticky: 0
 1. Select your Ad Format
 1. Select CPM Mode
 1. In the top right corner, click on Edit Options
-
-![CPM Mode](assets/cpm-mode.png)
-
-*
     * Name your placement  (Recommended Naming Convention: Test Campaign: GRP: PR15s: US )
     * Status: Choose whether the placement should begin right away or stay paused until you’ve confirmed all details.
     * Tags: Optional key words to help you search for your placement within the TubeMogul UI.
