@@ -38,7 +38,7 @@ Video ads can track the following metrics:
 * View conversion - User viewed the video and went to the conversion page sometime later
 * Impression conversion - User was exposed to an in-banner impression and went to the conversion page sometime later
 
-Note that a view conversion in our system is not quite the same thing as a "view-through" conversion in the display world.
+Note that a view conversion in Advertising Cloud DSP is not quite the same thing as a "view-through" conversion in the display world.
 
 Conversion pixels also support the notion of a "lookback window".  This defines the trailing time period for which the original activity with the ad will be considered eligible for conversion.  By default, all conversion types have a lookback window of 30 days.  That means that if the ad was seen 40 days ago, before the conversion page was hit, it would not be considered a valid conversion and wouldn't be counted.
 
