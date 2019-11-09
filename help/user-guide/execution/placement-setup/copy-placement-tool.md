@@ -23,7 +23,7 @@ isSticky: 0
 
 # Copy Placement Tool {#copy-placement-tool}
 
-This tool enables you to:
+You can create a new placement by copying any placement in the Placements view:
 
 * Copy placements across campaigns - either to a new campaign or an existing one
 * Specify the number of times to copy a placement to a new or existing campaign
@@ -31,17 +31,9 @@ This tool enables you to:
 * Choose whether or not to copy the ads attached to the original placement
 * Modify the flight dates of the copied placements
 
-[ ![copy placement](assets/copy-placement.jpg)](assets/copy-placement.jpg)
-
-**Where to find it:**
-
-STEP 1: Click on the gear icon next to a placement and select “copy placement”
-
 [ ![Where to find copy](assets/where-to-find-copy.png)](assets/where-to-find-copy.png)
 
-STEP 2:  Set preferences in the modal window
-
-[ ![Set modal](assets/set-modal1.png)](assets/set-modal1.png)
+[ ![copy placement](assets/copy-placement.jpg)](assets/copy-placement.jpg)
 
 >[!NOTE]
 >
