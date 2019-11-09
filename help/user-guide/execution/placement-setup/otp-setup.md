@@ -59,7 +59,7 @@ To set up a On-Target Percentage placement, follow the steps below:
 
     * PUBLIC INVENTORY: Although we typically recommend running across T1-T3 sites given this is an audience buy, if you'd like to target a specific contextual site list, we recommend you filter by % on-target  or CPP.
 
-[ ![bp - site cat](assets/bp-site-cat-1024x510.jpeg)](assets/bp-site-cat.jpeg)
+   [ ![bp - site cat](assets/bp-site-cat-1024x510.jpeg)](assets/bp-site-cat.jpeg)
 
     * [PRIVATE INVENTORY](../../../user-guide/planning/private-inventory.md)
     * [OTHER FILTERS](../../../user-guide/planning/targeting/targeting-options.md)
