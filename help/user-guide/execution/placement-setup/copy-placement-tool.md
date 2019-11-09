@@ -42,11 +42,11 @@ STEP 1: Click on the gear icon next to a placement and select â€œcopy placementâ
 STEP 2:  Set preferences in the modal window
 
 [ ![Set modal](assets/set-modal1.png)](assets/set-modal1.png)
-**Things to keep in mind:**
 
-* No 3rd party pixels on any attached ads or on placement will be carried over if you are copying a placement to a new campaign.
-* It is not currently available for BrandPoint GRP mode placements.
-* Nielsen pixels will only be applied to the new placement if Nielsen is enabled on the destination campaign
-* Custom ad weighting of ads are not attached
-* Custom ad scheduling of placement flight dates are changed
-
+>[!NOTE]
+>
+>* No third-party pixels on any attached ads or placement are carried over if you are copying a placement to a new campaign.
+>* This feature isn't available for BrandPoint GRP mode placements.
+>* Nielsen pixels are applied to the new placement only if Nielsen is enabled on the destination campaign.
+>* Custom weighting of ads are not attached.
+>* Custom ad scheduling of placement flight dates are changed.
