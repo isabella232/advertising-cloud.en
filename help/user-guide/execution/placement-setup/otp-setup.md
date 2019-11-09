@@ -52,29 +52,21 @@ To set up a On-Target Percentage placement, follow the steps below:
     
     * LOCATION:
 
-* Americas: United States, Canada
-* Europe: United Kingdom, France, Spain, Germany, Italy, Ireland, Sweden, Norway, Finland, Romania, Denmark, Netherlands, Switzerland, Belgium
-* APAC: Australia, Japan, Indonesia, Taiwan, Thailand, Malaysia, Hong Kong, Singapore, Philippines, Vietnam, China, South Korea
-* Note in-product Nielsen OCR reporting is only supported in the US, UK, Canada, France, Brazil, Australia, Germany and Italy. DMA targeting within the United States is available for the top 30 DMAs. DMA targeting is currently unavailable in all other countries.
+        * Americas: United States, Canada
+        * Europe: United Kingdom, France, Spain, Germany, Italy, Ireland, Sweden, Norway, Finland, Romania, Denmark, Netherlands, Switzerland, Belgium
+        * APAC: Australia, Japan, Indonesia, Taiwan, Thailand, Malaysia, Hong Kong, Singapore, Philippines, Vietnam, China, South Korea
+        * In-product Nielsen OCR reporting is only supported in the US, UK, Canada, France, Brazil, Australia, Germany and Italy. DMA targeting within the United States is available for the top 30 DMAs. DMA targeting is currently unavailable in all other countries.
 
-1.
-
-    * PUBLIC INVENTORY: Although we typically recommend running across T1-T3 sites given this is an audience buy, if you'd like to target a specific contextual site list, we recommend you filter by % on-target  or CPP.
+   * PUBLIC INVENTORY: Although we typically recommend running across T1-T3 sites given this is an audience buy, if you'd like to target a specific contextual site list, we recommend you filter by % on-target  or CPP.
 
 [ ![bp - site cat](assets/bp-site-cat-1024x510.jpeg)](assets/bp-site-cat.jpeg)
 
-1.
-
-    * [PRIVATE INVENTORY](../../../user-guide/planning/private-inventory.md)
-    * [OTHER FILTERS](../../../user-guide/planning/targeting/targeting-options.md)
-    * ESTIMATED RESULTS: Forecast tools are determined by the GRP Goal, Frequency Cap, Budget and any additional targeting parameters set within the placement.
+   * [PRIVATE INVENTORY](../../../user-guide/planning/private-inventory.md)
+   * [OTHER FILTERS](../../../user-guide/planning/targeting/targeting-options.md)
+   * ESTIMATED RESULTS: Forecast tools are determined by the GRP Goal, Frequency Cap, Budget and any additional targeting parameters set within the placement.
 
 [ ![bp - forecast](assets/forecast-otp.png)](assets/forecast-otp.png)
 
-1.
-
-    * On Target CPM is the CPM for every on-target impression (CPM/on target percentage).
-    * Fill Rate On Target % is how likely you are to fill your impressions goal for your target audience
-    * On Target % is the percentage of impressions that were delivered to your target demographic (on target impressions/total impressions).
-
-  
+        *  On Target CPM is the CPM for every on-target impression (CPM/on target percentage).
+        * Fill Rate On Target % is how likely you are to fill your impressions goal for your target audience
+        * On Target % is the percentage of impressions that were delivered to your target demographic (on target impressions/total impressions). 
