@@ -69,4 +69,4 @@ To set up a On-Target Percentage placement, follow the steps below:
         * Fill Rate On Target % is how likely you are to fill your impressions goal for your target audience
         * On Target % is the percentage of impressions that were delivered to your target demographic (on target impressions/total impressions).
         
-[ ![bp - forecast](assets/forecast-otp.png)](assets/forecast-otp.png)
+   [ ![bp - forecast](assets/forecast-otp.png)](assets/forecast-otp.png)
