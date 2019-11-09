@@ -62,5 +62,9 @@ isSticky: 0
    * [PRIVATE INVENTORY](../../../user-guide/planning/private-inventory.md)
    * [OTHER FILTERS](../../../user-guide/planning/targeting/targeting-options.md)
    * ESTIMATED RESULTS: Forecast tools are determined by the GRP Goal, Frequency Cap, Budget and any additional targeting parameters set within the placement.
+        * Projected CPP is the estimated cost of purchasing one GRP for your target demographic, this CPP is guaranteed by TubeMogul within 20%.
+        * GRP Goal is determined by the GRP Goal set in the left navigation, date range and the time period set for your budget. If you have set your GRP Goal for 30 per ‘All time’ for 1 month and x budget per day, the GRP Goal in the Forecast Menu will show you a Goal of 1 GRP a day.
+        * On Target CPM is the CPM for every on-target impression (CPM/on target percentage).
+        * On Target % is the percentage of impressions that were delivered to your target demographic (on target impressions/total impressions).
 
 [ ![bp - forecast](assets/bp-forecast.jpeg)](assets/bp-forecast.jpeg)  
