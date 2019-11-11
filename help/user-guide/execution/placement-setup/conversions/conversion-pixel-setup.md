@@ -31,14 +31,14 @@ isSticky: 0
     1. Click **New Conversion**.
     3. Select the advertiser.
     4. Specify the pixel settings, including:
-      * Campaigns: The applicable campaigns. The pixel is enabled by default for any new placements created for the selected campaigns, but not to existing placements.
-      * Name: The name of the pixel.
-      * Notes: (Optional) Any notes for your information.
-      * Conversion Category: The type of conversion. <!-- Do these change the format of the pixel code? Add info. about each, or at least an exanple of how each will look. -->
-      * The lookback windows for different viewer actions:
-        * <*N*> days after an impression: The number of days after an ad impression occurs in which the impression can be attributed to a conversion. 
-        * <*N*> days after a view: The number of days after the first view occurs in which the view can be attributed to a conversion. 
-        * <*N*> days after a click: The number of days after the first click occurs in which the click can be attributed to a conversion.
+        * Campaigns: The applicable campaigns. The pixel is enabled by default for any new placements created for the selected campaigns, but not to existing placements.
+        * Name: The name of the pixel.
+        * Notes: (Optional) Any notes for your information.
+        * Conversion Category: The type of conversion. <!-- Do these change the format of the pixel code? Add info. about each, or at least an exanple of how each will look. -->
+        * The lookback windows for different viewer actions:
+            * <*N*> days after an impression: The number of days after an ad impression occurs in which the impression can be attributed to a conversion. 
+            * <*N*> days after a view: The number of days after the first view occurs in which the view can be attributed to a conversion. 
+            * <*N*> days after a click: The number of days after the first click occurs in which the click can be attributed to a conversion.
     5. Click **Add**.
   
 2. Copy the HTML tag and insert it in the website pages on which the conversion takes place, and insert the Flash tag within any Flash applications in which the conversion takes place.
