@@ -106,7 +106,7 @@ Added value 728×90 banner space that accompanies Expandable Click to Play (CTP)
 Pre-roll video ads that automatically play in display banner space on low quality sites, often below the fold
 
 *Feeds*
-Inventory source you can plug into – relationship is established between publishers and clients to access exclusive inventory. TubeMogul facilitates this process.
+Inventory sources you can use based on relationships with publishers and clients to access exclusive inventory.
 
 *Flight*
 Period of time a campaign or ad runs
@@ -155,7 +155,7 @@ Private exchanges allow publishers to create exclusive pools of video inventory,
 Sent out by agencies seeking proposals for a video strategy to use in an upcoming campaign. The RFP identifies the brand’s goals and key performance indicators for the campaign. Additional parameters such as audience demographics, geography and site-level restrictions may also be outlined.
 
 *Retargeting Pixel*
-Used to retarget video ads to people who have seen a specific video ad or visited the brand’s site, landing page, etc. before. Unlike the other types of pixels, retargeting pixels are usually created in TubeMogul’s platform, not provided by the client.
+Used to retarget video ads to people who have previously seen a specific video ad or visited the brand’s site, landing page, and so on. Unlike the other types of pixels, retargeting pixels are usually created in Advertising CLoud, not provided by the client.
 
 *Tags*
 usually refer to third party code that contains both the creative (video, overlays, companions, etc), as well as all of the necessary third party impression pixels and redirects. These enable you to skip the video upload stage and go straight to the ad creation step, but the downside is you can’t control the elements inside the tag, yous just put them in the system and serve “as-is”.
