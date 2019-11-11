@@ -24,6 +24,7 @@ isSticky: 0
 # Budget & Bid {#budget-bid}
 
 This section of the Placement Options page provides you with an estimate of how likely you are to reach your impressions goal based on your placement targeting parameters. The fill curve is based on historical inventory avails from the past few weeks.
+
 [ ![budget_and_bid](assets/budget-and-bid.png)](assets/budget-and-bid.png)
 
 * Budget Cap: Amount of money you want to spend on this placement per day, week , month or all-time. Recommended to start by day until actual daily deliver has been confirmed.
@@ -35,7 +36,7 @@ This section of the Placement Options page provides you with an estimate of how 
 
     * Estimated Fill: Percentage fill based on placement targeting (&#42;currently does not account for  [audience targeting](../../../../user-guide/planning/targeting/behavioral.md))
     * Estimated CPM: Average eCPM estimate including any additional fees.
-    * Estimated Fees: Includes additional fees incurred including  [3rd party data](../../../../user-guide/planning/targeting/behavioral.md)or  [Brand Safety](../../../../user-guide/planning/brand-safety/pagesafe-proximic.md). Hover over the question mark for details as shown in the screenshot below.
+    * Estimated Fees: Includes additional fees incurred including  [third-party data](../../../../user-guide/planning/targeting/behavioral.md) or [Brand Safety](../../../../user-guide/planning/brand-safety/pagesafe-proximic.md). Hover over the question mark for details as shown in the screenshot below.
     
     * Estimated Daily Impression: Daily impressions expected given targeting parameters, budget and bid.
     * Estimated Daily Uniques: Daily unique viewers expected
