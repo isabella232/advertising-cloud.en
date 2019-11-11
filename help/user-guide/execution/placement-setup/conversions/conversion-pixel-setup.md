@@ -43,7 +43,7 @@ isSticky: 0
   
 1. Copy the HTML tag and insert it in the website pages on which the conversion takes place, and insert the Flash tag within any Flash applications in which the conversion takes place.
 
-  [ ![image2013-3-25 13-34-24](assets/image2013-3-25-13-34-24.jpeg)](assets/image2013-3-25-13-34-24.jpeg)
+    [ ![image2013-3-25 13-34-24](assets/image2013-3-25-13-34-24.jpeg)](assets/image2013-3-25-13-34-24.jpeg)
 
 1. Verify the conversion is firing with a web developer tool, such as Charles, Firebug, or Fiddler.
 1. (If the campaigns for which the pixel applies already include placements) Manually edit the applicable placement settings to add the pixel.
