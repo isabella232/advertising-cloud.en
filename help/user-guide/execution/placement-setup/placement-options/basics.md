@@ -23,7 +23,7 @@ isSticky: 0
 
 # Basics {#basics}
 
-Located in the Placement Options page under "Current View" mode, the Basics section is where you entering in the following information:
+The Placement Basics section includes the following settings:
 
 * Name:  Suggested naming convention Campaign Name: Ad Unit: Duration: Targeting Parameter
 * Status: Choose whether the placement should begin right away or stay paused until you've confirmed all details.
