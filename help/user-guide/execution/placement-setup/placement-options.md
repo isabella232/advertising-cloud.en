@@ -32,7 +32,7 @@ Once you've clicked on New Placement, selected an Ad Unit, you will be taken to 
 * [More Targeting Options](../../../user-guide/planning/targeting/targeting-options.md)
 * [Brand Safety](https://education.tubemogul.com/tm/product-update/ias-pre-bid-filtering/)
 * [Audience](placement-options/audience.md)
-* [Conversions](placement-options/conversions-2.md)
+* [Conversions](conversions.md)
 * [Inventory Sources](placement-options/inventory-sources.md)
 * [Optimization Goals](../../../user-guide/optimization/optimization-goals.md)
 * [Budget & Bid](placement-options/budget-bid.md)
