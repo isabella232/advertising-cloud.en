@@ -25,10 +25,12 @@ isSticky: 0
 
 # Conversion Pixel Setup {#conversion-pixel-setup}
 1. Create a conversion pixel:
+
   1. In the main menu, click **DSP > Tools > Conversions**.
   1. Click **New Conversion**.
   1. Select the advertiser.
   1. Specify the pixel settings, including:
+  
     * Campaigns: The applicable campaigns. The pixel is enabled by default for any new placements created for the selected campaigns, but not to existing placements.
     * Name: The name of the pixel.
     * Notes: (Optional) Any notes for your information.
@@ -38,6 +40,7 @@ isSticky: 0
       * <*N*> days after a view: The number of days after the first view occurs in which the view can be attributed to a conversion. 
       * <*N*> days after a click: The number of days after the first click occurs in which the click can be attributed to a conversion.
   1.  Click **Add**.
+  
 1. Copy the HTML tag and insert it in the website pages on which the conversion takes place, and insert the Flash tag within any Flash applications in which the conversion takes place.
 
   [ ![image2013-3-25 13-34-24](assets/image2013-3-25-13-34-24.jpeg)](assets/image2013-3-25-13-34-24.jpeg)
