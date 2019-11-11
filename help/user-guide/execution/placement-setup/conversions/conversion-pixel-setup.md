@@ -26,7 +26,6 @@ isSticky: 0
 # Conversion Pixel Setup {#conversion-pixel-setup}
 
 1. Create a conversion pixel:
-
   1. In the main menu, click **DSP > Tools > Conversions**.
   1. Click **New Conversion**.
   1. Select the advertiser.
