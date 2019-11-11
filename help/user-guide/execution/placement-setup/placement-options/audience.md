@@ -27,7 +27,7 @@ isSticky: 0
   
 Select how many times a unique viewer should view your ad per day, week or month.   
 
-##Audience Segments
+## Audience Segments
   
 Layer on 3rd party data segments, retargeting cookie pools or 1st party data segments to your placement.  Keep in mind that the size of the audience segment limits the amount of impressions that are delivered. Since your goal is to reach these specific users, it is recommended to target all Tier 1 - Tier 3 sites to maximize reach.
 [Behavioral 3rd Party Data](../../../../user-guide/planning/targeting/behavioral.md): Apply specific audience data to your TubeMogul campaigns. Our research team found that viewers are up to 45% more likely to click on an ad that utilized audience data targeting.  Our data partners include  BlueKai, Lotame, Datalogix, Exelate, Quantcast, V12, Bizo and more. The use of audience data will incur an additional CPM fee. If you would like to apply  3rd party data to global campaigns, please check with your Account Manager as data is limited outside of the United States.
