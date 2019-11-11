@@ -64,13 +64,13 @@ isSticky: 0
         * Load List: Load a previously saved list across multiple placements
         * Export List: Export the selected site list for internal or client review
 
-[ ![CPm Site tool](assets/cpm-site-tool-1024x484.png)](assets/cpm-site-tool.png)
+   [ ![CPm Site tool](assets/cpm-site-tool-1024x484.png)](assets/cpm-site-tool.png)
 
    * [PRIVATE INVENTORY](../../../user-guide/planning/private-inventory.md) Target your private feeds for this placement
    * [OTHER FILTERS](../../../user-guide/planning/targeting/targeting-options.md) Layer on [Audience Segments,](../../../user-guide/planning/targeting/behavioral.md) Device Targeting, Topic Targeting or [Brand Safety](../../../user-guide/planning/brand-safety/pagesafe-proximic.md) Restrictions 
  * FORECAST: This is our estimation tool which projects how likely you are to fill your goal.
 
-[ ![2014-07-15_2039](assets/2014-07-15-2039.png)](assets/2014-07-15-2039.png)
+   [ ![2014-07-15_2039](assets/2014-07-15-2039.png)](assets/2014-07-15-2039.png)
 
    * Average CPM: Based on historical data and your placement parameters, our tool estimates that you will pay around $8.08.
    * Fill Rate %: How likely are you to fill your impressions goal based on the parameters you have specified for this placement. If you are not at 100%, you’ll want to drag the budget or bid bar to the right, towards the green section.
