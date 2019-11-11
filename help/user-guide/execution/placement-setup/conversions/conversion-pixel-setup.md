@@ -26,7 +26,6 @@ isSticky: 0
 # Conversion Pixel Setup {#conversion-pixel-setup}
 
 1. Create a conversion pixel:
-
     1. In the main menu, click **DSP > Tools > Conversions**.
     1. Click **New Conversion**.
     3. Select the advertiser.
@@ -40,14 +39,12 @@ isSticky: 0
             * <*N*> days after a view: The number of days after the first view occurs in which the view can be attributed to a conversion. 
             * <*N*> days after a click: The number of days after the first click occurs in which the click can be attributed to a conversion.
     5. Click **Add**.
-  
 2. Copy the HTML tag and insert it in the website pages on which the conversion takes place, and insert the Flash tag within any Flash applications in which the conversion takes place.
 
     [ ![image2013-3-25 13-34-24](assets/image2013-3-25-13-34-24.jpeg)](assets/image2013-3-25-13-34-24.jpeg)
 
 1. Verify the conversion is firing with a web developer tool, such as Charles, Firebug, or Fiddler.
 1. (If the campaigns for which the pixel applies already include placements) Manually edit the applicable placement settings to add the pixel.
-
 
 ## Attribution
 
@@ -65,7 +62,6 @@ Note: Only one conversion every 24 hours is permitted per user, per conversion-p
 * Other ad servers may not limit against the user + conversion pixel. So for sites that have multiple conversion pixels, we will attribute a conversion to the user landing on each one. Other ad servers may limit this more strictly, ie. only allow one conversion per placement or creative.
 * Browser that don't allow 3rd-party cookies will not properly count conversions.
 * Often people may compare click-throughs to conversions. However, these can be quite mismatched, for reasons such as:
-
   * If the click-through doesn't go through directly to the page the conversion pixel is on, ie. it requires more user activity (sign-up, check-out, etc.) before the pixel fires.
   * A person can only convert on the same ad once every 24 hours. Often we see multiple clicks by the same user, so these are filtered out.
   * Popup blockers may prevent the actual window from opening, even though we've counted the click-through.
