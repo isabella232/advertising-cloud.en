@@ -23,9 +23,9 @@ isSticky: 0
 
 # Conversions {#conversions}
 
-Advertising Cloud DSP tracks and reports conversion metrics for every conversion pixel built within the platform. Conversion reporting is available on the dashboard as well as through [Email Reports](../../../user-guide/measurement/campaign-reporting/email-reports.md).
+Advertising Cloud DSP tracks and reports conversion metrics (that is, impressions conversions, view conversions, and click conversions) for every conversion pixel built within the platform. Conversion reporting is available on the dashboard as well as through [Email Reports](../../../user-guide/measurement/campaign-reporting/email-reports.md).
 
-A conversion pixel is a piece of code that's put on a website (often an advertiser's landing page, but possibly a publisher) to track a post-ad experience action, such as registering as a Facebook fan, filling out a form, or buying a product  The conversion action is completely up to the advertiser and how they implement the pixel on their site.
+A conversion pixel is a piece of code that's put on a website (often an advertiser's landing page, but possibly a publisher) to track a post-ad experience action, such as registering as a Facebook fan, filling out a form, or buying a product. The conversion action is completely up to the advertiser and how they implement the pixel on their site.
 
 For display ads, conversion pixels typically track:
 
