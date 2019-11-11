@@ -38,10 +38,11 @@ Apply specific [third-party audience data](../../../../user-guide/planning/targe
 [ ![](assets/picture11.png)](assets/picture11.png)
 
 ### Custom Segments
-This feature is used to target people who have visited your brand website, interacted with your ad or watched a portion of a video. Your team should have [created a retargeting pixel](../../../../user-guide/planning/targeting/retargeting/retargeting-pixel-setup.md) and collected this cookie pool at least 2 weeks prior to campaign launch.
+
+This feature is used to target people who have visited your brand website, interacted with your ad or watched a portion of a video. Your team should have [created a retargeting pixel](../../../../user-guide/planning/targeting/retargeting/retargeting-pixel-setup.md) and collected this cookie pool at least two weeks before you launch the relevant campaigns.
 
 [ ![](assets/audience2.png)](assets/audience2.png)
 
-### 1st Party Custom Segments
+### First-Party Custom Segments
 
-If you want to integrate your own 1st party data into the TubeMogul platform and layer onto your campaigns, contact your Account Manager for more information.
+If you want to use your own first-party data for your campaigns, contact your Account Manager for more information.
