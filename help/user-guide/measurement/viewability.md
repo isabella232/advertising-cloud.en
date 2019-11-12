@@ -25,47 +25,47 @@ isSticky: 0
 
 # Viewability {#viewability}
 
-TubeMogul users have access to viewability measurement across desktop video, desktop display, mobile video and connected TV ads within the platform. Our viewability reporting measures whether an ad had the opportunity to be viewed by the audience. The technology tracks how much of the ad is in view, how long it is in view, and whether the browser window is active. This reporting is available for all campaigns managed via TubeMogul, works on any VPAID unit, is not specific to any one exchange, network or marketplace, requires no change to a publisher's website and detects preroll running in small in-banner space.  See the technology in action [here.](https://playtime.tubemogul.com/demo/viewability/index.html)
+Advertising Cloud DSP provides viewability measurement across desktop video, desktop display, mobile video and connected TV ads. Viewability reporting measures whether an ad had the opportunity to be viewed by the audience. The technology tracks how much of the ad is in view, how long it is in view, and whether the browser window is active. This reporting is available for all managed campaigns; works on any VPAID unit; is not specific to any one exchange, network or marketplace; requires no change to a publisher's website; and detects preroll running in small in-banner space. See [an example of the viewability reporting]https://playtime.tubemogul.com/demo/viewability/index.html).
   
-**Where to Access Viewability Reporting**
+## Where to Access Viewability Reporting
 
-To access your site and app level viewability report in the TubeMogul UI, go to sites tab within your particular placements. You can click on the grid icon on the top right corner to add in additional metrics.  You can also Export the data to Excel. The viewability reporting will show up starting with column F.
+To access your site and app level viewability report, go to sites tab within your particular placements. You can click on the grid icon on the top right corner to add in additional metrics.  You can also Export the data to Excel. The viewability reporting will show up starting with column F.
 
 [ ![Sites](assets/sites-1024x308.png)](assets/sites-1.png)
 
-**Understanding Viewability Metrics **
+## Understanding Viewability Metrics
 
 [ ![2015-08-21_1541](assets/2015-08-21-1541.png)](assets/2015-08-21-1541.png)
 
- 
-
-**What is video viewability?**
+## What is video viewability?
 
 Video viewability goes beyond reporting whether an ad was served on a page - it measures whether an ad had the opportunity to be seen by the audience by tracking how much of the ad is in view, how long it is in view and whether the window is active. Currently, there is not an industry-wide standard on what qualifies as a "viewable impression" (e.g. What percentage of the video's pixels needs to be in view? For how long?), but initiatives such as OpenVV seek to drive consensus among advertisers, publishers and ad tech vendors.
 
-**What is OpenVV?**
-OpenVV is an open-source viewability solution for in-stream video advertising. TubeMogul, BrightRoll, Innovid, LiveRail and SpotXchange founded the consortium to drive the industry towards a standard for video viewability, with the belief that it will benefit brands, agencies and publishers alike. The technology tracks whether a video is in view, and is muted, whether the window is active and the exact percentage of the video that is viewable on a user's screen. To learn more, visit 
+## What is OpenVV?
+OpenVV is an open-source viewability solution for in-stream video advertising. TubeMogul (now Adobe Advertising Cloud DSP), BrightRoll, Innovid, LiveRail and SpotXchange founded the consortium to drive the industry towards a standard for video viewability, with the belief that it will benefit brands, agencies and publishers alike. The technology tracks whether a video is in view, and is muted, whether the window is active and the exact percentage of the video that is viewable on a user's screen. To learn more, visit 
 
 [www.openVV.org](https://www.iab.com/guidelines/open-video-viewability/)
-**How do you define a "viewable impression"?**
+
+##How do you define a "viewable impression"?
 
 * For Pre-Roll, we define a viewable impression if 50% of the video is in view for 2 consecutive seconds in the viewable browser area of an active tab.
 * For Display, we define a viewable impression if 50% of the video is in view for 1 consecutive seconds in the viewable browser area of an active tab.
 * For Mobile and Connected TV, we define a viewable impression if the ad plays full screen (or 100% in view) and passes the 25% completion point.
 
-**What ad units can TubeMogul report viewability?**
+## For which ad ad units is viewability available?**
 
 * Desktop (video and display)
 * Mobile
 * Connected TV
 
-**What metrics are available for viewability?**
+## What metrics are available for viewability?
 
 [ ![cross screen viewability metrics](assets/cross-screen-viewability-metrics-1024x478.png)](assets/cross-screen-viewability-metrics.png)
 
-**What are the benchmarks for viewability?**
+## What are the benchmarks for viewability?
 
 Because there isn't an industry-wide standard of what counts as a viewable impression, the methodology for calculating viewability metrics often vary between vendors. We are working on building benchmarks based on TubeMogul's definition of viewability.
 
-**There are other viewability offerings that are MRC- accredited. Can you shed more light on what this means?**
+## There are other viewability offerings that are MRC-accredited. What does that this means?
+
 MRC accreditation just indicates that a technical solution - when subjected to an audit process - does what it claims to do. This isn't an indication that the solution adheres to an industry-accepted viewability standard. Initiatives such as OpenVV provide a framework to help bring the industry closer to a consensus. While OpenVV is not yet MRC-accredited, it stands ready to adapt the technology to fit any definition of "viewable" established by the MRC and IAB. 
