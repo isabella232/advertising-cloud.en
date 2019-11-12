@@ -36,7 +36,7 @@ You can generate reports once, or schedule them to be generated daily, weekly, o
 
 [![Report Types](assets/report-types-1024x242.png)](assets/report-types.png)
 
-## *Where to find it
+## Where to find it
   
 Click on the Tools section in the navigation bar:
 
@@ -186,7 +186,6 @@ Note: cross-device options are only applicable to advertisers with cross-device 
 ##### Conversion Reporting Based On
 
 This affects the datesee Conversion Metrics and Custom Goals are associated with. “Conversion Timestamp” will show values based on the day the conversion event happened. “Event Timestamp” will show values based on the day the impression or click happened.
-
  
 #### Combinations
 
@@ -196,7 +195,7 @@ For example, if you choose the following options, you will see two different col
 
 ![Combo](assets/combo.png)
 
-#### Add Email Recipients**
+#### Add Email Recipients
   
 In this section, you can specify who you’d like to receive the report, and how frequently. Reports can be sentmultiple email addresses and each recipient can be set to have their report delivered at aspecific interval:a one-time, daily, weekly or monthly basis.
 
@@ -206,13 +205,11 @@ When you’re ready to schedule or send the report, click on **Create Custom Rep
 
 ![Email Run NOw](assets/email-run-now.png)
 
- 
-
 Scheduled reports  will be delivered to the addresses you specify at about 9 am the next morning according to the  `timezone` specified in the request as a link to a page where they can download the file.  They will look like this:
 
 ![CR12](assets/cr12.jpg)
 
-## Edit and delete your reports**
+## Edit and delete your reports
 
 Go to the “Email Reports” page, and click on the options link.
 
