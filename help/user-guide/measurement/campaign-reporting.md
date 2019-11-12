@@ -44,7 +44,7 @@ If you scroll down the page, you will see a list of placements running within th
 
 [ ![Placements](assets/placements.png)](assets/placements.png)
 
-## Costs:
+## Costs
 
 Includes media costs and added costs from using brand safety, topic targeting, data segments and other features.
 
@@ -54,7 +54,7 @@ Turn sites on and off depending on performance
 
 [ ![Sites](assets/sites.png)](assets/sites.png)
 
-## Ads Tab:
+## Ads
 
 Ads that are attached to the same placement will be served in even rotation or based on the rotation you've set in the [Ad Scheduling and Weighting](../../user-guide/execution/ad-unit-setup/ad-scheduling-weighting.md) tool. This section helps you compare performance and  turn off any under performing ads.
 
