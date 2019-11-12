@@ -23,24 +23,11 @@ isSticky: 0
 
 # Email Alerts & Notifications {#email-alerts-notifications}
 
-Set up automatic email alerts to your inbox, and minimize the need to log into the platform.
-`Activating this feature:`
+Set up automatic email alerts about account and campaign progress and status, and minimize the need to log into the platform. 
 
-* Navigate to "My Account"
+If you are not actively checking campaign reporting within the platform, the best practice is to set up email reports as soon as possible after a campaign has launched.
 
-[ ![myaccount](assets/myaccount-300x209.png)](assets/myaccount.png)
- 
-
-* In the left hand side under "Communications", select "Notifications"
-* Choose a "Subscription Name" for the alerts
-* Select the type of alert/s that you would like to be notified about
-* Add the Email Addresses that should receive the alerts
-
-[ ![alert](assets/alert.png)](assets/alert.png)
-
-* Click "Save" and it's all set
-
-Here is a full list of alerts that are available in the platform:
+Available alerts include:
 
 * Account
 
@@ -65,19 +52,21 @@ Here is a full list of alerts that are available in the platform:
     * No Feed Spend
     * No Feed Impressions
 
-If you have any questions about this feature, please reach out to your Account Manager or platform_support@tubemogul.com.
+>[!NOTE]
+>
+>This feature doesn't send alerts about performance-level data, not about recent placement changes to max bids, budgets, or status.
 
-**Why it is useful:**
+## Activate this feature
 
-With Email Alerts & Notifications, users will be able to set up subscriptions to receive email alerts regarding their account & campaign progress and status.
+* Navigate to "My Account"
 
-**When to use:**
-
-If you are not actively checking campaign reporting within the platform, it’s best practice to set up email reports as soon as possible after a campaign has launched.
-**What it currently does not do:**
-
-* Does not send alerts on any performance level data
-* Does not email you any recent placement changes to max bids, budgets or status
-
+[ ![myaccount](assets/myaccount-300x209.png)](assets/myaccount.png)
  
-  
+* In the left hand side under "Communications", select "Notifications"
+* Choose a "Subscription Name" for the alerts
+* Select the type of alert/s that you would like to be notified about
+* Add the Email Addresses that should receive the alerts
+
+[ ![alert](assets/alert.png)](assets/alert.png)
+
+* Click "Save."
