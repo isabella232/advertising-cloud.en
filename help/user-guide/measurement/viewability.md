@@ -25,7 +25,7 @@ isSticky: 0
 
 # Viewability {#viewability}
 
-Advertising Cloud DSP provides viewability measurement across desktop video, desktop display, mobile video and connected TV ads. Viewability reporting measures whether an ad had the opportunity to be viewed by the audience. The technology tracks how much of the ad is in view, how long it is in view, and whether the browser window is active. This reporting is available for all managed campaigns; works on any VPAID unit; is not specific to any one exchange, network or marketplace; requires no change to a publisher's website; and detects preroll running in small in-banner space. See [an example of the viewability reporting]https://playtime.tubemogul.com/demo/viewability/index.html).
+Advertising Cloud DSP provides viewability measurement across desktop video, desktop display, mobile video and connected TV ads. Viewability reporting measures whether an ad had the opportunity to be viewed by the audience. The technology tracks how much of the ad is in view, how long it is in view, and whether the browser window is active. This reporting is available for all managed campaigns; works on any VPAID unit; is not specific to any one exchange, network or marketplace; requires no change to a publisher's website; and detects preroll running in small in-banner space. See [an example of the viewability reporting](https://playtime.tubemogul.com/demo/viewability/index.html).
   
 ## Where to Access Viewability Reporting
 
