@@ -30,7 +30,7 @@ The Email Reports tool allows you to customize the content and delivery of your 
 * Completely configure campaign performance reports at a granular level.
 * Choose from pre-configured data report templates, including the Billing Report, Conversion Report, Device Report, Frequency by Impression Report, Frequency by App/Site Report, Geo Report,Margin Report, Media Performance Report, Segment Report, and Site Report.
 
-See ]definitions of all metrics available](///new/glossary-of-reporting-metrics-and-dimensions/).
+See [definitions of all metrics available](///new/glossary-of-reporting-metrics-and-dimensions/).
 
 You can generate reports once, or schedule them to be generated daily, weekly, or monthly at 03:00 in the specified time zone. Once a report is generated, a notification is sent to each specified email recipient, with a link from which to download the file.
 
