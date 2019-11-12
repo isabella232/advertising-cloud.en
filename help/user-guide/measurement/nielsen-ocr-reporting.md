@@ -23,15 +23,17 @@ isSticky: 0
 
 # Nielsen DAR Reporting {#nielsen-dar-reporting}
 
-TubeMogul has partnered with Nielsen to offer audience verification reporting also known as Digital Ad Rating (DAR).  This reporting is available when you utilize the  [BrandPoint](../../user-guide/planning/brandpoint.md) or by enabling Nielsen at the campaign level.
+Advertising Cloud DSP has partnered with Nielsen to offer audience verification reporting also known as Digital Ad Rating (DAR).  This reporting is available when you utilize the  [BrandPoint](../../user-guide/planning/brandpoint.md) or by enabling Nielsen at the campaign level.
 
 Campaign level reporting will enable reporting on every placement in the campaign while creating a Brandpoint placement will only enable Nielsen reporting on that placement.
 
-**Where to Access Reporting **
+## Where to Access Reporting
+
 Reporting can be accessed by clicking on the placement title or the gear icon on the right of the page and selecting See Report. Once you are in the  [Full Report](campaign-reporting/full-report.md) section, click on the Demographics tab to view your Audience Reporting data for that placement.
 
 [ ![GRP reporting](assets/grp-reporting.png)](assets/grp-reporting.png)
-**Metrics Available**
+
+## Metrics Available
 
 * Placement On-target Percentage: The percentage of total impressions delivered within the audience target of the campaign.
 * Cost Per Point: The cost per grp point achieved for the audience target of this campaign
@@ -44,7 +46,7 @@ Reporting can be accessed by clicking on the placement title or the gear icon on
 * Audience Reach %: The population base that was reached by the campaign.
 * On Target CPM: The cost to delivery 1000 impressions to the audience target of this campaign or placement
 
-**Audience Reporting Availability**
+## Audience Reporting Availability
 In-product Nielsen DAR desktop reporting is available in the following countries:
 
 * US
@@ -70,15 +72,15 @@ Mobile in these:
 * Italy
 * Australia
 
-For all other countries, TubeMogul offers its own demographic reporting.
-**Things to Keep in Mind   
-**
+For all other countries, Advertising Cloud DSP  offers its own demographic reporting.
 
-* Once this is activated, reporting is updated at 2pm EST daily (with a 5000 impression delivery minimum)
-* Audience metrics are available for the Top 30 DMAs only at a campaign level (US campaigns only)
-* Nielsen Reporting in the TubeMogul platform is only available for the entire duration of the campaign
+>[!NOTE]
+>
+>* Once this is activated, reporting is updated at 2pm EST daily (with a 5000 impression delivery minimum).
+>* Audience metrics are available for the Top 30 DMAs only at a campaign level (US campaigns only).
+>* Nielsen reporting is only available for the entire duration of the campaign.
 
-**FAQs**
+## FAQs
 
 * How do i increase my on-target %?
 
@@ -88,7 +90,7 @@ For all other countries, TubeMogul offers its own demographic reporting.
 * Why isn't any data showing on the Nielsen reporting page?
 
     * You need a minimum of 5000 impressions per placement
-    * Nielsen begins returning data to TubeMogul up to 3 days after reporting is activated
+    * Nielsen begins returning data to Advertising Cloud DSP up to 3 days after reporting is activated
     * Contact your account manager if you are still not receiving results
 
 * Why do Nielsen's impression counts differ from TubeMogul?
