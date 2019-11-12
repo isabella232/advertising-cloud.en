@@ -152,7 +152,7 @@ Note that these options are only applicable to advertisers with multi-touch attr
 
 #### Attribution Rule Settings
 
-You can choose one or more attribution rules. Based on the rule chosen, the values for your Conversion Metrics and Custom Goals will change. For example, with first event attribution, Ad A may get credit for a conversion. With Last event attribution, Ad B may get credit. You can include multiple attribution rules for side-by-side comparison. For more information about attribution rules, see the [appendix on attribution rule caculations](assets/attribution-advertising-cloud.pdf).
+You can choose one or more attribution rules. Based on the rule chosen, the values for your Conversion Metrics and Custom Goals will change. For example, with first event attribution, Ad A may get credit for a conversion. With Last event attribution, Ad B may get credit. You can include multiple attribution rules for side-by-side comparison. For more information about attribution rules, see the [appendix on attribution rule calculations](assets/attribution-advertising-cloud.pdf).
 
 ##### Paths as Columns
 
