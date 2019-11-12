@@ -25,13 +25,18 @@ isSticky: 0
 
 # Email Reports {#email-reports}
 
-The custom email reports tool gives you more flexibility and choice in the content and delivery of your Adobe Advertising Cloud data.  The custom email reports tool can help you delve deeper into your campaigns’ performance and customize the data you want to receive. You can generate scheduled reports for email delivery to specified users on a one-time, daily, weekly, or monthly basis.
-  
-You can create your report from scratch or choose from several `pre-configured` report templates.
+The Email Reports tool allows you to customize the content and delivery of your report data. You can either:
+
+* Completely configure campaign performance reports at a granular level.
+* Choose from pre-configured data report templates, including the Billing Report, Conversion Report, Device Report, Frequency by Impression Report, Frequency by App/Site Report, Geo Report,Margin Report, Media Performance Report, Segment Report, and Site Report.
+
+See ]definitions of all metrics available](///new/glossary-of-reporting-metrics-and-dimensions/).
+
+You can generate reports once, or schedule them to be generated daily, weekly, or monthly at 03:00 in the specified time zone. Once a report is generated, a notification is sent to each specified email recipient, with a link from which to download the file.
 
 [![Report Types](assets/report-types-1024x242.png)](assets/report-types.png)
 
-**Where to find it**
+## *Where to find it
   
 Click on the Tools section in the navigation bar:
 
@@ -41,11 +46,11 @@ From there, click on the Email Reports button on the far left side of the page:
 
 [![Tools - Email Reports](assets/tools-email-reports-133x300.png)](assets/tools-email-reports.png)
 
-**Building Your Report**
+## Create a Report
 
 There are several options available for detailing what should be included in your report and how it should be applied.
 
-**Filters**
+### Filters
   
 Filters define the scope for your report.   There are two kinds of filters in email reports.
 
@@ -67,7 +72,6 @@ The options for this filter are:
 
 [![Apply Filters](assets/apply-filters-1024x427.png)](assets/apply-filters.png)
 
- 
 
 * **2) Additional Filters:** The second type of filter is for parameters that will focus on specific data in your account. For example, if you only want to see data only on a certain advertiser, limit your report to pre-roll ads, or review activity for selected countries, you would set these values in the filters. You can filter by: Advertiser, Campaign, Placement, Ad, Ad Type, Video, Video Duration, and Country and Package.
 
@@ -75,25 +79,17 @@ Up to six filters can be applied to a single report.
 
 [ ![Filter types](assets/filter-types.png)](assets/filter-types.png)
 
- 
-
 When you create your filter, you can also specify criteria within that filter by specifying if the value you want is equal or not equal to a value. For example, if you want to see only ad types that are not pre-roll or results that are only for one campaign. Once you have entered one criterion, you can use an “and” or an “or” command to link it to other criteria. For example, if you wanted data in your report for the US and Canada, your filter would look like this:
 
 ![Country Equals](assets/country-equals.png))
-
- 
 
 But if you want to see only data for all countries outside the US or Canada, you would set it up this way:
 
 ![Country NOT Equals](assets/country-not-equals.png)
 
- 
-
 Be careful when using the “and” command with “equals” in particular when creating reports. Putting these two together can actually exclude all of the data, if you set it to equal and not equal one variable. For example, this filter would exclude all of the data:
 
 ![Country Equal and NOT equals](assets/country-equal-and-not-equals.png)
-
- 
 
 This is telling the database to get all of the records where the country is Australia but are also not Australia.
 
@@ -101,15 +97,12 @@ Putting this all together, if you wanted to create a report for May 1st – July
 
 ![Filter combo](assets/filter-combo.png)
 
- 
-
-**Build your report**
+## Build your report
 
 In this section, you’ll be selecting the “meat” of your report and how it will be arranged and sliced.
 
 [ ![Dimensions and Metrics 2](assets/dimensions-and-metrics-2.png)](assets/dimensions-and-metrics-2.png)
 
- 
 There are two groups of items you can select here:
 
 * **Dimensions**: These are categories of data and tasks that we organize campaigns around, like advertiser, ad type, placement, etc. It also includes the time frames you want to look at (eg. hour, day, week, month, etc.) and geographic area. These will define the rows in your report.
@@ -134,24 +127,21 @@ The screenshot below shows the process for specifying you want hourly data in yo
 
 ![Selecting Dimension Metrics from list](assets/selecting-dimension-metrics-from-list.png)
 
- 
-
 Continue doing this until you have selected all of the dimensions and metrics you want to include. Note that you can drag your selections in the box at the bottom to reorder your headers in the report.
 
 This example shows what the screen would look like for a report that will show you hourly reporting, by campaign and country on impressions and 100% video completion.
 
 ![CR9](assets/cr9.jpg)
 
+## Report Options
 
-**Report Options**
+### Multi-Touch Conversions Options
 
-**Format and Report Headers**
+#### Format and Report Headers
 
 These settings determine the format in which you’d like your report to be delivered, whether CSV or tab format, include the header or remove headers, which means the name of the report and the filters applied to it, like the date range.
 
 ![report format](assets/report-format.png)
-
- 
 
 After you’ve set your format and headers, you canchoose options related to multi-touch attribution. Multi-touch attribution allows you to view ConversionMetrics and Custom Goals in many different ways. For example, if your Conversion Metric is “Orders” you can choose to see “Orders” based on a specified attribution rule and view-through weight.
 
@@ -159,13 +149,11 @@ Note that these options are only applicable to advertisers with multi-touch attr
 
 ![Report Options](assets/report-options1.png)
 
- 
+#### Attribution Rule Settings
 
-**Attribution Rule Settings**
+You can choose one or more attribution rules. Based on the rule chosen, the values for your Conversion Metrics and Custom Goals will change. For example, with first event attribution, Ad A may get credit for a conversion. With Last event attribution, Ad B may get credit. You can include multiple attribution rules for side-by-side comparison. For more information about attribution rules, see the [appendix on attribution rule caculations](assets/attribution-advertising-cloud.pdf).
 
-You can choose one or more attribution rules. Based on the rule chosen,the values for your Conversion Metrics and Custom Goals will change. For example,under First `event` attribution Ad A may get credit for a conversion. Under`Lastevent` attribution rule Ad B may get credit. You can include multiple attribution rules for side-by-side comparison. You can learn more about how Attribution Rules are calculated [here](assets/attribution-advertising-cloud.pdf).
-
-**Paths as Columns**
+##### Paths as Columns
 
 This allows you to see Conversion Metrics and Custom Goals broken out based on whether they were preceded by a click or an impression. Or you can just see the total without any breakout.
 
@@ -179,9 +167,11 @@ Additionally, when viewing the Total you can choose a view-through weight to app
 
 1. **Impression Only (VT)**:  View-based conversions. The are conversions preceded by only impressions. In the report this will be indicated with a “(VT)” after the conversion name.
 
-**Cross-Device Reporting**: This allows you to see Conversion Metrics and Custom Goals based on whether the conversion was same-device or cross-device. Cross-device conversions will only be measured if an Advertiser has been configured to usea device graph. A conversion is defined as cross-device if more than one device was involved in the path to conversion.
+##### Cross-Device Reporting
 
-Terminology
+This allows you to see Conversion Metrics and Custom Goals based on whether the conversion was same-device or cross-device. Cross-device conversions will only be measured if an Advertiser has been configured to usea device graph. A conversion is defined as cross-device if more than one device was involved in the path to conversion.
+
+**Terminology**
 
 1. **Same-Device (sd)**: Conversions where only one device was present in the conversion path. In the report, next to your conversion metric name and rule type, you will see (SD). 
 
@@ -193,25 +183,20 @@ Note: cross-device options are only applicable to advertisers with cross-device 
 
 * To verify if your advertiser has cross device enabled, check your [advertiser settings](https://www.tubemogul.com/adcloud/settings/profile/advertiser-list?&action=ADVERTISER_LIST_SEARCH) [page](https://www.tubemogul.com/adcloud/settings/profile/advertiser-list?&action=ADVERTISER_LIST_SEARCH) under General > Integrations > “Cross-device attribution”. To have your advertiser be setup for cross-device, please contact your account manager.
 
-**Conversion Reporting Based On**
+##### Conversion Reporting Based On
 
 This affects the datesee Conversion Metrics and Custom Goals are associated with. “Conversion Timestamp” will show values based on the day the conversion event happened. “Event Timestamp” will show values based on the day the impression or click happened.
 
  
+#### Combinations
 
-**Combinations**
+The report will automatically include all combinations of the attribution options you have chosen.The column label will include values indicating which options apply to that metric.
 
-The report will automatically include all combinations of theattribution options you have chosen.The column label will include values indicating which options apply to that metric.
-
-For example, if you choose the following options...
+For example, if you choose the following options, you will see two different columns for each of your Conversion Metrics. If you had chosen “orders” as a conversions metric your report would include these columns.
 
 ![Combo](assets/combo.png)
 
- 
-
-...you will see two different columns for each of your Conversion Metrics. If you had chosen “orders” as a conversions metric your report would include these columns.
-
-**Add Email Recipients**
+#### Add Email Recipients**
   
 In this section, you can specify who you’d like to receive the report, and how frequently. Reports can be sentmultiple email addresses and each recipient can be set to have their report delivered at aspecific interval:a one-time, daily, weekly or monthly basis.
 
@@ -227,14 +212,8 @@ Scheduled reports  will be delivered to the addresses you specify at about 9 am 
 
 ![CR12](assets/cr12.jpg)
 
- 
+## Edit and delete your reports**
 
-**Editing and deleting your reports**
-
-If you ever need to change or edit your reports, simply go to the “Email Reports” page, and click on the options link.
+Go to the “Email Reports” page, and click on the options link.
 
 ![Edit Reports](assets/edit-reports.png)
-
- 
-
-If you have any additional questions feel free to reach out the Platform Strategy team at `platform_support@Adobe Advertising Cloud.com`
