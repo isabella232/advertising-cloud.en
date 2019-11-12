@@ -23,36 +23,37 @@ isSticky: 0
 
 # Ad Scheduling & Weighting {#ad-scheduling-weighting}
 
-This tool simplifies the campaign management process by allowing multiple ad swaps and different ad flights within the same placement. Here's a quick how-to  [video](https://tubemogul.wistia.com/medias/egxhpph6ae) that works you through the step by step process below.
+This tool simplifies the campaign management process by allowing multiple ad swaps and different ad flights within the same placement.
   
 Once you've created a campaign placement and attached the ads, click on the placement ad drop-down to access the feature.
 
 [ ![ad](assets/ad.png)](assets/ad.png)
 
-
 Click on the Custom Ad Scheduling link to get to the page. By default, there should be one flight with the placement start date and end date. All attached ads for that placement should be evenly rotated in the default flight.
-[ ![ad1](assets/ad1.jpeg)](assets/ad1.jpeg)   
-**How to Customize Flighting**
+
+[ ![ad1](assets/ad1.jpeg)](assets/ad1.jpeg)
+
+## Customize Flighting
   
 To set up multiple flights, click on 'Add Flight'.
 
 [ ![ad2](assets/ad2.jpeg)](assets/ad2.jpeg)
-Choose the appropriate dates for the first flight and assign dates for any additional flights. The tool automatically selects all the approved ads to each flight, so to remove an ad from a flight click on the  ![(error)](https://help.tubemogul.com:8443/s/en_GB/3398/84f448c1067609161db7eeaf020f96b084eef29d.82/_/images/icons/emoticons/error.png)
 
-X.
+Choose the appropriate dates for the first flight and assign dates for any additional flights. The tool automatically selects all the approved ads to each flight, so, to remove an ad from a flight, click X.
 
 [ ![ad3](assets/ad3.jpeg)](assets/ad3.jpeg)
-Conversely, to add an ad to a flight, click on the  + ![(plus)](https://help.tubemogul.com:8443/s/en_GB/3398/84f448c1067609161db7eeaf020f96b084eef29d.82/_/images/icons/emoticons/add.png)
 
- icon.
+Conversely, to add an ad to a flight, click +.
 
 [ ![ad4](assets/ad4.jpeg)](assets/ad4.jpeg)
 
 Click 'Continue' and move onto the Review  page.
 
 [ ![ad5](assets/ad5.jpeg)](assets/ad5.jpeg)
-Finish by clicking 'Save & Finish'.   
-**Assigning a Non-Even Ad Rotation**
+
+Finish by clicking 'Save & Finish'.
+
+## Assign a Non-Even Ad Rotation
   
 To assign a specific rotation to each ad, click on the [ ![ad15](assets/ad15.png)](assets/ad15.png)  icon. Blue means that the ads are being evenly rotated, Grey means that the even rotation is off.
 
@@ -69,10 +70,9 @@ Enter target weights and remove ads from flights that they shouldn't be associat
 Click 'Continue' and move onto the Review  page.
 
 [ ![ad13](assets/ad13.jpeg)](assets/ad13.jpeg)
-'Save & Finish' to return to the UI.   
-**Glossary and Icon Guide**
-  
- 
 
+'Save & Finish' to return to the UI.   
+
+## Icon Descriptions
+  
 [ ![iconguide](assets/iconguide.png)](assets/iconguide.png)
-If you have any additional questions, please reach out to  [platform_support@tubemogul.com](mailto:platform_support@tubemogul.com). 

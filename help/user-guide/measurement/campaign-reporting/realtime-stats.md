@@ -23,18 +23,17 @@ isSticky: 0
 
 # Realtime Stats {#realtime-stats}
 
-Access Real-Time Stats by hovering your mouse over the blue status bar of each placement. This reporting tool shows you the number of bids your placement is qualifying for and your win rate. Bids are affected by all targeting parameters of a placement including location, site list, frequency cap, brand safety and more. Win rate is primarily due to your CPM bid. A few common scenarios below:
-  
-**`Scenario # 1 Low Bids and High Win Rate`**
-  
-`The placement below is not qualifying for enough bids due to tight targeting parameters or small site list.`
-  
-` [ ` ![RT1](assets/rt1.jpg)
 
-`](assets/rt1.jpg)`
+Access real-time stats by hovering your mouse over the blue status bar of each placement. This reporting tool shows you the number of bids your placement is qualifying for and your win rate. Bids are affected by all targeting parameters of a placement including location, site list, frequency cap, brand safety and more. Win rate is primarily due to your CPM bid. A few common scenarios below:
   
-**`Scenario # 2 High Bids and Low Win Rate`**
+## Scenario # 1: Low Bids and High Win Rate
   
-`The placement below is qualifying for a substantial amount of bids but not winning any impressions. It's likely the CPM bid is too low or the ad is still awaiting approval on certain sources.  [ ` ![RT2](assets/rt2.jpg)
+The placement below is not qualifying for enough bids due to tight targeting parameters or small site list.
 
-`](assets/rt2.jpg)` 
+![Scenario 1](assets/rt1.jpg "Scenario 1")
+  
+## Scenario # 2: High Bids and Low Win Rate
+  
+The placement below is qualifying for a substantial amount of bids but not winning any impressions. It's likely the CPM bid is too low or the ad is still awaiting approval on certain sources.
+
+![Scenario 2](assets/rt2.jpg "Scenario 2")

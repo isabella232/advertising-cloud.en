@@ -23,24 +23,22 @@ isSticky: 0
 
 # In-Stream Setup {#in-stream-setup}
 
-## `<iframe class="wistia_embed" src="//fast.wistia.net/embed/iframe/n3zkgzcd72" name="wistia_embed" width="640" height="388" frameborder="0" scrolling="no" allowfullscreen></iframe>` {#in-streamunitset-up-in-streamunitset-up}
-
-**Create a New Ad**
+## Create an Ad
 
 * Click on Ads
 * Select New Ad and choose the type of Pre-roll unit and duration you'd like to run. Keep in mind that the the duration of the ad will affect inventory availability.
 
-**Upload the Video**
+## Upload the Video
   
 [ ![instream uploader](assets/instream-uploader.png)](assets/instream-uploader.png)
 
-* Upload Video: Raw creative asset. See  [Ad Specs.](../../../user-guide/planning/ad-formats/ad-specs.md)
+* Upload Video: Raw creative asset. See [standard specifications for supported ad types](https://www.tubemogul.com/ad-specs/)
 * Use Existing Video: Use a previously uploaded video to create a new ad.
 * Advanced: VAST Tag URL. Use a [3rd Party Ad Tag](3rd-party-tracking-adserving/ad-tags.md) to serve your ad.
 
     * The ad server must be [TubeMogul Certified](https://www.tubemogul.com/company/partners/ad-serving-and-rich-media/)prior to campaign launch. If your ad server is not named, please contact [platform_support@tubemogul.com](mailto:playtimesupport@tubemogul.com) to test your ad tag.
 
-**Configure the Ad**
+## Configure the Ad
   
 [ ![Ad Configurator](assets/ad-configurator.png)](assets/ad-configurator.png)
 
@@ -48,6 +46,6 @@ isSticky: 0
 * Companion Banner: Include companion banners to provide additional branding and clickthroughs.
 * Pixel: Add in 3rd party tracking pixels or TubeMogul's retargeting pixel
 
-**Save & Submit for Review**
+## Save & Submit for Review
   
-TubeMogul's [ad review](ad-reviews.md)team verifies that the ad is rendering properly and clicking through. Approval time is typically 2-4 hours on regular business hours and 24hrs on weekends. 
+TubeMogul's [ad review](ad-reviews.md) team verifies that the ad is rendering properly and clicking through. Approval time is typically 2-4 hours on regular business hours and 24hrs on weekends. 

@@ -23,8 +23,9 @@ isSticky: 0
 
 # Placement Targeting {#placement-targeting}
 
-Choose the geo-location and site list where you'd like to serve your ad.   
-**Locations**
+Choose the geo-location and site list where you'd like to serve your ad.
+
+## Locations
   
 Select the locations where this placement will run. If you do not see the country you'd like to target, please contact your Account Manager.
 
@@ -34,7 +35,7 @@ Select locations at the country, state, metro area (U.S. only) and/or postal zip
 
 **Sites: (Apps - Mobile App and Facebook Unit)**
 
-[ ![image2013-3-25 12-6-15](assets/image2013-3-25-12-6-15-1024x613.jpeg)](assets/image2013-3-25-12-6-15.jpeg)
+[ ![image2013-3-25 12-6-15](assets/image2013-3-25-12-6-15-1024x613.jpeg)](assets/image2013-3-25-12-6-15.jpeg
 Use our easy-to-use site tool to search and filter through thousands of sites to find the most contextually relevant inventory for your placement.
 
 * Search: Search for sites by keywords
@@ -52,4 +53,3 @@ Use our easy-to-use site tool to search and filter through thousands of sites to
 * Save List: Create a site list and save for future use
 * Load List: Load a previously saved list across multiple placements
 * Export List: Export the selected site list for internal or client review
-

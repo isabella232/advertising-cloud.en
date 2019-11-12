@@ -23,18 +23,18 @@ isSticky: 0
 
 # Social Setup {#social-setup}
 
-**Create a New Ad**
+## Create a New Ad
 
 * Click on Ads in the left navigation bar
 * Select New Ad in the top right corner and choose **Social: Facebook Cost per View**.
 
-**Upload the Video**
+## Upload the Video
 
-* Upload Video: Raw creative asset. See  [Ad Specs.](../../../user-guide/planning/ad-formats/ad-specs.md)
+* Upload Video: Raw creative asset. See [standard specifications for supported ad types](https://www.tubemogul.com/ad-specs/). 
 * Use Existing Video: Use a previously uploaded video to create a new ad.
 * Use YouTube Player: Copy and past the YouTube video URL link.  (Use this option if you're interested in increasing YouTube channel views. Keep in mind the conversion is not typically 1 to 1)
 
-**Configure the Ad**
+## Configure the Ad
 
 * Basic: Name your ad and add a landing page to the click URL field.  YouTube Player is not clickable.
 * [Teasers:](/help/user-guide/planning/ad-formats/ad-features-guide/teasers-endcaps.md) Include an image or a 7-10 second video to entice viewer to user-initiated the video play. Recommended to have strong call to action, recognizable images and brand logo.

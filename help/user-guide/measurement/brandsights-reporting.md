@@ -26,6 +26,7 @@ isSticky: 0
 Access BrandSights reporting by clicking on the title of the survey placement or going through the options:  see report section. The reporting sections indicate how many responses you have collected per group.
   
 [ ![brand sights reporting 1](assets/brand-sights-reporting-1.jpg)](assets/brand-sights-reporting-1.jpg) [ ![brand sights reporting 2](assets/brand-sights-reporting-2.jpg)](assets/brand-sights-reporting-2.jpg)
+
 The stats are based on response to all questions in the survey:
 
 * % Favorable: The % of respondents who answered favorably to questions throughout the survey.

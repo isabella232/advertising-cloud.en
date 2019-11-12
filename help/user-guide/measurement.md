@@ -35,7 +35,7 @@ TubeMogul is an industry leader in real-time insights and analytics. We offer va
 
 * Custom [Email Reports](measurement/campaign-reporting/email-reports.md) (Also known as Email Reports, Custom Reports, DataCube): customizable scheduled reports delivered straight to your inbox on a regular basis. This gives you the flexibility and control to build reports based on the specific campaign dimensions (e.g advertiser, placement, sites, geos, etc) and metrics that matter most to your objectives. This type of option is most effective when you want to look at very specific campaign data and have to send reports to various campaign stakeholders on a one-off, daily, weekly or monthly basis.
 
-**How to Navigate the Menu Bar**
+## How to Navigate the Menu Bar
 
 * Campaigns:  Delivery, spend and performance for all campaigns running within your TubeMogul account.
 
@@ -47,9 +47,8 @@ TubeMogul is an industry leader in real-time insights and analytics. We offer va
 
 * Tools: This section of the UI houses our [Segments,](planning/targeting/retargeting/custom-segment-tool.md) Site Tool, [Blacklist](planning/brand-safety/blacklists.md), [Email Reports](measurement/campaign-reporting/email-reports.md), and [Conversions.](execution/placement-setup/conversions.md)
 
-**Tips: **
-
-* Export to Excel buttons are available at the bottom right corner of every reporting page
-* Date range of your report can be adjusted in the upper right corner of the page
-* Full Reports are available at all levels of a campaign (placement, video, ad). Click on the title hyperlink to access.
-
+>[!TIP]
+>
+>* Export to Excel buttons are available in the bottom right of every reporting page.
+>* You can adjust the date range of a report in the upper right of the page.
+>* Full Reports are available at all levels of a campaign (placement, video, ad). Click on the hyperlinked title to open a report.

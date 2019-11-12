@@ -23,11 +23,11 @@ isSticky: 0
 
 # ComScore Reporting {#comscore-reporting}
 
-TubeMogul has partnered with ComScore to offer audience verification reporting also known as Validated Campaign Essentials (vCE). This reporting is available within the platform via Brandpoint at the placement level or at the campaign level.
+Advertising Cloud DSP has partnered with ComScore to offer audience verification reporting also known as Validated Campaign Essentials (vCE). This reporting is available within the platform via Brandpoint at the placement level or at the campaign level.
+
 Campaign level reporting will enable reporting on every desktop placement in the campaign. If you are interested in getting audience verification across desktop and mobile placements, see [Nielsen OCR Reporting](nielsen-ocr-reporting.md).
 
- 
-`Activation - Campaign Level:`
+## Activation - Campaign Level
 
 * Navigate to the Campaign page and click 'New Camapign'
 * At the bottom of the Campaign Creation page is the '3rd Party Verification' section - select Comscore
@@ -37,14 +37,16 @@ Campaign level reporting will enable reporting on every desktop placement in the
     * For Canada- 'French Speaking' is the additional metric
 
 [ ![comscore-campaign](assets/comscore-campaign1.png)](assets/comscore-campaign1.png)
-`Activation - Placement Level (BrandPoint):`
+
+## Activation - Placement Level (BrandPoint)
 
 * Create a new Placement and go into 'BrandPoint view'
 * Choose your targeting selections
 * Under the verification options you can select 'Comscore VCE' as your measurement choice- Note this option only activates reporting for this placement
 
 [ ![comscore-bp](assets/comscore-bp1-230x300.png)](assets/comscore-bp1.png)
-`Reporting`
+
+## Reporting
 
 * After the campaign starts running, you can go into the full report (at the campaign or placement level) and get VCE reports from the 'Demographics' tab
 * The above tab will only be available on placements that have selected 3rd party verification
@@ -72,7 +74,8 @@ Campaign level reporting will enable reporting on every desktop placement in the
 
 [ ![comscore-reporting](assets/comscore-reporting.png)](assets/comscore-reporting.png)
 
- 
+[ ![vCE minimums and reporting by country](assets/vce-minimums-and-reporting-by-country-597x1024.png)](assets/vce-minimums-and-reporting-by-country.png)
 
-Reporting Availability:
-[ ![vCE minimums and reporting by country](assets/vce-minimums-and-reporting-by-country-597x1024.png)](assets/vce-minimums-and-reporting-by-country.png)If you have additional questions about Comscore or reporting options please reach out to your Account Manager or platform_demo@tubemogul.com. 
+### Reporting Availability
+
+If you have additional questions about Comscore or reporting options, contact your Account Manager or platform_demo@tubemogul.com. 

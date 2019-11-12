@@ -23,20 +23,19 @@ isSticky: 0
 
 # Templates {#templates}
 
-This new feature allows users to build templates as a way to save any targeting parameter for later use on new or existing placements. Templates can be activated across ad types and duration, saving time and making the process of campaign execution easier.
+You can build templates to save a set of targeting parameters to reuse for new or existing placements. You can activate templates across ad types and duration, saving time and simplifying campaign execution.
 
-`**Feature Set-Up: New Template:**`
+## Create a Template
 
-To create a Template, select the targeting parameters you're interested in saving and scroll to the bottom of the page to "Save as Template".
+To create a Template, select the targeting parameters you're interested in saving and scroll to the bottom of the page to "Save as Template."
 
 [ ![temp4](assets/temp4.png)](assets/temp4.png)
 
- 
-
-Add the appropriate name and click "Save".
+Add the appropriate name and click "Save."
 
 [ ![temp5](assets/temp5.png)](assets/temp5.png)
-`**Feature Set-Up: Applying a Template**`
+
+## Apply a Template
 
 * Navigate to the Placement Edit page, by either creating a new placement or editing a current one
 * Under the Basics section, choose "apply template"
@@ -72,11 +71,9 @@ This feature will be coming out in phases, and as of 10/5 the targeting paramete
 * Location Targeting
 * Optimization Goals
 
-Key things to note:
-
-* You can apply mutiple templates to one placement
-* Conflicting targeting parameters will overwrite with the latest selection
-* Templates are Ad Type agnostic but we filter the targeting parameters based on compatibility to Placement Ad Type you are applying the template to. Incompatible targeting will not be shown.
-* Templates are saved at the account level and so you'll be able to find and use other users' templates within the same account
-
-If you have any additional questions, please reach out to plaform_support@tubemogul.com our your Account Manager. 
+>[!NOTE]
+>
+>* You can apply mutiple templates to one placement
+>* Conflicting targeting parameters will overwrite with the latest selection
+>* Templates are Ad Type agnostic but we filter the targeting parameters based on compatibility to Placement Ad Type you are applying the template to. Incompatible targeting will not be shown.
+>* Templates are saved at the account level and so you'll be able to find and use other users' templates within the same account

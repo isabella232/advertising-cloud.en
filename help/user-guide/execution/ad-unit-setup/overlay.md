@@ -68,7 +68,7 @@ Overlays help with persistent branding throughout the video and can drive additi
 
 &#42;Interactive Preroll ads will vary in size based on the site, so we recommend overlays either be set to scale (by setting width and height to percentages) or be anchored only to one side of the ad with a ‘floating’ edge on the other side when scaling is not desired.  Scaling may distort text and details.  (See  [https://www.tubemogul.com/marketing/showcase/pre-roll-interactive.html](https://www.tubemogul.com/marketing/showcase/pre-roll-interactive.html) for examples.)
 
-**Best Practices on Designing an Overlay**
+## Best Practices on Designing an Overlay
 
 * When creating the overlay, it's recommended to review the video ad to ensure that any graphics, messaging or end-cap aren't covered by the design
 * Animated overlays help to attract and engage viewers

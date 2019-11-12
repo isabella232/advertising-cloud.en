@@ -29,7 +29,7 @@ Verify all the media plan assets have been received and then follow the steps be
 * [Placement Set-Up](execution/placement-setup.md)
 * [Ad Set-Up](execution/ad-unit-setup.md)
 * [Apply Black List](planning/brand-safety/blacklists.md)
-* [Creating a Conversion Pixel](execution/placement-setup/conversions.md)
+* [Creating a Conversion Pixel](execution/placement-setup/conversions/conversion-pixel-setup.md)
 * [Creating a Custom Segment for retargeting](planning/targeting/retargeting/retargeting-pixel-setup.md)
 * Doublecheck your execution with our [Launch Check-List](execution/launch-checklist.md)
 

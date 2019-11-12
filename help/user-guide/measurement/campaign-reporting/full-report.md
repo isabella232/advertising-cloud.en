@@ -28,26 +28,25 @@ The Full Report section provides you with more in depth analytics and is availab
   
 [ ![FR](assets/fr-1024x555.jpg)](assets/fr.jpg)
 
-**Overview**
+Number of views, impression, average play time per view, completion rates, clicks and more. Click on the plus sign on the right to add or remove metrics relevant to your campaign report. If you scroll down the page, you have access to completion quartiles, conversions, clicks and companion banner reporting. The Compare With button on the top right of the Overview tab allows you to compare performance and delivery across two data sets whether that's different campaigns, placements, videos or ads. This is the only tab in the UI that exports one single report listing a daily breakdown of delivery, spend and performance.
 
-Number of views, impression ,average play time per view, completion rates, clicks and more. Click on the plus sign on the right to add or remove metrics relevant to your campaign report. If you scroll down the page, you have access to completion quartiles, conversions, clicks and companion banner reporting. The Compare With button on the top right of the Overview tab allows you to compare performance and delivery across two data sets whether that's different campaigns, placements, videos or ads. This is the only tab in the UI that exports one single report listing a daily breakdown of delivery, spend and performance.
-
-**Geography**
+## Geography
 
 Delivery and performance by country, state and city.
 
-**Technical**
+## Technical
 
 Delivery by device type, manufacturer of device and operating system.
 
-**Engagement**
+## Engagement
 
 Second by second engagement to determine if there is any correlation between creative performance and drop off rates.
 
-**Sites or Viewability**
+## Sites or Viewability
 
 Site level performance and delivery. Click on the + sign on the right corner to add or remove performance metrics.
-&#42;
 
-**&#42;Tips&#42;&#42;**
-Date ranges can be adjusted by clicking on the drop down arrow in the upper right corner next to the date. Export to Excel buttons available on the lower right corner of each page. 
+>[!Tip]
+>
+> * Adjust the date range by clicking on the drop down arrow in the upper right corner next to the date.
+* Export to Excel buttons available on the lower right corner of each page. 

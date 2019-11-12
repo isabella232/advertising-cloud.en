@@ -21,19 +21,12 @@ postPassword:
 isSticky: 0
 ---
 
-# CPM Setup {#cpm-setup}
-
-To set up a CPM placement watch our [video tutorial](https://education.tubemogul.com/videos/) or follow the steps below:
+# CPM Placement Setup {#cpm-setup}
 
 1. Click on New Placement
 1. Select your Ad Format
 1. Select CPM Mode
 1. In the top right corner, click on Edit Options
-
-![CPM Mode](assets/cpm-mode.png)
-
-*
-
     * Name your placement  (Recommended Naming Convention: Test Campaign: GRP: PR15s: US )
     * Status: Choose whether the placement should begin right away or stay paused until you’ve confirmed all details.
     * Tags: Optional key words to help you search for your placement within the TubeMogul UI.
@@ -49,16 +42,12 @@ To set up a CPM placement watch our [video tutorial](https://education.tubemogul
         
         * Goal Impressions: Set your target impression delivery goal.
         * Frequency Cap:  select the number of types you want to reach a unique viewer. This will be the cap for the duration of the placement.
-
-    *
-
-        * BUDGET: Choose flight dates, options for [dayparting](../../../user-guide/planning/targeting/targeting-options.md), budget , Max Bid and  [inventory tier](../../../user-guide/planning/brand-safety/sitesafe-quality.md).
-        
+        * BUDGET: Choose flight dates, options for [dayparting](../../../user-guide/planning/targeting/targeting-options.md), budget , Max Bid and [inventory tier](../../../user-guide/planning/brand-safety/sitesafe-quality.md).
         * LOCATION: Choose from 40+ countries. In most countries we can target down to state or province level. In the United States, we can target at the State, DMA and Zipcode level.
 
    ![Location CPM](assets/location-cpm-1024x483.png)
-
-    * PUBLIC INVENTORY: Use our Site Tool to search and filter through thousands of sites to find the most contextually relevant inventory for your placement.
+   
+   * PUBLIC INVENTORY: Use our Site Tool to search and filter through thousands of sites to find the most contextually relevant inventory for your placement.
 
         * Search: Search for sites by keywords
         * Filters:
@@ -66,7 +55,7 @@ To set up a CPM placement watch our [video tutorial](https://education.tubemogul
             * Daily Impressions
             * Comscore Top 100 Publishers
             * Site Quality by  [Tier](../../../user-guide/planning/brand-safety/sitesafe-quality.md)
-            * Exclude  [Autoplay](../../../user-guide/planning/brand-safety/playsafe-fake-pre-roll.md)Pre-roll
+            * Exclude  [Autoplay](../../../user-guide/planning/brand-safety/playsafe-fake-pre-roll.md) Pre-roll
 
         * Categories: Selects sites based on categories or subcategories
         * TubeMogul Recommended: Curated site lists compiled based on gender and age
@@ -75,16 +64,16 @@ To set up a CPM placement watch our [video tutorial](https://education.tubemogul
         * Load List: Load a previously saved list across multiple placements
         * Export List: Export the selected site list for internal or client review
 
-[ ![CPm Site tool](assets/cpm-site-tool-1024x484.png)](assets/cpm-site-tool.png)
+   [ ![CPm Site tool](assets/cpm-site-tool-1024x484.png)](assets/cpm-site-tool.png)
 
-1.
+   * [PRIVATE INVENTORY](../../../user-guide/planning/private-inventory.md) Target your private feeds for this placement
+   * [OTHER FILTERS](../../../user-guide/planning/targeting/targeting-options.md) Layer on [Audience Segments,](../../../user-guide/planning/targeting/behavioral.md) Device Targeting, Topic Targeting or [Brand Safety](../../../user-guide/planning/brand-safety/pagesafe-proximic.md) Restrictions 
+   * FORECAST: This is our estimation tool which projects how likely you are to fill your goal.
 
-    * [PRIVATE INVENTORY](../../../user-guide/planning/private-inventory.md) Target your private feeds for this placement
-    * [OTHER FILTERS](../../../user-guide/planning/targeting/targeting-options.md) Layer on [Audience Segments,](../../../user-guide/planning/targeting/behavioral.md) Device Targeting, Topic Targeting or [Brand Safety](../../../user-guide/planning/brand-safety/pagesafe-proximic.md)Restrictions
-    
-    * FORECAST: This is our estimation tool which projects how likely you are to fill your goal.
+      [ ![2014-07-15_2039](assets/2014-07-15-2039.png)](assets/2014-07-15-2039.png)
 
-[ ![2014-07-15_2039](assets/2014-07-15-2039.png)](assets/2014-07-15-2039.png)
-
-1.
-
+      * Average CPM: Based on historical data and your placement parameters, our tool estimates that you will pay around $8.08.
+      * Fill Rate %: How likely are you to fill your impressions goal based on the parameters you have specified for this placement. If you are not at 100%, you’ll want to drag the budget or bid bar to the right, towards the green section.
+      * Impressions: Estimates total number of impressions you will likely deliver.
+      * Uniques: Tells you how many unique viewers you will likely reach.
+      * Fees: Indicates any additional fees you will incur. For example data or Proximic technology fees.

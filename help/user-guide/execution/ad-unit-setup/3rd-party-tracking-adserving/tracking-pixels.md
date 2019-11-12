@@ -26,13 +26,18 @@ isSticky: 0
 If you are using 3rd party tracking pixels, TubeMogul enables you to add these during the ad creation process and  track a variety of integration events including impressions, clicks and completions.
 
 [ ![Ad Configurator](assets/ad-configurator.png)](assets/ad-configurator.png)
-**Basic Tab:**
+
+## Basic Tab
 
 * Click URL: Add clickthrough redirect pixel here (should be click pixels not jump tags)
 
-**Companion Tab:** companion banner 3rd party clickthrough pixels can be added in this section. If you want to also track companion impression, you will need to create an  [iframe](companion-banner.md).
-**Sharing Buttons/Overlays Tab**:   impression and clickthroughs can be tracked for these ad features via 3rd party pixels for Mobile, In-display, Social, Interactive Pre-roll units.
-**Pixel Tab**:
+## Companion Tab
+Add any companion banner 3rd party clickthrough pixels in this section. If you want to also track companion impression, you will need to create an  [iframe](companion-banner.md).
+
+## Sharing Buttons/Overlays Tab
+Track impressions and click-throughs for these ad features via 3rd party pixels for Mobile, In-display, Social, Interactive Pre-roll units.
+
+## Pixel Tab
 
 ![Pixel2](assets/pixel2.jpeg)
 
@@ -57,8 +62,11 @@ If you are using 3rd party tracking pixels, TubeMogul enables you to add these d
 
 ![pixels](assets/pixels.jpeg)
 
-&#42;Recommended to use a a web debugging tool like Charles or Fiddler to verify pixel fires prior to campaign launch   
-**Best Practices**
+>[!TIP]
+>
+> Use a a web debugging tool like Charles or Fiddler to verify pixel fires before launching the campaign. 
+
+## Best Practices
 
 * Always double check if your 3rd party pixels are a click redirect or 1x1 image pixel. To verify, drop the pixel on a browser. If it redirects, it's a click tracker; if it shows an empty blank browser, it's a 1x1 image pixel that can track any integration event.
 * Download a web-debugging tool like [Fiddler](https://www.telerik.com/fiddler) or  [Charles](https://www.charlesproxy.com/) to help pixel check and verify that proper pixels are firing.
@@ -73,5 +81,4 @@ If you are using 3rd party tracking pixels, TubeMogul enables you to add these d
         * Verify the pixels fired with your 3rd party pixel map.
 
 * If you're using a swf file then you'll need to include the tracking pixels within the file
-* Verify your campaign pixel set-up with our Pixel Q&A tool located in the Tools section on the top navigation bar
-
+* Verify your campaign pixel set-up with our Pixel Q&A tool located in the Tools section on the top navigation bar.

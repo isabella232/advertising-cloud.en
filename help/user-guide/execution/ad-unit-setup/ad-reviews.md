@@ -31,7 +31,8 @@ Once you have created your ad, our Ad Review team will evaluate your ad for the 
 * Content is appropriate
 
 We do our best to review all ads within 2-4 hours on regular business hours Monday-Friday; however, can take up to 2 days during the weekend.
-To check if your ad has been approved. Click on the Ads button under your placement and verify the Review Status. If your status is "incomplete", it means you have not submitted your ad for review or edited your ad and did not resubmit it for review. If your ad was rejected, hover over the ( ? ) to see the reason for rejection.   
+To check if your ad has been approved. Click on the Ads button under your placement and verify the Review Status. If your status is "incomplete", it means you have not submitted your ad for review or edited your ad and did not resubmit it for review. If your ad was rejected, hold the cursor over the ? to see the reason for rejection.
+
 [ ![Ad Review](assets/ad-review.png)](assets/ad-review.png)
   
 Inventory partners sometimes have their own approval system. Here are a few common reasons our partners may reject your ad:

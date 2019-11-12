@@ -23,9 +23,10 @@ isSticky: 0
 
 # Innovid Reporting {#innovid-reporting}
 
-Engagements can be tracked within the TubeMogul UI in the  [Full Report](campaign-reporting/full-report.md): Overview tab and at the Sites level for optimization.
+Engagements can be tracked within the TubeMogul UI in the [Full Report](campaign-reporting/full-report.md): Overview tab and at the Sites level for optimization.
   
 [ ![innovid 1](assets/innovid-1.jpg)](assets/innovid-1.jpg) [ ![innovid 2](assets/innovid-2.jpg)](assets/innovid-2.jpg)
 
-For additional interactive unit engagement actions, you can log-in to the Innovid UI to see awareness, social visitation, in-unit activity, times earned, etc.
 [ ![IR3](assets/ir3.png)](assets/ir3.png) 
+
+For additional interactive unit engagement actions, you can log-in to the Innovid UI to see awareness, social visitation, in-unit activity, times earned, etc.

@@ -32,9 +32,11 @@ After you've created a new campaign, click Placements in the left navigation bar
 Click New Placement on the upper right and select the type of ad unit and duration you'll be using. Selecting the correct duration is important for in-stream units as it may determine inventory availability.
 
 [ ![placement setup 2](assets/placement-setup-2.jpg)](assets/placement-setup-2.jpg)
+
 Once you've selected the ad format of choice, you will by default land on the [Placement Options page in Current View mode](placement-setup/placement-options.md). Click on the below links to learn how to fill out each section of the Placement Options page:
 
 [ ![Current View](assets/current-view.png)](assets/current-view.png)
+
 You can also set up a placement in BrandPoint View:
 
 * [CPM Mode](placement-setup/cpm-setup.md)  (New Look and Feel for the same functionality as the Current View)
@@ -42,4 +44,3 @@ You can also set up a placement in BrandPoint View:
 * [GRP Mode](placement-setup/grp-setup.md) (Mirror your TV Buys. Read more about planning GRP campaigns [here](../../user-guide/planning/brandpoint/buying-in-cost-per-point.md))
 
 [ ![2014-07-16_0036](assets/2014-07-16-0036-300x188.png)](assets/2014-07-16-0036.png)
-  

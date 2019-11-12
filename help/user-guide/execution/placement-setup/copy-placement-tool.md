@@ -23,7 +23,7 @@ isSticky: 0
 
 # Copy Placement Tool {#copy-placement-tool}
 
-This tool enables you to:
+You can create a new placement by copying any placement in the Placements view. Use this feature to:
 
 * Copy placements across campaigns - either to a new campaign or an existing one
 * Specify the number of times to copy a placement to a new or existing campaign
@@ -31,22 +31,14 @@ This tool enables you to:
 * Choose whether or not to copy the ads attached to the original placement
 * Modify the flight dates of the copied placements
 
-[ ![copy placement](assets/copy-placement.jpg)](assets/copy-placement.jpg)
-
-**Where to find it:**
-
-STEP 1: Click on the gear icon next to a placement and select “copy placement”
-
 [ ![Where to find copy](assets/where-to-find-copy.png)](assets/where-to-find-copy.png)
 
-STEP 2:  Set preferences in the modal window
+[ ![copy placement](assets/copy-placement.jpg)](assets/copy-placement.jpg)
 
-[ ![Set modal](assets/set-modal1.png)](assets/set-modal1.png)
-**Things to keep in mind:**
-
-* No 3rd party pixels on any attached ads or on placement will be carried over if you are copying a placement to a new campaign.
-* It is not currently available for BrandPoint GRP mode placements.
-* Nielsen pixels will only be applied to the new placement if Nielsen is enabled on the destination campaign
-* Custom ad weighting of ads are not attached
-* Custom ad scheduling of placement flight dates are changed
-
+>[!NOTE]
+>
+>* No third-party pixels on any attached ads or placement are carried over if you are copying a placement to a new campaign.
+>* This feature isn't available for BrandPoint GRP mode placements.
+>* Nielsen pixels are applied to the new placement only if Nielsen is enabled on the destination campaign.
+>* Custom weighting of ads are not attached.
+>* Custom ad scheduling of placement flight dates are changed.
