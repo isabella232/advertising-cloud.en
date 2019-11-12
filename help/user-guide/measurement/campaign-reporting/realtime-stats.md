@@ -23,7 +23,7 @@ isSticky: 0
 
 # Realtime Stats {#realtime-stats}
 
-`Access Real-Time Stats by hovering your mouse over the blue status bar of each placement. This reporting tool shows you the number of bids your placement is qualifying for and your win rate. Bids are affected by all targeting parameters of a placement including location, site list, frequency cap, brand safety and more. Win rate is primarily due to your CPM bid. A few common scenarios below:`
+Access Real-Time Stats by hovering your mouse over the blue status bar of each placement. This reporting tool shows you the number of bids your placement is qualifying for and your win rate. Bids are affected by all targeting parameters of a placement including location, site list, frequency cap, brand safety and more. Win rate is primarily due to your CPM bid. A few common scenarios below:
   
 **`Scenario # 1 Low Bids and High Win Rate`**
   
