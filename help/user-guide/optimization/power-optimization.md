@@ -28,8 +28,9 @@ isSticky: 0
 ## Optimize on Metrics You Care About {#optimize-on-metrics-you-care-about}
 
  
-TubeMogul automatically adjusts spend to sites that deliver the metrics you care about most, ensuring your dollars are spent efficiently to achieve your goals. Once a campaign starts, TubeMogul's optimization technology kicks in, powered by over four years of video analytics insight. Utilizing real-time metrics like second-by-second engagement, social network sharing and completions, TubeMogul automatically shifts spending to audiences where the ad is generating the greatest impact.   
-Within our platform we offer two types of optimization:
+Advertising Cloud DSP automatically adjusts spend to sites that deliver the metrics you care about most, ensuring your dollars are spent efficiently to achieve your goals. Once a campaign starts, the optimization technology kicks in, powered by over four years of video analytics insight. Using real-time metrics like second-by-second engagement, social network sharing and completions, Advertising Cloud DSP automatically shifts spending to audiences where the ad is generating the greatest impact.
+
+Two types of optimization are available:
 
 * [Optimization Goals (Auto Optimization)](optimization-goals.md)
 * [Power Optimization ( Manual- Complete Control)](troubleshooting.md)
