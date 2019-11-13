@@ -23,20 +23,20 @@ isSticky: 0
 
 # Troubleshooting {#troubleshooting}
 
-Tracking Issues
+## Tracking Issues
 
 * [Ad Tags & Macros](../../user-guide/execution/ad-unit-setup/3rd-party-tracking-adserving/ad-tags.md)
 * [Tracking Pixels](../../user-guide/execution/ad-unit-setup/3rd-party-tracking-adserving/tracking-pixels.md)
 * [Companion Banner](../../user-guide/execution/ad-unit-setup/3rd-party-tracking-adserving/companion-banner.md)
 
-Performance Issues
+## Performance Issues
 
 * [Low/High CTR](power-optimization/low-ctr.md)
 * [Low/High Completions](/help/user-guide/optimization/power-optimization/low-completion-rate.md)
 * [No Site Diversity](/help/user-guide/optimization/power-optimization/no-site-diversity.md)
 * [High CPM](power-optimization/high-cpm.md)
 
-Delivery Issues
+## Delivery Issues
 
 * [No Delivery](power-optimization/no-delivery.md)
 * [Low Delivery](power-optimization/low-delivery.md)
