@@ -23,4 +23,8 @@ isSticky: 0
 
 # No Delivery {#no-delivery}
 
-![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)If your campaign has no delivery, verify all parameters in the campaign  [Launch Check-List](../../../user-guide/execution/launch-checklist.md) and follow the optimization strategies below:  [ ![no delivery](assets/no-delivery.png)](assets/no-delivery.png) 
+If your campaign has no delivery, verify all parameters in the campaign [Launch Check-List](../../../user-guide/execution/launch-checklist.md), and follow the optimization strategies below.
+
+[ ![no delivery](assets/no-delivery.png)](assets/no-delivery.png)
+
+![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
