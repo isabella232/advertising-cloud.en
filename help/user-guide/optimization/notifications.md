@@ -23,9 +23,9 @@ isSticky: 0
 
 # Notifications {#notifications}
 
-## What is it
+Notifications provide visibility into placement problems and offer potential solutions. Use notifications to troubleshoot placement-wide issues.
 
-A diagnostic tool that provides more visibility into placement problems and offers potential solutions. This tool has 3 main features:
+This tool has three main features:
 
 ![notifications](assets/notifications.png)
 
@@ -65,24 +65,16 @@ A diagnostic tool that provides more visibility into placement problems and offe
 
 There are two places in the UI where the Notifications will be accessible:
 
-1. From placement reports in a tab called Notifications
+* From placement reports in a tab called Notifications
 
    ![Notifications 2](assets/notifications-2.png)
 
-1. From edit placement page, in a section called Notifications
+* From edit placement page, in a section called Notifications
 
    ![Notifications 3](assets/notifications-3.png)
 
-## Why it is useful
-
-Diagnostic tool flag and alerts for potential issues with placements - then suggests remedies. This will enable troubleshooting to be part of your normal workflow of a campaign.
-
-## When to use it
-
-As the first step in troubleshooting placement-wide issues.
-
 ## What it currently does not do:
 
-* While the feature can be accessed from any placement report page, it will not be available in the edit placement page for BrandPoint placements
-* The first iteration will not track changes for targeting parameters like site lists, geos, audience segments
-* Will also not track changes by user
+* While you can access the feature from any placement report page, it's not available in the edit placement page for BrandPoint placements.
+* The first iteration doesn't track changes for targeting parameters like site lists, geos, and audience segments.
+* It doesn't track changes by user.
