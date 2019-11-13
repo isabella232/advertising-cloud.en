@@ -23,4 +23,6 @@ isSticky: 0
 
 # High CPM {#high-cpm}
 
-If your campaign eCPM is too high, follow the below:` [ ![high cpm](assets/high-cpm.png)](assets/high-cpm.png) 
+If your campaign eCPM is too high, follow this workflow:
+
+[ ![high cpm](assets/high-cpm.png)](assets/high-cpm.png)
