@@ -25,7 +25,7 @@ isSticky: 0
 
 # Optimization Best Practices {#optimization-best-practices}
 
-TubeMogul’s platform automatically adjusts spend to sites where you are delivering the metrics you most care about, to ensure that your dollars are spent efficiently. Our auto-optimization tool is dynamic and adaptive to campaign performance and only focuses on high impact sites that can dramatically increase performance.
+Advertising Cloud DSP automatically adjusts spend to sites where you are delivering the metrics you most care about, to ensure that your dollars are spent efficiently. Our auto-optimization tool is dynamic and adaptive to campaign performance and only focuses on high impact sites that can dramatically increase performance.
   
 There are two steps to optimizing your placements under the Goals section of the Placement Editor. The first step is to set a primary goal metric. The primary goal metric you set is the objective you would like to accomplish when serving ads for that placement. For example, selecting “impressions” will optimize bidding to maximize the number of impressions we serve. Choosing “viewable impressions” will optimize bidding to maximize the amount of viewable impressions you’re delivering at the most efficient price. To activate this feature, select your primary goal in the Goals section of your placement editor page.
 
@@ -50,11 +50,14 @@ Currently available pre-bid filters (more to come soon!):
 * Viewability (MOAT)
 * Viewability (TubeMogul)
 
-&#42;Note these goals are ad unit dependent. For Viewability and Player Size the placement will have to be Interactive Pre-Roll to gain access to these metrics.
+>!NOTE
+>
+>These goals are ad unit dependent. For Viewability and Player Size, the placement will have to be Interactive Pre-Roll to gain access to these metrics.
 
-`**Considerations**`
+## Considerations
 
 In order to help you get the most out of our new algorithm and simplified module, we’ve aggregated a few use-cases and the best way to set up those placements.
 
 [ ![optimization use-cases](assets/screen-shot-2016-09-19-at-12.26.02-pm.png)](assets/screen-shot-2016-09-19-at-12.26.02-pm.png)
+
 Please note that a placement-level primary goal will override the package-level primary goal if they differ. This allows you make multiple placements with different goals and attach them all to one package. 
