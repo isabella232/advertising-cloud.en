@@ -23,4 +23,6 @@ isSticky: 0
 
 # No Site Diversity {#no-site-diversity}
 
-`If certain sites are delivering most of your campaign impressions and you'd like to increase your site diversity, follow the steps below:` [ ![no site diversity](assets/no-site-diversity.png)](assets/no-site-diversity.png) 
+If a small number of sites are delivering most of your campaign impressions and you'd like to increase your site diversity, follow the steps below.
+
+[ ![no site diversity](assets/no-site-diversity.png)](assets/no-site-diversity.png) 
