@@ -31,5 +31,6 @@ TubeMogul's platform offers a suite of features you can layer on when creating y
 * [Teasers & Endcaps](ad-features-guide/teasers-endcaps.md)
 * [Ad Tags & Tracking Pixels](../../../user-guide/execution/ad-unit-setup/3rd-party-tracking-adserving.md)
 
-**Summary of Ad Unit Features**
+## Summary of Ad Unit Features
+
 [ ![ad units](assets/ad-units.png)](assets/ad-units.png) 
