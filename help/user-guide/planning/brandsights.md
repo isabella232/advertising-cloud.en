@@ -30,7 +30,7 @@ BrandSights allows Platform users to create custom branded surveys and deploy th
   
 Easily create, target and launch your own surveys within the Platform. [Customize questions](brandsights/survey-planning/writing-survey-questions.md) to align with your branding objectives, apply desired targeting parameters, and launch.
   
-## Target Surveys in the Same Way as Media**
+## Target Surveys in the Same Way as Media
   
 Apply the same granular targeting available for video ads to your surveys. Surveys will only run against the exact sites, geographies and demographics you select, ensuring you receive the insights that matter most to your campaign.   
 
