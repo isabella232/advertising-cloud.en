@@ -25,14 +25,14 @@ isSticky: 0
 
 A teaser is an eye catching image or video that entices the viewer to play an ad. Teasers only apply to user initiated ad formats such as   [click-to-play](../../../../user-guide/planning/ad-formats/in-display/click-to-play.md), [rollover-to-play](../../../../user-guide/planning/ad-formats/in-display/rollover-to-play.md) and [social units.](../../../../user-guide/planning/ad-formats/social.md)
 
-* **Static Image Teaser**
+## Static Image Teaser
 
     * Format: png, jpeg, gif
     * Image size: 300x250, 470x364 (Facebook only)
     * File size: 50KB or less
     * Recommended: call to action, recognizable image, brand logo
 
-* **Video Teaser**
+## Video Teaser
 
     * File type: mov, flv, swf
     * File Size: under 2MB
@@ -41,7 +41,8 @@ A teaser is an eye catching image or video that entices the viewer to play an ad
 
 [ ![image2013-3-25 10-33-26](assets/image2013-3-25-10-33-26.jpeg)](assets/image2013-3-25-10-33-26.jpeg)   
 
-**Endcap**
+## Endcap
+
 Finish off your ad with a static image that reinforces the brand/campaign message. This is also a feature only available for user-initiated ad formats.
 
 * Format: png, jpeg, gif, swf
