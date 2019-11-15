@@ -23,9 +23,12 @@ isSticky: 0
 
 # Mobile {#mobile}
 
-Create, target and launch your mobile ads with the same ease TubeMogul provides your other video ad initiatives. Reach your audience across the major mobile platforms including iPhone, iPad and Android. Deliver your videos within specific games and apps across mobile browsers. Targeting capabilities include IOS, Device, Geo and Day Part targeting.
-Choose from the following three types of mobile units: [Phone + Tablet Standard Pre-Roll](mobile/mobile-app-pr.md), [Phone + Tablet Interactive Pre-Roll](mobile/mobile-interactive-pr.md), [Phone Tap-to-Play Banner (320x50)](mobile/mobile-app-ctp.md), and [Tablet Tap-to-Play Medium Rectangle (300x250)](mobile/mobile-web-ctp.md).   
+Create, target and launch your mobile ads with the same ease as your other video ad initiatives. Reach your audience across the major mobile platforms including iPhone, iPad and Android. Deliver your videos within specific games and apps across mobile browsers. Targeting capabilities include IOS, Device, Geo and Day Part targeting.
+
+Choose from the following types of mobile units: [Phone + Tablet Standard Pre-Roll](mobile/mobile-app-pr.md), [Phone + Tablet Interactive Pre-Roll](mobile/mobile-interactive-pr.md), [Phone Tap-to-Play Banner (320x50)](mobile/mobile-app-ctp.md), and [Tablet Tap-to-Play Medium Rectangle (300x250)](mobile/mobile-web-ctp.md).
+
 [ ![Mobile Preroll](assets/mobile-preroll-.png)](assets/mobile-preroll-.png)
   
-**Mobile App Units Run on Quality, Safe, App Environments**
+## Mobile App Units Run on Quality, Safe, App Environments
+
 [ ![Mobile App](assets/mobile-app.png)](assets/mobile-app.png) 
