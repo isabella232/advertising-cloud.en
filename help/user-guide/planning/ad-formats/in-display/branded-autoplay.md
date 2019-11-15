@@ -27,12 +27,12 @@ isSticky: 0
 
 ![BAP](assets/bap.png)
 
-**Player Action:**
+## Player Action
 
 * Video plays above the fold, with the sound off, when the page loads
 * If a viewer unmutes the video at any point, it begins playing from the beginning with the sound on
 
-**Benefits:**
+## Benefits
 
 * Motion of playing video draws viewers interest
 * Ideal for video that conveys messaging with sound off
@@ -40,15 +40,14 @@ isSticky: 0
 * Video can be any length (< 2 min recommended)
 * Low CPMs can help increase margins
 
-**Considerations:**
+## Considerations
 
 * Good creative is essential
 
-**Recommended Pricing Model:**
+## Recommended Pricing Model
 
 * [CPM](../../../../user-guide/planning/ad-formats/performance-pricing.md)
 
-**Video Specifications:**
+## Video Specifications
 
-* View asset specs [here](../../../../user-guide/planning/ad-formats/ad-specs.md)
-
+* [standard specifications for supported ad types](https://www.tubemogul.com/ad-specs/)
