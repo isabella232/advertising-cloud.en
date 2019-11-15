@@ -32,4 +32,4 @@ We've integrated multiple layers of brand protection to ensure that your video a
 * [PlaySafe](brand-safety/playsafe-fake-pre-roll.md)
 * [Blacklists](brand-safety/blacklists/tubemogul-global-blacklist.md) can also be applied at the account or advertiser level.
 
-![safetybadges](assets/safetybadges.png)
+![safety badges](assets/safetybadges.png 'safety badges")
