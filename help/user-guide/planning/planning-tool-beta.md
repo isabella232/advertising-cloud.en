@@ -25,31 +25,29 @@ isSticky: 0
 
 # Planning Tool {#planning-tool}
 
-TubeMogul is excited to announce our recent launch of the new Planning Tool currently in beta. The tool allows you to plan campaigns, verify avails and save your plans for future use.  Follow the steps below to try it out. If you have any recommendations or feedback please let your account manager know.
+The Planning Tool allows you to plan campaigns, verify availability, and save your plans for future use.
 
-**SETTING YOUR CAMPAIGN OBJECTIVES**
+## Set Your Campaign Objectives
 
 ![Targeting](assets/targeting-1024x587.png)
 
-## **Step 1:** {#step}
+### Step 1 {#step}
 
 In this section, you set up the objectives of your plan. Which [ad type](ad-formats.md) are you trying to plan for, what is your allocated budget, which primary metric do you want to [auto-optimize](../../user-guide/optimization/optimization-goals.md) for, and what are the flight dates of the plan.
 
 There is also the option to Open Existing Plan. In the planning tool, there’s the ability for you to save a plan to your account. By selecting Open Existing Plan, you can retrieve any previously saved plan and all the targeting parameters from that plan will auto-populate the fields in the planning tool. This is great for re-using plans with similar targeting parameters or even site lists!
 
-## Step 2: {#step-1}
+### Step 2 {#step-1}
 
 In this section you select [inventory quality](brand-safety/sitesafe-quality.md) and [additional placement parameters](targeting/targeting-options.md) including geo-target, demo-target [if planning an audience buy](brandpoint.md)), frequency cap, day-parting, device targeting, & brand safety.
 
-
-**PROJECTING INVENTORY AVAILABILITY**
+## PROJECT AVAILABLE INVENTORY
 
 ![step3](assets/step32.png)
 
+## Step 3
 
-## Step 3:
-
-In this section you are able to verify inventory availability for the plan you have proposed.
+In this section, you can verify inventory availability for the plan you have proposed.
 
 The page brings some familiar features. You’ll notice the supply chart in the left and you can drag the budget bar to see projections automatically update in the blue Projection Bar underneath the chart. To the right of the supply chart, you are able to adjust your budget, flight dates and Max CPM bid.
 
@@ -72,24 +70,21 @@ From here, you can do a myriad of things:
 
 ![Site List 3](assets/site-list-3.png)
 
-For those of you who are new to the platform, please take notice of two important sections in this view:
+Notice two important sections in this view:
 
-* *Search Results*
-* *Site List*
+* **Search Results**
+* **Site List**
 
-*Search Results* will display all the sites associated with the filters that you select. If you want to add sites from the *Search Results*to your site list, just click on the checkbox to the left of the site.
+**Search Results** will display all the sites associated with the filters that you select. If you want to add sites from the *Search Results*to your site list, just click on the checkbox to the left of the site.
+
 If you want to remove sites from the site list, there are two ways to do that:
 
 * Click on the ‘x’ to the right of the site removes that site from your site list
 
 * Click on   [ ![clearlist](assets/clearlist.png)](assets/clearlist.png) to remove your entire list and start from scratch or click on   [ ![paste sites](assets/paste-sites.png)](assets/paste-sites.png) to paste in a white list
 
-Once you are done customizing your site list, click   [ ![donecustomize](assets/donecustomize.png)](assets/donecustomize.png). You may also 
+Once you are done customizing your site list, click  [ ![donecustomize](assets/donecustomize.png)](assets/donecustomize.png). You may also ![export](assets/export1.png) your site list to excel.
 
-![export](assets/export1.png) your site list to excel.
+## Step 5
 
-## Final Step
-
-Lastly, remember that your final step is to go back up the right side of the page and either 
-
-![save](assets/save.png) or ![runnow](assets/runnow.png)
+Click either ![save](assets/save.png) or ![runnow](assets/runnow.png).
