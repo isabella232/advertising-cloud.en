@@ -23,9 +23,9 @@ postPassword:
 isSticky: 0
 ---
 
-# User Management Page {#user-management-page}
+# User Management {#user-management-page}
 
-Want to invite a new user to work on your TubeMogul account? Or maybe just someone interested in reporting, but doesn't have any access to make changes? Well this is the feature for you. The User Management Page allows account owners to invite new users to the platform as well as manage the type of access they have to the account.
+Want to invite a new user to work on your account? Or maybe just someone interested in reporting, but doesn't have any access to make changes? Well this is the feature for you. The User Management Page allows account owners to invite new users to the platform as well as manage the type of access they have to the account.
 
 To access this page, navigate to the 'My Account' page from the account dropdown and click on the 'Users' section.
 
@@ -46,6 +46,5 @@ This is also the page where you'll be able to set the appropriate permissions pe
 * Pvt Inventory Read Only – can request On Demand inventory but *cannot* create or edit feeds
 
 [ ![2016-07-05_1628](assets/2016-07-05-1628-1024x142.png)](assets/2016-07-05-1628.png)
-
  
-From there, the new user should be all set! All permissions are changeable at any time by any admin user. If you have any questions, feel free to reach out to your Account Manager or platform_support@tubemogul.com 
+All permissions are changeable at any time by any admin user.
