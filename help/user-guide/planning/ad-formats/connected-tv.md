@@ -27,27 +27,29 @@ isSticky: 0
 
 The viewing experience for your digital video ad on a Connected TV is akin to regular television commercial. Ads are shown at the full size of the television. Reach an audience of affluent early adopters willing to engage with your brand in a unique environment.
 
-** [ ![Connected TV](assets/connected-tv-300x205.png)](assets/connected-tv.png)**
-**Player Action:**
+
+[ ![Connected TV](assets/connected-tv-300x205.png)](assets/connected-tv.png)
+
+## Player Action
 
 * Video plays upon app load on viewer's Connected TV device
 
-**Benefits:**
+## Benefits
 
 * Lean back experience, full view-through
 * Fullscreen video
 * Experience similar to pre-roll ad
 
-**Considerations:**
+## Considerations
 
 * Only 15s or 30s creatives
 * No click-through
 
-**Recommended Pricing Model:**
+## Recommended Pricing Model
 
 * [CPCV](performance-pricing.md)
 
-**Video Specifications:**
+## Video Specifications
 
-* View asset specs  [here](ad-specs.md)
+* [standard specifications for supported ad types](https://www.tubemogul.com/ad-specs/)
 
