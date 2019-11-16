@@ -27,12 +27,12 @@ isSticky: 0
 
 ![Expandable CTP](assets/expandable-ctp.png)
 
-**Player Action:**
+## Player Action
 
 * Ad served with a large “Play” button over center of video
 * Unit expands to fullscreen when user clicks on video
 
-**Benefits:**
+## Benefits
 
 * Fullscreen expansion ideal for capturing viewer’s attention and delivering brand impact
 * Custom 728x90 overlay banner can include key brand messaging and call-to-action
@@ -40,16 +40,16 @@ isSticky: 0
 * Add a background to provide additional branding
 * Video can be any length (< 2 min recommended)
 
-**Considerations:**
+## Considerations
 
 * Good creative is essential
 * Recommended for 10-15% of campaign budget
 * Playrate: 0.05%-0.1%
 
-**Recommended Pricing Model:**
+## Recommended Pricing Model
 
 * [CPM](../../../../user-guide/planning/ad-formats/performance-pricing.md)
 
-**Video Specifications:**
+## Video Specifications
 
-* View asset specs [here](../../../../user-guide/planning/ad-formats/ad-specs.md)
+* [standard specifications for supported ad types](https://www.tubemogul.com/ad-specs/)
