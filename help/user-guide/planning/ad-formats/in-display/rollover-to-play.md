@@ -26,12 +26,13 @@ isSticky: 0
 # Rollover to Play {#rollover-to-play}
 
 [ ![ROTP](assets/rotp3.png)](assets/rotp3.png)
-**Player Action:**
+
+## Player Action
 
 * Video served with a “Rollover to Play” call-to-action over center of video - a “rollback” corner is available if desired
 * When viewers rollover unit, the video plays with sound on after a 3 second countdown - eliminating accidental rollover
 
-**Benefits:**
+## Benefits
 
 * Delivers engaged viewers who choose to watch your video
 * Add branded overlays and sharing buttons to drive user actions and ensure brand association
@@ -39,17 +40,16 @@ isSticky: 0
 * Broad reach and lower pricing
 * Content can be any length (< 2 min recommended)
 
-**Considerations:**
+## Considerations
 
 * Nice complement to pre-roll campaigns
 * Low CPMs can help increase margin
 * Playrates (views/impressions): 0.6-1.0%
 
-**Recommended Pricing Model:**
+## Recommended Pricing Model
 
 * [CPV](../../../../user-guide/planning/ad-formats/performance-pricing.md)
 
-**Video Specifications:**
+## Video Specifications
 
-* View asset specs  [here](../../../../user-guide/planning/ad-formats/ad-specs.md)
-
+* [standard specifications for supported ad types](https://www.tubemogul.com/ad-specs/)
