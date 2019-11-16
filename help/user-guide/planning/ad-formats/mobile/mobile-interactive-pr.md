@@ -25,7 +25,7 @@ isSticky: 0
 
 [ ![mobile ipr](assets/mobile-ipr-290x300.png)](assets/mobile-ipr.png)
 
-## Player Action: {#player-action}
+## Player Action {#player-action}
 
 * HTML5 ad unit designed for mobile devices
 * Video begins to play automatically in the app between game levels
@@ -34,23 +34,22 @@ isSticky: 0
 * [See Smartphone Interactive Pre-roll Unit in Action](https://www.tubemogul.com/marketing/showcase/interactive-in-app-pre-roll.html)
 * [See Tablet Interactive Pre-roll Unit in Action](https://www.tubemogul.com/marketing/showcase/interactive-in-app-pre-roll-tablet.html)
 
-## Benefits: {#benefits}
+## Benefits {#benefits}
 
 * Completely customizable interactive experience and rich media features
 * Drives interaction and engagement rates as much as 3x higher than standard pre-roll
 
-## Considerations: {#considerations}
+## Considerations {#considerations}
 
 * Only 15s or 30s creative
 * Best used for reaching viewers across screens with an immersive, engaging viewer experience
 * Adding additional brand or product touchpoints
 * Additional creative cost and ad serving fees may apply for custom executions.
 
-## Recommended  Pricing Model: {#recommended-pricing-model}
+## Recommended Pricing Model {#recommended-pricing-model}
 
 * [CPM, CPCV, CPC, CPE](../../../../user-guide/planning/ad-formats/performance-pricing.md)
 
 ## Video Specifications: {#video-specifications}
 
-* View asset specs [here](../../../../user-guide/planning/ad-formats/ad-specs.md)
-
+* [standard specifications for supported ad types](https://www.tubemogul.com/ad-specs/)
