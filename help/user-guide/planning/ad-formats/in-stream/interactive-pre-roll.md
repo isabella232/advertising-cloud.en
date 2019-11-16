@@ -27,32 +27,32 @@ isSticky: 0
 
 ![Interactive Pre-roll](assets/interactive-pre-roll.png)
 
-## Player Action: {#player-action}
+## Player Action {#player-action}
 
 * Video begins to play automatically with sound on when page loads
 * User initiates interactive element by rolling over the overlay or interactive feature
 * See the Unit in Action:
-* [TubeMogul Online Video Gallery](https://gallery.tubemogul.com/overlay-animated.html)
+* [Online Video Gallery](https://gallery.tubemogul.com/overlay-animated.html)
 * [Overlay and Sharing Buttons](https://www.tubemogul.com/configurator/ad_preview/84wKqDi4vYyBDDVghlNp)
 
-## Benefits: {#benefits}
+## Benefits {#benefits}
 
 * Combines existing pre-roll with rich media that encourages viewers to interact with the unit
 * Drives user interaction and often delivers additional brand or product information inside video player
-* TubeMogul's Innovid partnership provides you access to various interactive elements including survey, store locators, micro site, video length extension, etc.
+* Innovid partnership provides you access to various interactive elements including survey, store locators, micro site, video length extension, etc.
 * Simple static overlay and sharing buttons can be added at no charge to TubeMogul served ads
 
-## Considerations: {#considerations}
+## Considerations {#considerations}
 
 * Only 15s or 30s creative
 * Inventory is in high demand, so costs may be higher
 * Additional creative cost and ad serving fees may apply for custom executions.
 
-## Preferred Pricing Model: {#preferred-pricing-model}
+## Preferred Pricing Model {#preferred-pricing-model}
 
 * [CPE](../../../../user-guide/planning/ad-formats/performance-pricing.md)
 
 ## Video Specifications: {#video-specifications}
 
-* View asset specs  [here](https://www.tubemogul.com/ad-specs/)
+* [standard specifications for supported ad types](https://www.tubemogul.com/ad-specs/)
 * [VPAID](https://www.iab.net/guidelines/508676/digitalvideo/vsuite/vpaid) 3rd party ad tag
