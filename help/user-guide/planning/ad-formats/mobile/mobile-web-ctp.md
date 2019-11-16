@@ -25,25 +25,25 @@ isSticky: 0
 
 [ ![Mobile Web CTP](assets/mobile-web-ctp-300x297.png)](assets/mobile-web-ctp.png)
 
-**Player Action:**
+## Player Action
 
 * 300x250 user-initiated banner is served within mobile browsers
 * On click, video expands to full screen within a device’s native video-player
 
-**Benefits:**
+## Benefits
 
 * User-initiated unit delivers engaged viewers who choose to watch your video
 * Inventory available at scale across customizable site list
 * Video can be any length (<2min recommended)
 
-**Considerations:**
+## Considerations
 
 * Should be a smaller part of the overall campaign
 
-**Recommended Pricing Model:**
+## Recommended Pricing Model
 
 * [CPM](../../../../user-guide/planning/ad-formats/performance-pricing.md)
 
-**Video Specifications:**
+## Video Specifications
 
-* View asset specs [here](../../../../user-guide/planning/ad-formats/ad-specs.md)
+* [standard specifications for supported ad types](https://www.tubemogul.com/ad-specs/)
