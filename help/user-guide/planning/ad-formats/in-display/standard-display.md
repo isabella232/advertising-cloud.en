@@ -40,12 +40,12 @@ isSticky: 0
 * Low CPMs
 * Large inventory scale
 
-## Best Used For: {#best-used-for}
+## Best Used For {#best-used-for}
 
 * Complementing a TV or digital video ad buys
 * Adding additional brand or product touchpoints
 
-## Key Performance Indicators: {#key-performance-indicators}
+## Key Performance Indicators {#key-performance-indicators}
 
 * Cost per conversion
 * Cost per click/action
@@ -56,4 +56,4 @@ isSticky: 0
 
 ## Video Specifications
 
-* View asset spec [here](../../../../user-guide/planning/ad-formats/ad-specs.md)
+* [standard specifications for supported ad types](https://www.tubemogul.com/ad-specs/)
