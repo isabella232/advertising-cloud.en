@@ -25,27 +25,26 @@ isSticky: 0
 
 [ ![Mobile App CTP](assets/mobile-app-ctp-295x300.png)](assets/mobile-app-ctp.png)
 
-**Player Action:**
+## Player Action
 
 * 300x50 banner is displayed at the top or bottom of the app screen during use
 * On user-click, the ad plays full-screen
 * On close, an optional endcap banner displayed to drive post-view traffic
 
-**Benefits:**
+## Benefits
 
 * User-initiated unit delivers engaged viewers who choose to watch your video
 * 300x50 alternative banner messaging drives post-video traffic and encourages continued brand engagement
 * Reach your audience across massive installed base of mobile devices
 
-**Considerations:**
+## Considerations
 
 * Only 15s or 30s creative
 
-**Preferred Pricing Model:**
+## Preferred Pricing Model
 
 * [CPM](../../../../user-guide/planning/ad-formats/performance-pricing.md)
 
-**Video Specifications:**
+## Video Specifications
 
-* View asset specs  [here](../../../../user-guide/planning/ad-formats/ad-specs.md)
-
+* [standard specifications for supported ad types](https://www.tubemogul.com/ad-specs/)
