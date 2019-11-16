@@ -27,12 +27,12 @@ isSticky: 0
 
 [ ![ROTP](assets/rotp-300x210.png)](assets/rotp.png)
 
-**Player Action:**
+## Player Action
 
 * Video served in a 300x250 player with a large "Play" button over center of video
 * On click, video begins playing with sound on
 
-**Benefits:**
+## Benefits
 
 * Delivers engaged viewers who choose to watch your video
 * Add branded overlays and sharing buttons to drive user actions and encourage brand association
@@ -40,16 +40,15 @@ isSticky: 0
 * Video can be any length (< 2 min recommended)
 * Use YouTube player to drive your YouTube view count
 
-**Considerations:**
+## Considerations
 
 * Recommended for 10-15% of campaign budget
 * Playrates (views/impression): 0.05-0.1%
 
-**Recommended Pricing Model:**
+## Recommended Pricing Model
 
 * [CPM](../../../../user-guide/planning/ad-formats/performance-pricing.md)
 
-**Video Specifications:**
+## Video Specifications
 
-* View asset specs  [here](../../../../user-guide/planning/ad-formats/ad-specs.md)
-
+* [standard specifications for supported ad types](https://www.tubemogul.com/ad-specs/)
