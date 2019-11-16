@@ -25,34 +25,32 @@ isSticky: 0
 
 # Phone + Tablet Standard Pre-Roll {#phone-tablet-standard-pre-roll}
 
-** ![Mobile App PR](assets/mobile-app-pr-300x293.png)
+![Mobile App PR](assets/mobile-app-pr-300x293.png)
 
-**
-  
-**Player Action:**
+## Player Action
 
 * Video plays automatically on app load, between game levels or periodically during app use
 
-**Benefits:**
+## Benefits
 
 * Pre-roll like unit drives high volume of views
 * High impact vehicle for broad reach, short burst campaigns
 * Serve your ad within contextually relevant apps to reach your target audience
 * Reach your audience across massive installed base of mobile devices
 * Customizable click-through options
-
-**Considerations:**
+## Considerations
 
 * Only 15s or 30s creative
 * Similar to pre-roll prices
 
-**Recommended Pricing Model:**
+## Recommended Pricing Model
 
 * [CPM](../../../../user-guide/planning/ad-formats/performance-pricing.md)
 
-**Video Specifications:**
+## Video Specifications
 
-* View asset specs [here](../../../../user-guide/planning/ad-formats/ad-specs.md)
+* [standard specifications for supported ad types](https://www.tubemogul.com/ad-specs/)
 
-When choosing pre-roll you now have access to cross-screen device targeting. The placement will target pre-roll in desktop as well as mobile. If you'd like to separate the inventory all you have to do is de-select the 'Include Mobile Apps' box.
+When choosing pre-roll, you  have access to cross-screen device targeting. The placement will target pre-roll in desktop as well as mobile. If you'd like to separate the inventory, de-select the option to "Include Mobile Apps."
+
 [ ![3](assets/3.png)](assets/3.png) [ ![6](assets/6.png)](assets/6.png) 
