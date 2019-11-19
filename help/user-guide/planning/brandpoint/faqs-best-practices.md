@@ -23,7 +23,7 @@ isSticky: 0
 
 # FAQs & Best Practices {#faqs-best-practices}
 
-**Best Practices:**
+## Best Practices
 
 * While a traditional TV buyer is accustomed to buying media with a frequency target, in the digital world we are accustomed to frequency capping. When planning a buy in BrandPoint, it’s important to keep in mind that if you have a certain frequency target, you may need to select a higher frequency cap than your frequency target in order to hit the average.
 * Set your budget appropriately. In BrandPoint, just like in TV the budget amount drives the projected GRP.
@@ -32,7 +32,7 @@ isSticky: 0
 * Selecting high on-target % sites may not result in a lower Cost Per Point. It depends on whether the relative increase in cost is higher or lower than the relative increase in on-target impressions.
 * Increasing frequency caps will drive cost per point down.
 
-**FAQs:**
+##FAQs
 
 1. What are the benefits of using BrandPoint?
 
