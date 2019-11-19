@@ -25,19 +25,17 @@ isSticky: 0
 
 The On Demand option allows advertisers to instantly access premium, non-guaranteed inventory at your point of need without one-on-one negotiations. On Demand offers advertisers the quickest access to new inventory with risk-free exploration directly within Advertising Cloud DSP.
 
-Feature Setup
+1. Go to **DSP > Private Inventory > On Demand**, and choose the publisher you're interested in working with.
 
-1. Step 1: Go to **DSP > Private Inventory > On Demand**, and choose the publisher you're interested in working with.
-
-[ ![selectax](assets/selectax.png)](assets/selectax.png)
+ [ ![selectax](assets/selectax.png)](assets/selectax.png)
 
 1. If you'd like information on the deal, hover on the publisher and choose "On Demand Deals".
 
-[ ![safas](assets/safas-1024x333.png)](assets/safas.png)
+ [ ![safas](assets/safas-1024x333.png)](assets/safas.png)
 
 1. See information about all the feeds that are available.
 
-[ ![seal](assets/seal.png)](assets/seal.png)
+ [ ![seal](assets/seal.png)](assets/seal.png)
 
  If you have full approval on all the feeds, then the front page of the tablet will have a green full circle. If you have approval for one or more, then you'll see a half green circle. If your request has been denied, you'll see a red circle. If you have any questions about the approval process, please contact your Account Manager or platform_support@tubemogul.com.
 
@@ -45,11 +43,11 @@ Feature Setup
 
 1. If you are approved, set up the placement:
 
-  1. To begin bidding on this inventory, you'll have to create a placement and specifically target the feed. Under the Inventory Sources section of the placement editor, you will see the option to "Customize Private Inventory".
+  1. To begin bidding on this inventory, you'll have to create a placement and specifically target the feed. Under the Inventory Sources section of the placement editor, you will see the option to "Customize Private Inventory."
 
-  [ ![daf](assets/daf.png)](assets/daf.png)
+    [ ![daf](assets/daf.png)](assets/daf.png)
  
 
   1. Target the feed that you'd like to gain access to. In this example it is A&E for desktop:
 
-  [ ![afawdsfa](assets/afawdsfa.png)](assets/afawdsfa.png)
+   [ ![afawdsfa](assets/afawdsfa.png)](assets/afawdsfa.png)
