@@ -60,7 +60,6 @@ user-guide-title: Advertising Cloud Search Guide
       + [Ad Validator](user-guide/execution/ad-unit-setup/ad-validator.md)
       + [BrandSights Setup](user-guide/execution/ad-unit-setup/brandsights-setup.md)
       + [Connected TV Setup](user-guide/execution/ad-unit-setup/connected-tv-setup.md)
-      + [Facebook Ad Setup](user-guide/execution/ad-unit-setup/facebook-ad-setup.md)
       + [In-Display Setup](user-guide/execution/ad-unit-setup/in-display-setup.md)
       + [In-Stream Setup](user-guide/execution/ad-unit-setup/in-stream-setup.md)
       + Mobile Setup {#mobile-setup}
@@ -73,7 +72,6 @@ user-guide-title: Advertising Cloud Search Guide
       + [Native Ads Setup](user-guide/execution/ad-unit-setup/native-setup.md)
       + [Overlays](user-guide/execution/ad-unit-setup/overlay.md)
       + [Sharing Buttons](user-guide/execution/ad-unit-setup/sharing-buttons.md)
-      + [Social Setup](user-guide/execution/ad-unit-setup/social-setup.md)
     + [Bulk Tools](user-guide/execution/bulk-tools.md)
     + Campaign Setup {#campaign-setup}
       + [Campaign Setup Overview](user-guide/execution/campaign-setup.md)
@@ -88,10 +86,8 @@ user-guide-title: Advertising Cloud Search Guide
       + Conversions {#conversions}
         + [Conversions Overview](user-guide/execution/placement-setup/conversions.md)
         + [Conversion Pixel Setup](user-guide/execution/placement-setup/conversions/conversion-pixel-setup.md)
-        + [Facebook Conversion Pixel Setup](user-guide/execution/placement-setup/conversions/facebook-conversion-pixel-setup.md)
       + [Copy Placement Tool](user-guide/execution/placement-setup/copy-placement-tool.md)
       + [CPM Setup](user-guide/execution/placement-setup/cpm-setup.md)
-      + [Facebook Placement Setup](user-guide/execution/placement-setup/facebook-setup-2.md)
       + [GRP Setup](user-guide/execution/placement-setup/grp-setup.md)
       + [NEW Placement Editor](user-guide/execution/placement-setup/introducing-the-new-placement-editor.md)
       + [OTP Setup](user-guide/execution/placement-setup/otp-setup.md)
@@ -167,7 +163,6 @@ user-guide-title: Advertising Cloud Search Guide
         + [Phone + Tablet Interactive Pre-Roll](user-guide/planning/ad-formats/mobile/mobile-interactive-pr.md)
         + [Tablet Tap-to-Play Medium Rectangle (300x250)](user-guide/planning/ad-formats/mobile/mobile-web-ctp.md)
       + [Performance Pricing](user-guide/planning/ad-formats/performance-pricing.md)
-      + [Social](user-guide/planning/ad-formats/social.md)
     + Brand Safety {#brand-safety}
       + [Brand Safety Overview](user-guide/planning/brand-safety.md)
       + [Blacklists](user-guide/planning/brand-safety/blacklists.md)
@@ -192,11 +187,10 @@ user-guide-title: Advertising Cloud Search Guide
     + [Media Quality](user-guide/planning/media-quality.md)
     + Partners {#partners}
       + [Partners Overview](user-guide/planning/partners.md)
-      + [Ad Serving](user-guide/planning/partners/ad-serving.md)
-      + [Data Partners](user-guide/planning/partners/data-partners.md)
-      + [Facebook Partnership](user-guide/planning/partners/facebook-setup.md)
+      <!-- No text in file --> <!-- + [Ad Serving](user-guide/planning/partners/ad-serving.md) -->
+      <!-- No text in file --> <!-- + [Data Partners](user-guide/planning/partners/data-partners.md) -->
       + [Inventory Partners](user-guide/planning/partners/inventory-partners.md)
-      + [Measurement Partners](user-guide/planning/partners/measurement-partners.md)
+      <!-- No text in file --> <!-- + [Measurement Partners](user-guide/planning/partners/measurement-partners.md) -->
     + [Planning Tool](user-guide/planning/planning-tool-beta.md)
     + Premium Inventory {#premium-inventory}
       + [Premium Inventory Overview](user-guide/planning/private-inventory.md)
