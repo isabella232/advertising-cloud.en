@@ -21,21 +21,20 @@ postPassword:
 isSticky: 0
 ---
 
-# TubeMogul Global Blacklist {#tubemogul-global-blacklist}
+# Advertising Cloud DSP Global Blacklist {#tubemogul-global-blacklist}
 
-**What is the Global Blacklist? **
+## What is the Global Blacklist?
 
-In addition to the account Blacklist, or exclude list, that advertisers can specify within the platform, TubeMogul maintains a Global Blacklist of sites deemed unsafe to run ads on. This list contains sites featuring objectionable content (such as hate or terror) and those infected by bots, fake pre-roll, mismatched domains and other fraudulent activity.
+In addition to the account blacklist, or exclude list, that advertisers can specify within the platform, Advertising Cloud DSP maintains a global blacklist of sites deemed unsafe to run ads on. This list contains sites featuring objectionable content (such as hate or terror) and those infected by bots, fake pre-roll, mismatched domains and other fraudulent activity.
 
-As part of our BrandSafety initiative to develop lasting, scalable, technology tools to root out activities that defraud advertisers, all sites are screened using the measures in the chart below. Those sites that do not pass through the brand safety checks are added to TubeMogul’s Global Blacklist.
+As part of our BrandSafety initiative to develop lasting, scalable, technology tools to root out activities that defraud advertisers, all sites are screened using the measures in the chart below. Those sites that do not pass through the brand safety checks are added to the global blacklist.
 
-** [ ![bot](assets/bot.png)](assets/bot.png) **
+[ ![bot](assets/bot.png)](assets/bot.png)
 
-**How do I know if a site on my campaign is blacklisted by TubeMogul? **
+## How do I know if a site on my campaign is blacklisted by Advertising Cloud DSP?
 
 Sites that are part of the Global Blacklist will be flagged with a red “!” in the Site Tool. This indicates that ads will not run on the flagged site – for your brand’s protection, you won’t be able to override this feature.
 
-TubeMogul’s software manages this list dynamically – this means that sites can move on or off the Global Blacklist at any time, based on our brand safety analysis.
+Advertising Cloud DSP manages this list dynamically. This means that sites can move on or off the Global Blacklist at any time, based on our brand safety analysis.
 
 ![blacklist global](assets/blacklist-global.png)
-
