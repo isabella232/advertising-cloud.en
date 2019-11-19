@@ -23,9 +23,6 @@ isSticky: 0
 
 # Inventory Partners {#inventory-partners}
 
-TubeMogul partners with most open exchanges to provide clients with access to open, transparent inventory. Below are some of our inventory partners. You can also read specific information about them
-
-[here.](https://www.tubemogul.com/company/partners/inventory-suppliers/)
-
+Advertising Cloud DSP partners with most open exchanges to provide clients with access to open, transparent inventory. Below are some of our inventory partners.
  
 [ ![Inventory](assets/inventory-1024x678.png)](assets/inventory.png) 
