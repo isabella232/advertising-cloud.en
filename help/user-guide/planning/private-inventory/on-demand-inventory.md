@@ -27,19 +27,19 @@ The On Demand option allows advertisers to instantly access premium, non-guarant
 
 1. Go to **DSP > Private Inventory > On Demand**, and choose the publisher you're interested in working with.
 
- [ ![selectax](assets/selectax.png)](assets/selectax.png)
+  [ ![selectax](assets/selectax.png)](assets/selectax.png)
 
 1. If you'd like information on the deal, hover on the publisher and choose "On Demand Deals".
 
- [ ![safas](assets/safas-1024x333.png)](assets/safas.png)
+  [ ![safas](assets/safas-1024x333.png)](assets/safas.png)
 
 1. See information about all the feeds that are available.
 
- [ ![seal](assets/seal.png)](assets/seal.png)
+  [ ![seal](assets/seal.png)](assets/seal.png)
 
- If you have full approval on all the feeds, then the front page of the tablet will have a green full circle. If you have approval for one or more, then you'll see a half green circle. If your request has been denied, you'll see a red circle. If you have any questions about the approval process, please contact your Account Manager or platform_support@tubemogul.com.
+  If you have full approval on all the feeds, then the front page of the tablet will have a green full circle. If you have approval for one or more, then you'll see a half green circle. If your request has been denied, you'll see a red circle. If you have any questions about the approval process, please contact your Account Manager or platform_support@tubemogul.com.
 
- [ ![saas](assets/saas.png)](assets/saas.png)
+  [ ![saas](assets/saas.png)](assets/saas.png)
 
 1. If you are approved, set up the placement:
 
