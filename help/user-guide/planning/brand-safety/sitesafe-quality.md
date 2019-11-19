@@ -32,26 +32,3 @@ The guidelines for each tier:
 * Untiered: This bucket refers to sites that we have access to, but have yet to tier. Use this if you are looking for additional reach or                     scale.
 
 [ ![site tool](assets/site-tool.jpeg)](assets/site-tool.jpeg)
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-  
