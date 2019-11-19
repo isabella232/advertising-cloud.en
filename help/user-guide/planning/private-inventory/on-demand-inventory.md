@@ -23,10 +23,11 @@ isSticky: 0
 
 # On Demand Inventory {#on-demand-inventory}
 
-The On Demand option allows advertisers to instantly access premium, non-guaranteed inventory at your point of need without one-on-one negotiations. On Demand offers advertisers the quickest access to new inventory with risk-free exploration directly within the TubeMogul platform.
-`Feature Set Up:`
+The On Demand option allows advertisers to instantly access premium, non-guaranteed inventory at your point of need without one-on-one negotiations. On Demand offers advertisers the quickest access to new inventory with risk-free exploration directly within Advertising Cloud DSP.
 
-* Step 1: Navigate to the Premium Inventory section of our platform, using the top menu bar. Once in the Select Access gallery, choose the publisher you're interested in working with.
+Feature Setup
+
+* Step 1: Go to **DSP > Private Inventory > On Demand**, and choose the publisher you're interested in working with.
 
 [ ![selectax](assets/selectax.png)](assets/selectax.png)
 
@@ -38,17 +39,11 @@ The On Demand option allows advertisers to instantly access premium, non-guarant
 
 [ ![seal](assets/seal.png)](assets/seal.png)
 
-* If you have gotten full approval on all the feeds than the front page of the tablet will have a green full circle, if you've gotten approval for 1 or more than you'll get a half green circle. If your request has been denied, you'll get a red circle.
+* If you have full approval on all the feeds, then the front page of the tablet will have a green full circle. If you have approval for one or more, then you'll see a half green circle. If your request has been denied, you'll see a red circle. If you have any questions about the approval process, please contact your Account Manager or platform_support@tubemogul.com.
 
 [ ![saas](assets/saas.png)](assets/saas.png)
 
-*
-
-    *  If you have any questions about the approval process, please reach out to your Account Manager or platform_support@tubemogul.com. If you are approved, placement set up is as follows:
-
-`<script src="//fast.wistia.com/assets/external/E-v1.js" async charset="ISO-8859-1"></script>`
-
-Walkthrough of this process:
+* If you are approved, set up the placement:
 
 * To begin bidding on this inventory, you'll have to create a placement and specifically target the feed. Under the Inventory Sources section of the placement editor, you will see the option to "Customize Private Inventory".
 
@@ -58,9 +53,3 @@ Walkthrough of this process:
 * Target the feed that you'd like to gain access to. In this example it is A&E for desktop:
 
 [ ![afawdsfa](assets/afawdsfa.png)](assets/afawdsfa.png)
- 
-
-* Once you've done that and set your bid appropriately, your placement is all set!
-
-If you have any additional questions, please reach out to your Account Manager or platform_support@tubemogul.com.
-  
