@@ -27,28 +27,29 @@ The On Demand option allows advertisers to instantly access premium, non-guarant
 
 Feature Setup
 
-* Step 1: Go to **DSP > Private Inventory > On Demand**, and choose the publisher you're interested in working with.
+1. Step 1: Go to **DSP > Private Inventory > On Demand**, and choose the publisher you're interested in working with.
 
 [ ![selectax](assets/selectax.png)](assets/selectax.png)
 
-* Step 2: If you'd like information on the deal, hover on the publisher and choose "On Demand Deals".
+1. If you'd like information on the deal, hover on the publisher and choose "On Demand Deals".
 
 [ ![safas](assets/safas-1024x333.png)](assets/safas.png)
 
-* Step 3: See information about all the feeds that are available.
+1. See information about all the feeds that are available.
 
 [ ![seal](assets/seal.png)](assets/seal.png)
+
  If you have full approval on all the feeds, then the front page of the tablet will have a green full circle. If you have approval for one or more, then you'll see a half green circle. If your request has been denied, you'll see a red circle. If you have any questions about the approval process, please contact your Account Manager or platform_support@tubemogul.com.
 
  [ ![saas](assets/saas.png)](assets/saas.png)
 
-* Step 4: If you are approved, set up the placement:
+1. If you are approved, set up the placement:
 
-  * To begin bidding on this inventory, you'll have to create a placement and specifically target the feed. Under the Inventory Sources section of the placement editor, you will see the option to "Customize Private Inventory".
+  1. To begin bidding on this inventory, you'll have to create a placement and specifically target the feed. Under the Inventory Sources section of the placement editor, you will see the option to "Customize Private Inventory".
 
   [ ![daf](assets/daf.png)](assets/daf.png)
  
 
-  * Target the feed that you'd like to gain access to. In this example it is A&E for desktop:
+  1. Target the feed that you'd like to gain access to. In this example it is A&E for desktop:
 
   [ ![afawdsfa](assets/afawdsfa.png)](assets/afawdsfa.png)
