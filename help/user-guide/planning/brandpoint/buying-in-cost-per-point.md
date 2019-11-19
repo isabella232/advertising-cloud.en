@@ -35,7 +35,7 @@ Use your GRP planning tool to project Cost Per Point (CPP), On-Target CPM, and O
 
 >[!NOTE]
 >
->You can still filter by specific public inventory, private inventory, or other filters, such as day parting, device targeting, and audience targeting.
->If you started off with a GRP goal, to figure out the budget needed to fill this goal, slide the Budget bar until it intersects with the GRP goal
+>* You can still filter by specific public inventory, private inventory, or other filters, such as day parting, device targeting, and audience targeting.
+>* If you started off with a GRP goal, to figure out the budget needed to fill this goal, slide the Budget bar until it intersects with the GRP goal
 
 [ ![grp mode](assets/grp-mode.jpeg)](assets/grp-mode.jpeg)
