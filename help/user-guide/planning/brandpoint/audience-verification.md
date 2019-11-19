@@ -43,7 +43,9 @@ isSticky: 0
 1. Advertisers receive reports within days about the performance of their ad campaign
 
 >[!NOTE]
+>
 >ComScore VCE reporting is not available but can be tracked. Contact your Account Manager for details. 
 
 >[!MORELIKETHIS]
+>
 >[Nielsen OCR Reporting within Advertising Cloud DSP](../../../user-guide/measurement/nielsen-ocr-reporting.md)
