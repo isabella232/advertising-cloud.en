@@ -112,9 +112,7 @@ Once everything is confirm, the page will ask the publisher to double check the 
 
 ### STEP 6: Placement Setup
 
-`<script src="//fast.wistia.com/assets/external/E-v1.js" async charset="ISO-8859-1"></script>` 
-
-If you're utilizing this tool for a video line item, once you've completed the steps above, a placement will automatically be created. If you are setting this up for display, you will have to create a placement and specifically target the feed you've created.
+If you're using this tool for a video line item, once you've completed the steps above, a placement will automatically be created. If you are setting this up for display, you will have to create a placement and specifically target the feed you've created.
 
 In the placement editor, click the Private Inventory box and select "Customize Private Inventory".
 
@@ -122,26 +120,28 @@ In the placement editor, click the Private Inventory box and select "Customize P
 
 Under the Direct Reservation Deals tab, choose the applicable feed(s):
 
-*&#42;Note, if you select the box next to "Private Inventory Name" all available feeds will be selected.*
+>[!NOTE]
+>
+>If you select "Private Inventory Name," all available feeds are selected.
 
 ![slect7](assets/slect7.png)
 
-Now you're all set!
-
-**Tips and Best Practices**
-
-* Whether your feed is guaranteed or non-guaranteed, target it with ads as soon as possible to maximize your delivery and ensure the publisher has something to test.
-* When billing through TubeMogul, please email [publisher_support@tubemogul.com](mailto:publisher_support@tubemogul.com) with the information below. TubeMogul will use this to generate an IO for the publisher to sign:
-
-    * Flight Dates
-    * Impressions Goal
-    * Billing Contact
-
-* [Manage your feeds](brandaccess/feed-management.md)
-* [Check feeds reporting](https://education.tubemogul.com/user-guide/planning/private-inventory/brandaccess/feeds-reporting/) and publisher reporting regularly to avoid huge discrepancies
+>[!TIP]
+>
+>* Whether your feed is guaranteed or non-guaranteed, target it with ads as soon as possible to maximize your delivery and ensure the publisher has something to test.
+>* When billing through Advertising Cloud DSP, please email [publisher_support@tubemogul.com](mailto:publisher_support@tubemogul.com) with the information below. Advertising Cloud DSP will use this to generate an IO for the publisher to sign:
+>    * Flight Dates
+>    * Impressions Goal
+>    * Billing Contact
+> Check feed reports and publisher reports regularly to avoid large discrepancies.
 
 ### Have a Publisher that only accepts Event Pixels?
 
-* This is also available in the platform! Please reach out to your Account Manager to get you set up.
+This is also available. Contact your Account Manager for setup.
 
 If you have any questions or are having trouble creating a feed, please contact your Account Manager and include the feed name and tag to expedite the troubleshooting process.
+
+>[!MORELIKETHIS]
+>
+>* [Manage your feeds](brandaccess/feed-management.md)
+>* [Feeds reporting](https://education.tubemogul.com/user-guide/planning/private-inventory/brandaccess/feeds-reporting/)
