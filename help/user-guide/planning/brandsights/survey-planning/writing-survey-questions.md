@@ -23,19 +23,20 @@ isSticky: 0
 
 # Writing Survey Questions {#writing-survey-questions}
 
-**Best Practices**
+## Best Practices
   
 When writing a survey question, follow these guidelines:
 
-1. Define Your Goals.Whether or not your survey is related to an ongoing campaign, make sure you have defined KPIs for your research. This will not only help you write the best questions, but also to interpret the results down the road.
+1. Define Your Goals. Whether or not your survey is related to an ongoing campaign, make sure you have defined KPIs for your research. This will not only help you write the best questions, but also to interpret the results down the road.
 1. Consider the Creative. Look at the creative and the brand message – Whether or not you’re running a study directly connected to a video campaign, understanding the brand’s media presence will give you context for writing your question.  Ideally, if you’re running a control/exposed study to assess ad effectiveness, you want to keep the questions as closely aligned as possible with the content of your creative.
 1. Avoid Complexity. Draft as concise a question as you can – then read it out loud.   A question might look great on paper, but sound off when you say it out loud.
 1. Test Your Question. Ask a colleague to read your question and explain what s/he thinks it’s asking.  If they don’t interpret it as you intended, try a rewrite.
 
 ![](https://help.tubemogul.com:8443/download/attachments/951463/line%2011.37.19%20AM.jpg?version=1&modificationDate=1364431203000&api=v2)   
-**Common Pitfalls**
+
+## Common Pitfalls
   
-Even the best researchers hit roadblocks when it comes to writing survey questions, especially ones that fit into a 300x250 ad unit!   Here are some common pitfalls and how to fix them.
+Even the best researchers hit roadblocks when it comes to writing survey questions, especially ones that fit into a 300x250 ad unit.  Here are some common pitfalls and how to fix them.
 
 * Long answer choices or questions; remember that the whole survey has to fit in a 300x250 space.   If you’re unsure about your question length, create a survey with your draft question and preview it in the platform to see how it looks (instructions below).   Often overly long questions or answer choices should really be two questions.
 * Biased wording that starts with a positive (or negative) angle without a counter, for example, “to what extent do you agree”, “how favorable is your opinion” rather than more neutral approaches like, “Do you agree or disagree” or “What is your opinion”.
@@ -46,11 +47,11 @@ Even the best researchers hit roadblocks when it comes to writing survey questio
 
 ![](https://help.tubemogul.com:8443/download/attachments/951463/line%2011.37.19%20AM.jpg?version=1&modificationDate=1364431203000&api=v2)
 
-**Standardized Survey Questions**
+## Standard Survey Questions
   
-If you want to run a survey but don’t have specific questions in mind, We have developed some standard survey questions to help you launch your study ad effectiveness study more quickly.
+If you want to run a survey but don’t have specific questions in mind, consider some standard survey questions.
 
-Message Association
+### Message Association
 
 What brand of [product category] does/is known for [brand pillar or key feature of product / service]
 
@@ -64,9 +65,7 @@ D. Competing Brand 4
 
 E. None of the Above
 
- 
-
-Brand Favorability
+### Brand Favorability
 
 Which of the following is your preferred brand of [product category]?
 
@@ -80,9 +79,7 @@ D. Competing Brand 4
 
 E. None of the Above
 
- 
-
-Purchase Intent
+### Purchase Intent
 
 In the next three months, how likely are you to buy X?
 
@@ -95,4 +92,3 @@ C. Unknown
 D. Unlikely
 
 E. Very Unlikely
-  
