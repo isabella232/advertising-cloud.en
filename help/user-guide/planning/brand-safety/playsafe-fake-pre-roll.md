@@ -26,8 +26,8 @@ isSticky: 0
 PlaySafe prevents pre-roll video ads from auto-playing within display banners on low quality sites. This is a widespread practice that defrauds advertisers who think they are buying regular pre-roll advertising, but are instead getting an ad unit with much less value.
 
 [ ![fake-pr](assets/fake-pr-300x194.png)](assets/fake-pr.png)
-
  
 
 Our technology detects ad unit and video player sizes and other attributes to determine whether the unit is regular or autoplay pre-roll. The default is set to exclude this type of inventory unless otherwise specified by your team during the site list planning process.
+
 [ ![image2013-10-18 11-19-36](assets/image2013-10-18-11-19-36-300x107.jpeg)](assets/image2013-10-18-11-19-36.jpeg) 
