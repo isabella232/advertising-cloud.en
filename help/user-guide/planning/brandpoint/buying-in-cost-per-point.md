@@ -23,7 +23,7 @@ isSticky: 0
 
 # Planning in GRP Mode {#planning-in-grp-mode}
 
-The below will teach you how to use your GRP planning tool to project Cost Per Point (CPP), On-Target CPM and On-Target Percentage based on your GRP goal and budget for a particular campaign plan:
+Use your GRP planning tool to project Cost Per Point (CPP), On-Target CPM, and On-Target Percentage based on your GRP goal and budget for a particular campaign plan:
 
 1. Click New Placement
 1. Select type of Ad Unit
@@ -33,14 +33,9 @@ The below will teach you how to use your GRP planning tool to project Cost Per P
 1. Set your target location
 1. Take a look at the Fill Estimator chart on the right to see estimated costs and on target percentage.
 
-    * If you started off with a GRP goal, to figure out the budget needed to fill this goal, slide the Budget bar until it intersects with the GRP goal
+>[!NOTE]
+>
+>You can still filter by specific public inventory, private inventory, or other filters, such as day parting, device targeting, and audience targeting.
+>If you started off with a GRP goal, to figure out the budget needed to fill this goal, slide the Budget bar until it intersects with the GRP goal
 
 [ ![grp mode](assets/grp-mode.jpeg)](assets/grp-mode.jpeg)
-
- 
-**Other Targeting Filters are Also Available**
-
-* You can still filter by specific Public Inventory, Private Inventory or Other Filters such as Day parting, Device Targeting, Audience Targeting etc.
-
- 
-  
