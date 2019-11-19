@@ -24,4 +24,5 @@ isSticky: 0
 # Control/Exposed Methodology {#control-exposed-methodology}
 
 If you’re new to survey research, you might also be new to the control/exposed research method for ad effectiveness or brand lift studies.   The table below is a primer on who fits into each group, how we target them in the platform, and what results we are looking for.
+
 [ ![control-exposed method](assets/control-exposed-method-1024x694.png)](assets/control-exposed-method.png) 
