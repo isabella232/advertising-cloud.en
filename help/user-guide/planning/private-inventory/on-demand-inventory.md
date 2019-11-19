@@ -38,18 +38,17 @@ Feature Setup
 * Step 3: See information about all the feeds that are available.
 
 [ ![seal](assets/seal.png)](assets/seal.png)
+ If you have full approval on all the feeds, then the front page of the tablet will have a green full circle. If you have approval for one or more, then you'll see a half green circle. If your request has been denied, you'll see a red circle. If you have any questions about the approval process, please contact your Account Manager or platform_support@tubemogul.com.
 
-* If you have full approval on all the feeds, then the front page of the tablet will have a green full circle. If you have approval for one or more, then you'll see a half green circle. If your request has been denied, you'll see a red circle. If you have any questions about the approval process, please contact your Account Manager or platform_support@tubemogul.com.
+ [ ![saas](assets/saas.png)](assets/saas.png)
 
-[ ![saas](assets/saas.png)](assets/saas.png)
+* Step 4: If you are approved, set up the placement:
 
-* If you are approved, set up the placement:
+  * To begin bidding on this inventory, you'll have to create a placement and specifically target the feed. Under the Inventory Sources section of the placement editor, you will see the option to "Customize Private Inventory".
 
- * To begin bidding on this inventory, you'll have to create a placement and specifically target the feed. Under the Inventory Sources section of the placement editor, you will see the option to "Customize Private Inventory".
-
- [ ![daf](assets/daf.png)](assets/daf.png)
+  [ ![daf](assets/daf.png)](assets/daf.png)
  
 
- * Target the feed that you'd like to gain access to. In this example it is A&E for desktop:
+  * Target the feed that you'd like to gain access to. In this example it is A&E for desktop:
 
- [ ![afawdsfa](assets/afawdsfa.png)](assets/afawdsfa.png)
+  [ ![afawdsfa](assets/afawdsfa.png)](assets/afawdsfa.png)
