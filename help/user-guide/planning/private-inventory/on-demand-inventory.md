@@ -45,11 +45,11 @@ Feature Setup
 
 * If you are approved, set up the placement:
 
-* To begin bidding on this inventory, you'll have to create a placement and specifically target the feed. Under the Inventory Sources section of the placement editor, you will see the option to "Customize Private Inventory".
+ * To begin bidding on this inventory, you'll have to create a placement and specifically target the feed. Under the Inventory Sources section of the placement editor, you will see the option to "Customize Private Inventory".
 
-[ ![daf](assets/daf.png)](assets/daf.png)
+ [ ![daf](assets/daf.png)](assets/daf.png)
  
 
-* Target the feed that you'd like to gain access to. In this example it is A&E for desktop:
+ * Target the feed that you'd like to gain access to. In this example it is A&E for desktop:
 
-[ ![afawdsfa](assets/afawdsfa.png)](assets/afawdsfa.png)
+ [ ![afawdsfa](assets/afawdsfa.png)](assets/afawdsfa.png)
