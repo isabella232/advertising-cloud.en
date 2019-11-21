@@ -21,34 +21,27 @@ postPassword:
 isSticky: 0
 ---
 
-# Behavioral {#behavioral}
-
-`<iframe src="//fast.wistia.net/embed/iframe/6cl3d028u6" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="640" height="360"></iframe>`   
-`<script src="//fast.wistia.net/assets/external/E-v1.js" async></script>`
-
+# Behavioral Audience Segment Targets {#behavioral}
  
-To access our Audience Segment planning tool, log into the platform and follow the instructions below:
-
-1. Click on New Placement in the upper right corner of the page
-1. Select the unit you are interested in using
-1. Scroll down the Placement Options page to the Targeting section and under Audience Segments click on Edit Segments
+1. Click on New Placement in the upper right corner of the page.
+1. Select the unit you are interested in using.
+1. Scroll down the Placement Options page to the Targeting section and under Audience Segments click on Edit Segments.
 1. Choose which data segments are relevant to your campaign by either vertical or data provider.
 
 [ ![vertical](assets/vertical.png)](assets/vertical.png)
 
- 
+## Custom Segments
+This tool also allows you to access to target first-party data segments in two ways:
 
-**Custom Segments**
-This tool also allows you to access to access first party data targeting in two ways:
+* You can collect cookies within the platform by [creating a retargeting pixel](retargeting/retargeting-pixel-setup.md) and [retarget](retargeting.md) users.
 
-* Collecting cookies within the platform by [creating a retargeting pixel](retargeting/retargeting-pixel-setup.md) and [retargeting](retargeting.md) users
-
-* Another option is to load your own DMP's data into our platform - this requires working with your Account Manager
+* You can load your own DMP data into Advertising Cloud DSP with the help of your Account Manager.
 
 [ ![vertical2](assets/vertical2.png)](assets/vertical2.png)
-**Best Practice**
 
-* Not recommended for tight targeted campaigns (ex: dma, zipcode, dayparted, etc)
-* Ideal segment list should include at least 10M user counts
-* Using this Thirdparty Segments will incur an additional data cost. Check the Audience tool for pricing.
+{!TIP]
+>
+>* Behavioral targeting isn't recommended for tightly-targeted campaigns (for example, for audiences within specific DMAs or zipcodes or for dayparting).
+>* Segments ideally should include at least 10M users.
+>* Using third-party segments incurs an additional data cost. Check the Audience tool for pricing.
 
