@@ -24,27 +24,24 @@ isSticky: 0
 # On Demand Placement {#on-demand-placement}
 
 Now that you've gained access to all the On Demand premium publishers you'd like to work with, we've created a placement that allows you to target all that inventory at once.
-`Feature Set Up`
 
-* Navigate to the "Inventory Sources" section of a placement and click on the "Optimize to use On Demand Inventory only" box.
+1. Navigate to the "Inventory Sources" section of a placement and click on the "Optimize to use On Demand Inventory only" box.
 
     * Ensure that Public Inventory is unchecked and that Private Inventory is selected
 
-[ ![ondemand2](assets/ondemand2.png)](assets/ondemand2.png)
+   [ ![ondemand2](assets/ondemand2.png)](assets/ondemand2.png)
 
-* The platform will then prompt you to confirm the site targeting. To maximize scale and performance, we recommend selecting "Add All Sites".
+1. Confirm the site targeting. To maximize scale and performance, we recommend selecting "Add All Sites."
 
-[ ![ondemand3](assets/ondemand3.png)](assets/ondemand3.png)
+   [ ![ondemand3](assets/ondemand3.png)](assets/ondemand3.png)
 
-* Either selection will move you to the site tool to confirm the list of sites. Once you've done that, save & close.
+1. Confirm the list of sites.
 
-[ ![ondemand4](assets/ondemand4.png)](assets/ondemand4.png)
+     [ ![ondemand4](assets/ondemand4.png)](assets/ondemand4.png)
 
+1. Click **Save & Close**.
  
-`Things to Note`:
-
-* **Max Bid**: When using this feature, the placement will automatically populate a default CPM to clear the most expensive feed (or inventory source). This max bid is only a suggestion. If the price is too high, feel free to adjust to the necessary price point. To get a range of different inventory sources and maximize the diversity of delivery, create multiple On Demand placements with different max bids.
-* **Location**: This is just a reminder to be sure to select the appropriate geography on your placement.
-
- 
-If you have any additional questions, please feel free to reach out to your Account Manager or platform_support@tubemogul.com. 
+>[!NOTE]
+>
+>* When you use the Max Bid feature, the placement will automatically populate a default CPM to clear the most expensive feed (or inventory source). This max bid is only a suggestion. If the price is too high, feel free to adjust to the necessary price point. To get a range of different inventory sources and maximize the diversity of delivery, create multiple On Demand placements with different max bids.
+> * Make sure to specify the appropriate geographical locations for the placement.
