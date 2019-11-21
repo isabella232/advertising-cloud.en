@@ -25,9 +25,9 @@ isSticky: 0
 
 Now that you've gained access to all the On Demand premium publishers you'd like to work with, we've created a placement that allows you to target all that inventory at once.
 
-1. Navigate to the "Inventory Sources" section of a placement and click on the "Optimize to use On Demand Inventory only" box.
+1. Go to the "Inventory Sources" section of a placement and select the option to **Optimize to use On Demand Inventory only**.
 
-    * Ensure that Public Inventory is unchecked and that Private Inventory is selected
+    Make sure that **Public Inventory** is deselected and that **Private Inventory** is selected.
 
    [ ![ondemand2](assets/ondemand2.png)](assets/ondemand2.png)
 
