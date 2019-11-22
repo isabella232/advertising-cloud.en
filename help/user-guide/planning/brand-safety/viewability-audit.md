@@ -25,7 +25,7 @@ isSticky: 0
 
 # Media Quality Assessment {#media-quality-assessment}
 
-TubeMogul’s Video Viewability Audit allows marketers to maximize brand visibility and ensure high-quality ad placements. The free audit is available on any pre-roll campaign – even on inventory not purchased through TubeMogul – and is not specific to any one exchange, network or marketplace.
+The Video Viewability Audit allows you to maximize brand visibility and ensure high-quality ad placements. The free audit is available on any pre-roll campaign – even on inventory not purchased through Advertising Cloud DSP – and is not specific to any one exchange, network or marketplace.
   
 Our [site-level audit reporting](../../../user-guide/measurement/viewability.md) provides in-depth stats on 11 different viewability metrics – so you can see exactly which variables impact viewability rates – and lets you verify site delivery across all your pre-roll video ad buys to help better inform your media buying decisions.
 
