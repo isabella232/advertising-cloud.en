@@ -23,6 +23,8 @@ isSticky: 0
 
 # Contextual {#contextual}
 
+<!-- THIS FUNCTIONALITY DOESN'T STILL EXIST, unless it's in a different form elsewhere. Nothing else is obvious. -->
+
 To create a contextual site list, log-in to your TubeMogul account, click on Tool section of the menu bar at the top of the page.
 
 [ ![Top Nav](assets/top-nav-1024x107.jpeg)](assets/top-nav.jpeg)
