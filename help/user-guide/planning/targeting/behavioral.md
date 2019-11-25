@@ -33,7 +33,7 @@ isSticky: 0
 ## Custom Segments
 This tool also allows you to access to target first-party data segments in two ways:
 
-* You can collect cookies within the platform by [creating a retargeting pixel](retargeting/retargeting-pixel-setup.md) and [retarget](retargeting.md) users.
+* You can collect cookies within the platform by [creating a retargeting pixel](retargeting/retargeting-pixel-setup.md) and [retargeting](retargeting.md) users.
 
 * You can load your own DMP data into Advertising Cloud DSP with the help of your Account Manager.
 
