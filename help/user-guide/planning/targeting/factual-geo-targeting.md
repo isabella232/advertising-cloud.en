@@ -25,7 +25,7 @@ isSticky: 0
 
 # Location-Based Mobile Targeting {#location-based-mobile-targeting}
 
-TubeMogul's integration with Factual allows advertisers to leverage two types of location based targeting:
+Integration with Factual allows advertisers to leverage two types of location based targeting:
 
 1. Geofencing (Proximity campaigns) - select a point of interest (address, store name, etc.) and target mobile users who are within a specific radius (meters)
 
@@ -98,7 +98,7 @@ Note: It will take 1-3 days for the build to finish. Factual will process the re
 
  
 
-## Set Up in TubeMogul's Platform
+## Set Up in Advertising CLoud DSP
 
 ### Real-Time Geofencing (Proximity Targeting)
 
