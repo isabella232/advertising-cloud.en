@@ -23,17 +23,17 @@ isSticky: 0
 
 # More Targeting Options {#more-targeting-options}
 
-**Dayparting**
+## Dayparting
   
-Highlight in blue the time and days of the week the placement will run. Make sure to select Timezone based on the target location selected.
+You can run a placement at only specific times and days of the week. Make sure to specify the timezone based on the target location.
 
 [ ![Daypart](assets/daypart.jpeg)](assets/daypart.jpeg)
 
  
 
-**Topic Targeting**
+## Topic Targeting
 
-Topic targeting is another form of contextual targeting that allows you to target pages with content that is relevant to your audience. This type of targeting should only be applied to a small percentage of your overall buy given it may affect inventory availability. Activation of this feature will incur an additional CPM fee. Consult your Account Manager if you are interested in getting a list of topics available.
+Topic targeting is another form of contextual targeting that allows you to target pages with content that is relevant to your audience. This type of targeting should only be applied to a small percentage of your overall buy becauseit may affect inventory availability. Activation of this feature will incur an additional CPM fee. Consult your account manager if you are interested in seeing a list of available topics.
 
 ![topic](assets/topic--300x275.jpeg)
 
