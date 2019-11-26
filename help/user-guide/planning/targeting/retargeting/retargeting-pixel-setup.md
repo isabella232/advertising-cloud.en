@@ -27,8 +27,6 @@ isSticky: 0
 
 1.In the main menu, select **DSP > Tools > Segments**.
 
-   ![Segments](assets/segments.png)
-
 1. Click **New Custom Segment**, enter the segment name, and then click **Save and Close**.
 
    Use a segment name that clearly states the type of cookie pool you are collecting (such as Homepage Visitors- Site X).
