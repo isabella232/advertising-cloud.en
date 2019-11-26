@@ -25,18 +25,20 @@ isSticky: 0
 
 # Retargeting Pixel Setup {#retargeting-pixel-setup}
 
-To create a retargeting pixel:
-
-1. Click on Tools in the top navigation bar and select "SEGMENTS".
+1.In the main menu, select **DSP > Tools > Segments**.
 
    ![Segments](assets/segments.png)
 
-1. Click on New Custom Segment and Name the segment. It should be something that clearly states what type of cookie pool you are collecting. For example: Homepage Visitors- Site X.
+1. Click **New Custom Segment**, enter the segment name, and then click **Save and Close**.
+
+   Use a segment name that clearly states the type of cookie pool you are collecting (such as Homepage Visitors- Site X).
   
-1. Click on the gear icon on the right side and select "get pixel". Use the HTML tag if you are placing it on a website and use the Flash tag if you are attaching it to an ad.
+1. In the Options column, click the gear icon on the right side and select **get pixel**.
+
+   Use the HTML tag if you are placing it on a website, and use the Flash tag if you are attaching it to an ad.
   
    ![segment](assets/segment-300x169.png)
   
-1. Use a Debugging tool such as Charles or Fiddler to doublecheck that the TubeMogul pixel is firing correctly.
+1. Use a debugging tool such as Charles or Fiddler to verify that the pixel is firing correctly.
   
-1. Check the Segments section periodically to confirm Segment Size is increasing. You can also use this tool to manage the segments in your account.
+1. Check the Segments Manager periodically to confirm the segment size increases.
