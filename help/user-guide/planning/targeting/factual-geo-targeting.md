@@ -98,7 +98,7 @@ Note: It will take 1-3 days for the build to finish. Factual will process the re
 
  
 
-## Set Up in Advertising CLoud DSP
+## Set Up in Advertising Cloud DSP
 
 ### Real-Time Geofencing (Proximity Targeting)
 
