@@ -23,7 +23,7 @@ isSticky: 0
 
 # Segment Management {#segment-management}
 
-Once you've [created retargeting pixels](retargeting-pixel-setup.md), manage your segments in the Tools> Segments section.  This section allows you to quickly view the segments associated with a specific advertiser, confirm their status and monitor user counts.  You can:
+Once you've [created retargeting pixels](retargeting-pixel-setup.md), manage your segments in the Segment Manager at Tools> Segments.  This view allows you to quickly view the segments associated with a specific advertiser, confirm their statuses, and monitor user counts.  You can:
 
 * Group segments by advertiser
 * Filter by advertiser
