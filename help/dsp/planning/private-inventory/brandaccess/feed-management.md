@@ -35,6 +35,7 @@ You can manage your feeds from the DSP > Private Inventory > Analytics view. Thi
 ![Feed troubleshooting](assets/feed-troubleshooting.png)
 
 ## Available options
+
 The following options are available for any feed from the gear icon in the right column.
 
 * **Edit** the feed details.

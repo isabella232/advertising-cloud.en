@@ -47,6 +47,7 @@ Reporting can be accessed by clicking on the placement title or the gear icon on
 * On Target CPM: The cost to delivery 1000 impressions to the audience target of this campaign or placement
 
 ## Audience Reporting Availability
+
 In-product Nielsen DAR desktop reporting is available in the following countries:
 
 * US

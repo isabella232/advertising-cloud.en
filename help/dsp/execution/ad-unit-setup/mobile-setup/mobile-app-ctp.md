@@ -49,5 +49,6 @@ isSticky: 0
 * Preview the ad in either portrait or landscape view.
 
 ### Save and Submit the Ad for Review
+
 The [ad review](../../../../dsp/execution/ad-unit-setup/ad-reviews.md) team verifies that the ad is rendering properly and clicking through. Approval time is typically 2-4 hours on regular business hours and 24hrs on weekends.
 Remember that in order to deliver your campaign, you must attach your ad to a placement. 

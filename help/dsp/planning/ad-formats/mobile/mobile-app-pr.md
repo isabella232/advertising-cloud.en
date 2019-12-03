@@ -38,6 +38,7 @@ isSticky: 0
 * Serve your ad within contextually relevant apps to reach your target audience
 * Reach your audience across massive installed base of mobile devices
 * Customizable click-through options
+
 ## Considerations
 
 * Only 15s or 30s creative

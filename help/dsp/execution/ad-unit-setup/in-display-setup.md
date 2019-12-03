@@ -72,6 +72,7 @@ For an example of how the above code snippet should look like in a working HTML 
 Caveat: Fallback images are not supported when using TubeMogul to serve HTML5 display creatives. To implement fallback images, you need to build them directly into your HTML5 creative according to the [HTML5 browser support matrix](https://caniuse.com/).
 
 ## For Video
+
 [ ![dada](assets/dada.png)](assets/dada.png)
 
 * Upload Video: Raw creative asset. See [standard specifications for supported ad types](https://www.tubemogul.com/ad-specs/)

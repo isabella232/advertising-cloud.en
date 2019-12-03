@@ -42,17 +42,18 @@ To access your site and app level viewability report, go to sites tab within you
 Video viewability goes beyond reporting whether an ad was served on a page - it measures whether an ad had the opportunity to be seen by the audience by tracking how much of the ad is in view, how long it is in view and whether the window is active. Currently, there is not an industry-wide standard on what qualifies as a "viewable impression" (e.g. What percentage of the video's pixels needs to be in view? For how long?), but initiatives such as OpenVV seek to drive consensus among advertisers, publishers and ad tech vendors.
 
 ## What is OpenVV?
+
 OpenVV is an open-source viewability solution for in-stream video advertising. TubeMogul (now Adobe Advertising Cloud DSP), BrightRoll, Innovid, LiveRail and SpotXchange founded the consortium to drive the industry towards a standard for video viewability, with the belief that it will benefit brands, agencies and publishers alike. The technology tracks whether a video is in view, and is muted, whether the window is active and the exact percentage of the video that is viewable on a user's screen. To learn more, visit 
 
 [www.openVV.org](https://www.iab.com/guidelines/open-video-viewability/)
 
-##How do you define a "viewable impression"?
+## How do you define a "viewable impression?"
 
 * For Pre-Roll, we define a viewable impression if 50% of the video is in view for 2 consecutive seconds in the viewable browser area of an active tab.
 * For Display, we define a viewable impression if 50% of the video is in view for 1 consecutive seconds in the viewable browser area of an active tab.
 * For Mobile and Connected TV, we define a viewable impression if the ad plays full screen (or 100% in view) and passes the 25% completion point.
 
-## For which ad ad units is viewability available?**
+## For which ad ad units is viewability available?
 
 * Desktop (video and display)
 * Mobile

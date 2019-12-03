@@ -32,9 +32,11 @@ If you are using 3rd party tracking pixels, TubeMogul enables you to add these d
 * Click URL: Add clickthrough redirect pixel here (should be click pixels not jump tags)
 
 ## Companion Tab
+
 Add any companion banner 3rd party clickthrough pixels in this section. If you want to also track companion impression, you will need to create an  [iframe](companion-banner.md).
 
 ## Sharing Buttons/Overlays Tab
+
 Track impressions and click-throughs for these ad features via 3rd party pixels for Mobile, In-display, Social, Interactive Pre-roll units.
 
 ## Pixel Tab

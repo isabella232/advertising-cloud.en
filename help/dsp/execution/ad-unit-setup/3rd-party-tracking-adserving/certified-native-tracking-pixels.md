@@ -26,6 +26,7 @@ isSticky: 0
 # Certified Native Tracking Pixels {#certified-native-tracking-pixels}
 
 The following pixels are support for native ads on TripleLift.
+
 ## Integral Ad Science
 
 * [pixel.adsafeprotected.com](http://pixel.adsafeprotected.com/) 

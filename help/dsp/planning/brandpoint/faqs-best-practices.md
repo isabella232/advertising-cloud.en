@@ -32,7 +32,7 @@ isSticky: 0
 * Selecting high on-target % sites may not result in a lower Cost Per Point. It depends on whether the relative increase in cost is higher or lower than the relative increase in on-target impressions.
 * Increasing frequency caps will drive cost per point down.
 
-##FAQs
+## FAQs
 
 1. What are the benefits of using BrandPoint?
 

@@ -47,7 +47,8 @@ isSticky: 0
 * [Endcap](/help/dsp/planning/ad-formats/ad-features-guide/teasers-endcaps.md): Finish the ad with a static image reinforcing your brand message.
 * [Pixel](../../../../dsp/execution/ad-unit-setup/3rd-party-tracking-adserving/tracking-pixels.md): Add third-party tracking pixels.
 
-### Save & Submit for Review 
+### Save and Submit for Review
+
 The [ad review](../../../../dsp/execution/ad-unit-setup/ad-reviews.md)team verifies that the ad is rendering properly and clicking through. Approval time is typically 2-4 hours on regular business hours and 24hrs on weekends.
 
 Remember to attach the ad to the correct placement.

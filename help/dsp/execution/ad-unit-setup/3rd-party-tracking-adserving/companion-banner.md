@@ -59,6 +59,7 @@ Example of an iFrame Template:
 * Refresh and verify that the companion banner
 
 ### SWF assets
+
 For swf/flash files, use the following template:
 
 ```

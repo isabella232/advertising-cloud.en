@@ -73,7 +73,7 @@ There are several different ad tag formats and the macros are inserted in differ
 
 [ ![ad tags1](assets/ad-tags1.png)](assets/ad-tags1.png)
 
-##Inside a VAST tag
+## Inside a VAST tag
 
 [ ![ad_tags2](assets/ad-tags2.png)](assets/ad-tags2.png)
 

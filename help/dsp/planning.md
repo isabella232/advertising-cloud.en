@@ -50,6 +50,7 @@ If you are a new user, we recommend going through the User Guide by following th
 ## Select Appropriate [Ad Units](planning/ad-formats.md) and [Pricing Models](planning/ad-formats/performance-pricing.md)
 
 ## Choose Targeting Strategies
+
 [Behavioral](planning/targeting/behavioral.md)   
 [Contextual](planning/targeting/contextual.md)   
 [Retargeting](planning/targeting/retargeting.md)   
@@ -57,14 +58,17 @@ If you are a new user, we recommend going through the User Guide by following th
 [Day-Parting](planning/targeting/targeting-options.md)
 
 ## Verify Inventory Availability
+
 * Use the Master Site Tool to pull contextual site lists and daily inventory availability.   
 * Use the Audience Segments tool located within the Placement Options page too compile a list of relevant target segments.   
 * Use the Placement Options Tool and make sure the fill estimator shows 100%. Keep in mind Audience Segments is currently not included in this prediction.
 
 ## Consider Additional Features and Costs
+
 * [BrandSights](planning/brandsights.md)   
 * [BrandSafety](planning/brand-safety.md)   
 * [Private Inventory](planning/private-inventory.md)
 
-## Best Practice
+## Best Practices
+
 See [guidelines for tight targeted campaigns](planning/targeting.md). 

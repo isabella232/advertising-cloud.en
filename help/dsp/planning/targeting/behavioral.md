@@ -31,6 +31,7 @@ isSticky: 0
 [ ![vertical](assets/vertical.png)](assets/vertical.png)
 
 ## Custom Segments
+
 This tool also allows you to access to target first-party data segments in two ways:
 
 * You can collect cookies within the platform by [creating a retargeting pixel](retargeting/retargeting-pixel-setup.md) and [retargeting](retargeting.md) users.

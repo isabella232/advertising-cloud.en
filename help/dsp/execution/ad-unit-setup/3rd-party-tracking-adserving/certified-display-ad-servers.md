@@ -96,6 +96,7 @@ Supported: iFrame & JavaScript tags
 <!-- Replace screen shot image with code block with appropriate highligting once code highlighting is available. -->
 <!-- 
 ```
+
 <noscript> 
 <a href="${TM_CLICK_URL_URLENC}[http://servedby.flashtalking.com/click/8/57258;1799696;0;209;0/?ft_width=300&ft_height=250&url=9678632](https://servedby.flashtalking.com/click/8/57258;1799696;0;209;0/?ft_width=300&ft_height=250&url=9678632)" target="_blank"> 
 <img border="0" src=" [https://servedby.flashtalking.com/imp/8/57258;1799696;205;gif;Tubemogul;300x250HTML5StandardwClickExtension/](https://servedby.flashtalking.com/imp/8/57258;1799696;205;gif;Tubemogul;300x250HTML5StandardwClickExtension/)?"></a> 
@@ -123,5 +124,6 @@ ftTag += 'src=" [https://servedby.flashtalking.com/imp/8/57258;1799696;201;js;Tu
 ftTag += '>' + ftBuildTag2 + 'script>'; 
 document.write(ftTag); 
 </script>
+
 ```
 -->

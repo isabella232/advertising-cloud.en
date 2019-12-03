@@ -32,6 +32,7 @@ Media buyers are looking to supplement their TV buys with online video, but they
 [ ![how it works](assets/how-it-works.jpeg)](assets/how-it-works.jpeg)
 
 ## How Cost Per Point Is Calculated
+
 Advertising Cloud DSP uses proprietary data targeting to improve on-target % throughout the campaign. BrandPoint calculates the Cost Per Point using several different factors:
 
 * Sites: Advertising Cloud DSP indexes inventory using Nielsen OCR and Facebook-based user data. These two methods provide BrandPoint site-level demographic breakdowns for our inventory.
@@ -45,6 +46,7 @@ Our tool combines the above data points to calculate the Cost Per Point of a cam
 1. BrandPoint calculates how many GRP's your plan will achieve using the digital GRP formula.
 
 ## How to Calculate a Digital GRP
+
 Below is the formula BrandPoint uses to calculate GRP:
 
 `GRP = (Total impression * On-Target%)/Natural Population`
@@ -52,6 +54,7 @@ Below is the formula BrandPoint uses to calculate GRP:
 where Natural Population is your total target population. For example, if you are targeting Female 25-54 in the US, the population number you would use is 62.8M. If you were targeting a specific DMA, the population number would be based on that DMA. To maintain consistency with Nielsen TV GRP calculations, "Natural Population" is using overall population rather than online audiences only.
 
 ## Supported Ad Formats
+
 BrandPoint is available for the following ad formats:
 
 * Pre-roll
@@ -72,4 +75,3 @@ BrandPoint is available for the following ad formats:
 ## Audience Reporting
 
 In-product Nielsen OCR reporting is available in the US, UK, Australia, Germany, Italy, Brazil, and France. For all other countries, Advertising Cloud DSP offers its own demographic reporting.
-  
