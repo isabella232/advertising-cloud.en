@@ -33,6 +33,6 @@ The metrics you see onscreen and in the exports are for the specified date range
 
 ## Feed Details
 
-At the individual feed level, click the gear icon and then select “See Report” to see detailed data. The data includes all of the same metrics as you did on the main page by clicking on the data icon, but you can also view and export reporting by Advertiser, Campaign, Ad Type and Site. You can also get private feed reporting via customized [Email Reports](../../../user-guide/measurement/campaign-reporting/email-reports.md). 
+At the individual feed level, click the gear icon and then select “See Report” to see detailed data. The data includes all of the same metrics as you did on the main page by clicking on the data icon, but you can also view and export reporting by Advertiser, Campaign, Ad Type and Site. You can also get private feed reporting via customized [Email Reports](../../../dsp/measurement/campaign-reporting/email-reports.md). 
 
 [ ![privateinventory](assets/privateinventory-1024x603.png)](assets/privateinventory.png) 

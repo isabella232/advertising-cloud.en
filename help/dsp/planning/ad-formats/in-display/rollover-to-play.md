@@ -48,7 +48,7 @@ isSticky: 0
 
 ## Recommended Pricing Model
 
-* [CPV](../../../../user-guide/planning/ad-formats/performance-pricing.md)
+* [CPV](../../../../dsp/planning/ad-formats/performance-pricing.md)
 
 ## Video Specifications
 

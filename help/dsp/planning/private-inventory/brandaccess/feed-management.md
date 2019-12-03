@@ -30,7 +30,7 @@ You can manage your feeds from the DSP > Private Inventory > Analytics view. Thi
 * **Win rate**:  A win is an impression that you bid on successfully. The win rate is the percentage of auctions where the impression was won in this feed  - this is shown as a percentage, and is calculated as impressions/bids.
 * **Red** means the feed requires immediate attention most likely because there is no activity on the feed or a default ad is missing from a guaranteed feed.
 * **Orange** means the feed will need attention soon most likely because an ad flight is ending within 4 days.
-* **Progress bar**: Will only show up if you filled out the optional 'Tracking" section of the [BrandAccess Feed Creation](../../../../user-guide/planning/private-inventory/brandaccess.md) modal. The purple bar indicates actual budget spent vs. desired spend. Blue bars indicate impressions delivered vs goal.
+* **Progress bar**: Will only show up if you filled out the optional 'Tracking" section of the [BrandAccess Feed Creation](../../../../dsp/planning/private-inventory/brandaccess.md) modal. The purple bar indicates actual budget spent vs. desired spend. Blue bars indicate impressions delivered vs goal.
 
 ![Feed troubleshooting](assets/feed-troubleshooting.png)
 
@@ -52,4 +52,4 @@ The following options are available for any feed from the gear icon in the right
 * **Archive** &mdash; Move the feed to the Archived Feeds section. Archiving a feed won't stop traffic from running on the feed.
 * **Show Pixels** &mdash; Generate an event pixel for the tag. 
 * **Placements and Ads** &mdash; View a list of placements and ads that target the feed so you can verify if the feed is set up properly and receiving inventory. This page uses the same orange and red indicators as the main Private Inventory feed management page.
-* [See Report](/help/user-guide/planning/private-inventory/feeds-reporting.md) &mdash; Open the feed details, which are also available by clicking the feed name.
+* [See Report](/help/dsp/planning/private-inventory/feeds-reporting.md) &mdash; Open the feed details, which are also available by clicking the feed name.

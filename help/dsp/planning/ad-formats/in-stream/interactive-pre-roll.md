@@ -50,7 +50,7 @@ isSticky: 0
 
 ## Preferred Pricing Model {#preferred-pricing-model}
 
-* [CPE](../../../../user-guide/planning/ad-formats/performance-pricing.md)
+* [CPE](../../../../dsp/planning/ad-formats/performance-pricing.md)
 
 ## Video Specifications: {#video-specifications}
 

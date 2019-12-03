@@ -48,7 +48,7 @@ isSticky: 0
 
 ## Recommended Pricing Model {#recommended-pricing-model}
 
-* [CPM, CPCV, CPC, CPE](../../../../user-guide/planning/ad-formats/performance-pricing.md)
+* [CPM, CPCV, CPC, CPE](../../../../dsp/planning/ad-formats/performance-pricing.md)
 
 ## Video Specifications: {#video-specifications}
 

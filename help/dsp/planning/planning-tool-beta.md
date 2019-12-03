@@ -33,7 +33,7 @@ The Planning Tool allows you to plan campaigns, verify availability, and save yo
 
 ### Step 1 {#step}
 
-In this section, you set up the objectives of your plan. Which [ad type](ad-formats.md) are you trying to plan for, what is your allocated budget, which primary metric do you want to [auto-optimize](../../user-guide/optimization/optimization-goals.md) for, and what are the flight dates of the plan.
+In this section, you set up the objectives of your plan. Which [ad type](ad-formats.md) are you trying to plan for, what is your allocated budget, which primary metric do you want to [auto-optimize](../../dsp/optimization/optimization-goals.md) for, and what are the flight dates of the plan.
 
 There is also the option to Open Existing Plan. In the planning tool, there’s the ability for you to save a plan to your account. By selecting Open Existing Plan, you can retrieve any previously saved plan and all the targeting parameters from that plan will auto-populate the fields in the planning tool. This is great for re-using plans with similar targeting parameters or even site lists!
 

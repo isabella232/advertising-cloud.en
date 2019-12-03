@@ -25,11 +25,11 @@ isSticky: 0
 
 TubeMogul's platform offers a suite of features you can layer on when creating your ad formats. Features include:
 
-* [Overlays](../../../user-guide/execution/ad-unit-setup/overlay.md)
-* [Companion Banners](../../../user-guide/execution/ad-unit-setup/3rd-party-tracking-adserving/companion-banner.md)
-* [Social Sharing Buttons](../../../user-guide/execution/ad-unit-setup/sharing-buttons.md)
+* [Overlays](../../../dsp/execution/ad-unit-setup/overlay.md)
+* [Companion Banners](../../../dsp/execution/ad-unit-setup/3rd-party-tracking-adserving/companion-banner.md)
+* [Social Sharing Buttons](../../../dsp/execution/ad-unit-setup/sharing-buttons.md)
 * [Teasers & Endcaps](ad-features-guide/teasers-endcaps.md)
-* [Ad Tags & Tracking Pixels](../../../user-guide/execution/ad-unit-setup/3rd-party-tracking-adserving.md)
+* [Ad Tags & Tracking Pixels](../../../dsp/execution/ad-unit-setup/3rd-party-tracking-adserving.md)
 
 ## Summary of Ad Unit Features
 

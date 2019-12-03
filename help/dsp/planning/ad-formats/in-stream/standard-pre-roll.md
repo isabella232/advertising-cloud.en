@@ -53,7 +53,7 @@ isSticky: 0
 
 ## Preferred Pricing Model {#preferred-pricing-model}
 
-* [CPCV](../../../../user-guide/planning/ad-formats/performance-pricing.md)
+* [CPCV](../../../../dsp/planning/ad-formats/performance-pricing.md)
 
 ## Video Specifications {#video-specifications}
 

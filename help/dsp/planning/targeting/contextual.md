@@ -33,6 +33,6 @@ You can target contextual site lists that combine site targeting with other type
 
 * Search for sites by URL or keywords.
 * Select sites based on categories or subcategories
-* Select site quality by [tier](../../../user-guide/planning/brand-safety/sitesafe-quality.md).
+* Select site quality by [tier](../../../dsp/planning/brand-safety/sitesafe-quality.md).
 * Target and block sites using contextual filters from ComScore, DoubleVerify, Integral Ad Science, and Peer 39.
 * Block bids to fraudulent and suspicious sites and devices using categories from  DoubleVerify, Integral Ad Science, and Peer 39.

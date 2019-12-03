@@ -42,7 +42,7 @@ isSticky: 0
 
 ## Recommended Pricing Model
 
-* [CPM](../../../../user-guide/planning/ad-formats/performance-pricing.md)
+* [CPM](../../../../dsp/planning/ad-formats/performance-pricing.md)
 
 ## Video Specifications
 

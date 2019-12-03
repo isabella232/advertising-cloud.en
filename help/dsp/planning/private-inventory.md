@@ -43,4 +43,4 @@ TubeMogul's DSP enables brands and agencies the ability to consolidate private i
 
 * [Learn more about On Demand Inventory](private-inventory/on-demand-inventory.md)
 * [Learn more about Pre-Negotiated Deals - Formerly BrandAccess](private-inventory/brandaccess.md)
-* [Manage your feeds](/help/user-guide/planning/private-inventory/brandaccess/feed-management.md)
+* [Manage your feeds](/help/dsp/planning/private-inventory/brandaccess/feed-management.md)

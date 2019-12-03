@@ -53,7 +53,7 @@ Use our easy-to-use site tool to search and filter through thousands of sites to
 
 When choosing pre-roll you now have access to cross-screen device targeting. The placement will target pre-roll in desktop as well as mobile. If you'd like to separate the inventory all you have to do is de-select the 'Include Mobile Apps' box.
 
-![3](/help/user-guide/planning/ad-formats/mobile/assets/3.png)
+![3](/help/dsp/planning/ad-formats/mobile/assets/3.png)
 
 ## Targeting Best Practices
 

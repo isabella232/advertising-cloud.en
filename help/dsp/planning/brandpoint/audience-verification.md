@@ -48,4 +48,4 @@ isSticky: 0
 
 >[!MORELIKETHIS]
 >
->[Nielsen OCR Reporting within Advertising Cloud DSP](../../../user-guide/measurement/nielsen-ocr-reporting.md)
+>[Nielsen OCR Reporting within Advertising Cloud DSP](../../../dsp/measurement/nielsen-ocr-reporting.md)

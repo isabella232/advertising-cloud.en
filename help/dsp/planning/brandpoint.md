@@ -23,7 +23,7 @@ isSticky: 0
 
 # BrandPoint {#brandpoint}
 
-BrandPoint is the simplest and most cost effective way to buy video advertising using Gross Rating Points (GRPs). BrandPoint enables brand marketers to plan, buy and measure digital video on a comparable basis to TV. For the first time, advertisers can execute verifiable and optimized delivery to online populations – dynamically. BrandPoint buys media in real-time, to reach a client’s desired audience. [Nielsen](../../user-guide/measurement/nielsen-ocr-reporting.md) and [Comscore](../../user-guide/measurement/comscore-vce.md) validated reporting are also available within the dashboard to measure and verify delivery.
+BrandPoint is the simplest and most cost effective way to buy video advertising using Gross Rating Points (GRPs). BrandPoint enables brand marketers to plan, buy and measure digital video on a comparable basis to TV. For the first time, advertisers can execute verifiable and optimized delivery to online populations – dynamically. BrandPoint buys media in real-time, to reach a client’s desired audience. [Nielsen](../../dsp/measurement/nielsen-ocr-reporting.md) and [Comscore](../../dsp/measurement/comscore-vce.md) validated reporting are also available within the dashboard to measure and verify delivery.
 
 Media buyers are looking to supplement their TV buys with online video, but they need a reliable and simple platform for buying and executing a GRP buy. BrandPoint will not only accurately predict a buy, but also uses proprietary data targeting to provide the best Cost Per Point in the industry.
 

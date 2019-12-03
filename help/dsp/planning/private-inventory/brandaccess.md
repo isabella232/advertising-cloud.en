@@ -144,4 +144,4 @@ If you have any questions or are having trouble creating a feed, please contact 
 >[!MORELIKETHIS]
 >
 >* [Manage your feeds](brandaccess/feed-management.md)
->* [Feeds reporting](https://education.tubemogul.com/user-guide/planning/private-inventory/brandaccess/feeds-reporting/)
+>* [Feeds reporting](https://education.tubemogul.com/dsp/planning/private-inventory/brandaccess/feeds-reporting/)

@@ -23,7 +23,7 @@ isSticky: 0
 
 # Teasers & Endcaps {#teasers-endcaps}
 
-A teaser is an eye catching image or video that entices the viewer to play an ad. Teasers only apply to user initiated ad formats such as   [click-to-play](../../../../user-guide/planning/ad-formats/in-display/click-to-play.md), [rollover-to-play](../../../../user-guide/planning/ad-formats/in-display/rollover-to-play.md) and [social units.](../../../../user-guide/planning/ad-formats/social.md)
+A teaser is an eye catching image or video that entices the viewer to play an ad. Teasers only apply to user initiated ad formats such as   [click-to-play](../../../../dsp/planning/ad-formats/in-display/click-to-play.md), [rollover-to-play](../../../../dsp/planning/ad-formats/in-display/rollover-to-play.md) and [social units.](../../../../dsp/planning/ad-formats/social.md)
 
 ## Static Image Teaser
 
