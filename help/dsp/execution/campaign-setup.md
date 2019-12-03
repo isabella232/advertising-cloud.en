@@ -60,13 +60,13 @@ Click **Create a New Package** and specify the package settings.
 
 The 3rd Party Verification section includes settings for:
 
-* [IAS Viewability](../../user-guide/measurement/viewability/ias-integration.md)
-* [Nielsen DAR](../../user-guide/measurement/nielsen-ocr-reporting.md)
-* [Comscore VCE](../../user-guide/measurement/comscore-vce.md)
+* [IAS Viewability](../../dsp/measurement/viewability/ias-integration.md)
+* [Nielsen DAR](../../dsp/measurement/nielsen-ocr-reporting.md)
+* [Comscore VCE](../../dsp/measurement/comscore-vce.md)
 
 [ ![3rd party](assets/3rd-party.png)](assets/3rd-party.png)
  
-Once your campaign is created, click on the blue widget next to your campaign name to enable Campaign [Optimization Goals](../../user-guide/optimization/optimization-goals.md). This feature allows users to set optimization goals and priorities in order of importance and automatically adjusts spend to sites where you are delivering the metrics you most care about, ensuring that your dollars are spent efficiently to achieve your goals.
+Once your campaign is created, click on the blue widget next to your campaign name to enable Campaign [Optimization Goals](../../dsp/optimization/optimization-goals.md). This feature allows users to set optimization goals and priorities in order of importance and automatically adjusts spend to sites where you are delivering the metrics you most care about, ensuring that your dollars are spent efficiently to achieve your goals.
 
 [ ![Blue_widget](assets/blue-widget.png)](assets/blue-widget.png)
 

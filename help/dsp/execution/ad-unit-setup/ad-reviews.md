@@ -43,4 +43,4 @@ Inventory partners sometimes have their own approval system. Here are a few comm
 * If your Advertiser URL declared in the campaign section does not match your click url/ ad landing page
 
 If you need to expedite your review, please contact your Account Manager.
-You can also set up automated [email alerts & notifications](../../../user-guide/measurement/campaign-reporting/email-alerts-notifications.md) to alert you to potential issues with ad approvals. 
+You can also set up automated [email alerts & notifications](../../../dsp/measurement/campaign-reporting/email-alerts-notifications.md) to alert you to potential issues with ad approvals. 

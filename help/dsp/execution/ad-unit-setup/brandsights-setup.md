@@ -59,8 +59,8 @@ When you’re done entering your question, click  the large blue “Update Surve
 
 ## Create Custom Segments for Retargeting to Exposed Viewers and Users Who Already Completed the Survey
 
-* Exposed Viewers:  If you are conducting a Control/Exposed brand lift study, start off by  [creating a retargeting pixel](../../../user-guide/planning/targeting/retargeting/retargeting-pixel-setup.md)and collecting a cookie pool of exposed viewers.  Make sure that once you've created the retargeting pixel, you attach it to the ad and fire it on the "Impressions" integration event.
-* Survey Completion Viewers:  [Create a retargeting pixel](../../../user-guide/planning/targeting/retargeting/retargeting-pixel-setup.md)and collect a survey completion cookie pool to avoid having those users served the survey more than one time. Make sure that once you've created the retargeting pixel, you attach it to the survey and fire it on the "survey complete" integration event.
+* Exposed Viewers:  If you are conducting a Control/Exposed brand lift study, start off by  [creating a retargeting pixel](../../../dsp/planning/targeting/retargeting/retargeting-pixel-setup.md)and collecting a cookie pool of exposed viewers.  Make sure that once you've created the retargeting pixel, you attach it to the ad and fire it on the "Impressions" integration event.
+* Survey Completion Viewers:  [Create a retargeting pixel](../../../dsp/planning/targeting/retargeting/retargeting-pixel-setup.md)and collect a survey completion cookie pool to avoid having those users served the survey more than one time. Make sure that once you've created the retargeting pixel, you attach it to the survey and fire it on the "survey complete" integration event.
 
 ## Create an Ad With The Survey
   

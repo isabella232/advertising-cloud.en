@@ -23,7 +23,7 @@ isSticky: 0
 
 # Sharing Buttons {#sharing-buttons}
 
-TubeMogul allows you to add Facebook Like and Twitter Share buttons at no additional cost. These buttons can be added to  [Interactive Pre-roll](../../../user-guide/planning/ad-formats/in-stream/interactive-pre-roll.md),  [Facebook](../../../user-guide/planning/ad-formats/social.md),  [In-Display](../../../user-guide/planning/ad-formats/in-display.md) and  [Mobile Web CTP 300x250](mobile-setup/mobile-web-ctp.md).
+TubeMogul allows you to add Facebook Like and Twitter Share buttons at no additional cost. These buttons can be added to  [Interactive Pre-roll](../../../dsp/planning/ad-formats/in-stream/interactive-pre-roll.md),  [Facebook](../../../dsp/planning/ad-formats/social.md),  [In-Display](../../../dsp/planning/ad-formats/in-display.md) and  [Mobile Web CTP 300x250](mobile-setup/mobile-web-ctp.md).
   
 [ ![sharing buttons](assets/sharing-buttons-300x194.png)](assets/sharing-buttons.png)
 

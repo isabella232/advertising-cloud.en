@@ -24,7 +24,7 @@ isSticky: 0
 
 # Ad Unit Setup {#ad-unit-setup}
 
-TubeMogul allows you to set up multiple video ads with one single creative asset. You can use a third-party ad provided by one of our [ad serving partners](../../user-guide/planning/partners/inventory-partners.md) or let TubeMogul serve your ad for free by uploading your own video asset and layering on additional features such as overlays and sharing buttons.
+TubeMogul allows you to set up multiple video ads with one single creative asset. You can use a third-party ad provided by one of our [ad serving partners](../../dsp/planning/partners/inventory-partners.md) or let TubeMogul serve your ad for free by uploading your own video asset and layering on additional features such as overlays and sharing buttons.
 
 You can configure different ad formats:
 
@@ -37,7 +37,7 @@ You can configure different ad formats:
 Additional ad features include:
 
 * [Overlays](ad-unit-setup/overlay.md)
-* [Teasers & Endcaps](/help/user-guide/planning/ad-formats/ad-features-guide/teasers-endcaps.md)
+* [Teasers & Endcaps](/help/dsp/planning/ad-formats/ad-features-guide/teasers-endcaps.md)
 * [Sharing Buttons](ad-unit-setup/sharing-buttons.md)
 * [Companion Banner](ad-unit-setup/3rd-party-tracking-adserving/companion-banner.md)
 

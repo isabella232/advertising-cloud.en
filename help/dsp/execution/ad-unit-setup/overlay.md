@@ -27,9 +27,9 @@ isSticky: 0
 
 Overlays help with persistent branding throughout the video and can drive additional clicks. The overlay feature is available for:
 
-* [Interactive Pre-roll](../../../user-guide/planning/ad-formats/in-stream/interactive-pre-roll.md)
-* [In-Display](../../../user-guide/planning/ad-formats/in-display.md)
-* [Facebook Unit](../../../user-guide/planning/ad-formats/social.md)
+* [Interactive Pre-roll](../../../dsp/planning/ad-formats/in-stream/interactive-pre-roll.md)
+* [In-Display](../../../dsp/planning/ad-formats/in-display.md)
+* [Facebook Unit](../../../dsp/planning/ad-formats/social.md)
 * [Mobile Web CTP 300x250](mobile-setup/mobile-web-ctp.md)
 * [Mobile App CTP 300x50](mobile-setup/mobile-app-ctp.md)
 * [Mobile App Interactive](mobile-setup/mobile-app-interactive.md)

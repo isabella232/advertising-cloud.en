@@ -23,7 +23,7 @@ isSticky: 0
 
 # Inventory Sources {#inventory-sources}
 
-If you have direct relationships with publishers,  streamline your media buying process and workflow by integrating your own private feeds into your TubeMogul Account.  Read through our [Private Inventory](../../../../user-guide/planning/private-inventory.md) and [BrandAccess Set-Up](../../../../user-guide/planning/private-inventory/brandaccess.md) instructions. Once you've completed the feed integration, you can target your Private Feeds within the Placement Options "Inventory Sources" section by choosing "Select Private Feeds".
+If you have direct relationships with publishers,  streamline your media buying process and workflow by integrating your own private feeds into your TubeMogul Account.  Read through our [Private Inventory](../../../../dsp/planning/private-inventory.md) and [BrandAccess Set-Up](../../../../dsp/planning/private-inventory/brandaccess.md) instructions. Once you've completed the feed integration, you can target your Private Feeds within the Placement Options "Inventory Sources" section by choosing "Select Private Feeds".
   
 Leave this section unchecked if you will be buying directly from the TubeMogul platform.
   

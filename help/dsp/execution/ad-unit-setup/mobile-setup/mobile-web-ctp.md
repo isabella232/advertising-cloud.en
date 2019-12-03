@@ -42,12 +42,12 @@ isSticky: 0
 [ ![Mobile tap to play](assets/mobile-tap-to-play.png)](assets/mobile-tap-to-play.png)
 
 * Basic: Name your ad and add a landing page to the click URL field.
-* [Teasers](/help/user-guide/planning/ad-formats/ad-features-guide/teasers-endcaps.md): Include a 300x250 image to entice viewer to user-initiated the video play. Recommended to have strong call to action, recognizable images and brand logo.
-* [Overlays](../../../../user-guide/execution/ad-unit-setup/overlay.md): Add a 300x60 banner to enhance message/brand association and drive additional clicks.
-* [Endcap](/help/user-guide/planning/ad-formats/ad-features-guide/teasers-endcaps.md): Finish the ad with a static image reinforcing your brand message.
-* [Pixel](../../../../user-guide/execution/ad-unit-setup/3rd-party-tracking-adserving/tracking-pixels.md): Add third-party tracking pixels.
+* [Teasers](/help/dsp/planning/ad-formats/ad-features-guide/teasers-endcaps.md): Include a 300x250 image to entice viewer to user-initiated the video play. Recommended to have strong call to action, recognizable images and brand logo.
+* [Overlays](../../../../dsp/execution/ad-unit-setup/overlay.md): Add a 300x60 banner to enhance message/brand association and drive additional clicks.
+* [Endcap](/help/dsp/planning/ad-formats/ad-features-guide/teasers-endcaps.md): Finish the ad with a static image reinforcing your brand message.
+* [Pixel](../../../../dsp/execution/ad-unit-setup/3rd-party-tracking-adserving/tracking-pixels.md): Add third-party tracking pixels.
 
 ### Save & Submit for Review 
-The [ad review](../../../../user-guide/execution/ad-unit-setup/ad-reviews.md)team verifies that the ad is rendering properly and clicking through. Approval time is typically 2-4 hours on regular business hours and 24hrs on weekends.
+The [ad review](../../../../dsp/execution/ad-unit-setup/ad-reviews.md)team verifies that the ad is rendering properly and clicking through. Approval time is typically 2-4 hours on regular business hours and 24hrs on weekends.
 
 Remember to attach the ad to the correct placement.

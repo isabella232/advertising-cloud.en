@@ -31,7 +31,7 @@ TubeMogul supports HTML5 creatives for standard display and companion ads. We st
 
 * Click on Ads
 * Select Display
-* Choose from [Click-to-Play](../../../user-guide/planning/ad-formats/in-display/click-to-play.md), [Rollover-to-Play](../../../user-guide/planning/ad-formats/in-display/rollover-to-play.md), [Branded Autoplay](../../../user-guide/planning/ad-formats/in-display/branded-autoplay.md) or [Expandable Click-to-Play](../../../user-guide/planning/ad-formats/in-display/click-to-expand.md).
+* Choose from [Click-to-Play](../../../dsp/planning/ad-formats/in-display/click-to-play.md), [Rollover-to-Play](../../../dsp/planning/ad-formats/in-display/rollover-to-play.md), [Branded Autoplay](../../../dsp/planning/ad-formats/in-display/branded-autoplay.md) or [Expandable Click-to-Play](../../../dsp/planning/ad-formats/in-display/click-to-expand.md).
 
 ## For Standard Display
   
@@ -83,11 +83,11 @@ Caveat: Fallback images are not supported when using TubeMogul to serve HTML5 di
 [ ![CTP](assets/ctp.png)](assets/ctp.png)
 
 * Basic: Name your ad and add a landing page to the click URL field.
-* [Teasers](/help/user-guide/planning/ad-formats/ad-features-guide/teasers-endcaps.md): Include an image or a 7-10 second video to entice viewer to user-initiated the video play. Recommended to have strong call to action, recognizable images and brand logo.
+* [Teasers](/help/dsp/planning/ad-formats/ad-features-guide/teasers-endcaps.md): Include an image or a 7-10 second video to entice viewer to user-initiated the video play. Recommended to have strong call to action, recognizable images and brand logo.
 
 * [Overlays](overlay.md): Add a 300x60 banner to enhance message/brand association and drive additional clicks. For Expandable CTP, leverage the "Background" overlay Layer.
 
-* [Endcaps](/help/user-guide/planning/ad-formats/ad-features-guide/teasers-endcaps.md): Upload an image at the end of the ad to encourage traffic to the site.
+* [Endcaps](/help/dsp/planning/ad-formats/ad-features-guide/teasers-endcaps.md): Upload an image at the end of the ad to encourage traffic to the site.
 
 * [Sharing Buttons](sharing-buttons.md): Add Twitter or Facebook buttons to drive social sharing.
 * [Pixel](3rd-party-tracking-adserving/tracking-pixels.md): Add in 3rd party tracking pixels or TubeMogul's retargeting pixel.

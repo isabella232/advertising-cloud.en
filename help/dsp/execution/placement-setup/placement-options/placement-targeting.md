@@ -43,8 +43,8 @@ Use our easy-to-use site tool to search and filter through thousands of sites to
 
     * Daily Impressions
     * Comscore Top 100 Publishers
-    * Site Quality by  [Tier](../../../../user-guide/planning/brand-safety/sitesafe-quality.md)
-    * Exclude [Autoplay](../../../../user-guide/planning/brand-safety/playsafe-fake-pre-roll.md) Pre-roll
+    * Site Quality by  [Tier](../../../../dsp/planning/brand-safety/sitesafe-quality.md)
+    * Exclude [Autoplay](../../../../dsp/planning/brand-safety/playsafe-fake-pre-roll.md) Pre-roll
 
 * Demographics: Data pulled from the comScore API which accounts for around 30% of our inventory. When using this filter, it is recommended to complement with TubeMogul Recommended site lists.
 * Categories: Selects sites based on categories or subcategories

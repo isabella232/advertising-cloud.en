@@ -51,4 +51,4 @@ You can download the entire data table to your browser's default download folder
 
 >[!NOTE]
 >
->Reporting is also available via [reports](../../user-guide/measurement/campaign-reporting/email-reports.md).
+>Reporting is also available via [reports](../../dsp/measurement/campaign-reporting/email-reports.md).

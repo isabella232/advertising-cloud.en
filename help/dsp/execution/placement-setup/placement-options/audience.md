@@ -33,13 +33,13 @@ Layer on 3rd party data segments, retargeting cookie pools or 1st party data seg
 
 ### Third-party Behavioral Data
 
-Apply specific [third-party audience data](../../../../user-guide/planning/targeting/behavioral.md) to your campaigns. Viewers are up to 45% more likely to click an ad that used audience data targeting.  Our data partners include BlueKai, Lotame, Datalogix, Exelate, Quantcast, V12, Bizo and more. The use of audience data will incur an additional CPM fee. If you would like to apply third-party data to global campaigns, please check with your Account Manager as data is limited outside of the United States.
+Apply specific [third-party audience data](../../../../dsp/planning/targeting/behavioral.md) to your campaigns. Viewers are up to 45% more likely to click an ad that used audience data targeting.  Our data partners include BlueKai, Lotame, Datalogix, Exelate, Quantcast, V12, Bizo and more. The use of audience data will incur an additional CPM fee. If you would like to apply third-party data to global campaigns, please check with your Account Manager as data is limited outside of the United States.
 
 [ ![](assets/picture11.png)](assets/picture11.png)
 
 ### Custom Segments
 
-This feature is used to target people who have visited your brand website, interacted with your ad or watched a portion of a video. Your team should have [created a retargeting pixel](../../../../user-guide/planning/targeting/retargeting/retargeting-pixel-setup.md) and collected this cookie pool at least two weeks before you launch the relevant campaigns.
+This feature is used to target people who have visited your brand website, interacted with your ad or watched a portion of a video. Your team should have [created a retargeting pixel](../../../../dsp/planning/targeting/retargeting/retargeting-pixel-setup.md) and collected this cookie pool at least two weeks before you launch the relevant campaigns.
 
 [ ![](assets/audience2.png)](assets/audience2.png)
 
