@@ -11,17 +11,21 @@ The following [!DNL Advertising Cloud] JavaScript code was changed as noted. To 
 Release date: **2 January 2020**
 
 Code updated:
-*ITP Mapper version x.x (<URL here>)
-*Advertising Cloud v2 Conversion Tag version x.x (<URL here>)
-*Advertising Cloud v3 Conversion Tag version x.x (<URL here>)
+
+* ITP Mapper version x.x (<URL here>)
+* Advertising Cloud v2 Conversion Tag version x.x (<URL here>)
+* Advertising Cloud v3 Conversion Tag version x.x (<URL here>)
 
 Changes:
-*Added support for connecting the Adobe Experience Cloud ID (ECID) to hits tracked by Advertising Cloud by inserting the advertiser's CNAME host in the ECID. The new tags provide a new solution for tracking conversions in Apple Safari browsers.
+
+* Added support for connecting the Adobe Experience Cloud ID (ECID) to hits tracked by Advertising Cloud by inserting the advertiser's CNAME host in the ECID. The new tags provide a new solution for tracking conversions in Apple Safari browsers.
 
 Release date: **27 September 2019**
 
 Code updated:
-•	Last Event Service version 1.2 (https://everestjs.net/static/le/last-event-tag-latest.min.js)
+
+* Last Event Service version 1.2 (https://everestjs.net/static/le/last-event-tag-latest.min.js)
 
 Changes:
-•	Added support to check for the presence of the s_kwcid parameter (in addition to the ef_id parameter) in the URL.
+
+* Added support to check for the presence of the s_kwcid parameter (in addition to the ef_id parameter) in the URL.
