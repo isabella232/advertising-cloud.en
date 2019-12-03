@@ -8,7 +8,7 @@ subtopic: Release notes
 
 The following [!DNL Advertising Cloud] JavaScript code was changed as noted. To get the latest version of each tag, and for instructions on how to implement them, contact your Adobe account manager.
 
-Release date: **2 January 2020**
+## Release date: 2 January 2020
 
 Code updated:
 
@@ -20,7 +20,7 @@ Changes:
 
 * Added support for connecting the Adobe Experience Cloud ID (ECID) to hits tracked by Advertising Cloud by inserting the advertiser's CNAME host in the ECID. The new tags provide a new solution for tracking conversions in Apple Safari browsers.
 
-Release date: **27 September 2019**
+## Release date: 27 September 2019
 
 Code updated:
 
