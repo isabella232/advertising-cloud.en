@@ -56,7 +56,7 @@ Turn sites on and off depending on performance
 
 ## Ads
 
-Ads that are attached to the same placement will be served in even rotation or based on the rotation you've set in the [Ad Scheduling and Weighting](../../user-guide/execution/ad-unit-setup/ad-scheduling-weighting.md) tool. This section helps you compare performance and  turn off any under performing ads.
+Ads that are attached to the same placement will be served in even rotation or based on the rotation you've set in the [Ad Scheduling and Weighting](../../dsp/execution/ad-unit-setup/ad-scheduling-weighting.md) tool. This section helps you compare performance and  turn off any under performing ads.
 
 ![Ads](assets/ads.png)
 
