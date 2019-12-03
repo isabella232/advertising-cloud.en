@@ -71,8 +71,8 @@ isSticky: 0
   * Pre-bid and contextual features are not available on audio placements. But, we do not support any pre-bid filtering for any mobile app inventory, so audio is in line with that.
 
     * That being said, some brand safety categorization is primarily on non-audio components (i.e., url, test, content)
-    * `Oracle (Moat/Grapeshot):` page-level categorization is based on text / other content on the page. Audio files are not mapped in most cases, unless available to Oracle. They are currently working with Spotify to enable audio categorization of their inventory.
-    * `DoubleVerify:` Based on page/domain/device identifiers, rather than the audio asset
+    * Oracle (Moat/Grapeshot):`page-level categorization is based on text / other content on the page. Audio files are not mapped in most cases, unless available to Oracle. They are currently working with Spotify to enable audio categorization of their inventory.
+    * `oubleVerify:`Based on page/domain/device identifiers, rather than the audio asset
     * Adswizz is unable to send URL domains in some cases because it is controlled by the publishers. If publishers don't fill in the domain, Adswizz cannot pass that through.
     * iHeart, TuneIn, etc has thousands of domains due to the sheer amount of radio stations, they do not always fill in the domain names
     * When we have no domains to work with, it means we cannot use contextual services for brand safety - it would cause no bids.
@@ -92,12 +92,11 @@ isSticky: 0
 
 * Can we cherry pick podcasts to run on? How can we ensure a brand safe environment?
 
-    * TargetSpot will allow you to choose  `categories` of podcasts through direct deals, but not specific podcasts
+    * TargetSpot will allow you to choose  categories of podcasts through direct deals, but not specific podcasts
     * SoundCloud is only run of podcasts
     * Brand Safety: All podcast content is verified by the audio partner
-    * For full podcast lists, please go to  [TargetSpot](https://wiki.corp.adobe.com/display/TMCS/TargetSpot) or  [SoundCloud Partner Materials](https://wiki.corp.adobe.com/display/TMCS/SoundCloud)
-
-<!-- Two links above are to wiki.corp.adobe.com. Users outside the Adobe firewall won't be able to view those links. Make public? Remove? Add "(Internal Only)"? -->
+    <!-- This links to pages on wiki.corp.adobe.com. Need info. in help itself, or just reove. -->
+    <!-- * For full podcast lists, please go to  [TargetSpot](https://wiki.corp.adobe.com/display/TMCS/TargetSpot) or  [SoundCloud Partner Materials](https://wiki.corp.adobe.com/display/TMCS/SoundCloud). -->
 
 * Do ads on podcasts run on pre- mid- or post- roll?
 
