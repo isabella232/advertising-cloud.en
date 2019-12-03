@@ -4,9 +4,9 @@ solution: Advertising Cloud
 subtopic: Release notes
 ---
 
-# Cumulative release notes for [!DNL Advertising Cloud] JavaScript code
+# Cumulative release notes for Advertising Cloud JavaScript code
 
-The following [!DNL Advertising Cloud] JavaScript code was changed as noted. To get the latest version of each tag, and for instructions on how to implement them, contact your Adobe account manager.
+The following Advertising Cloud JavaScript code was changed as noted. To get the latest version of each tag, and for instructions on how to implement them, contact your Adobe account manager.
 
 ## Release date: 2 January 2020
 
