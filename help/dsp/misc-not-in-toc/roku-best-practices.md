@@ -41,7 +41,7 @@ Accessing Roku inventory has never been easier than through the Adobe Advertisin
   ![Screen Shot 2019-08-01 at 2.12.57 PM](assets/screen-shot-2019-08-01-at-2.12.57-pm.png)
 
 * To choose the appropriate inventory, you must check the boxes next to each inventory title, as well as the pencil icon to choose specific deals within each category. In the image above, the top-level boxes are checked, but you'll have to drill into each section to actually select an inventory type.
-* Under the [!UICONTROL Roku Private] section you can search for specific deals by keyword or deal ID. For those new to the deal ID ingestion process, check out this[page](deal-ids.md).
+* Under the [!UICONTROL Roku Private] section you can search for specific deals by keyword or deal ID.See [Deal IDs](deal-ids.md).
 * Under the [!UICONTROL Roku On Demand] section, you can click on the pencil and then find the On Demand deal you've already been granted access to or choose the [!UICONTROL Visit On Demand] button to begin the subscription process.
 * In the library, search for *Roku* in the keyword filter to find all the relevant deals and hover over the box to request access or check out the relevant deals.
 
