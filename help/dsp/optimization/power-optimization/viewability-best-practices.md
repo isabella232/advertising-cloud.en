@@ -29,7 +29,7 @@ Here are a few suggestions on how to optimize when running viewability campaigns
 
 [ ![fill](assets/fill.png)](assets/fill.png)
 
-1. Use our  [Optimization Goals](../../../user-guide/optimization/optimization-goals.md) feature and set the Viewability metric above "Ensure Delivery". This feature optimizes against site and source to deliver the highest viewability possible. Set only one performance metric when using this tool to ensure that it is working at optimum levels. When balancing several secondary KPIs it can affect your scale/delivery for the placement.
+1. Use our  [Optimization Goals](../../../dsp/optimization/optimization-goals.md) feature and set the Viewability metric above "Ensure Delivery". This feature optimizes against site and source to deliver the highest viewability possible. Set only one performance metric when using this tool to ensure that it is working at optimum levels. When balancing several secondary KPIs it can affect your scale/delivery for the placement.
 
 [ ![optimizationgoals](assets/optimizationgoals.png)      ](assets/optimizationgoals.png)
 

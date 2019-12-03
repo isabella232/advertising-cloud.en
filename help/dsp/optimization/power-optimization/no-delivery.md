@@ -23,6 +23,6 @@ isSticky: 0
 
 # No Delivery {#no-delivery}
 
-If your campaign has no delivery, verify all parameters in the campaign [Launch Check-List](../../../user-guide/execution/launch-checklist.md), and follow the optimization strategies below.
+If your campaign has no delivery, verify all parameters in the campaign [Launch Check-List](../../../dsp/execution/launch-checklist.md), and follow the optimization strategies below.
 
 [ ![no delivery](assets/no-delivery.png)](assets/no-delivery.png)

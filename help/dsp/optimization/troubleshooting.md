@@ -25,15 +25,15 @@ isSticky: 0
 
 ## Tracking Issues
 
-* [Ad Tags & Macros](../../user-guide/execution/ad-unit-setup/3rd-party-tracking-adserving/ad-tags.md)
-* [Tracking Pixels](../../user-guide/execution/ad-unit-setup/3rd-party-tracking-adserving/tracking-pixels.md)
-* [Companion Banner](../../user-guide/execution/ad-unit-setup/3rd-party-tracking-adserving/companion-banner.md)
+* [Ad Tags & Macros](../../dsp/execution/ad-unit-setup/3rd-party-tracking-adserving/ad-tags.md)
+* [Tracking Pixels](../../dsp/execution/ad-unit-setup/3rd-party-tracking-adserving/tracking-pixels.md)
+* [Companion Banner](../../dsp/execution/ad-unit-setup/3rd-party-tracking-adserving/companion-banner.md)
 
 ## Performance Issues
 
 * [Low/High CTR](power-optimization/low-ctr.md)
-* [Low/High Completions](/help/user-guide/optimization/power-optimization/low-completion-rate.md)
-* [No Site Diversity](/help/user-guide/optimization/power-optimization/no-site-diversity.md)
+* [Low/High Completions](/help/dsp/optimization/power-optimization/low-completion-rate.md)
+* [No Site Diversity](/help/dsp/optimization/power-optimization/no-site-diversity.md)
 * [High CPM](power-optimization/high-cpm.md)
 
 ## Delivery Issues
