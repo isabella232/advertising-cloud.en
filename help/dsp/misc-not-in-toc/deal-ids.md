@@ -66,4 +66,4 @@ The following deals cannot be automatically ingested:
   * Two different CPM's (i.e. one CPM for mid-roll and another CPM for pre-roll)
   * Two different deal types (i.e. fixed CPM for video and floor CPM for display)
 
-For all other Deal ID ingestion (manual ingestion), please use the [Smart Ad Serving](dsp//planning/private-inventory/brandaccess.md) workflow.
+For all other Deal ID ingestion (manual ingestion), please use the [Smart Ad Serving](../planning/private-inventory/brandaccess.md) workflow.
