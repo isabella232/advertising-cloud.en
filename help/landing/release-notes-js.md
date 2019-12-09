@@ -19,13 +19,3 @@ Code updated:
 Changes:
 
 * Added support for connecting the Adobe Experience Cloud ID (ECID) to hits tracked by Advertising Cloud by inserting the advertiser's CNAME host in the ECID. The new tags provide a new solution for tracking conversions in Apple Safari browsers.
-
-## Release date: 27 September 2019
-
-Code updated:
-
-* Last Event Service version 1.2 (https://everestjs.net/static/le/last-event-tag-latest.min.js)
-
-Changes:
-
-* Added support to check for the presence of the s_kwcid parameter (in addition to the ef_id parameter) in the URL.
