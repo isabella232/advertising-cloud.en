@@ -25,7 +25,7 @@ isSticky: 0
 
 1. Click on New Placement
 1. Select your Ad Format
-1. Select BrandPoint View/ GRP mode   
+1. Select BrandPoint View/ GRP mode
 
    [ ![](assets/grp-setup.png)](assets/grp-setup.png)
 
@@ -46,9 +46,9 @@ isSticky: 0
         * Frequency Cap- select the number of types you want to reach a unique viewer. This will be the cap for the duration of the placement.
 
     * THIRD PARTY REPORTING: Select either [Nielsen DAR](../../../dsp/measurement/nielsen-ocr-reporting.md) or [ComScore vCE](../../../dsp/measurement/comscore-vce.md) reporting.
-    
+
     * BUDGET: Choose flight dates, options for [dayparting](../../../dsp/planning/targeting/targeting-options.md), budget and [inventory tier](../../../dsp/planning/brand-safety/sitesafe-quality.md).
-    
+
     * LOCATION:
         * Americas: United States, Canada
         * Europe: United Kingdom, France, Spain, Germany, Italy, Ireland, Sweden, Norway, Finland, Romania, Denmark, Netherlands, Switzerland, Belgium
@@ -57,14 +57,14 @@ isSticky: 0
 
     * PUBLIC INVENTORY: Although we typically recommend running across T1-T3 sites given this is an audience buy, if you'd like to target a specific contextual site list, we recommend you filter by % on-target  or CPP.
 
-[ ![bp - site cat](assets/bp-site-cat-1024x510.jpeg)](assets/bp-site-cat.jpeg)
+    [ ![bp - site cat](assets/bp-site-cat-1024x510.jpeg)](assets/bp-site-cat.jpeg)
 
    * [PRIVATE INVENTORY](../../../dsp/planning/private-inventory.md)
    * [OTHER FILTERS](../../../dsp/planning/targeting/targeting-options.md)
    * ESTIMATED RESULTS: Forecast tools are determined by the GRP Goal, Frequency Cap, Budget and any additional targeting parameters set within the placement.
-        * Projected CPP is the estimated cost of purchasing one GRP for your target demographic, this CPP is guaranteed by TubeMogul within 20%.
-        * GRP Goal is determined by the GRP Goal set in the left navigation, date range and the time period set for your budget. If you have set your GRP Goal for 30 per ‘All time’ for 1 month and x budget per day, the GRP Goal in the Forecast Menu will show you a Goal of 1 GRP a day.
-        * On Target CPM is the CPM for every on-target impression (CPM/on target percentage).
-        * On Target % is the percentage of impressions that were delivered to your target demographic (on target impressions/total impressions).
+     * Projected CPP is the estimated cost of purchasing one GRP for your target demographic, this CPP is guaranteed by TubeMogul within 20%.
+     * GRP Goal is determined by the GRP Goal set in the left navigation, date range and the time period set for your budget. If you have set your GRP Goal for 30 per ‘All time’ for 1 month and x budget per day, the GRP Goal in the Forecast Menu will show you a Goal of 1 GRP a day.
+     * On Target CPM is the CPM for every on-target impression (CPM/on target percentage).
+     * On Target % is the percentage of impressions that were delivered to your target demographic (on target impressions/total impressions).
 
-[ ![bp - forecast](assets/bp-forecast.jpeg)](assets/bp-forecast.jpeg)  
+     [ ![bp - forecast](assets/bp-forecast.jpeg)](assets/bp-forecast.jpeg)  
