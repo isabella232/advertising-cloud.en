@@ -25,25 +25,25 @@ To make requests to access and delete data for Advertising Cloud, you'll need to
 
 1. Deploy a lightweight JavaScript library to retrieve and remove data subject cookies. The same library, AdobePrivacy.js, is used for all Adobe Experience Cloud solutions.
 
-   >[Important]
+   >[!Important]
    >
    >Requests to some Adobe Experience Cloud solutions don't require the JavaScript library, but requests to Advertising Cloud require it.
 
-    You should deploy the library on the web page from which data subjects can submit access and delete requests, such as your company's privacy portal. The library helps you retrieve Adobe cookies (namespace ID: gsurferID) so that you can submit these identities as part of access and delete requests via the Adobe Experience Cloud GDPR API.
+   You should deploy the library on the web page from which data subjects can submit access and delete requests, such as your company's privacy portal. The library helps you retrieve Adobe cookies (namespace ID: gsurferID) so that you can submit these identities as part of access and delete requests via the Adobe Experience Cloud GDPR API.
 
-    When the data subject asks to delete personal data, the library also deletes the data subject's cookie from the data subject's browser.
+   When the data subject asks to delete personal data, the library also deletes the data subject's cookie from the data subject's browser.
 
-    **Note:** Deleting personal data is different than Opt-Out, which stops the targeting of an end user with audience segments. However, when a data subject asks to delete personal data from Creative, DSP, or DCO, the library also sends a request to Advertising Cloud to opt out the data subject from segment targeting. For advertisers with Search, we recommend that you provide your data subjects a link to https://www.adobe.com/privacy/opt-out.html, which explains how to opt out of audience segment targeting.
+   **Note:** Deleting personal data is different than Opt-Out, which stops the targeting of an end user with audience segments. However, when a data subject asks to delete personal data from Creative, DSP, or DCO, the library also sends a request to Advertising Cloud to opt out the data subject from segment targeting. For advertisers with Search, we recommend that you provide your data subjects a link to [https://www.adobe.com/privacy/opt-out.html](https://www.adobe.com/privacy/opt-out.html), which explains how to opt out of audience segment targeting.
 
 1. Use either the Adobe Experience Cloud GDPR API (for automated requests) or the GDPR UI (for ad-hoc requests) to submit access and delete requests to Advertising Cloud on behalf of your data subjects, and to check the status of existing requests.
 
-    For advertisers who have a mobile app to interact with customers and launch campaigns with the DSP, you'll need to download the GDPR-ready Mobile SDKs for Experience Cloud. The Mobile SDKs allow data controllers to set opt-out status flags, retrieve the data subject's device ID (namespace ID: deviceID), and submit requests to the GDPR API. Your mobile app will require an SDK Version 4.15.0 or greater.
+   For advertisers who have a mobile app to interact with customers and launch campaigns with the DSP, you'll need to download the GDPR-ready Mobile SDKs for Experience Cloud. The Mobile SDKs allow data controllers to set opt-out status flags, retrieve the data subject's device ID (namespace ID: deviceID), and submit requests to the GDPR API. Your mobile app will require an SDK Version 4.15.0 or greater.
 
-    When you submit an access request, the GDPR API returns a data subject's information based on the specified cookie or device ID, which you then must return to the data subject.
+   When you submit an access request, the GDPR API returns a data subject's information based on the specified cookie or device ID, which you then must return to the data subject.
 
-    When you submit a delete request, the cookie ID or device ID and all cost, click, and revenue data associated with the cookie are deleted from the server.
+   When you submit a delete request, the cookie ID or device ID and all cost, click, and revenue data associated with the cookie are deleted from the server.
 
-All of these steps are necessary for Advertising Cloud. For more information about these and other related tasks you need to perform, and where to find the items you'll need, see www.adobe.io/apis/cloudplatform/gdpr.html.
+All of these steps are necessary for Advertising Cloud. For more information about these and other related tasks you need to perform, and where to find the items you'll need, see [www.adobe.io/apis/cloudplatform/gdpr.html](https://www.adobe.io/apis/cloudplatform/gdpr.html).
 
 ## Required IDs to send requests for Advertising Cloud
 
@@ -51,35 +51,35 @@ Before you can prepare to submit requests, you will need the following IDs:
 
 1. Your IMS Org ID.
 
-    This ID is a 24-character alphanumeric string appended with @AdobeOrg.
+   This ID is a 24-character alphanumeric string appended with @AdobeOrg.
 
-    Most Adobe Experience Cloud customers have been assigned an IMS Org ID. If your marketing team or internal Adobe system administrator doesn't know your organization's IMS Org ID, or isn't sure if it's been provisioned, contact Adobe Customer Care at gdprsupport@adobe.com.
+   Most Adobe Experience Cloud customers have been assigned an IMS Org ID. If your marketing team or internal Adobe system administrator doesn't know your organization's IMS Org ID, or isn't sure if it's been provisioned, contact Adobe Customer Care at gdprsupport@adobe.com.
 
-    If your organization has more than one IMS Org ID, then you will need to submit separate GDPR API requests for each.
+   If your organization has more than one IMS Org ID, then you will need to submit separate GDPR API requests for each.
 
 1. One of the following legacy solution-specific IDs:
 
-    >[Important]
-    >
-    >Requests to most Adobe Experience Cloud solutions don't require a legacy ID, but requests to Advertising Cloud must include a legacy ID.
+   >[!Important]
+   >
+   >Requests to most Adobe Experience Cloud solutions don't require a legacy ID, but requests to Advertising Cloud must include a legacy ID.
 
-    * (Search and DCO) Your user ID.
+   * (Search and DCO) Your user ID.
 
-        For DCO accounts, contact the DCO services team (GRP-AdobeDCO@adobe.com) for your user ID.
+     For DCO accounts, contact the DCO services team (GRP-AdobeDCO@adobe.com) for your user ID.
 
-        For Search accounts, contact your search marketing team and ask them to provide each of the unique user names they use to log in to the Search platform (https://enterprise.efrontier.com for US companies or https://enterprise-intl.efrontier.com for non-US companies). Then submit a request to Adobe Customer Care at gdprsupport@adobe.com with the following information:
+     For Search accounts, contact your search marketing team and ask them to provide each of the unique user names they use to log in to the Search platform (https://enterprise.efrontier.com for US companies or https://enterprise-intl.efrontier.com for non-US companies). Then submit a request to Adobe Customer Care at gdprsupport@adobe.com with the following information:
 
-        **Subject:** GDPR- Adobe Legacy Product ID Request
+     **Subject:** GDPR- Adobe Legacy Product ID Request
 
-        **Message Body:** Include the following information for each Advertising Cloud sub-solution for which you need IDs: the sub-solution name (Search), the number of unique accounts, and each user name associated with each account.
+     **Message Body:** Include the following information for each Advertising Cloud sub-solution for which you need IDs: the sub-solution name (Search), the number of unique accounts, and each user name associated with each account.
 
-    * (DSP and Creative) Your Account ID or Advertiser ID.
+   * (DSP and Creative) Your Account ID or Advertiser ID.
 
-        Contact your programmatic display or video marketing team and ask them to provide the number of unique DSP or Creative accounts on https://www.tubemogul.com/auth/login/ and an email address associated with each of those accounts. If your programmatic marketing team says that an external media agency is executing campaigns on their behalf, then collect both the agency's email address for the account and all of the advertiser names associated with your brand's campaigns. Once you have this information, submit a request to Adobe Customer Care at gdprsupport@adobe.com with the following information:
+     Contact your programmatic display or video marketing team and ask them to provide the number of unique DSP or Creative accounts on https://www.tubemogul.com/auth/login/ and an email address associated with each of those accounts. If your programmatic marketing team says that an external media agency is executing campaigns on their behalf, then collect both the agency's email address for the account and all of the advertiser names associated with your brand's campaigns. Once you have this information, submit a request to Adobe Customer Care at gdprsupport@adobe.com with the following information:
 
-        **Subject:** GDPR- Adobe Legacy Product ID Request
+     **Subject:** GDPR- Adobe Legacy Product ID Request
 
-        **Message Body:** Include the following information for each Advertising Cloud sub-solution for which you need IDs: the sub-solution name (Creative or DSP), the number of unique accounts, and email address associated with each account. If your programmatic marketing team is working with a media agency, then include the advertiser names as well.
+     **Message Body:** Include the following information for each Advertising Cloud sub-solution for which you need IDs: the sub-solution name (Creative or DSP), the number of unique accounts, and email address associated with each account. If your programmatic marketing team is working with a media agency, then include the advertiser names as well.
 
 If you are a data controller that uses more than one Advertising Cloud sub-solution, you can submit one API request to Adobe Customer Care with all required information, as long as you send the request for only one account per sub-solution.
 
@@ -114,58 +114,58 @@ See the API documentation for more information about where to add these fields.
 
 ```
 {
-	"companyContexts": [{
-	"namespace": "imsOrgID",
-	"value": "123456789@AdobeOrg"
-	},
-	{
-	"namespace": "AdCloud",
-	"value": "amoId:GDK2KOJBI28DS9"
-	},
+   "companyContexts": [{
+   "namespace": "imsOrgID",
+   "value": "123456789@AdobeOrg"
+   },
+   {
+   "namespace": "AdCloud",
+   "value": "amoId:GDK2KOJBI28DS9"
+   },
 ```
 
 **Example 2: Account ID for DSP or Creative**
 
 ```
 {
-	"companyContexts": [{
-	"namespace": "imsOrgID",
-	"value": "123456789@AdobeOrg"
-	},
-	{
-	"namespace": "AdCloud",
-	"value": "acctId:GI1K2DSIBH83S”
-	},
+   "companyContexts": [{
+   "namespace": "imsOrgID",
+   "value": "123456789@AdobeOrg"
+   },
+   {
+   "namespace": "AdCloud",
+   "value": "acctId:GI1K2DSIBH83S”
+   },
 ```
 
 **Example 3: Advertiser ID for DSP or Creative when an agency is running campaigns on your behalf**
 
 ```
 {
-	"companyContexts": [{
-	"namespace": "imsOrgID",
-	"value": "123456789@AdobeOrg"
-	},
-	{
-	"namespace": "AdCloud",
-	"value": "advId:UB3B0SWEIB8SDB"
-	},
+   "companyContexts": [{
+   "namespace": "imsOrgID",
+   "value": "123456789@AdobeOrg"
+   },
+   {
+   "namespace": "AdCloud",
+   "value": "advId:UB3B0SWEIB8SDB"
+   },
 ```
 
 **Example 4: Combined solution request with 1 account per sub-solution**
 
 ```
 {
-	"companyContexts": [{
-	"namespace": "imsOrgID",
-	"value": "123456789@AdobeOrg"
-	},
-	{
-	"namespace": "AdCloud",
-	"value": "acctId:GI1K2DSIBH83S"
-	"value": "advId:UB3B0SWEIB8SDB"
-	"value": "amoId:GDK2KOJBI28DS9"
-	},
+   "companyContexts": [{
+   "namespace": "imsOrgID",
+   "value": "123456789@AdobeOrg"
+   },
+   {
+   "namespace": "AdCloud",
+   "value": "acctId:GI1K2DSIBH83S"
+   "value": "advId:UB3B0SWEIB8SDB"
+   "value": "amoId:GDK2KOJBI28DS9"
+   },
 ```
 
 ## Example of Request Submitted by Data Subject Using an Advertising Cloud User ID Retrieved from AdobePrivacy.js
@@ -208,55 +208,55 @@ The following is an example of an access response that includes all Advertising 
 
 ```
 {
-	   "jobId":"12345AD43E",
-	   "action":"access",
-	   "product":"adCloud",
-	   "status":"complete",
-	   "results":{
-	      "userIDs":[
-	         {
-	            "namespace":"gsurferID",
-	            "userID":"32dfh45233h523ueys52"
-	         }
-	      ],
-	      "receiptData":{
-	         "impressionCount":"100",
-	         "clickCount":5,
-	         "geo":[
-	            "United States of America",
-	            "San Francisco CA"
-	         ],
-	         "profile":[
-	            {
-	               "pixelid":"111",
-	               "ut1":"abc",
-	               "ut2":"def",
-	               "ut3":"ghi",
-	               "ut4":"jkl",
-	               "ut5":"mno"
-	            },
-	            {
-	               "pixelid":"123",
-	               "ut1":"abc",
-	               "ut2":"def",
-	               "ut3":"ghi",
-	               "ut4":"jkl",
-	               "ut5":"mno"
-	            }
-	         ],
-	         "matchingSegments":[
-	            {
-	               "segmentName":"AP4 - Art/Culture - In-Market",
-	               "segmentID":"kV1mPa2aqPNWKSNtf325",
-	               "serviceProvider":"Adobe"
-	            },
-	            {
-	               "segmentName":"EMEA - UK - Health Food Buyers",
-	               "segmentID":"eP2oJ2UPsfsDVDhvlGewx",
-	               "serviceProvider":"BlueKai"
-	            }
-	         ]
-	      }
-	   }
-	}
+      "jobId":"12345AD43E",
+      "action":"access",
+      "product":"adCloud",
+      "status":"complete",
+      "results":{
+         "userIDs":[
+            {
+               "namespace":"gsurferID",
+               "userID":"32dfh45233h523ueys52"
+            }
+         ],
+         "receiptData":{
+            "impressionCount":"100",
+            "clickCount":5,
+            "geo":[
+               "United States of America",
+               "San Francisco CA"
+            ],
+            "profile":[
+               {
+                  "pixelid":"111",
+                  "ut1":"abc",
+                  "ut2":"def",
+                  "ut3":"ghi",
+                  "ut4":"jkl",
+                  "ut5":"mno"
+               },
+               {
+                  "pixelid":"123",
+                  "ut1":"abc",
+                  "ut2":"def",
+                  "ut3":"ghi",
+                  "ut4":"jkl",
+                  "ut5":"mno"
+               }
+            ],
+            "matchingSegments":[
+               {
+                  "segmentName":"AP4 - Art/Culture - In-Market",
+                  "segmentID":"kV1mPa2aqPNWKSNtf325",
+                  "serviceProvider":"Adobe"
+               },
+               {
+                  "segmentName":"EMEA - UK - Health Food Buyers",
+                  "segmentID":"eP2oJ2UPsfsDVDhvlGewx",
+                  "serviceProvider":"BlueKai"
+               }
+            ]
+         }
+      }
+   }
 ```

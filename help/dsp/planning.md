@@ -47,7 +47,11 @@ If you are a new user, we recommend going through the User Guide by following th
 * Geo-target: What locations do they want the ad to be served?
 * Target Audience: Who are they trying to reach?
 
-## Select Appropriate [Ad Units](planning/ad-formats.md) and [Pricing Models](planning/ad-formats/performance-pricing.md)
+## Select Appropriate Ad Units and Pricing Models
+
+<!-- Mary - I copied the heading above, pasted below, and removed links in the heading, which isn't allowed.-->
+
+Select Appropriate [Ad Units](planning/ad-formats.md) and [Pricing Models](planning/ad-formats/performance-pricing.md)
 
 ## Choose Targeting Strategies
 
