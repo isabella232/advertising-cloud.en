@@ -114,58 +114,58 @@ See the API documentation for more information about where to add these fields.
 
 ```
 {
-	"companyContexts": [{
-	"namespace": "imsOrgID",
-	"value": "123456789@AdobeOrg"
-	},
-	{
-	"namespace": "AdCloud",
-	"value": "amoId:GDK2KOJBI28DS9"
-	},
+   "companyContexts": [{
+   "namespace": "imsOrgID",
+   "value": "123456789@AdobeOrg"
+   },
+   {
+   "namespace": "AdCloud",
+   "value": "amoId:GDK2KOJBI28DS9"
+   },
 ```
 
 **Example 2: Account ID for DSP or Creative**
 
 ```
 {
-	"companyContexts": [{
-	"namespace": "imsOrgID",
-	"value": "123456789@AdobeOrg"
-	},
-	{
-	"namespace": "AdCloud",
-	"value": "acctId:GI1K2DSIBH83S”
-	},
+   "companyContexts": [{
+   "namespace": "imsOrgID",
+   "value": "123456789@AdobeOrg"
+   },
+   {
+   "namespace": "AdCloud",
+   "value": "acctId:GI1K2DSIBH83S”
+   },
 ```
 
 **Example 3: Advertiser ID for DSP or Creative when an agency is running campaigns on your behalf**
 
 ```
 {
-	"companyContexts": [{
-	"namespace": "imsOrgID",
-	"value": "123456789@AdobeOrg"
-	},
-	{
-	"namespace": "AdCloud",
-	"value": "advId:UB3B0SWEIB8SDB"
-	},
+   "companyContexts": [{
+   "namespace": "imsOrgID",
+   "value": "123456789@AdobeOrg"
+   },
+   {
+   "namespace": "AdCloud",
+   "value": "advId:UB3B0SWEIB8SDB"
+   },
 ```
 
 **Example 4: Combined solution request with 1 account per sub-solution**
 
 ```
 {
-	"companyContexts": [{
-	"namespace": "imsOrgID",
-	"value": "123456789@AdobeOrg"
-	},
-	{
-	"namespace": "AdCloud",
-	"value": "acctId:GI1K2DSIBH83S"
-	"value": "advId:UB3B0SWEIB8SDB"
-	"value": "amoId:GDK2KOJBI28DS9"
-	},
+   "companyContexts": [{
+   "namespace": "imsOrgID",
+   "value": "123456789@AdobeOrg"
+   },
+   {
+   "namespace": "AdCloud",
+   "value": "acctId:GI1K2DSIBH83S"
+   "value": "advId:UB3B0SWEIB8SDB"
+   "value": "amoId:GDK2KOJBI28DS9"
+   },
 ```
 
 ## Example of Request Submitted by Data Subject Using an Advertising Cloud User ID Retrieved from AdobePrivacy.js
@@ -208,55 +208,55 @@ The following is an example of an access response that includes all Advertising 
 
 ```
 {
-	   "jobId":"12345AD43E",
-	   "action":"access",
-	   "product":"adCloud",
-	   "status":"complete",
-	   "results":{
-	      "userIDs":[
-	         {
-	            "namespace":"gsurferID",
-	            "userID":"32dfh45233h523ueys52"
-	         }
-	      ],
-	      "receiptData":{
-	         "impressionCount":"100",
-	         "clickCount":5,
-	         "geo":[
-	            "United States of America",
-	            "San Francisco CA"
-	         ],
-	         "profile":[
-	            {
-	               "pixelid":"111",
-	               "ut1":"abc",
-	               "ut2":"def",
-	               "ut3":"ghi",
-	               "ut4":"jkl",
-	               "ut5":"mno"
-	            },
-	            {
-	               "pixelid":"123",
-	               "ut1":"abc",
-	               "ut2":"def",
-	               "ut3":"ghi",
-	               "ut4":"jkl",
-	               "ut5":"mno"
-	            }
-	         ],
-	         "matchingSegments":[
-	            {
-	               "segmentName":"AP4 - Art/Culture - In-Market",
-	               "segmentID":"kV1mPa2aqPNWKSNtf325",
-	               "serviceProvider":"Adobe"
-	            },
-	            {
-	               "segmentName":"EMEA - UK - Health Food Buyers",
-	               "segmentID":"eP2oJ2UPsfsDVDhvlGewx",
-	               "serviceProvider":"BlueKai"
-	            }
-	         ]
-	      }
-	   }
-	}
+      "jobId":"12345AD43E",
+      "action":"access",
+      "product":"adCloud",
+      "status":"complete",
+      "results":{
+         "userIDs":[
+            {
+               "namespace":"gsurferID",
+               "userID":"32dfh45233h523ueys52"
+            }
+         ],
+         "receiptData":{
+            "impressionCount":"100",
+            "clickCount":5,
+            "geo":[
+               "United States of America",
+               "San Francisco CA"
+            ],
+            "profile":[
+               {
+                  "pixelid":"111",
+                  "ut1":"abc",
+                  "ut2":"def",
+                  "ut3":"ghi",
+                  "ut4":"jkl",
+                  "ut5":"mno"
+               },
+               {
+                  "pixelid":"123",
+                  "ut1":"abc",
+                  "ut2":"def",
+                  "ut3":"ghi",
+                  "ut4":"jkl",
+                  "ut5":"mno"
+               }
+            ],
+            "matchingSegments":[
+               {
+                  "segmentName":"AP4 - Art/Culture - In-Market",
+                  "segmentID":"kV1mPa2aqPNWKSNtf325",
+                  "serviceProvider":"Adobe"
+               },
+               {
+                  "segmentName":"EMEA - UK - Health Food Buyers",
+                  "segmentID":"eP2oJ2UPsfsDVDhvlGewx",
+                  "serviceProvider":"BlueKai"
+               }
+            ]
+         }
+      }
+   }
 ```
