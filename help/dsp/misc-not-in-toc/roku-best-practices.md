@@ -23,7 +23,7 @@ postPassword:
 isSticky: 0
 ---
 
-# Roku Setup Best Practrices {#roku-setup-best-practrices}
+# Roku Setup Best Practices {#roku-setup-best-practrices}
 
 Accessing Roku inventory has never been easier than through the Adobe Advertising platform. Once you've completed the planning process, you can login and tap into premium Roku publishers by launching the placement creation process.
 
