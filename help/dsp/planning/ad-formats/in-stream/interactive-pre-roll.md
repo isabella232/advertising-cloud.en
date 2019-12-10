@@ -32,7 +32,7 @@ isSticky: 0
 * Video begins to play automatically with sound on when page loads
 * User initiates interactive element by rolling over the overlay or interactive feature
 * See the Unit in Action:
-* [Online Video Gallery](https://gallery.tubemogul.com/overlay-animated.html)
+* [Online Video Gallery](http://gallery.tubemogul.com)
 * [Overlay and Sharing Buttons](https://www.tubemogul.com/configurator/ad_preview/84wKqDi4vYyBDDVghlNp)
 
 ## Benefits {#benefits}

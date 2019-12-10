@@ -23,9 +23,4 @@ isSticky: 0
 
 # Case Studies {#case-studies}
 
-Brand Sights enables you to track beyond video metrics. See the following case studies:
-
-* [Jamaica's Olypmic Sized Branding](https://www.tubemogul.com/success-jamaicas-olympic-branding/)
-* [Toyota Drives Brand Metrics Past Rivals](https://www.tubemogul.com/success-toyota-drives-metrics/)
-* [Coffee Brand Drives Brand Awareness Among Spanish Speakers](https://www.tubemogul.com/success-leading-awareness-speakers/)
-* See more [here](https://www.tubemogul.com/insights/success-stories/)
+Brand Sights enables you to track beyond video metrics. View [case studies](https://www.tubemogul.com/insights/success-stories/).

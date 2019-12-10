@@ -27,4 +27,4 @@ Advertising Cloud DSP offers a variety of ad units to help you achieve your camp
 
 ![ad formats](assets/ad-formats.png "ad formats")
 
-See the [complete online video gallery](https://gallery.tubemogul.com/).
+See the [complete online video gallery](http://gallery.tubemogul.com).

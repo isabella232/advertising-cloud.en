@@ -31,8 +31,8 @@ isSticky: 0
 * Video begins to play automatically in the app between game levels
 * User initiates interactive element by rolling over the overlay or interactive feature
 * Optional features include teasers, overlays and click to share buttons
-* [See Smartphone Interactive Pre-roll Unit in Action](https://www.tubemogul.com/marketing/showcase/interactive-in-app-pre-roll.html)
-* [See Tablet Interactive Pre-roll Unit in Action](https://www.tubemogul.com/marketing/showcase/interactive-in-app-pre-roll-tablet.html)
+<!-- * [See Smartphone Interactive Pre-roll Unit in Action](https://www.tubemogul.com/marketing/showcase/interactive-in-app-pre-roll.html) -->
+<!-- * [See Tablet Interactive Pre-roll Unit in Action](https://www.tubemogul.com/marketing/showcase/interactive-in-app-pre-roll-tablet.html) -->
 
 ## Benefits {#benefits}
 
@@ -48,7 +48,9 @@ isSticky: 0
 
 ## Recommended Pricing Model {#recommended-pricing-model}
 
-* [CPM, CPCV, CPC, CPE](../../../../dsp/planning/ad-formats/performance-pricing.md)
+* CPM, CPCV, CPC, CPE
+
+    See [Performance Pricing](../../../../dsp/planning/ad-formats/performance-pricing.md)
 
 ## Video Specifications: {#video-specifications}
 

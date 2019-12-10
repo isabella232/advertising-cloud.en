@@ -45,7 +45,7 @@ TubeMogul is an industry leader in real-time insights and analytics. We offer va
     * Ad Types: Lists performance and delivery by video ad format.
     * BrandSights: Displays results across all the surveys within the account.
 
-* Tools: This section of the UI houses our [Segments,](planning/targeting/retargeting/custom-segment-tool.md) Site Tool, [Blacklist](planning/brand-safety/blacklists.md), [Email Reports](measurement/campaign-reporting/email-reports.md), and [Conversions.](execution/placement-setup/conversions.md)
+* Tools: This section of the UI houses our [Segments,](planning/targeting/retargeting/segment-management.md) Site Tool, [Blacklist](planning/brand-safety/blacklists.md), [Email Reports](measurement/campaign-reporting/email-reports.md), and [Conversions.](execution/placement-setup/conversions.md)
 
 >[!TIP]
 >

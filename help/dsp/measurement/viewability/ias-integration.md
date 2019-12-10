@@ -27,21 +27,15 @@ IAS or Integral Ad Science is a 3rd party viewability verification reporting int
 
 With its sophisticated TRAQ verification, IAS scores viewability on an impression level in addition to scoring for other metrics including fraud, brand safety, professionalism and page clutter. By leveraging Advertising Cloud DSP BrandSafe fraud protection, including pre-bid blocking of botnets and fake pre-roll, optimization is simple with IAS's viewability metrics to run on more favorable site environments.
 
-![](https://help.tubemogul.com:8443/download/attachments/2786016/Screen%20Shot%202014-10-24%20at%206.58.15%20PM.png?version=1&modificationDate=1414203518000&api=v2)
-
 ## Where to find it
 
 1. Once you hit create New Campaign you will see the option to turn on IAS under 3rd Party Metrics
 1. Click the checkbox to activate
 1. Download IAS reporting directly from TubeMogul's dashboard
 
-![](https://help.tubemogul.com:8443/download/attachments/2786016/Screen%20Shot%202014-10-24%20at%206.55.10%20PM.png?version=1&modificationDate=1414203518000&api=v2)
-
 ## Where to Retrieve IAS Reports
 
 When you click on the Full Reports section of your placement, the IAS report will be available for download in the Sites tab.
-
-![](https://help.tubemogul.com:8443/download/attachments/2786016/Screen%20Shot%202014-10-24%20at%207.15.57%20PM.png?version=1&modificationDate=1414203518000&api=v2)
 
 >[!NOTE]
 >

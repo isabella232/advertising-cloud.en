@@ -7,7 +7,7 @@ ldc-disable: 0
 ldc-disable-comm: 0
 pubDate: Fri, 04 Jul 2014 15:56:27 +0000
 dc-creator: hchang@adobe.com
-guid: http://education.tubemogul.com/userguide/?page_id=1458
+guid: https://education.tubemogul.com/userguide/?page_id=1458
 isPermaLink: false
 description: 
 postId: 1458
@@ -30,16 +30,16 @@ Advertising Cloud DSP accepts IAB VAST and VPAID 2.0 tags.
 
 * To use [VAST](http://www.iab.net/guidelines/508676/digitalvideo/vsuite/vast/vast_copy) (Video Ad Serving Template) tags, set up the ad as [standard pre-roll](../../../../dsp/planning/ad-formats/in-stream/standard-pre-roll.md) unless you'd like to track [viewability](../../../../dsp/measurement/viewability.md). To track viewability, set up the ad as interactive pre-Roll.
 
-* To use [VPAID SWF](http://www.iab.net/vpaid) (Video Player-Ad Interface Definition) tags, set up the ad as [interactive pre-roll](../../../../dsp/planning/ad-formats/in-stream/interactive-pre-roll.md).
+* To use [VPAID SWF](https://www.iab.com/guidelines/digital-video-player-ad-interface-definition-vpaid-2-0/) (Video Player-Ad Interface Definition) tags, set up the ad as [interactive pre-roll](../../../../dsp/planning/ad-formats/in-stream/interactive-pre-roll.md).
 
     * Another more recent type of tag delivery that is rapidly growing for interactive pre-roll is [VPAID JS](ad-tags/vpaid-js.md).
 
 * To use VAST wrappers and redirects, contact your Account Manager for testing.
-* VAST can also be used for standard mobile pre-roll, whereas [MRAID](http://www.iab.com/guidelines/mobile-rich-media-ad-interface-definitions-mraid/) is necessary for mobile interactive pre-roll
+* VAST can also be used for standard mobile pre-roll, whereas [MRAID](https://www.iab.com/guidelines/mobile-rich-media-ad-interface-definitions-mraid/) is necessary for mobile interactive pre-roll
 
 For all third-party ad tags, remove all filters (such as geo and device) and use DSP for all targeting.
 
-## Best Practices:
+## Best Practices
 
 * For VAST tags, include all three video formats:  FLV, MP4, and WebM.  If you are running a companion banner, it must also be included in the VAST XML file as `<HTMLResource>` Or `<IFrameResource>`.
 * For VPAID tags, include creatives, companions, and tracking pixels in the SWF file. Drop the tag in a browser and verify in the XML file that `apiFramework="VPAID"`.

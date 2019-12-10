@@ -29,7 +29,6 @@ isSticky: 0
 
 * Click on Surveys on the left navigation bar
 * Click on the blue button labelled “New BrandSights Survey”
-* For more information on the benefits and capabilities of each Survey ad format, download TubeMogul research [here](https://more.tubemogul.com/brandsights_survey_research_2014).
 * You’ll see the survey screen, a form split into two short sections. Here’s how to fill in each field.
 
 ### Basic Settings

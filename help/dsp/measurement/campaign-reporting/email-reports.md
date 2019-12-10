@@ -55,7 +55,7 @@ There are several options available for detailing what should be included in you
   
 Filters define the scope for your report.   There are two kinds of filters in email reports.
 
-* **1) Filter by Date:** Define the timeframe for your report. You can setdates to `reporton` past events or set it up to send data for future campaigns.
+* **1) Filter by Date:** Define the timeframe for your report. You can set dates to report on past events or set it up to send data for future campaigns.
 
 The options for this filter are:
 
@@ -110,11 +110,11 @@ There are two groups of items you can select here:
 
 * **Metrics**: These are the actual measurements of the campaign that help you determine if you hit your goals, like impressions, click-throughs, completions, etc. These will define the columns in your report.
 
-* **Conversion Metrics**: Advertising Cloud conversion metrics captured using multi-touch Advertising Cloud conversion metrics will be available if you have configured multi-touch conversion tracking. This will include Adobe Analytics conversions as well conversions captured using the Advertising Cloud Conversion pixel, depending on which kinds of tracking you have configured. You will see a list of advertisers and beneath each advertiser, you will see the Conversion Metrics available for that `particularadvertiser`. To learn more about conversion optimization tactics, go [here](../../../new/performance-display-playbook.md).
+* **Conversion Metrics**: Advertising Cloud conversion metrics captured using multi-touch Advertising Cloud conversion metrics will be available if you have configured multi-touch conversion tracking. This will include Adobe Analytics conversions as well conversions captured using the Advertising Cloud Conversion pixel, depending on which kinds of tracking you have configured. You will see a list of advertisers and beneath each advertiser, you will see the Conversion Metrics available for that particular advertiser. To learn more about conversion optimization tactics, go [here](../../misc-not-in-toc/new/performance-display-playbook.md).
   
   Note that these metrics will be displayed based on the multi-touch attribution rules you specify in the Report Options section.
 
-* **Custom Goals**: These are `combinations for Conversion Metrics used as goals forAdvertisingClouds optimization engine.This option will be available if you have configured multi-touch conversion tracking.LikeConversionMetrics you can see the Custom Goal availablelisted beneath each advertiser. To learn more about how to setup Custom Goals, go [here](../../../new/performance-display-playbook/building-a-custom-goal.md).
+* **Custom Goals**: These are `combinations for Conversion Metrics used as goals forAdvertisingClouds optimization engine.This option will be available if you have configured multi-touch conversion tracking.LikeConversionMetrics you can see the Custom Goal availablelisted beneath each advertiser. To learn more about how to setup Custom Goals, go [here](../../misc-not-in-toc/new/performance-display-playbook/building-a-custom-goal.md).
 
   Note that these metrics will be displayed based multi-touch attribution rules you specify in the Report Options section.
 

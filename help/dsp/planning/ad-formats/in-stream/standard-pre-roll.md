@@ -30,8 +30,7 @@ isSticky: 0
 ## Player Action {#player-action}
 
 * Video begins playing automatically with sound on when user chooses to watch a content video
-* [See the Unit in Action](https://www.tubemogul.com/configurator/ad_preview/UqrlOvnHd9U98AkH7oyL?fullsize=1)
-* See [complete ad gallery](https://www.tubemogul.com/marketing/showcase/pre-roll-standard.html)
+* [See the unit in action](https://www.tubemogul.com/configurator/ad_preview/UqrlOvnHd9U98AkH7oyL?fullsize=1)
 
 ## Benefits {#benefits}
 

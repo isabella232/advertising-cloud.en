@@ -36,14 +36,17 @@ The following pixels are support for native ads on TripleLift.
 
 * [moat.com](http://moat.com/) 
 * [moatads.com](http://moatads.com/) 
-* [js.moatads.com](http://js.moatads.com/) 
-* [z.moatads.com](http://z.moatads.com/) 
- 
+* js.moatads.com
+* z.moatads.com
+
+<!-- Verify js.moatads.com and z.moatads.com) -->
 
 ## DoubleVerify
 
 * [doubleverify.com](http://doubleverify.com/) 
-* [cdn.doubleverify.com](http://cdn.doubleverify.com/)     
+* cdn.doubleverify.com
+
+<!-- Verify cdn.doubleverify.com) -->
 
 ## comScore
 

@@ -29,7 +29,6 @@ isSticky: 0
 
 * Incentivized user-initiated unit that runs in Facebook games
 * The viewer earns game credit or items upon video completion
-* [See unit in action](https://www.tubemogul.com/marketing/showcase/social-media-games.html)
 
 ## Benefits
 

@@ -31,7 +31,6 @@ isSticky: 0
 
 * Video begins playing automatically with sound on when user chooses to watch a content video
 * Option to skip ad appears after 5 seconds
-* [See unit in action](https://www.tubemogul.com/marketing/showcase/pre-roll-skippable.html)
 
 ## Benefits
 

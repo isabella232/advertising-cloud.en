@@ -32,8 +32,6 @@ When writing a survey question, follow these guidelines:
 1. Avoid Complexity. Draft as concise a question as you can – then read it out loud.   A question might look great on paper, but sound off when you say it out loud.
 1. Test Your Question. Ask a colleague to read your question and explain what s/he thinks it’s asking.  If they don’t interpret it as you intended, try a rewrite.
 
-![](https://help.tubemogul.com:8443/download/attachments/951463/line%2011.37.19%20AM.jpg?version=1&modificationDate=1364431203000&api=v2)   
-
 ## Common Pitfalls
   
 Even the best researchers hit roadblocks when it comes to writing survey questions, especially ones that fit into a 300x250 ad unit.  Here are some common pitfalls and how to fix them.
