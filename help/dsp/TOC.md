@@ -180,10 +180,7 @@ user-guide-title: Advertising Cloud Search Guide
     + [Media Quality](planning/media-quality.md)
     + Partners {#partners}
       + [Partners Overview](planning/partners.md)
-      <!-- No text in file --> <!-- + [Ad Serving](planning/partners/ad-serving.md) -->
-      <!-- No text in file --> <!-- + [Data Partners](planning/partners/data-partners.md) -->
       + [Inventory Partners](planning/partners/inventory-partners.md)
-      <!-- No text in file --> <!-- + [Measurement Partners](planning/partners/measurement-partners.md) -->
     + [Planning Tool](planning/planning-tool-beta.md)
     + Premium Inventory {#premium-inventory}
       + [Premium Inventory Overview](planning/private-inventory.md)
@@ -204,3 +201,8 @@ user-guide-title: Advertising Cloud Search Guide
         + [Segment Management](planning/targeting/retargeting/segment-management.md)
       + [More Targeting Options](planning/targeting/targeting-options.md)
     + [User Management Page](planning/user-management-page.md)
+
+
+      <!-- No text in file + [Ad Serving](planning/partners/ad-serving.md) -->
+      <!-- No text in file + [Data Partners](planning/partners/data-partners.md) -->
+      <!-- No text in file + [Measurement Partners](planning/partners/measurement-partners.md) -->
