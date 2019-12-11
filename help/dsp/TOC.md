@@ -93,7 +93,6 @@ user-guide-title: Advertising Cloud Search Guide
         + [Audience](execution/placement-setup/placement-options/audience.md)
         + [Basics](execution/placement-setup/placement-options/basics.md)
         + [Budget & Bid](execution/placement-setup/placement-options/budget-bid.md)
-        + [Conversions](execution/placement-setup/conversions.md)
         + [Inventory Sources](execution/placement-setup/placement-options/inventory-sources.md)
         + [Placement Targeting](execution/placement-setup/placement-options/placement-targeting.md)
       + [Templates](execution/placement-setup/templates.md)
