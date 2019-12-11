@@ -130,7 +130,7 @@ Some additional aspects to consider below:
 * The “real-time segment name” is not assigned. You can choose the naming convention but best to keep it consistent with the “Design Name” in the Factual UI.
 * As you can see in`**Screenshot C**, `you can have multiple targeting codes for each Design ID. Each targeting code needs to be imported separately.
 * If provided directly from the Factual team they should specify the “Factual Proximity Design ID” and “Factual Proximity Targeting Code”.
-1. Once you have imported all designs you would like to target, check the ones you would like to utilize for the placement as seen below.`**
+1. Once you have imported all designs you would like to target, check the ones you would like to use for the placement as seen below.`**
 
 Screenshot E
 
@@ -138,7 +138,7 @@ Screenshot E
 
 As you can see in **screenshot C**, there were four different “targeting codes” for the one “design ID” so four designs were imported and selected. You do not have to include all targeting codes on a placement. You can select as many or as few you have imported.
 
-After importing a segment on a placement, it will be available to utilize for any mobile placement on the campaign. You will be able to see all segments selected on the “select” page above on the right.
+After importing a segment on a placement, it will be available for any mobile placement on the campaign. You will be able to see all segments selected on the “select” page above on the right.
 
  
 
@@ -162,13 +162,13 @@ After importing a segment on a placement, it will be available to utilize for an
 
 1. If provided directly from the Factual team they should specify the “Historical segment name” and “Factual geopulse Audience Design ID”.
 
-1. Once you have imported segments for each data provider available for the ad format (Aerserv, AOL Nexage, Co-Op & Mopub), check the ones you would like to utilize for the placement as seen below in *screenshot D*.
+1. Once you have imported segments for each data provider available for the ad format (Aerserv, AOL Nexage, Co-Op & Mopub), check the ones you would like to use for the placement as seen below in *screenshot D*.
 
   Screenshot D
 
   ![AT.D](assets/at.d.png)
 
-  Similar to Proximity targets, after importing a segment on a placement it will be available to utilize for any mobile placement on the campaign.
+  Similar to Proximity targets, after importing a segment on a placement it will be available for any mobile placement on the campaign.
 
  
 ### Best Practices

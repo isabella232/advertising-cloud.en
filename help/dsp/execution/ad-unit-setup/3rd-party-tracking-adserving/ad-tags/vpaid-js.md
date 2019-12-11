@@ -48,7 +48,7 @@ Here’s an example of the VPAID Flash and JS media file:
 ## Additional Best Practices:
 
 * For overlays, only use image or JavaScript 3rd-party pixels, avoid using SWF/Flash-based files within the VPAID tag
-* For [VPAID JavaScript](http://mkto-ab110051.com/Q0fP00F0J81c0043U00O000) and VAST creatives, use MP4 videos instead of FLV to ensure scale
+* For [VPAID JavaScript](https://www.iab.com/insights/glossary-of-terminology) and VAST creatives, use MP4 videos instead of FLV to ensure scale
 
 ## How to Run Video Ads on VPAID JavaScript Inventory
 

@@ -51,11 +51,13 @@ Percentage of total viewers that clicked through to a landing page. Click-throug
 The URL that viewers are redirected to when they click on an ad, companion banner or overlay
 
 *Companion Banner*
+
 * 300×250 Added value 300×250 banner space that accompanies some pre-roll units. The banner can have iFrame, HTML, static image or Flash formatting and click through to a landing page.
 * 300×60 Added value 300×60 banner space that accompanies some YouTube pre-roll units. The banner can have iFrame, HTML, static image or Flash formatting and click through to a landing page.
 
 *Completion Rate*
 Percentage of total viewers that completed the video. Completion rate = (completed views / total views) x 100
+
 * 25% completion rate: Percentage of viewers that completed 25% the video
 * 50% completion rate: Percentage of viewers that completed 50% the video
 * 75% completion rate: Percentage of viewers that completed 75% the video
@@ -136,6 +138,7 @@ A performance metric used to evaluate the success of a particular ad or campaign
 An online gross rating point (GRP) measurement metric that evaluates unique reach and frequency across online advertising campaigns. Measures the percentage of the target audience a campaign’s ad was able to reach. Allows agencies to use a metric they are accustomed to using from TV buys.
 
 *Overlay*
+
 * 300×60 Added value 300×60 video overlay that accompanies in-banner Click to Play, Rollover to Play and Branded Auto-Play units. The overlay can have static image or Flash formatting and click through to a landing page.
 * 470×70 Added value 470×70 video overlay that accompanies social media game units. The overlay can have static image or Flash formatting and click through to a landing page.
 
@@ -170,7 +173,7 @@ Premium sites; nationally recognizable publishers
 Quality sites; high quality but less widely known, tend to be more niche
 
 *Tier 3 Sites*
-Reachttp://education.tubemogul.com/niche sites; legitimate and brand safe sites that can be utilized for reach or data targeting buys
+Legitimate and brand-safe sites that can be used for reach or data targeting buys
 
 *Tier 4 Sites*
 Not suitable for brand campaigns; some are known for auto-playing pre-roll in banner space or using other black hat practices

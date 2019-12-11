@@ -43,8 +43,6 @@ Even the best researchers hit roadblocks when it comes to writing survey questio
 * Awareness questions that ask around a well-known brand(s).   For example, imagine advertising the re-release of a Beatles album.  If you run an ad effectiveness study with a question like, “which of the following bands have you heard of” and the answer choices include the Beatles, the Rolling Stones, U2 and Led Zeppelin, you probably won’t see a lift.
 * Answer choices that aren’t mutually exclusive or collectively exhaustive – in other words, two responses sort of mean the same thing or if there were other, obvious, positions that the respondent could take.
 
-![](https://help.tubemogul.com:8443/download/attachments/951463/line%2011.37.19%20AM.jpg?version=1&modificationDate=1364431203000&api=v2)
-
 ## Standard Survey Questions
   
 If you want to run a survey but don’t have specific questions in mind, consider some standard survey questions.

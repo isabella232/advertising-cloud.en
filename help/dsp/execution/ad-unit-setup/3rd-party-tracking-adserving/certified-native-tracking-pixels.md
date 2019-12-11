@@ -29,13 +29,13 @@ The following pixels are support for native ads on TripleLift.
 
 ## Integral Ad Science
 
-* [pixel.adsafeprotected.com](http://pixel.adsafeprotected.com/) 
-* [integralads.com](http://integralads.com/)     
+* [pixel.adsafeprotected.com](https://pixel.adsafeprotected.com/)
+* [integralads.com](https://integralads.com/)
 
 ## MOAT
 
-* [moat.com](http://moat.com/) 
-* [moatads.com](http://moatads.com/) 
+* [moat.com](https://moat.com/)
+* [moatads.com](https://moatads.com/)
 * js.moatads.com
 * z.moatads.com
 
@@ -43,13 +43,13 @@ The following pixels are support for native ads on TripleLift.
 
 ## DoubleVerify
 
-* [doubleverify.com](http://doubleverify.com/) 
+* [doubleverify.com](https://www.doubleverify.com/)
 * cdn.doubleverify.com
 
 <!-- Verify cdn.doubleverify.com) -->
 
 ## comScore
 
-* [comscore.com](http://comscore.com/) 
-* [sb.voicefive.com](http://sb.voicefive.com/) 
-* [sb.scorecardresearch.com](http://sb.scorecardresearch.com/) 
+* [comscore.com](https://comscore.com/)
+* [sb.voicefive.com](https://sb.voicefive.com/)
+* [sb.scorecardresearch.com](https://sb.scorecardresearch.com/)

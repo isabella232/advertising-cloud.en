@@ -23,7 +23,7 @@ isSticky: 0
 
 # Nielsen DAR Reporting {#nielsen-dar-reporting}
 
-Advertising Cloud DSP has partnered with Nielsen to offer audience verification reporting also known as Digital Ad Rating (DAR).  This reporting is available when you utilize the  [BrandPoint](../../dsp/planning/brandpoint.md) or by enabling Nielsen at the campaign level.
+Advertising Cloud DSP has partnered with Nielsen to offer audience verification reporting also known as Digital Ad Rating (DAR).  This reporting is available when you use the [BrandPoint](../../dsp/planning/brandpoint.md) or by enabling Nielsen at the campaign level.
 
 Campaign level reporting will enable reporting on every placement in the campaign while creating a Brandpoint placement will only enable Nielsen reporting on that placement.
 
