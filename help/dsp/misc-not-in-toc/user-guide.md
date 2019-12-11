@@ -23,9 +23,9 @@ postPassword:
 isSticky: 0
 ---
 
-# User Guide {#dsp/}
+# User Guide {#dsp}
 
-## User Guide Topics {#dsp/-topics}
+## User Guide Topics {#dsp-topics}
 
 <table>
  <tr> 

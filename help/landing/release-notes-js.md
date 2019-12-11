@@ -12,9 +12,9 @@ The following Advertising Cloud JavaScript code was changed as noted. To get the
 
 Code updated:
 
-* ITP Mapper version x.x (<URL here>)
-* Advertising Cloud v2 Conversion Tag version x.x (<URL here>)
-* Advertising Cloud v3 Conversion Tag version x.x (<URL here>)
+* ITP Mapper version x.x (`<URL here>`)
+* Advertising Cloud v2 Conversion Tag version x.x (`<URL here>`)
+* Advertising Cloud v3 Conversion Tag version x.x (`<URL here>`)
 
 Changes:
 
