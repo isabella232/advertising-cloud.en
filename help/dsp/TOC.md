@@ -87,22 +87,19 @@ user-guide-title: Advertising Cloud Search Guide
       + [Copy Placement Tool](execution/placement-setup/copy-placement-tool.md)
       + [CPM Setup](execution/placement-setup/cpm-setup.md)
       + [GRP Setup](execution/placement-setup/grp-setup.md)
-      + [NEW Placement Editor](execution/placement-setup/introducing-the-new-placement-editor.md)
       + [OTP Setup](execution/placement-setup/otp-setup.md)
       + Placement Options {#placement-options}
         + [Placement Options Overview](execution/placement-setup/placement-options.md)
         + [Audience](execution/placement-setup/placement-options/audience.md)
         + [Basics](execution/placement-setup/placement-options/basics.md)
         + [Budget & Bid](execution/placement-setup/placement-options/budget-bid.md)
-        + [Conversions](execution/placement-setup/placement-options/conversions-2.md)
+        + [Conversions](execution/placement-setup/conversions.md)
         + [Inventory Sources](execution/placement-setup/placement-options/inventory-sources.md)
         + [Placement Targeting](execution/placement-setup/placement-options/placement-targeting.md)
-      + [Snapchat Placement Setup](execution/placement-setup/snapchat-placement-setup.md)
       + [Templates](execution/placement-setup/templates.md)
   + [FAQ](faq.md)
   + Glossary {#glossary}
     + [Glossary](glossary.md)
-    + [All Glossary Terms](glossary/all-terms.md)
   + Measurement {#measurement}
     + [Measurement Overview](measurement.md)
     + [BrandSights Reporting](measurement/brandsights-reporting.md)
@@ -140,7 +137,7 @@ user-guide-title: Advertising Cloud Search Guide
       + [Ad Formats Overview](planning/ad-formats.md)
       + [Ad Features Guide](planning/ad-formats/ad-features-guide.md)
       + [Teasers & Endcaps](planning/ad-formats/ad-features-guide/teasers-endcaps.md)
-      + [Ad Specs](planning/ad-formats/ad-specs.md)
+      + [Ad Specs](https://www.tubemogul.com/ad-specs/?_ga=2.221878747.2139012425.1576094514-863847125.1574735909)
       + [Connected TV](planning/ad-formats/connected-tv.md)
       + Display {#display}
         + [Display Overview](planning/ad-formats/in-display.md)
@@ -205,10 +202,7 @@ user-guide-title: Advertising Cloud Search Guide
       + [Location-Based Mobile Targeting](planning/targeting/factual-geo-targeting.md)
       + Retargeting {#retargeting}
         + [Retargeting Overview](planning/targeting/retargeting.md)
-        + [Custom Segment Tool](planning/targeting/retargeting/custom-segment-tool.md)
         + [Retargeting Pixel Setup](planning/targeting/retargeting/retargeting-pixel-setup.md)
         + [Segment Management](planning/targeting/retargeting/segment-management.md)
       + [More Targeting Options](planning/targeting/targeting-options.md)
     + [User Management Page](planning/user-management-page.md)
-+ [Webinars](webinars.md)
-+ [What's New?](whats-new.md)
