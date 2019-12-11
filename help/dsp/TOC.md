@@ -6,7 +6,6 @@ user-guide-title: Advertising Cloud Search Guide
 ---
 
 # Advertising Cloud DSP Help {#using}
-<!-- why &num;using? needs to be "dsp-using" or something -->
 
 + [User Guide](misc-not-in-toc/user-guide.md)
 + New Help Section {#changeme-1}
