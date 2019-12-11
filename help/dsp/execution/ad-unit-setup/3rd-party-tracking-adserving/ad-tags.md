@@ -28,7 +28,7 @@ isSticky: 0
 
 Advertising Cloud DSP accepts IAB VAST and VPAID 2.0 tags.
 
-* To use [VAST](http://www.iab.net/guidelines/508676/digitalvideo/vsuite/vast/vast_copy) (Video Ad Serving Template) tags, set up the ad as [standard pre-roll](../../../../dsp/planning/ad-formats/in-stream/standard-pre-roll.md) unless you'd like to track [viewability](../../../../dsp/measurement/viewability.md). To track viewability, set up the ad as interactive pre-Roll.
+* To use [VAST](https://www.iab.com/news/whats-vast-understanding-iab-digital-video-suite) (Video Ad Serving Template) tags, set up the ad as [standard pre-roll](../../../../dsp/planning/ad-formats/in-stream/standard-pre-roll.md) unless you'd like to track [viewability](../../../../dsp/measurement/viewability.md). To track viewability, set up the ad as interactive pre-Roll.
 
 * To use [VPAID SWF](https://www.iab.com/guidelines/digital-video-player-ad-interface-definition-vpaid-2-0/) (Video Player-Ad Interface Definition) tags, set up the ad as [interactive pre-roll](../../../../dsp/planning/ad-formats/in-stream/interactive-pre-roll.md).
 
