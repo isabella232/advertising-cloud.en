@@ -9,7 +9,9 @@ seo-description: Supported data request types, required setup and field values, 
 
 *For Adobe Advertising Cloud Search, Adobe Advertising Cloud Creative, Adobe Advertising Cloud DSP, and Legacy Adobe Media Optimizer DCO*
 
-**Important:** The contents of this document are not legal advice and are not meant to substitute for legal advice. Consult your company’s legal department for advice concerning the California Consumer Privacy Act.
+>[!Important]
+>
+>The contents of this document are not legal advice and are not meant to substitute for legal advice. Consult your company’s legal department for advice concerning the California Consumer Privacy Act.
 
 The California Consumer Privacy Act (CCPA) is California’s new privacy law, which is effective January 1, 2020. CCPA provides California residents new rights regarding their personal information and imposes data protection responsibilities on certain entities who conduct business in California. CCPA provides consumers with the right to access and delete their data as well as the right to opt out of certain activities that qualify as “selling” personal information to a third party.
 

@@ -2,14 +2,16 @@
 title: Adobe Advertising Cloud Support for the General Data Protection Regulation
 description: Supported data request types, required setup and field values, and examples of API access requests using legacy product IDs and returned data fields for Adobe Advertising Cloud
 seo-title: Adobe Advertising Cloud support for General Data Protection Regulation
-seo-description: Supported data request types, required setup and field values, and examples of API access requests using legacy product IDs and returned data fields for Adobe Advertising Cloud.
+seo-description: Supported data request types, required setup and field values, and examples of API access requests using legacy product IDs and returned data fields for Adobe Advertising Cloud
 ---
 
 # Adobe Advertising Cloud Support for the General Data Protection Regulation
 
 *For Adobe Advertising Cloud Search, Adobe Advertising Cloud Creative, Adobe Advertising Cloud DSP, and Legacy Adobe Media Optimizer DCO*
 
-**Important:** The contents of this document are not legal advice and are not meant to substitute for legal advice. Consult your company’s legal department for advice concerning the General Data Protection Regulation.
+>[!Important]
+>
+>The contents of this document are not legal advice and are not meant to substitute for legal advice. Consult your company’s legal department for advice concerning the General Data Protection Regulation.
 
 The [General Data Protection Regulation](https://gdpr-info.eu/) (GDPR), a law in effect May 25, 2018, gives all individuals (data subjects) within the borders of the European Union (EU) control of their personal data and simplifies the regulatory environment for international business. This law applies to all businesses (data controllers) that offer goods or services to, monitor the behavior of, and collect personal data from individuals within the borders of the EU at the time their personal data is processed, regardless of the data controller's business location.
 
