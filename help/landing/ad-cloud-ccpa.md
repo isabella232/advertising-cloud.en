@@ -88,6 +88,7 @@ All of these steps are necessary for Advertising Cloud. For more information abo
 The following is an example of an access response for Advertising Cloud.
 
 '''
+
 {
     "jobId":"12345AD43E",
     "action":"access",
@@ -140,4 +141,5 @@ The following is an example of an access response for Advertising Cloud.
         }
     }
 }
+
 '''
