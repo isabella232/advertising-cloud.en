@@ -1,3 +1,10 @@
+---
+title: Adobe Advertising Cloud support for the California Consumer Privacy Act
+description: Supported data request types, required setup and field values, and examples of API access requests using legacy product IDs and returned data fields for Adobe Advertising Cloud
+seo-title: Adobe Advertising Cloud support for California Consumer Privacy Act
+seo-description: Supported data request types, required setup and field values, and examples of API access requests using legacy product IDs and returned data fields for Adobe Advertising Cloud
+---
+
 # Adobe Advertising Cloud Support for the California Consumer Privacy Act
 
 *For Adobe Advertising Cloud Search, Adobe Advertising Cloud Creative, Adobe Advertising Cloud DSP, and Legacy Adobe Media Optimizer DCO*
@@ -20,17 +27,15 @@ Adobe Experience Platform provides the ability for businesses to complete the fo
 * Delete cookie-level data stored within Search, Creative, DSP, or DCO for consumers using a browser; or delete ID-level data stored within DSP for consumers using apps on mobile devices.
 * Check the status of one or all existing requests.
 
->[!NOTE]
->
->If your company has multiple Adobe Experience Cloud Identity Management Service Organization IDs (IMS Org IDs), then you must send separate API requests for each. You can, however make one API request to multiple Advertising Cloud sub-solutions (Search, Creative, DSP, and DCO), with one account per sub-solution.
-
 ## Required Setup to Send Requests for Advertising Cloud
 
 To make requests to access and delete data for Advertising Cloud, you'll need to:
 
 1. Deploy a lightweight JavaScript library to retrieve and remove your customer's cookies. The same library, AdobePrivacy.js, is used for all Adobe Experience Cloud solutions.
 
-   **Important:**  Requests to some Adobe Experience Cloud solutions don't require the JavaScript library, but requests to Advertising Cloud require it.
+   >[!Important]
+   >
+   >Requests to some Adobe Experience Cloud solutions don't require the JavaScript library, but requests to Advertising Cloud require it.
 
    You should deploy the library on the web page from which your customers can submit access and delete requests, such as your company's privacy portal. The library helps you retrieve Adobe cookies (namespace ID: gsurferID) so that you can submit these identities as part of access and delete requests via the Adobe Experience Platform Privacy Service API.
 
@@ -44,19 +49,21 @@ To make requests to access and delete data for Advertising Cloud, you'll need to
 
    An IMS Org ID is a 24-character alphanumeric string appended with @AdobeOrg. Most Adobe Experience Cloud customers have been assigned an IMS Org ID. If your marketing team or internal Adobe system administrator doesn't know your organization's IMS Org ID, or isn't sure if it's been provisioned, contact Adobe Customer Care at gdprsupport@adobe.com. You'll need the IMS Org ID to submit requests to the Privacy API.
 
-   **Important:** Contact your company’s Advertising Cloud representative to confirm that all of your organization's Advertising Cloud accounts &mdash; including DSP accounts or advertisers, Search accounts, and Creative or DCO accounts &mdash; are linked to your IMS Org ID.
+   >[!Important]
+   >
+   >Contact your company’s Advertising Cloud representative to confirm that all of your organization's Advertising Cloud accounts &mdash; including DSP accounts or advertisers, Search accounts, and Creative or DCO accounts &mdash; are linked to your IMS Org ID.
 
-1. Use either the Adobe Experience Cloud Privacy Service API (for automated requests) or the Privacy Service UI (for ad-hoc requests) to submit access and delete requests to Advertising Cloud on behalf of your data subjects, and to check the status of existing requests.
+1. Use either the Adobe Experience Platform Privacy Service API (for automated requests) or the Privacy Service UI (for ad-hoc requests) to submit access and delete requests to Advertising Cloud on behalf of your customer, and to check the status of existing requests.
 
-   For advertisers who have a mobile app to interact with customers and launch campaigns with the DSP, you'll need to download the Privacy-ready Mobile SDKs for Experience Cloud. The Mobile SDKs allow businesses to set opt-out status flags, retrieve the data subject's device ID (namespace ID: deviceID), and submit requests to the Privacy Service API. Your mobile app will require an SDK Version 4.15.0 or greater.
+   For advertisers who have a mobile app to interact with customers and launch campaigns with the DSP, you'll need to download the Privacy-ready Mobile SDKs for Experience Cloud. The Mobile SDKs allow businesses to set opt-out status flags, retrieve the customer's device ID (namespace ID: deviceID), and submit requests to the Privacy Service API. Your mobile app will require an SDK Version 4.15.0 or greater.
 
-   When you submit an access request, the Privacy Service API returns a data subject's information based on the specified cookie or device ID, which you then must return to the data subject.
+   When you submit an access request, the Privacy Service API returns a customer's information based on the specified cookie or device ID, which you then must return to the customer.
 
    When you submit a delete request, the cookie ID or device ID and all cost, click, and revenue data associated with the cookie are deleted from the server.
 
    >[!NOTE]
    >
-   >If your organization has more than one IMS Org ID, then you will need to submit separate GDPR API requests for each.
+   >If your company has multiple Adobe Experience Cloud Identity Management Service Organization IDs (IMS Org IDs), then you must send separate API requests for each. You can, however make one API request to multiple Advertising Cloud sub-solutions (Search, Creative, DSP, and DCO), with one account per sub-solution.
 
 All of these steps are necessary for Advertising Cloud. For more information about these and other related tasks you need to perform using the Adobe Experience Platform Privacy Service, and where to find the items you'll need, see [www.adobe.io/apis/cloudplatform/gdpr.html](https://www.adobe.io/apis/experienceplatform/gdpr.html).
 
@@ -69,7 +76,7 @@ All of these steps are necessary for Advertising Cloud. For more information abo
 
 "users": 
 
-* "key": <*usually the name of the data subject*> 
+* "key": <*usually the name of the customer*> 
 
 * "action": either **access** or **delete**
 
@@ -83,7 +90,7 @@ All of these steps are necessary for Advertising Cloud. For more information abo
 
 * "regulation": **ccpa** (which is the privacy regulation that applies to the request)
 
-## Example of Request Submitted by Data Subject Using an Advertising Cloud User ID Retrieved from AdobePrivacy.js
+## Example of Request Submitted by Customer Using an Advertising Cloud User ID Retrieved from AdobePrivacy.js
 
 ```
 {
