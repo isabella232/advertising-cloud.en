@@ -2,7 +2,7 @@
 
 *For Adobe Advertising Cloud Search, Adobe Advertising Cloud Creative, Adobe Advertising Cloud DSP, and Legacy Adobe Media Optimizer DCO*
 
-**Important:** The contents of this document are not legal advice and are not meant to substitute for legal advice. Consult your company’s legal department for advice concerning the California Consumer Privacy Act. 
+**Important:** The contents of this document are not legal advice and are not meant to substitute for legal advice. Consult your company’s legal department for advice concerning the California Consumer Privacy Act.
 
 The California Consumer Privacy Act (CCPA) is California’s new privacy law, which is effective January 1, 2020. CCPA provides California residents new rights regarding their personal information and imposes data protection responsibilities on certain entities who conduct business in California. CCPA provides consumers with the right to access and delete their data as well as the right to opt out of certain activities that qualify as “selling” personal information to a third party.
 
@@ -48,7 +48,7 @@ To make requests to access and delete data for Advertising Cloud, you'll need to
 
 1. Use either the Adobe Experience Cloud Privacy Service API (for automated requests) or the Privacy Service UI (for ad-hoc requests) to submit access and delete requests to Advertising Cloud on behalf of your data subjects, and to check the status of existing requests.
 
-   For advertisers who have a mobile app to interact with customers and launch campaigns with the DSP, you'll need to download the Privacy-ready Mobile SDKs for Experience Cloud. The Mobile SDKs allow businesses to set opt-out status flags, retrieve the data subject's device ID (namespace ID: deviceID), and submit requests to the Privacy Service API. Your mobile app will require an SDK Version 4.15.0 or greater. 
+   For advertisers who have a mobile app to interact with customers and launch campaigns with the DSP, you'll need to download the Privacy-ready Mobile SDKs for Experience Cloud. The Mobile SDKs allow businesses to set opt-out status flags, retrieve the data subject's device ID (namespace ID: deviceID), and submit requests to the Privacy Service API. Your mobile app will require an SDK Version 4.15.0 or greater.
 
    When you submit an access request, the Privacy Service API returns a data subject's information based on the specified cookie or device ID, which you then must return to the data subject.
 
@@ -58,7 +58,7 @@ To make requests to access and delete data for Advertising Cloud, you'll need to
    >
    >If your organization has more than one IMS Org ID, then you will need to submit separate GDPR API requests for each.
 
-All of these steps are necessary for Advertising Cloud. For more information about these and other related tasks you need to perform using the Adobe Experience Platform Privacy Service, and where to find the items you'll need, see [www.adobe.io/apis/cloudplatform/gdpr.html](www.adobe.io/apis/cloudplatform/gdpr.html).
+All of these steps are necessary for Advertising Cloud. For more information about these and other related tasks you need to perform using the Adobe Experience Platform Privacy Service, and where to find the items you'll need, see [www.adobe.io/apis/cloudplatform/gdpr.html](https://www.adobe.io/apis/experienceplatform/gdpr.html).
 
 ## Required Field Values in Advertising Cloud JSON Requests
 
@@ -75,9 +75,9 @@ All of these steps are necessary for Advertising Cloud. For more information abo
 
 * "user IDs":
 
-      * "namespace": **411** (which indicates the adcloud cookie space)
+    * "namespace": **411** (which indicates the adcloud cookie space)
 
-      * "value": <*the actual customer’s cookie ID value as retrieved from AdobePrivacy.js*>
+    * "value": <*the actual customer’s cookie ID value as retrieved from AdobePrivacy.js*>
 
 * "include": **adCloud** (which is the Adobe product that applies to the request)
 
@@ -85,59 +85,59 @@ All of these steps are necessary for Advertising Cloud. For more information abo
 
 ## Data Fields That Are Returned for Access Requests
 
-The following is an example of an access response for Advertising Cloud. 
+The following is an example of an access response for Advertising Cloud.
 
 '''
 {
-   "jobId":"12345AD43E",
-   "action":"access",
-   "product":"adCloud",
-   "status":"complete",
-   "results":{
-      "userIDs":[
-         {
-            "namespace":"411",
-            "userID":" Wqersioejr-wdg "
-         }
-      ],
-      "receiptData":{
-         "impressionCount":"100",
-         "clickCount":5,
-         "geo":[
-            "United States of America",
-            "San Francisco CA"
-         ],
-         "profile":[
-            {
-               "pixelid":"111",
-               "ut1":"abc",
-               "ut2":"def",
-               "ut3":"ghi",
-               "ut4":"jkl",
-               "ut5":"mno"
-            },
-            {
-               "pixelid":"123",
-               "ut1":"abc",
-               "ut2":"def",
-               "ut3":"ghi",
-               "ut4":"jkl",
-               "ut5":"mno"
-            }
-         ],
-         "matchingSegments":[
-            {
-               "segmentName":"AP4 - Art/Culture - In-Market",
-               "segmentID":"kV1mPa2aqPNWKSNtf325",
-               "serviceProvider":"Adobe"
-            },
-            {
-               "segmentName":"EMEA - UK - Health Food Buyers",
-               "segmentID":"eP2oJ2UPsfsDVDhvlGewx",
-               "serviceProvider":"BlueKai"
-            }
-         ]
-      }
-   }
+    "jobId":"12345AD43E",
+    "action":"access",
+    "product":"adCloud",
+    "status":"complete",
+    "results":{
+        "userIDs":[
+            {
+                "namespace":"411",
+                "userID":" Wqersioejr-wdg "
+            }
+        ],
+        "receiptData":{
+            "impressionCount":"100",
+            "clickCount":5,
+            "geo":[
+                "United States of America",
+                "San Francisco CA"
+            ],
+            "profile":[
+                {
+                    "pixelid":"111",
+                    "ut1":"abc",
+                    "ut2":"def",
+                    "ut3":"ghi",
+                    "ut4":"jkl",
+                    "ut5":"mno"
+                },
+                {
+                    "pixelid":"123",
+                    "ut1":"abc",
+                    "ut2":"def",
+                    "ut3":"ghi",
+                    "ut4":"jkl",
+                    "ut5":"mno"
+                }
+            ],
+            "matchingSegments":[
+                {
+                    "segmentName":"AP4 - Art/Culture - In-Market",
+                    "segmentID":"kV1mPa2aqPNWKSNtf325",
+                    "serviceProvider":"Adobe"
+                },
+                {
+                    "segmentName":"EMEA - UK - Health Food Buyers",
+                    "segmentID":"eP2oJ2UPsfsDVDhvlGewx",
+                    "serviceProvider":"BlueKai"
+                }
+            ]
+        }
+    }
 }
 '''
