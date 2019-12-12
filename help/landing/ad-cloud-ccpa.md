@@ -83,6 +83,38 @@ All of these steps are necessary for Advertising Cloud. For more information abo
 
 * "regulation": **ccpa** (which is the privacy regulation that applies to the request)
 
+## Example of Request Submitted by Data Subject Using an Advertising Cloud User ID Retrieved from AdobePrivacy.js
+
+```
+{
+"companyContexts":[
+      {
+         "namespace":"imsOrgID",
+         "value":"5AB13068374019BC@AdobeOrg"
+      }
+   ],
+   "users": [
+{
+ "key": "John Doe",
+ "action":["access"],
+  "userIDs":[
+      {
+         "namespace":"411",
+         "value":"Wqersioejr-wdg",
+         "type":"namespaceId",
+         "deletedClientSide":false
+      }
+   ]
+}
+],
+"include":[
+      "adCloud"
+   ],
+    "regulation":"ccpa"
+}
+}
+```
+
 ## Data Fields That Are Returned for Access Requests
 
 The following is an example of an access response for Advertising Cloud.
