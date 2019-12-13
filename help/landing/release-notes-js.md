@@ -1,12 +1,12 @@
 ---
-description: Release notes for Advertising Cloud JavaScript code
+description: Release notes for Adobe Advertising Cloud JavaScript code
 solution: Advertising Cloud
 subtopic: Release notes
 ---
 
-# Release Notes for Advertising Cloud JavaScript Code
+# Release Notes for Adobe Advertising Cloud JavaScript Code
 
-The following Advertising Cloud JavaScript code was changed as noted. To get the latest version of each tag, and for instructions on how to implement them, contact your Adobe account manager.
+The following JavaScript code for Adobe Advertising Cloud was changed as noted. To get the latest version of each tag, and for instructions on how to implement them, contact your Adobe account manager.
 
 ## Release date: 2 January 2020
 
