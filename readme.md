@@ -46,11 +46,11 @@ This is the documentation repository for Adobe Advertising Cloud, including cros
 
 For more publishing instructions, style guides, samples and other resources, see:
 
-* [Contributing author guidelines **specifically for Advertising Cloud**](https://wiki.corp.adobe.com/pages/viewpage.action?spaceKey=EfficientFrontier&title=Contributing+Author+Guidelines+for+Advertising+Cloud+Help)
-* [Collaborative authoring for all Adobe writers](https://docs.adobe.com/content/help/en/collaborative-doc-instructions/collaboration-guide/home.html)
++ [Contributing author guidelines **specifically for Advertising Cloud**](https://wiki.corp.adobe.com/pages/viewpage.action?spaceKey=EfficientFrontier&title=Contributing+Author+Guidelines+for+Advertising+Cloud+Help)
++ [Collaborative authoring for all Adobe writers](https://docs.adobe.com/content/help/en/collaborative-doc-instructions/collaboration-guide/home.html)
 
 See also:
 
-* contributing.md For an overview of how to contribute to the documentation.
++ contributing.md For an overview of how to contribute to the documentation.
 <!-- * guidelines.md For an overview on what is expected in contributions and how to compose your documentation contributions. -->
-* code-of-conduct.md For an overview of the standards of behavior we expect as you contribute to this documentation project.
++ code-of-conduct.md For an overview of the standards of behavior we expect as you contribute to this documentation project.
