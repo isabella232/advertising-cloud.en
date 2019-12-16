@@ -12,7 +12,7 @@ The following JavaScript code for Adobe Advertising Cloud was changed as noted. 
 
 Code updated:
 
-* ITP Mapper version x.x (`<URL here>`)
+* Advertising CLoud Conversion Mapper version x.x (`<URL here>`)
 * Advertising Cloud v2 Conversion Tag version x.x (`<URL here>`)
 * Advertising Cloud v3 Conversion Tag version x.x (`<URL here>`)
 
