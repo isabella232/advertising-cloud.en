@@ -41,9 +41,9 @@ All videos uploaded as interactive pre-roll are automatically converted to VPAID
 
 Upload a single tag that references both VPAID Flash and JavaScript media files for maximum scale. Or, create two ads and upload a tag that references VPAID Flash and JavaScript media files separately (i.e., two tags). Advertising Cloud DSP will automatically deliver the acceptable asset based on the inventory type.
 
-Here’s an example of the VPAID Flash and JS media file:   
+Here’s an example of the VPAID Flash and JS media file:
 
-[ ![screen-shot-2016-08-30-at-1-34-03-pm](assets/screen-shot-2016-08-30-at-1.34.03-pm-1024x168.png)](assets/screen-shot-2016-08-30-at-1.34.03-pm.png)
+![example of a VPAID Flash and JS media file](assets/example-vpaid-flash-js.png "example of a VPAID Flash and JS media file")
 
 ## Additional Best Practices:
 
