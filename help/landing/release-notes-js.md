@@ -12,10 +12,10 @@ The following JavaScript code for Adobe Advertising Cloud was changed as noted. 
 
 Code updated:
 
-* Advertising Cloud Conversion Mapper version x.x (`<URL here>`)
-* Advertising Cloud v2 Conversion Tag version x.x (`<URL here>`)
-* Advertising Cloud v3 Conversion Tag version x.x (`<URL here>`)
+* Advertising Cloud Conversion Mapper version x.x (`www.everestjs.net/static/amo-conversion-mapper.js`) ,!-- may rename as adcloud-conversion-mapper.js -->
+* Advertising Cloud v2 Conversion Tag version x.x (`www.everestjs.net/static/st.v2.js`)
+* Advertising Cloud v3 Conversion Tag version x.x (`www.everestjs.net/static/st.v3.js`)
 
 Changes:
 
-* Added support for connecting the Adobe Experience Cloud ID (ECID) to hits tracked by Advertising Cloud by inserting the advertiser's CNAME host in the ECID. The new tags provide a new solution for tracking conversions in Apple Safari browsers.
+* Added support for passing the Adobe Experience Cloud ID (ECID) to Advertising Cloud on landing and conversion pages. This is part of the upcoming CID CNAME ITP solution.
