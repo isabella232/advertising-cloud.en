@@ -5,7 +5,7 @@ archetype: end-user
 user-guide-title: Advertising Cloud Documentation Home
 ---
 
-# Advertising Cloud Help {#adcloud_home}
+# Advertising Cloud Help {#adcloud-home}
 
 + [Advertising Cloud Home](landing-home.md)
 + [Release Notes for Adobe Advertising Cloud JavaScript Code](release-notes-js.md)
