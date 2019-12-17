@@ -18,4 +18,4 @@ Code updated:
 
 Changes:
 
-* Added support for passing the Adobe Experience Cloud ID (ECID) to Advertising Cloud on landing and conversion pages. This is part of the upcoming CID CNAME ITP solution.
+* Added support to pull the Adobe Experience Cloud ID (ECID) from landing and conversion pages and pass it to Advertising Cloud. This is part of the upcoming ECID+CNAME solution for Apple's Intelligent Tracking Prevention (ITP) in Apple Safari browsers.
