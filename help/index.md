@@ -1,10 +1,14 @@
 ---
+title: Adobe Advertising Cloud Documentation
+description: This page includes a list of all Adobe Advertising Cloud documentation available outside the products.
 cloud: experience cloud
 product: advertising cloud
-title: landing-home
+index: no
 ---
 
 # Adobe Advertising Cloud Documentation
+
+This page includes a list of all Adobe Advertising Cloud documentation available outside of the products.
 
 + [Advertising Cloud Release Notes](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html#adcloud)
 + Advertising Cloud Support for Consumer Privacy
@@ -12,4 +16,4 @@ title: landing-home
   + [Adobe Advertising Cloud Support for the California Consumer Privacy Act: Consumer Data Access and Delete Support](misc/ad-cloud-ccpa-access-delete.md)
   + [Adobe Advertising Cloud Support for the California Consumer Privacy Act: Consumer Opt-out Support](misc/ad-cloud-ccpa-opt-out-of-sale.md)
 
-Other help for Advertising Cloud is available in the product.
+All other help for Advertising Cloud is available within the products.
