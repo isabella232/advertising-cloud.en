@@ -9,6 +9,6 @@ product: advertising cloud
 
 + [Advertising Cloud Documentation Home](/help/home.md)
 + Advertising Cloud Support for Consumer Privacy {#privacy}
-  + [Adobe Advertising Cloud Support for the General Data Protection Regulation](ad-cloud-gdpr.md)
-  + [Adobe Advertising Cloud Support for the California Consumer Privacy Act: Consumer Data Access and Delete Support](ad-cloud-ccpa-access-delete.md)
-  + [Adobe Advertising Cloud Support for the California Consumer Privacy Act: Consumer Opt-out Support](ad-cloud-ccpa-opt-out-of-sale.md)
+  + [Support for GDPR](ad-cloud-gdpr.md)
+  + [Support for CCPA: Consumer Data Access and Delete](ad-cloud-ccpa-access-delete.md)
+  + [Support for CCPA: Consumer Opt-out](ad-cloud-ccpa-opt-out-of-sale.md)
