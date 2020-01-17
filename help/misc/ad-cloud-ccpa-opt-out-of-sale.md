@@ -23,7 +23,7 @@ For information about how Advertising Cloud Search, Advertising Cloud Creative, 
 
 For more information about the Adobe Privacy services for CCPA, see the [Adobe Privacy Center](https://www.adobe.com/privacy/ccpa.html).
 
-## Capture Consumer “Opt out of sale” Requests {capture-optout}
+## Capture Consumer “Opt out of sale” Requests
 
 1. Log into the advertiser's account in Advertising Cloud DSP at [https://www.tubemogul.com](https://www.tubemogul.com).
 1. Create a segment to capture the opt-out requests:
