@@ -7,6 +7,8 @@ product: advertising cloud
 
 # Advertising Cloud Miscellaneous Cross-product Help {#all}
 
+<!-- Using + for bullets in TOC file, but could use * instead. Just need to be consistent in same file -->
+
 + [Advertising Cloud Documentation Home](/help/home.md)
 + Advertising Cloud Support for Consumer Privacy {#privacy}
   + [Support for GDPR](ad-cloud-gdpr.md)
