@@ -33,7 +33,8 @@ For more information about the Adobe Privacy services for CCPA, see the [Adobe P
    1. Click **New Custom Segment**.
    1. Enter the segment name, and then click **Save and Close**.
 
-        Recommended segment name: “Your Advertiser Name – CCPA Opt Out of Sale”
+       Recommended segment name: “Your Advertiser Name – CCPA Opt Out of Sale”
+
 1. Locate the new segment in the Segment Manager list, click ![Options menu](assets/edit-menu.png) in the Options column, and then select **get pixel**. <!-- I should be able add hover text in the image link, such as (x.png "hover text"), but either it's not currently supported or it's broken -->
 1. Copy the image pixel (beginning with `<img src="https://rtd-tm.everesttech.net"`) to collect user segments that visited a site, and implement the pixel using the mechanism that your company uses to track CCPA opt-out of sale requests (such as using a Consent Management Platform).  
 
