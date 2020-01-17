@@ -1,8 +1,6 @@
 ---
 user-guide-title: Adobe Advertising Cloud Documentation
 index: no
-cloud: experience-cloud
-product: advertising cloud
 ---
 
 # Advertising Cloud Miscellaneous Cross-product Help {#all}

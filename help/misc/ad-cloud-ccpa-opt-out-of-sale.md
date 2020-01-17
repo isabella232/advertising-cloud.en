@@ -1,8 +1,6 @@
 ---
 title: Adobe Advertising Cloud support for the California Consumer Privacy Act &#58; Consumer Opt-out Support
 description: Support for capturing consumer opt-out of sale requests
-seo-title: Adobe Advertising Cloud support for California Consumer Privacy Act &#58; Consumer Opt-out Support
-seo-description: Adobe Advertising Cloud support for capturing consumer opt-out of sale requests
 ---
 
 # Adobe Advertising Cloud Support for the California Consumer Privacy Act: Consumer Opt-out Support
@@ -25,7 +23,7 @@ For information about how Advertising Cloud Search, Advertising Cloud Creative, 
 
 For more information about the Adobe Privacy services for CCPA, see the [Adobe Privacy Center](https://www.adobe.com/privacy/ccpa.html).
 
-## Capture Consumer “Opt out of sale” Requests
+## Capture Consumer “Opt out of sale” Requests {capture-optout}
 
 1. Log into the advertiser's account in Advertising Cloud DSP at [https://www.tubemogul.com](https://www.tubemogul.com).
 1. Create a segment to capture the opt-out requests:
