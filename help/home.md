@@ -1,7 +1,7 @@
 ---
 title: Adobe Advertising Cloud Documentation
 description: This page includes a list of all Adobe Advertising Cloud documentation available from this site.
-cloud: experience cloud
+cloud: experience-cloud
 product: advertising cloud
 index: no
 ---
