@@ -47,7 +47,7 @@ To make requests to access and delete consumer personal information from Adverti
 
    >[!NOTE]
    >
-   >Deleting personal data is different than opting out, which stops the targeting of an end user with audience segments. However, when a consumer asks to delete personal data from Creative, DSP, or DCO, the library also sends a request to Advertising Cloud to opt out the customer from segment targeting. For advertisers with Search, we recommend that you provide your customers a link to [https://www.adobe.com/privacy/opt-out.html#customeruse](https://www.adobe.com/privacy/opt-out.html#customeruse), which explains how to opt out of audience segment targeting.
+   >Deleting personal data is different than opting out, which stops the targeting of an end user with audience segments. However, when a consumer asks to delete personal data from Creative, DSP, or DCO, the library also sends a request to Advertising Cloud to opt out the customer from segment targeting. For advertisers with Search, we recommend that you provide your customers a link to [https://www.adobe.com/privacy/opt-out.html#customeruse](https://www.adobe.com/privacy/opt-out.html#customeruse), which explains how to opt out of audience segment targeting. 
 
 1. Identify your IMS Org ID and make sure it is linked to your Advertising Cloud accounts.
 
