@@ -7,7 +7,7 @@ description: Support for capturing consumer opt-out of sale requests
 
 *For Adobe Advertising Cloud Demand Side Platform*
 
->[!Important]
+>[!IMPORTANT]
 >
 >The contents of this document are not legal advice and are not meant to substitute for legal advice. Consult with your legal counsel for advice concerning the California Consumer Privacy Act.
 

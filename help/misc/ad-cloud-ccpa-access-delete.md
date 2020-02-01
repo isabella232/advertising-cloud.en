@@ -7,7 +7,7 @@ description: Supported data request types, required setup and field values, and 
 
 *For Adobe Advertising Cloud Search, Adobe Advertising Cloud Creative, Adobe Advertising Cloud DSP, and Adobe Media Optimizer DCO*
 
->[!Important]
+>[!IMPORTANT]
 >
 >The contents of this document are not legal advice and are not meant to substitute for legal advice. Consult with your legal counsel for advice concerning the California Consumer Privacy Act.
 
@@ -37,7 +37,7 @@ To make requests to access and delete consumer personal information from Adverti
 
 1. Deploy a JavaScript library to retrieve and remove your customer's cookies. The same library, AdobePrivacy.js, is used for all Adobe Experience Cloud solutions.
 
-   >[!Important]
+   >[!IMPORTANT]
    >
    >Requests to some Adobe Experience Cloud solutions don't require the JavaScript library, but requests to Advertising Cloud require it.
 
@@ -53,7 +53,7 @@ To make requests to access and delete consumer personal information from Adverti
 
    An IMS Org ID is a 24-character alphanumeric string appended with @AdobeOrg. Most Adobe Experience Cloud customers have been assigned an IMS Org ID. If your marketing team or internal Adobe system administrator doesn't know your organization's IMS Org ID, or isn't sure if it's been provisioned, contact Adobe Customer Care at gdprsupport@adobe.com. You'll need the IMS Org ID to submit requests to the Privacy API.
 
-   >[!Important]
+   >[!IMPORTANT]
    >
    >Contact your company’s Advertising Cloud representative to confirm that all of your organization's Advertising Cloud accounts &mdash; including DSP accounts or advertisers, Search accounts, and Creative or DCO accounts &mdash; are linked to your IMS Org ID.
 
