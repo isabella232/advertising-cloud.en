@@ -11,7 +11,7 @@ description: Supported data request types, required setup and field values, and 
 >
 >The contents of this document are not legal advice and are not meant to substitute for legal advice. Consult with your legal counsel for advice concerning the General Data Protection Regulation.
 
-The [General Data Protection Regulation](https://gdpr-info.eu/) (GDPR), a law in effect May 25, 2018, gives all individuals (data subjects) within the borders of the European Union (EU) control of their personal data and simplifies the regulatory environment for international business. This law applies to all businesses (data controllers) that offer goods or services to, monitor the behavior of, or collect personal data from individuals within the borders of the EU at the time their personal data is processed, regardless of the data controller's business location.
+The [General Data Protection Regulation](https://www.adobe.com/privacy/general-data-protection-regulation/what-is-gdpr.html) (GDPR), a law in effect May 25, 2018, gives all individuals (data subjects) within the borders of the European Union (EU) control of their personal data and simplifies the regulatory environment for international business. This law applies to all businesses (data controllers) that offer goods or services to, monitor the behavior of, or collect personal data from individuals within the borders of the EU at the time their personal data is processed, regardless of the data controller's business location.
 
 Adobe Experience Cloud acts as a data processor for any personal data it receives and stores on behalf of its customers. As a data controller, you determine the personal data that Adobe Experience Cloud processes and stores on your behalf.
 
