@@ -47,6 +47,6 @@ For more information about the Adobe Privacy services for CCPA, see the [Adobe P
 
         This action triggers the pixel to fire and to collect the consumer’s cookie ID within the “CCPA – Opt out of sale”  segment.
 
-1. (Optional) To access the list of cookie IDs that have been added to the “CCPA opted out of sale” segment in your account, contact your Advertising Cloud account manager to request a file export. Include the advertiser name, the email address for the Advertising Cloud account, and the segment name.
+1. (Optional) To access the list of cookie IDs that have been added to the “CCPA opt out of sale” segment in your account, contact your Advertising Cloud account manager to request a file export. Include the advertiser name, the email address for the Advertising Cloud account, and the segment name.
 
     The file may be used as a reference when considering the use of Advertising Cloud campaign data in downstream activities that involve service providers outside of Adobe, for example for segmentation or user profile creation.
