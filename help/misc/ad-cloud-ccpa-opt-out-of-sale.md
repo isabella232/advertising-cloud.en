@@ -34,11 +34,12 @@ You can communicate consumer opt-out-of-sale requests by using either:
 
 1. Log into the advertiser's account in Advertising Cloud DSP at [https://www.tubemogul.com](https://www.tubemogul.com).
 1. Create a segment to capture the opt-out requests:
+
    1. In the main menu, select **Audiences > Segments**.
    1. Click **Create**.
    1. Enter the segment name, and then click **Save and Close**.
 
-       Recommended segment name: “Your Advertiser Name – CCPA Opt Out of Sale”
+      Recommended segment name: “Your Advertiser Name – CCPA Opt Out of Sale”
 
 1. In the Segments list, hold the cursor over the new segment and click **Get pixel**.
 1. Copy the image pixel (beginning with `<img src="https://rtd-tm.everesttech.net"`) to collect user segments that visited a site, and implement the pixel using the mechanism that your company uses to track CCPA opt-out of sale requests (such as using a Consent Management Platform).  
@@ -93,11 +94,8 @@ You can retrieve links to the monthly reports that were created in the previous 
 ### Method 1: Retrieve Consumer Opt-out-of-Sale Reports Within Advertising Cloud
 
 1. Log into the advertiser's account in Advertising Cloud DSP at [https://www.tubemogul.com](https://www.tubemogul.com).
-
 1. In the main menu, select **Audiences > Segments**.
-
 1. Above the segment list, click **Access CCPA Reports**.
-
 1. Click the link for any monthly report to download a ZIP file that you can extract to CSV format. <!-- verify -->
 
 ### Method 2: Retrieve Consumer Opt-out-of-Sale Reports Using the Advertising Cloud Trafficking API
