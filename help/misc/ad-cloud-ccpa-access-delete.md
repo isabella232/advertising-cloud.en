@@ -69,7 +69,7 @@ To make requests to access and delete consumer personal information from Adverti
    >
    >If your business has multiple Adobe Experience Cloud Identity Management Service Organization IDs (IMS Org IDs), then you must send separate API requests for each. You can, however make one API request to multiple Advertising Cloud sub-solutions (Search, Creative, DSP, and DCO), with one account per sub-solution.
 
-All of these steps are necessary to receive support from Advertising Cloud. For more information about these and other related tasks you need to perform using the Adobe Experience Platform Privacy Service, and where to find the items you'll need, see [www.adobe.io/apis/cloudplatform/gdpr.html](https://www.adobe.io/apis/experienceplatform/gdpr.html).
+All of these steps are necessary to receive support from Advertising Cloud. For more information about these and other related tasks you need to perform using the Adobe Experience Platform Privacy Service, and where to find the items you'll need, see [https://docs.adobe.com/content/help/en/experience-platform/privacy/home.html](https://docs.adobe.com/content/help/en/experience-platform/privacy/home.html).
 
 ## Required Field Values in Advertising Cloud JSON Requests
 
