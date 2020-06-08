@@ -30,7 +30,6 @@ For more information about the Adobe Privacy services for CCPA, see the [Adobe P
 You can communicate consumer opt-out-of-sale requests by using either:
 
 * a CCPA opt-out-of-sale segment created in Advertising Cloud
-
 * the Adobe Experience Platform Privacy Service API
 
 ### Method 1: Capture CCPA Opt-Out-of-Sale Requests Using a CCPA Opt-out-of-sale Segment
@@ -122,7 +121,7 @@ User lists are generated on the first of each month for the previous month. For 
 
 You can retrieve the user lists either within Advertising Cloud or by using the Advertising Cloud Trafficking API.
 
-## Method 1 - Retrieve Monthly Opt-out-of-Sale User Lists Within Advertising Cloud
+### Method 1 - Retrieve Monthly Opt-out-of-Sale User Lists Within Advertising Cloud
 
 <!-- User Lists? -->
 
@@ -134,7 +133,7 @@ You can retrieve the user lists either within Advertising Cloud or by using the 
 
 1. Click the link for any user list to XXXX. <!-- Does clicking the link download a file, open it onscreen, or what? And I assume the report names will include the date range? -->
 
-## Method 2: Retrieve Monthly User Lists Using the Advertising Cloud Trafficking API
+### Method 2: Retrieve Monthly User Lists Using the Advertising Cloud Trafficking API
 
 This feature is available to organizations that use the Trafficking API. See the documentation for the Trafficking API for more information about how to retrieve segment user lists.
 
