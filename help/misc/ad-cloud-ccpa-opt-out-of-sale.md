@@ -17,9 +17,7 @@ As a business, you will determine the personal data that Adobe Experience Cloud 
 
 As your service provider, Adobe Advertising Cloud provides support for your business to fulfill its obligations under CCPA that are applicable to the use of Advertising Cloud products and services, including managing consumer requests to access and delete personal information and managing consumer requests to opt out of the sale of personal information.
 
-This document describes how Adobe Advertising Cloud Demand Side Platform (DSP), as a service provider, supports the consumer right to opt out of the "sale" of "personal information," as each term is defined by the CCPA. It includes information on how to communicate opt-out-of-sale requests to Advertising Cloud and how to retrieve user reports for your organization's opt-out-of-sale requests. <!-- wording? -->
-
- <!-- include mini TOC? At least reword to explain new options below -->
+This document describes how Adobe Advertising Cloud Demand Side Platform (DSP), as a service provider, supports the consumer right to opt out of the "sale" of "personal information," as each term is defined by the CCPA. It includes information on how to communicate opt-out-of-sale requests to Advertising Cloud and how to retrieve reports of your organization's opt-out-of-sale requests.
 
 For information about how Advertising Cloud Search, Advertising Cloud Creative, Advertising Cloud DSP (Demand Side Platform), and Media Optimizer DCO support consumers' personal information access and deletion rights, see [Adobe Advertising Cloud Support for the California Consumer Privacy Act: Consumer Data Access and Delete Support](ad-cloud-ccpa-access-delete.md).
 
@@ -42,7 +40,7 @@ You can communicate consumer opt-out-of-sale requests by using either:
 
        Recommended segment name: “Your Advertiser Name – CCPA Opt Out of Sale”
 
-1. Locate the new segment in the Segments list, click ![Options menu](assets/edit-menu.png) in the Options column, and then select **get pixel**. <!-- Isn't this UI supposed to change to a button on a new mouseover toolbar on the right end of the row? -->
+1. In the Segments list, hold the cursor over the new segment and click **Get pixel**.
 1. Copy the image pixel (beginning with `<img src="https://rtd-tm.everesttech.net"`) to collect user segments that visited a site, and implement the pixel using the mechanism that your company uses to track CCPA opt-out of sale requests (such as using a Consent Management Platform).  
 
     Once the pixel is implemented, Advertising Cloud will begin to collect a pool of IDs on the advertiser’s behalf.
@@ -80,50 +78,19 @@ You can communicate consumer opt-out-of-sale requests by using either:
 
    For advertisers who have a mobile app to interact with customers and launch campaigns with the DSP, you'll need to download the Privacy-ready Mobile SDKs for Experience Cloud. The Mobile SDKs allow businesses to set opt-out status flags, retrieve the consumer's device ID (namespace ID: deviceID), and submit requests to the Privacy Service API. Your mobile app will require an SDK Version 4.15.0 or greater.
 
-   When you submit a consumer opt-out-of-sale request, <!-- what happens? -->. <!-- the cookie ID or device ID and all cost, click, and revenue data associated with the cookie are deleted from the server -->
-
    >[!NOTE]
    >
    >If your business has multiple Adobe Experience Cloud Identity Management Service Organization IDs (IMS Org IDs), then you must send separate API requests for each. You can, however make one API request to multiple Advertising Cloud sub-solutions (Search, Creative, DSP, and DCO), with one account per sub-solution.
 
 All of these steps are necessary to receive support from Advertising Cloud. For more information about these and other related tasks you need to perform using the Adobe Experience Platform Privacy Service, and where to find the items you'll need, see [https://docs.adobe.com/content/help/en/experience-platform/privacy/home.html](https://docs.adobe.com/content/help/en/experience-platform/privacy/home.html).
 
-#### Required Field Values in Advertising Cloud JSON Requests
+## Retrieving Reports of Consumers Who Submitted Opt-out-of-sale Requests
 
-"company context": 
+Advertising Cloud generates monthly reports of users who submitted opt-out-of-sale requests for the account, as comma-separated values (CSV) files in ZIP format. The data consolidates requests captured using CCPA opt-out-of-sale segments and any submissions made via the Privacy Service API, and it includes cookie IDs by segment and advertiser. Reports are generated on the first of each month for the previous month. For example, the monthly user list for June is available on 1 July.
 
-* "namespace": **imsOrgID**
-* "value": <*your IMS Org ID value*>
+You can retrieve links to the monthly reports that were created in the previous three months, either from within Advertising Cloud or by using the Advertising Cloud Trafficking API. Each link is valid for seven days. After the links expire, you can retrieve new links.
 
-"users": 
-
-* "key": <*usually the name of the customer*> 
-
-<!-- EDIT -- or is "action" even applicable here? -->* "action": either **access** or **delete**
-
-* "user IDs":
-
-    * "namespace": **411** (which indicates the adcloud cookie space)
-
-    * "value": <*the actual customer’s cookie ID value as retrieved from AdobePrivacy.js*>
-
-* "include": **adCloud** (which is the Adobe product that applies to the request)
-
-* "regulation": **ccpa** (which is the privacy regulation that applies to the request)
-
-## Retrieving User Lists of Consumers Who Submitted Opt-out-of-sale Requests
-
-<!-- Do we want to call these user lists, or is there some other data that makes them "reports?" It looks like this will be a list of device IDs (where a "user" is represented by a device ID) by segment per advertiser in the account. -->
-
-You can retrieve monthly user lists of consumers, represented by device IDs, who submitted opt-out-of-sale requests for the account. The data consolidates requests captured using CCPA opt-out-of-sale segments and any submissions made via the Privacy Service API and it includes device IDs by segment and advertiser. You can retrieve monthly user lists that were created in the previous three months.<!-- can you download the report data somehow? -->
-
-User lists are generated on the first of each month for the previous month. For example, the monthly user list for June is available on 1 July.
-
-You can retrieve the user lists either within Advertising Cloud or by using the Advertising Cloud Trafficking API.
-
-### Method 1 - Retrieve Monthly Opt-out-of-Sale User Lists Within Advertising Cloud
-
-<!-- User Lists? -->
+### Method 1: Retrieve Consumer Opt-out-of-Sale Reports Within Advertising Cloud
 
 1. Log into the advertiser's account in Advertising Cloud DSP at [https://www.tubemogul.com](https://www.tubemogul.com).
 
@@ -131,10 +98,14 @@ You can retrieve the user lists either within Advertising Cloud or by using the 
 
 1. Above the segment list, click **Access CCPA Reports**.
 
-1. Click the link for any user list to XXXX. <!-- Does clicking the link download a file, open it onscreen, or what? And I assume the report names will include the date range? -->
+1. Click the link for any monthly report to download a ZIP file that you can extract to CSV format. <!-- verify -->
 
-### Method 2: Retrieve Monthly User Lists Using the Advertising Cloud Trafficking API
+### Method 2: Retrieve Consumer Opt-out-of-Sale Reports Using the Advertising Cloud Trafficking API
 
-This feature is available to organizations that use the Trafficking API. See the documentation for the Trafficking API for more information about how to retrieve segment user lists.
+This feature is available to organizations that use the Trafficking API. See the documentation for the Trafficking API for more information.
 
 If your organization doesn't use the Trafficking API but is interested in more information, contact your Adobe account manager.
+
+## Appendix: Required Values and Examples for Privacy Service API Users
+
+TBD
