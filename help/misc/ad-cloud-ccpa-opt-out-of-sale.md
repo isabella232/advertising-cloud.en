@@ -59,7 +59,7 @@ You can communicate consumer opt-out-of-sale requests by using either:
 
 *Advertisers assigned an Experience Cloud Organization ID (IMS Org ID) only*
 
-1. Deploy a JavaScript library to retrieve and remove your customer's cookies. The same library, AdobePrivacy.js, is used for all Adobe Experience Cloud solutions.
+1. Deploy a JavaScript library to retrieve your customer's cookies. The same library, AdobePrivacy.js, is used for all Adobe Experience Cloud solutions.
 
    >[!IMPORTANT]
    >
@@ -104,6 +104,40 @@ This feature is available to organizations that use the Trafficking API. See the
 
 If your organization doesn't use the Trafficking API but is interested in more information, contact your Adobe account manager.
 
-## Appendix: Required Values and Examples for Privacy Service API Users
+## Appendix: CCPA Opt-out-of-sale Request Format for Privacy Service API Users
 
-TBD
+<!-- Can I  just point to API doc at https://docs.adobe.com/content/help/en/experience-platform/privacy/api/privacy-jobs.html#opt-out ? Or do clients need to do something different in this case? -->
+
+### Request Headers (Mandatory)
+ 
+Accept : application/json
+x-api-key : <*API Key*>
+x-gw-ims-org-id : <*IMS Org ID*>
+Authorization : Bearer <*auth token*>
+ 
+### Example Request Body
+{ 
+  "optOutOfSale" : true,
+  "entities": [
+    {
+      "nameSpace": "email",
+      "values": [
+        "abc@gmail.com",
+        "cde@ymail.com"
+      ]
+    },
+    {
+      "nameSpace": "mcid",
+      "values": [
+        "SJKAFHASKF2143255",
+        "AFKJHFA141441414141"
+      ]
+    }
+  ]
+}
+
+>[!NOTE]
+>
+>"nameSpace" properties allow only valid nameSpace qualifiers.
+>The IMS Org ID is inherited from the header "x-gw-ims-org-id."
+>"ccpaOptOutOfSale" properties allow true/false (*true* for opt out and *false* for opt in]
