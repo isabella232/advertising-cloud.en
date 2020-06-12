@@ -148,4 +148,4 @@ where:
 
 * `"namespace": "ECID"` indicates the consumer's Adobe Experience Cloud ID
       --- **Should this be the AdCloud cookie ID instead?**
-* `"include": \["AdCloud"\]` indicates the Adobe product that applies to the request
+* `"include": \["AdCloud"\]` indicates that the request applies to Advertising Cloud
