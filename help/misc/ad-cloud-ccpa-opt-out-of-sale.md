@@ -32,14 +32,24 @@ You can communicate consumer opt-out-of-sale requests by using either:
 
 ### Method 1: Capture CCPA Opt-Out-of-Sale Requests Using a CCPA Opt-out-of-sale Segment
 
+>[!NOTE]
+>
+>CCPA opt-out-of-sale segments never expire.
+
 1. Log into the advertiser's account in Advertising Cloud DSP at [https://www.tubemogul.com](https://www.tubemogul.com).
 1. Create a segment to capture the opt-out requests:
 
    1. In the main menu, select **Audiences > Segments**.
-   1. Click **Create**.
-   1. Enter the segment name, and then click **Save and Close**.
 
-      Recommended segment name: “Your Advertiser Name – CCPA Opt Out of Sale”
+    1. Above the data table, click **Create**.
+
+    1. Enter a unique **Segment Name**.
+
+       Recommended segment name: “<*Your Advertiser Name*> – CCPA Opt Out of Sale” (such as "Acme - CCPA Opt Out of Sale")
+
+    1. For the **Segment Type**, select **CCPA opt out of sale**.
+
+    1. Click **Save**.
 
 1. In the Segments list, hold the cursor over the new segment and click **Get pixel**.
 1. Copy the image pixel (beginning with `<img src="https://rtd-tm.everesttech.net"`) to collect user segments that visited a site, and implement the pixel using the mechanism that your company uses to track CCPA opt-out of sale requests (such as using a Consent Management Platform).  
