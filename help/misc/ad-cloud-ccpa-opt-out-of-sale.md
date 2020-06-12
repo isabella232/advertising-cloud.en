@@ -99,9 +99,9 @@ All of these steps are necessary to receive support from Advertising Cloud. For 
 
 ## Retrieving Reports of Consumers Who Submitted Opt-Out-of-Sale Requests
 
-Advertising Cloud generates monthly reports of users, represented by cookie IDs, who submitted opt-out-of-sale requests for the account. The data consolidates requests captured using CCPA opt-out-of-sale segments and any submissions made via the Privacy Service API. For CCPA opt-out-of-sale segments created within Adobe Advertising Cloud, the data lists cookie IDs by segment and by advertiser. <!--It includes cookie IDs by segment in case multiple CCPA opt-out-of-sale segments are created within a single account, as well as by advertiser (for segments created within Adobe Advertising Cloud). -->Reports are generated on the first of each month for the previous month. For example, the monthly user list for June is available on July 1.
+Advertising Cloud generates monthly reports of users who submitted opt-out-of-sale requests for the account. Each report is available as a tab-separated text file compressed into GZIP format. The data consolidates requests captured using CCPA opt-out-of-sale segments and any submissions made via the Privacy Service API. Users captured in CCPA opt-out-of-sale segments created in Advertising Cloud are identified by segment and by advertiser. Reports are generated on the first of each month for the previous month. For example, the monthly user list for June is available on July 1.
 
-You can retrieve links to the monthly reports that were created in the previous three months, either from within Advertising Cloud or by using the Advertising Cloud Trafficking API. Each link opens a tab-separated text file compressed into GZIP format. Each link is valid for seven days but refreshes each time a user clicks it.
+You can retrieve links to the monthly reports that were created in the previous three months, either from within Advertising Cloud or by using the Advertising Cloud Trafficking API. Each link is valid for seven days but refreshes each time a user clicks it.
 
 ### Method 1: Retrieve Consumer Opt-Out-of-Sale Reports Within Advertising Cloud
 
