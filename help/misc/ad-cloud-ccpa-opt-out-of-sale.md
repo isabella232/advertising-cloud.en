@@ -34,7 +34,7 @@ You can communicate consumer opt-out-of-sale requests by using either:
 
 >[!NOTE]
 >
->CCPA opt-out-of-sale segments never expire.
+>Users remain in CCPA opt-out-of-sale segments forever.
 
 1. Log into the advertiser's account in Advertising Cloud DSP at [https://www.tubemogul.com](https://www.tubemogul.com).
 1. Create a segment to capture the opt-out requests:
