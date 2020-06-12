@@ -99,16 +99,16 @@ All of these steps are necessary to receive support from Advertising Cloud. For 
 
 ## Retrieving Reports of Consumers Who Submitted Opt-out-of-sale Requests
 
-Advertising Cloud generates monthly reports of users who submitted opt-out-of-sale requests for the account, as comma-separated values (CSV) files in ZIP format. The data consolidates requests captured using CCPA opt-out-of-sale segments and any submissions made via the Privacy Service API, and it includes cookie IDs by segment and advertiser. Reports are generated on the first of each month for the previous month. For example, the monthly user list for June is available on 1 July.
+Advertising Cloud generates monthly reports of users who submitted opt-out-of-sale requests for the account. The data consolidates requests captured using CCPA opt-out-of-sale segments and any submissions made via the Privacy Service API, and it includes cookie IDs by segment and advertiser. Reports are generated on the first of each month for the previous month. For example, the monthly user list for June is available on 1 July.
 
-You can retrieve links to the monthly reports that were created in the previous three months, either from within Advertising Cloud or by using the Advertising Cloud Trafficking API. Each link is valid for seven days. After the links expire, you can retrieve new links.
+You can retrieve links to the monthly reports that were created in the previous three months, either from within Advertising Cloud or by using the Advertising Cloud Trafficking API. Each link opens a tab-separated text file compressed into ZIP format, and each link is valid for seven days. After the links expire, you can retrieve new links.
 
 ### Method 1: Retrieve Consumer Opt-out-of-Sale Reports Within Advertising Cloud
 
 1. Log into the advertiser's account in Advertising Cloud DSP at [https://www.tubemogul.com](https://www.tubemogul.com).
 1. In the main menu, select **Audiences > Segments**.
 1. Above the segment list, click **Access CCPA Reports**.
-1. Click the link for any monthly report to download a ZIP file that you can extract to CSV format. <!-- verify -->
+1. Click the link for any monthly report to download a ZIP file, which you can extract to a tab-separated text file.
 
 ### Method 2: Retrieve Consumer Opt-out-of-Sale Reports Using the Advertising Cloud Trafficking API
 
