@@ -133,7 +133,7 @@ curl -X POST \
             "type": "standard"
           },
           {
-            "namespace": "ECID",    **Should this be AdCloud?**
+            "namespace": "ECID",    <!-- Should this be AdCloud? -->
             "type": "standard",
             "value":  "443636576799758681021090721276",
             "isDeletedClientSide": false
@@ -146,5 +146,5 @@ curl -X POST \
 
 where:
 
-* '"namespace": "ECID"' indicates the consumer's Adobe Experience Cloud ID **Should this be the AdCloud cookie ID instead?
-* '"include": ["AdCloud"]' indicates the Adobe product that applies to the request
+* `"namespace": "ECID"` indicates the consumer's Adobe Experience Cloud ID **Should this be the AdCloud cookie ID instead?**
+* `"include": ["AdCloud"]` indicates the Adobe product that applies to the request
