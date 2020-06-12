@@ -104,40 +104,43 @@ This feature is available to organizations that use the Trafficking API. See the
 
 If your organization doesn't use the Trafficking API but is interested in more information, contact your Adobe account manager.
 
-## Appendix: CCPA Opt-out-of-sale Request Format for Privacy Service API Users
+## Appendix: Example CCPA Opt-out-of-sale Request for Privacy Service API Users
 
-<!-- Can I  just point to API doc at https://docs.adobe.com/content/help/en/experience-platform/privacy/api/privacy-jobs.html#opt-out ? Or do clients need to do something different in this case? -->
+curl -X POST \
+  https://platform.adobe.io/data/privacy/gdpr/ \
+  -H 'Authorization: Bearer {ACCESS_TOKEN}' \
+  -H 'Content-Type: application/json' \
+  -H 'x-api-key: {API_KEY}' \
+  -H 'x-gw-ims-org-id: {IMS_ORG}' \
+  -d '{
+    "companyContexts": [
+      {
+        "namespace": "imsOrgID",
+        "value": "{IMS_ORG}"
+      }
+    ],
+    "users": [
+      {
+        "key": "DavidSmith",
+        "action": ["opt-out-of-sale"],
+        "userIDs": [
+          {
+            "namespace": "email",
+            "value": "dsmith@acme.com",
+            "type": "standard"
+          },
+          {
+            "namespace": "ECID",    **Should this be AdCloud?**
+            "type": "standard",
+            "value":  "443636576799758681021090721276",
+            "isDeletedClientSide": false
+          }
+		],
+    "include": ["AdCloud"],
+    "regulation": "ccpa"
+}'
 
-### Request Headers (Mandatory)
- 
-Accept : application/json
-x-api-key : <*API Key*>
-x-gw-ims-org-id : <*IMS Org ID*>
-Authorization : Bearer <*auth token*>
- 
-### Example Request Body
-{ 
-  "optOutOfSale" : true,
-  "entities": [
-    {
-      "nameSpace": "email",
-      "values": [
-        "abc@gmail.com",
-        "cde@ymail.com"
-      ]
-    },
-    {
-      "nameSpace": "mcid",
-      "values": [
-        "SJKAFHASKF2143255",
-        "AFKJHFA141441414141"
-      ]
-    }
-  ]
-}
+where:
 
->[!NOTE]
->
->"nameSpace" properties allow only valid nameSpace qualifiers.
->The IMS Org ID is inherited from the header "x-gw-ims-org-id."
->"ccpaOptOutOfSale" properties allow true/false (*true* for opt out and *false* for opt in]
+* '"namespace": "ECID"' indicates the consumer's Adobe Experience Cloud ID **Should this be the AdCloud cookie ID instead?
+* '"include": ["AdCloud"]' indicates the Adobe product that applies to the request
