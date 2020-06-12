@@ -1,9 +1,9 @@
 ---
-title: Adobe Advertising Cloud support for the California Consumer Privacy Act &#58; Consumer Opt-out Support
-description: Support for capturing consumer opt-out of sale requests
+title: Adobe Advertising Cloud support for the California Consumer Privacy Act &#58; Consumer Opt-Out Support
+description: Support for capturing consumer opt-out-of-sale requests
 ---
 
-# Adobe Advertising Cloud Support for the California Consumer Privacy Act: Consumer Opt-out Support
+# Adobe Advertising Cloud Support for the California Consumer Privacy Act: Consumer Opt-Out Support
 
 *For Adobe Advertising Cloud Demand Side Platform*
 
@@ -23,21 +23,21 @@ For information about how Advertising Cloud Search, Advertising Cloud Creative, 
 
 For more information about the Adobe Privacy services for CCPA, see the [Adobe Privacy Center](https://www.adobe.com/privacy/ccpa.html).
 
-## Communicating Consumer Opt-out-of-sale Requests to Advertising Cloud
+## Communicating Consumer Opt-Out-of-Sale Requests to Advertising Cloud
 
 You can communicate consumer opt-out-of-sale requests by using either:
 
 * a CCPA opt-out-of-sale segment created in Advertising Cloud
 * the Adobe Experience Platform Privacy Service API
 
-### Method 1: Capture CCPA Opt-Out-of-Sale Requests Using a CCPA Opt-out-of-sale Segment
+### Method 1: Capture CCPA Opt-Out-of-Sale Requests Using a CCPA Opt-Out-of-Sale Segment
 
 >[!NOTE]
 >
->Users remain in CCPA opt-out-of-sale segments forever.
+>Users remain in CCPA opt-out-of-sale segments indefinitely.
 
 1. Log into the advertiser's account in Advertising Cloud DSP at [https://www.tubemogul.com](https://www.tubemogul.com).
-1. Create a segment to capture the opt-out requests:
+1. Create a CCPA opt-out-of-sale segment to capture the opt-out requests:
 
    1. In the main menu, select **Audiences > Segments**.
 
@@ -52,20 +52,20 @@ You can communicate consumer opt-out-of-sale requests by using either:
     1. Click **Save**.
 
 1. In the Segments list, hold the cursor over the new segment and click **Get pixel**.
-1. Copy the image pixel (beginning with `<img src="https://rtd-tm.everesttech.net"`) to collect user segments that visited a site, and implement the pixel using the mechanism that your company uses to track CCPA opt-out of sale requests (such as using a Consent Management Platform).  
+1. Copy the image pixel (beginning with `<img src="https://rtd-tm.everesttech.net"`) to collect user IDs that visited a site, and implement the pixel using the mechanism that your company uses to track CCPA opt-out of sale requests (such as using a Consent Management Platform).  
 
     Once the pixel is implemented, Advertising Cloud will begin to collect a pool of IDs on the advertiser’s behalf.
 
-    Although implementation choice and logic is up to the advertiser, here’s an example of how an advertiser would fire the pixel:
+    Although implementation choice and logic is up to the advertiser, here’s an example of how an advertiser could fire the pixel:
 
     1. A consumer lands on the advertiser's homepage.
     1. The consumer finds and clicks on the advertiser’s “CCPA opt out of sale” button.
     1. The consumer is presented with a list of service providers with which the advertiser works.
     1. The consumer checks the box to opt out of selling data to Adobe Advertising Cloud.
 
-        This action triggers the pixel to fire and to collect the consumer’s cookie ID within the “CCPA – Opt out of sale”  segment.
+        This action triggers the pixel to fire and to collect the consumer’s cookie ID within the specified “CCPA – Opt out of sale”  segment.
 
-### Method 2: Capture CCPA Opt-out-of-Sale Requests Using the Adobe Experience Platform Privacy Service API
+### Method 2: Capture CCPA Opt-Out-of-Sale Requests Using the Adobe Experience Platform Privacy Service API
 
 *Advertisers assigned an Experience Cloud Organization ID (IMS Org ID) only*
 
@@ -97,26 +97,26 @@ You can communicate consumer opt-out-of-sale requests by using either:
 
 All of these steps are necessary to receive support from Advertising Cloud. For more information about these and other related tasks you need to perform using the Adobe Experience Platform Privacy Service, and where to find the items you'll need, see [https://docs.adobe.com/content/help/en/experience-platform/privacy/home.html](https://docs.adobe.com/content/help/en/experience-platform/privacy/home.html).
 
-## Retrieving Reports of Consumers Who Submitted Opt-out-of-sale Requests
+## Retrieving Reports of Consumers Who Submitted Opt-Out-of-Sale Requests
 
-Advertising Cloud generates monthly reports of users who submitted opt-out-of-sale requests for the account. The data consolidates requests captured using CCPA opt-out-of-sale segments and any submissions made via the Privacy Service API, and it includes cookie IDs by segment and advertiser. Reports are generated on the first of each month for the previous month. For example, the monthly user list for June is available on 1 July.
+Advertising Cloud generates monthly reports of users who submitted opt-out-of-sale requests for the account. The data consolidates requests captured using CCPA opt-out-of-sale segments and any submissions made via the Privacy Service API. <!-- It includes cookie IDs by segment and by advertiser for all CCPA opt-out-of-sale segments within a single Advertising Cloud account.--> It includes cookie IDs by segment in case multiple CCPA opt-out-of-sale segments are created within a single account, as well as by advertiser (for segments created within Adobe Advertising Cloud). Reports are generated on the first of each month for the previous month. For example, the monthly user list for June is available on July 1.
 
-You can retrieve links to the monthly reports that were created in the previous three months, either from within Advertising Cloud or by using the Advertising Cloud Trafficking API. Each link opens a tab-separated text file compressed into ZIP format, and each link is valid for seven days. After the links expire, you can retrieve new links.
+You can retrieve links to the monthly reports that were created in the previous three months, either from within Advertising Cloud or by using the Advertising Cloud Trafficking API. Each link opens a tab-separated text file compressed into GZIP format. Each link is valid for seven days but refreshes each time a user clicks it.
 
-### Method 1: Retrieve Consumer Opt-out-of-Sale Reports Within Advertising Cloud
+### Method 1: Retrieve Consumer Opt-Out-of-Sale Reports Within Advertising Cloud
 
 1. Log into the advertiser's account in Advertising Cloud DSP at [https://www.tubemogul.com](https://www.tubemogul.com).
 1. In the main menu, select **Audiences > Segments**.
 1. Above the segment list, click **Access CCPA Reports**.
-1. Click the link for any monthly report to download a ZIP file, which you can extract to a tab-separated text file.
+1. Click the link for any monthly report to download a GZIP file, which you can extract to a tab-separated text file.
 
-### Method 2: Retrieve Consumer Opt-out-of-Sale Reports Using the Advertising Cloud Trafficking API
+### Method 2: Retrieve Consumer Opt-Out-of-Sale Reports Using the Advertising Cloud Trafficking API
 
 This feature is available to organizations that use the Trafficking API. See the documentation for the Trafficking API for more information.
 
 If your organization doesn't use the Trafficking API but is interested in more information, contact your Adobe account manager.
 
-## Appendix: Example CCPA Opt-out-of-sale Request for Privacy Service API Users
+## Appendix: Example CCPA Opt-Out-of-Sale Request for Privacy Service API Users
 
 ```
 curl -X POST \
