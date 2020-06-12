@@ -77,6 +77,8 @@ You can communicate consumer opt-out-of-sale requests by using either:
 
 1. Use the Adobe Experience Platform Privacy Service API to submit opt-out-of-sale requests to Advertising Cloud on behalf of consumers, and to check the status of existing requests.
 
+   See the Appendix below for an example of an opt-out-of-sale request.
+
    For advertisers who have a mobile app to interact with customers and launch campaigns with the DSP, you'll need to download the Privacy-ready Mobile SDKs for Experience Cloud. The Mobile SDKs allow businesses to set opt-out status flags, retrieve the consumer's device ID (namespace ID: deviceID), and submit requests to the Privacy Service API. Your mobile app will require an SDK Version 4.15.0 or greater.
 
    >[!NOTE]
@@ -106,6 +108,7 @@ If your organization doesn't use the Trafficking API but is interested in more i
 
 ## Appendix: Example CCPA Opt-out-of-sale Request for Privacy Service API Users
 
+```
 curl -X POST \
   https://platform.adobe.io/data/privacy/gdpr/ \
   -H 'Authorization: Bearer {ACCESS_TOKEN}' \
@@ -135,10 +138,11 @@ curl -X POST \
             "value":  "443636576799758681021090721276",
             "isDeletedClientSide": false
           }
-		],
+    ],
     "include": ["AdCloud"],
     "regulation": "ccpa"
 }'
+```
 
 where:
 
