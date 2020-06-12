@@ -133,10 +133,9 @@ curl -X POST \
             "type": "standard"
           },
           {
-            "namespace": "ECID",    <!-- Should this be AdCloud? -->
+            "namespace": "AdCloud",
             "type": "standard",
-            "value":  "443636576799758681021090721276", <!-- value if AdCloud cookie: Wqersioejr-wdg -->
-            "isDeletedClientSide": false    <!-- necessary? -->
+            "value":  "Wqersioejr-wdg",
           }
     ],
     "include": ["AdCloud"],
@@ -146,6 +145,5 @@ curl -X POST \
 
 where:
 
-* `"namespace": "ECID"` indicates the consumer's Adobe Experience Cloud ID
-      --- **Should this be the AdCloud cookie ID instead?**
+* `"namespace": "AdCloud"` indicates the AdCloud cookie space, and the corresponding value is the customer’s cookie ID value as retrieved from AdobePrivacy.js
 * `"include": \["AdCloud"\]` indicates that the request applies to Advertising Cloud
