@@ -135,8 +135,8 @@ curl -X POST \
           {
             "namespace": "ECID",    <!-- Should this be AdCloud? -->
             "type": "standard",
-            "value":  "443636576799758681021090721276",
-            "isDeletedClientSide": false
+            "value":  "443636576799758681021090721276", <!-- value if AdCloud cookie: Wqersioejr-wdg -->
+            "isDeletedClientSide": false    <!-- necessary? -->
           }
     ],
     "include": ["AdCloud"],
