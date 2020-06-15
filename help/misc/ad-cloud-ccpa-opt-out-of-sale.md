@@ -1,9 +1,9 @@
 ---
-title: Adobe Advertising Cloud support for the California Consumer Privacy Act &#58; Consumer Opt-Out Support
+title: Adobe Advertising Cloud support for the California Consumer Privacy Act &#58; Consumer Opt-Out of Sale Support
 description: Support for capturing consumer opt-out-of-sale requests
 ---
 
-# Adobe Advertising Cloud Support for the California Consumer Privacy Act: Consumer Opt-Out Support
+# Adobe Advertising Cloud Support for the California Consumer Privacy Act: Consumer Opt-Out of Sale Support
 
 *For Adobe Advertising Cloud Demand Side Platform*
 
@@ -30,7 +30,7 @@ You can communicate consumer opt-out-of-sale requests by using either:
 * a CCPA opt-out-of-sale segment created in Advertising Cloud
 * the Adobe Experience Platform Privacy Service API
 
-### Method 1: Capture CCPA Opt-Out-of-Sale Requests Using a CCPA Opt-Out-of-Sale Segment
+### Method 1: Communicate CCPA Opt-Out-of-Sale Requests Using a CCPA Opt-Out-of-Sale Segment
 
 >[!NOTE]
 >
@@ -65,7 +65,7 @@ You can communicate consumer opt-out-of-sale requests by using either:
 
         This action triggers the pixel to fire and to collect the consumer’s cookie ID within the specified “CCPA – Opt out of sale”  segment.
 
-### Method 2: Capture CCPA Opt-Out-of-Sale Requests Using the Adobe Experience Platform Privacy Service API
+### Method 2: Communicate CCPA Opt-Out-of-Sale Requests Using the Adobe Experience Platform Privacy Service API
 
 *Advertisers assigned an Experience Cloud Organization ID (IMS Org ID) only*
 
@@ -89,8 +89,6 @@ You can communicate consumer opt-out-of-sale requests by using either:
 
    See the Appendix below for an example of an opt-out-of-sale request.
 
-   For advertisers who have a mobile app to interact with customers and launch campaigns with the DSP, you'll need to download the Privacy-ready Mobile SDKs for Experience Cloud. The Mobile SDKs allow businesses to set opt-out status flags, retrieve the consumer's device ID (namespace ID: deviceID), and submit requests to the Privacy Service API. Your mobile app will require an SDK Version 4.15.0 or greater.
-
    >[!NOTE]
    >
    >If your business has multiple Adobe Experience Cloud Identity Management Service Organization IDs (IMS Org IDs), then you must send separate API requests for each. You can, however make one API request to multiple Advertising Cloud sub-solutions (Search, Creative, DSP, and DCO), with one account per sub-solution.
@@ -99,16 +97,16 @@ All of these steps are necessary to receive support from Advertising Cloud. For 
 
 ## Retrieving Reports of Consumers Who Submitted Opt-Out-of-Sale Requests
 
-Advertising Cloud generates monthly reports of users who submitted opt-out-of-sale requests for the account. Each report is available as a tab-separated text file compressed into GZIP format. The data consolidates requests captured using CCPA opt-out-of-sale segments and any submissions made via the Privacy Service API. Users captured in CCPA opt-out-of-sale segments created in Advertising Cloud are identified by segment and by advertiser. Reports are generated on the first of each month for the previous month. For example, the monthly user list for June is available on July 1.
+Advertising Cloud generates monthly reports of IDs customers have submitted for opt-out-of-sale requests for the account. Each report is available as a tab-separated text file compressed into GZIP format. The data consolidates requests captured using CCPA opt-out-of-sale segments and any submissions made via the Privacy Service API. User IDs captured in CCPA opt-out-of-sale segments created in Advertising Cloud are identified by segment and by advertiser. Reports are generated on the first of each month for the previous month. For example, the monthly user list for June is available on July 1.
 
-You can retrieve links to the monthly reports that were created in the previous three months, either from within Advertising Cloud or by using the Advertising Cloud Trafficking API. Each link is valid for seven days but refreshes each time a user clicks it.
+You can retrieve links to the monthly reports that were created in the previous three months, either from within Advertising Cloud or by using the Advertising Cloud Trafficking API. Each link is valid for seven days but refreshes each time a customer attempts to retrieve one.
 
 ### Method 1: Retrieve Consumer Opt-Out-of-Sale Reports Within Advertising Cloud
 
 1. Log into the advertiser's account in Advertising Cloud DSP at [https://www.tubemogul.com](https://www.tubemogul.com).
 1. In the main menu, select **Audiences > Segments**.
 1. Above the segment list, click **Access CCPA Reports**.
-1. Click the link for any monthly report to download a GZIP file, which you can extract to a tab-separated text file.
+1. Click the link for any available monthly report to download a GZIP file, which you can extract to a tab-separated text file.
 
 ### Method 2: Retrieve Consumer Opt-Out-of-Sale Reports Using the Advertising Cloud Trafficking API
 
