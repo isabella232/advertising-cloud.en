@@ -1,5 +1,5 @@
 ---
-title: Adobe Advertising Cloud support for the California Consumer Privacy Act &#58; Consumer Opt-Out of Sale Support
+title: Adobe Advertising Cloud support for the California Consumer Privacy Act &#58; Consumer Opt-Out-of-Sale Support
 description: Support for capturing consumer opt-out-of-sale requests
 ---
 
