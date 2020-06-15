@@ -27,10 +27,10 @@ For more information about the Adobe Privacy services for CCPA, see the [Adobe P
 
 You can communicate consumer opt-out-of-sale requests by using either:
 
-* a CCPA opt-out-of-sale segment created in Advertising Cloud
+* a CCPA opt-out-of-sale segment created in Advertising Cloud DSP
 * the Adobe Experience Platform Privacy Service API
 
-### Method 1: Communicate CCPA Opt-Out-of-Sale Requests Using a CCPA Opt-Out-of-Sale Segment
+### Method 1: Communicate CCPA Opt-Out-of-Sale Requests Using a CCPA Opt-Out-of-Sale Segment in Advertising Cloud DSP
 
 >[!NOTE]
 >
@@ -97,11 +97,11 @@ All of these steps are necessary to receive support from Advertising Cloud. For 
 
 ## Retrieving Reports of Consumers Who Submitted Opt-Out-of-Sale Requests
 
-Advertising Cloud generates monthly reports of IDs customers have submitted for opt-out-of-sale requests for the account. Each report is available as a tab-separated text file compressed into GZIP format. The data consolidates requests captured using CCPA opt-out-of-sale segments and any submissions made via the Privacy Service API. User IDs captured in CCPA opt-out-of-sale segments created in Advertising Cloud are identified by segment and by advertiser. Reports are generated on the first of each month for the previous month. For example, the monthly user list for June is available on July 1.
+Advertising Cloud generates monthly reports of IDs customers have submitted for opt-out-of-sale requests for the account. Each report is available as a tab-separated text file compressed into GZIP format. The data consolidates requests captured using CCPA opt-out-of-sale segments that were created in Advertising Cloud DSP and any submissions made via the Privacy Service API. User IDs captured in CCPA opt-out-of-sale segments are identified by segment and by advertiser. Reports are generated on the first of each month for the previous month. For example, the monthly user list for June is available on July 1.
 
-You can retrieve links to the monthly reports that were created in the previous three months, either from within Advertising Cloud or by using the Advertising Cloud Trafficking API. Each link is valid for seven days but refreshes each time a customer attempts to retrieve one.
+You can retrieve links to the monthly reports that were created in the previous three months, either from within Advertising Cloud DSP or by using the Advertising Cloud Trafficking API. Each link is valid for seven days but refreshes each time a customer attempts to retrieve one.
 
-### Method 1: Retrieve Consumer Opt-Out-of-Sale Reports Within Advertising Cloud
+### Method 1: Retrieve Consumer Opt-Out-of-Sale Reports Within Advertising Cloud DSP
 
 1. Log into the advertiser's account in Advertising Cloud DSP at [https://www.tubemogul.com](https://www.tubemogul.com).
 1. In the main menu, select **Audiences > Segments**.
