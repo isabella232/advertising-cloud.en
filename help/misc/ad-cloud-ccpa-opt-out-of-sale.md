@@ -36,7 +36,7 @@ You can communicate consumer opt-out-of-sale requests by using either:
 >
 >Users remain in CCPA opt-out-of-sale segments indefinitely.
 
-1. Log into the advertiser's account in Advertising Cloud DSP at [https://www.tubemogul.com](https://www.tubemogul.com).
+1. Log into the advertiser's account in Advertising Cloud DSP at [https://advertising.adobe.com/](https://advertising.adobe.com/).
 1. Create a CCPA opt-out-of-sale segment to capture the opt-out requests:
 
    1. In the main menu, select **Audiences > Segments**.
@@ -103,7 +103,7 @@ You can retrieve links to the monthly reports that were created in the previous 
 
 ### Method 1: Retrieve Consumer Opt-Out-of-Sale Reports Within Advertising Cloud DSP
 
-1. Log into the advertiser's account in Advertising Cloud DSP at [https://www.tubemogul.com](https://www.tubemogul.com).
+1. Log into the advertiser's account in Advertising Cloud DSP at [https://advertising.adobe.com/](https://advertising.adobe.com/).
 1. In the main menu, select **Audiences > Segments**.
 1. Above the segment list, click **Access CCPA Reports**.
 1. Click the link for any available monthly report to download a GZIP file, which you can extract to a tab-separated text file.
