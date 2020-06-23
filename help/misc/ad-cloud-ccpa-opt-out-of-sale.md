@@ -47,7 +47,7 @@ You can communicate consumer opt-out-of-sale requests by using either:
 
        Recommended segment name: “<*Your Advertiser Name*> – CCPA Opt Out of Sale” (such as "Acme - CCPA Opt Out of Sale")
 
-    1. For the **Segment Type**, select **CCPA opt out of sale**.
+    1. For the **Segment Type**, select **CCPA Opt-out of Sale**.
 
     1. Click **Save**.
 
