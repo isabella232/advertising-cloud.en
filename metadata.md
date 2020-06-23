@@ -13,7 +13,7 @@ git-repo: https://git.corp.adobe.com/AdobeDocs/advertising-cloud.en
 
 # Metadata for internal use
 
-The metadata.md file includes repo-level metadata that passes through to user guide TOC.md files in the repo. If you want to change metadata.md content for any user guide, do so in any TOC.md file.
+The metadata.md file includes repo-level metadata that passes through to user guide TOC.md files in the repo. If you want to change metadata.md content for any user guide, do so in any TOC.md file. 
 
 | metadata | what it does |
 |--- |--- |
