@@ -52,7 +52,7 @@ You can communicate consumer opt-out-of-sale requests by using either:
     1. Click **Save**.
 
 1. In the Segments list, hold the cursor over the new segment and click **Get pixel**.
-1. Copy the image pixel (beginning with `<img src="https://rtd-tm.everesttech.net"`) to collect user IDs that visited a site, and implement the pixel using the mechanism that your company uses to track CCPA opt-out of sale requests (such as using a Consent Management Platform).  
+1. Copy the image pixel (beginning with `<img src="https://rtd-tm.everesttech.net"`) to collect user IDs that visited a site, and implement the pixel using the mechanism that your company uses to track CCPA opt-out of sale requests (such as using a Consent Management Platform).
 
     Once the pixel is implemented, Advertising Cloud will begin to collect a pool of IDs on the advertiser’s behalf.
 
