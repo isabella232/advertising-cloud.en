@@ -16,4 +16,4 @@ This page includes a list of all Adobe Advertising Cloud documentation available
 + Support for Consumer Privacy
   + [Support for the General Data Protection Regulation](misc/ad-cloud-gdpr.md)
   + [Support for the California Consumer Privacy Act: Consumer Data Access and Delete](misc/ad-cloud-ccpa-access-delete.md)
-  + [Support for the California Consumer Privacy Act: Consumer Opt-out](misc/ad-cloud-ccpa-opt-out-of-sale.md)
+  + [Support for the California Consumer Privacy Act: Consumer Opt-Out-of-Sale](misc/ad-cloud-ccpa-opt-out-of-sale.md)
