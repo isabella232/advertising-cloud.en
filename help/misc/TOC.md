@@ -1,5 +1,6 @@
 ---
 user-guide-title: Adobe Advertising Cloud Documentation
+breadcrumb-title: Advertising Cloud Guide
 index: no
 ---
 
