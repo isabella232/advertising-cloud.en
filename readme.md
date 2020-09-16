@@ -3,8 +3,8 @@
 
 | Production | Stage |
 |---|---|
-| [![Build Status](https://docs.ci.corp.adobe.com/job/advertising-cloud.en_production/badge/icon)](https://docs.ci.corp.adobe.com/job/collaborative-doc-instructions.en_production/lastBuild) | [![Build Status](https://docs.ci.corp.adobe.com/job/advertising-cloud.en_stage/badge/icon)](https://docs.ci.corp.adobe.com/job/collaborative-doc-instructions.en_stage/lastBuild) |
-|[Output Prod](https://docs.adobe.com/content/help/en/advertising-cloud/all/home.html)|[Output Stg](https://docs-stg.corp.adobe.com/content/help/en/advertising-cloud/all/home.html)|
+| [![Build Status](https://docs.ci.corp.adobe.com/job/advertising-cloud.en_production/badge/icon)](https://docs.ci.corp.adobe.com/job/advertising-cloud.en_production/lastBuild) | [![Build Status](https://docs.ci.corp.adobe.com/job/advertising-cloud.en_stage/badge/icon)](https://docs.ci.corp.adobe.com/job/advertising-cloud.en_stage/lastBuild) |
+|[AEM Author Prod](https://docs-author.corp.adobe.com/content/help/en/advertising-cloud/all/home.html)|[Output Stg](https://docs-stg.corp.adobe.com/content/help/en/advertising-cloud/all/home.html)|
 
 This is the documentation repository for Adobe Advertising Cloud, including cross-product, DSP, and TV docs. (Later, it will include docs for Creative and Search.)
 
