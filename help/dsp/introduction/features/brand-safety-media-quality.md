@@ -101,10 +101,10 @@ For more information on functionality, contact your preferred vendor directly, o
 
 <table >
     <tr>
-	    <td><p><img src="../../assets/comscore-logo.png" title="Comscore logo" alt="Comscore logo" style="border: none;" border="0" /></p></td>
-		<td><p><img src="../../assets/doubleverify-logo.png" title="DoubleVerify logo" alt="DoubleVerify logo" style="border: none;" border="0" /></p></td>
-		<td><p><img src="../../assets/ias-logo.png" title="Integral Ad Science logo" alt="Integral Ad Science logo" style="border: none;" border="0" /></p></td>
-		<td><p><img src="../../assets/peer39-logo.png" title="Peer39 logo" alt="Peer39 logo" style="border: none;" border="0" /></p></td>
+        <td><p><img src="../../assets/comscore-logo.png" title="Comscore logo" alt="Comscore logo" style="border: none;" border="0" /></p></td>
+        <td><p><img src="../../assets/doubleverify-logo.png" title="DoubleVerify logo" alt="DoubleVerify logo" style="border: none;" border="0" /></p></td>
+        <td><p><img src="../../assets/ias-logo.png" title="Integral Ad Science logo" alt="Integral Ad Science logo" style="border: none;" border="0" /></p></td>
+        <td><p><img src="../../assets/peer39-logo.png" title="Peer39 logo" alt="Peer39 logo" style="border: none;" border="0" /></p></td>
     </tr>
 </table>
 
@@ -119,8 +119,8 @@ To get started, contact your preferred vendor or your Adobe account manager.
 
 <table >
     <tr>
-	    <td><p><img src="../../assets/comscore-logo.png" title="Comscore logo" alt="Comscore logo" style="border: none;" height="100" width="618" border="0" /></p></td>
-		<td style="height:100px"><p><img src="../../assets/oracle-grapeshot-logo.png" title="Grapeshot logo" alt="Grapeshot logo" style="border: none;" height="100" width="171" border="0" /></p></td>
+        <td><p><img src="../../assets/comscore-logo.png" title="Comscore logo" alt="Comscore logo" style="border: none;" height="100" width="618" border="0" /></p></td>
+        <td style="height:100px"><p><img src="../../assets/oracle-grapeshot-logo.png" title="Grapeshot logo" alt="Grapeshot logo" style="border: none;" height="100" width="171" border="0" /></p></td>
     </tr>
 </table>
 
@@ -136,7 +136,7 @@ For more information about functionality, contact DoubleVerify directly, or cont
 
 <table >
     <tr>
-	    <td><p><img src="../../assets/doubleverify-logo.png" title="DoubleVerify logo" alt="DoubleVerify logo" style="border: none;" height-="150" width="158" border="0" /></p></td>
+        <td><p><img src="../../assets/doubleverify-logo.png" title="DoubleVerify logo" alt="DoubleVerify logo" style="border: none;" height-="150" width="158" border="0" /></p></td>
     </tr>
 </table>
 
