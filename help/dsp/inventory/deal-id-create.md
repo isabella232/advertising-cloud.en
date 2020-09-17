@@ -1,4 +1,4 @@
-# Manually Create Deal ID Details {deal-id-create}
+# Manually Create Deal ID Details {#deal-id-create}
 
 1. In the main menu, click **Inventory > Deals.**
 
