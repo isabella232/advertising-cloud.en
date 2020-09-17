@@ -14,28 +14,23 @@ Once a deal is [approved](/help/dsp/inventory/on-demand-inventory-status.md), th
 
 1. (Optional) Filter the available deals or publishers by any of the following criteria:
 
-  * Keyword search
-  * **Publisher Region**
-  * **Media Type**
-  * Deals you've requested, whether or not the request was approved (**Currently subscribed to**)**
-  * Deals for which you've been approved (**Currently have access to**)**
-  * Deals from **TV Broadcasters**
-  * Deals from publishers who accept "tune-in" creatives (**Tune-In**)
-  * Deals for which the publisher has applied 21+ targeting and accepts alcohol ads (**Legal drinking age**)
+   * Keyword search
+   * **Publisher Region**
+   * **Media Type**
+   * Deals you've requested, whether or not the request was approved (**Currently subscribed to**)**
+   * Deals for which you've been approved (**Currently have access to**)**
+   * Deals from **TV Broadcasters**
+   * Deals from publishers who accept "tune-in" creatives (**Tune-In**)  * Deals for which the publisher has applied 21+ targeting and accepts alcohol ads (**Legal drinking age**)
 
 1. Do either or the following:
 
-  * To request recently-added deals:
+   * To request recently-added deals: 
+      1. In the top carousel of publishers, hold the cursor over publisher logo, and then do click **See Deals**.
+      1. To subscribe to an individual deal, click **Request** in the Action column for the row.
 
-    1. In the top carousel of publishers, hold the cursor over publisher logo, and then do click **See Deals**.
-
-    1. To subscribe to an individual deal, click **Request** in the Action column for the row.
-
-  * To request deals from the Deal view:
-
-    1. Click **Deal view**.
-  
-    1. Click **Request** in the Action column for the row.
+   * To request deals from the Deal view:
+      1. Click **Deal view**.
+      1. Click **Request** in the Action column for the row.
 
 >[!MORELIKETHIS]
 >
