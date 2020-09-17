@@ -1,4 +1,4 @@
-# Manual Deal ID Settings {deal-id-settings}
+# Manual Deal ID Settings {#deal-id-settings}
 
 <table style="vertical-align: top;" cellspacing="0">
     <tr style="vertical-align: top;">
@@ -43,7 +43,7 @@
        <td style="border-right: Solid 1px #ffffff; border-bottom: Solid 1px #ffffff; padding-right: 6px; padding-left: 6px; padding-bottom: 6px;" bgcolor="#F0F0F0"><p>The type of media that will bought through this deal: <i>Desktop video</i>, <i>Mobile video</i>, <i>Connected TV</i>, <i>Display</i>, or <i>Audio</i>. The options vary by SSP.</p></td>
        <td style="border-right: Solid 1px #ffffff; border-bottom: Solid 1px #ffffff; padding-right: 6px; padding-left: 6px; padding-bottom: 6px;" bgcolor="#F0F0F0"><p>Yes</p></td>
        <td style="border-right: Solid 1px #ffffff; border-bottom: Solid 1px #ffffff; padding-right: 6px; padding-left: 6px; padding-bottom: 6px;" bgcolor="#F0F0F0"><p>No</p></td>
-	</tr>
+    </tr>
     <tr style="vertical-align: top;">
        <td style="border-left: solid 1px #ffffff; border-right: Solid 1px #ffffff; border-bottom: Solid 1px #ffffff; padding-right: 6px; padding-left: 6px; padding-bottom: 6px;" bgcolor="#F0F0F0"><p>&#160;</p></td>
        <td style="border-right: Solid 1px #ffffff; border-bottom: Solid 1px #ffffff; padding-right: 6px; padding-left: 6px; padding-bottom: 6px;" bgcolor="#F0F0F0"><p>Deal type</p></td>

@@ -82,10 +82,10 @@ You can set [default contextual filter controls for each advertiser](/help/dsp/a
 
 <table >
     <tr>
-	    <td><p><img src="../../assets/comscore-logo.png" title="Comscore logo" alt="Comscore logo" style="border: none;" border="0" /></p></td>
-		<td><p><img src="../../assets/doubleverify-logo.png" title="DoubleVerify logo" alt="DoubleVerify logo" style="border: none;" border="0" /></p></td>
-		<td><p><img src="../../assets/ias-logo.png" title="Integral Ad Science logo" alt="Integral Ad Science logo" style="border: none;" border="0" /></p></td>
-		<td><p><img src="../../assets/peer39-logo.png" title="Peer39 logo" alt="Peer39 logo" style="border: none;" border="0" /></p></td>
+        <td><p><img src="../../assets/comscore-logo.png" title="Comscore logo" alt="Comscore logo" style="border: none;" border="0" /></p></td>
+        <td><p><img src="../../assets/doubleverify-logo.png" title="DoubleVerify logo" alt="DoubleVerify logo" style="border: none;" border="0" /></p></td>
+        <td><p><img src="../../assets/ias-logo.png" title="Integral Ad Science logo" alt="Integral Ad Science logo" style="border: none;" border="0" /></p></td>
+        <td><p><img src="../../assets/peer39-logo.png" title="Peer39 logo" alt="Peer39 logo" style="border: none;" border="0" /></p></td>
     </tr>
 </table>
 
