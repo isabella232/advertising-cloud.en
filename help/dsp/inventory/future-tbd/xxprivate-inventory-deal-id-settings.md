@@ -1,4 +1,4 @@
-# Manual Deal ID Settings {deal-id-settings}
+# Manual Deal ID Settings {#deal-id-settings}
 
 ## Deal ID basics
 
@@ -45,6 +45,7 @@ Google and Rubicon accept deals only in USD. For FreeWheel, you can optionally s
 >Administrator users can give access to advertisers in multiple accounts.
 
 ### Tracking
+
 >[!TIP]
 >
 >* In the Inventory > Deals view, the Pacing & Budget column will show how the deal is pacing to the specified flight date and impression goal.
