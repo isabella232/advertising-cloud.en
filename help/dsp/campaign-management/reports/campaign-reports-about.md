@@ -68,7 +68,7 @@ To open the legacy campaign-level report in a new browser tab from within Campai
 >[!MORELIKETHIS]
 >
 >* [View the Sites, Ads, and Frequency Details for a Placement](placement-details-view.md)
->* [About the Campaign Column Views](column-views-about.md)
+>* [About the Campaign Data Views](campaign-data-views-about.md)
 >* [Create a Custom Column View](column-view-create.md)
 >* [Change the Column View](column-view-change.md)
 >* [Manage Data Visualizations](campaign-data-visualization-manage.md)

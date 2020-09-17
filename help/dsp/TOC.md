@@ -55,8 +55,8 @@ user-guide-title: Advertising Cloud DSP Help
   + Campaign Reports
     + [About In-Platform Reports](/help/dsp/campaign-management/reports/campaign-reports-about.md)
     + [View the Sites, Ads, and Frequency Details for a Placement](/help/dsp/campaign-management/reports/placement-details-view.md)
-    + Manage Column Views
-      + [About the Campaign Column Views](/help/dsp/campaign-management/reports/column-views-about.md)
+    + Manage Data Views
+      + [About the Campaign Data Views](/help/dsp/campaign-management/reports/campaign-data-views-about.md)
       + [Change the Column View](/help/dsp/campaign-management/reports/column-view-change.md)
       + [Create a Custom Column View](/help/dsp/campaign-management/reports/column-view-create.md)
       + [Edit a Custom Column View](/help/dsp/campaign-management/reports/column-view-edit.md)

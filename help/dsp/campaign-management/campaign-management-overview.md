@@ -51,4 +51,4 @@ You can immediately create an ad with the uploaded creative, or you can create a
 >* [Campaign Launch Checklist](/help/dsp/campaign-management/campaign-launch-checklist.md)
 >* [Best Practices for Setting up Performance Campaigns](/help/dsp/optimization/campaign-best-practices-performance.md)
 >* [About In-Platform Reports](/help/dsp/campaign-management/reports/campaign-reports-about.md)
->* [About the Campaign Column Views](column-views-about.md)
+>* [About the Campaign Data Views](campaign-data-views-about.md)
