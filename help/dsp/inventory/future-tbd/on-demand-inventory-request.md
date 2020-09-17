@@ -13,6 +13,7 @@ Once a deal is [approved](/help/dsp/inventory/on-demand-inventory-status.md), th
 1. In the main menu, click **Inventory > On Demand**.
 
 1. (Optional) Filter the available deals or publishers by any of the following criteria:
+
   * Keyword search
   * **Publisher Region**
   * **Media Type**
