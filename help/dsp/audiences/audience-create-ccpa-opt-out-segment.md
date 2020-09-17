@@ -1,0 +1,54 @@
+# Create and Implement a CCPA Opt-out-of-Sale Segment {#audience-create-ccpa-opt-out-segment}
+
+You can track users IDs from consumer opt-out-of-sale requests on your website, per the California Consumer Privacy Act (CCPA), by creating and implementing a CCPA opt-out-of-sale segment. Users remain in CCPA opt-out-of-sale segments indefinitely.
+
+Once the segment pixel tag is implemented, Advertising Cloud will begin to collect a pool of IDs on the advertiser’s behalf.
+
+>[!NOTE]
+>
+>* To track users who visit webpages for purposes not related to tracking CCPA opt-out-of-sale events, as well as users exposed to ads from desktop, mobile, and CTV devices, create a [custom segment](/help/dsp/audiences/audience-create-custom-segment.md).
+>* For information about how to communicate CCPA opt-out-of-sale requests to Advertising Cloud using the Adobe Experience Platform Privacy Service API, see [https://docs.adobe.com/content/help/en/advertising-cloud/all/privacy/ad-cloud-ccpa-opt-out-of-sale.html](https://docs.adobe.com/content/help/en/advertising-cloud/all/privacy/ad-cloud-ccpa-opt-out-of-sale.html).
+
+1. Create the segment:
+
+    1. In the main menu, click **Audiences > Segments**.
+
+    1. Above the data table, click **Create**.
+
+    1. Enter a unique **Segment Name**.
+
+       Recommended segment name: “<*Your Advertiser Name*> – CCPA Opt Out of Sale” (such as "Acme - CCPA Opt Out of Sale")
+
+    1. For the **Segment Type**, select **CCPA opt out of sale**.
+
+    1. Click **Save**.
+
+1. Copy and implement a pixel tag to track the segment:
+
+    1. Return to **Audiences > Segments**.
+
+    1. In the segment row, hold the cursor over the segment row and click **Get pixel**.
+
+    1. Copy the page view tracking tag, which is labeled "Desktop or mobile websites."
+
+    1. Provide the tag to the advertiser or website contact for deployment using the mechanism that the company uses to track CCPA opt-out of sale requests (such as using a Consent Management Platform).
+
+        The advertiser's IT department or other group may need to schedule, or be informed about, the tag deployment.
+
+        Once the pixel is implemented, Advertising Cloud will begin to collect a pool of IDs on the advertiser’s behalf.
+
+        Although implementation choice and logic is up to the advertiser, here’s an example of how an advertiser could fire the pixel:
+
+        1. A consumer lands on the advertiser's homepage.
+        1. The consumer finds and clicks on the advertiser’s “CCPA opt out of sale” button.
+        1. The consumer is presented with a list of service providers with which the advertiser works.
+        1. The consumer checks the box to opt out of selling data to Adobe Advertising Cloud.
+
+           This action triggers the pixel to fire and to collect the consumer’s cookie ID within the specified “CCPA – Opt out of sale” segment.
+
+>[!MORELIKETHIS]
+>
+>* [Adobe Advertising Cloud Support for the California Consumer Privacy Act: Consumer Opt-out Support](https://docs.adobe.com/content/help/en/advertising-cloud/all/privacy/ad-cloud-ccpa-opt-out-of-sale.html)
+>* [Retrieve Consumer Opt-Out-of-Sale Reports](audience-retrieve-ccpa-opt-out-segment-report.md)
+>* [Create and Implement a Custom Segment](audience-create-custom-segment.md)
+>* [About Audience Management](audience-about.md)

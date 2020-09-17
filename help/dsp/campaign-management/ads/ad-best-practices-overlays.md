@@ -1,0 +1,21 @@
+# Best Practices for Designing Overlays {#ad-best-practices-overlays}
+
+* Interactive pre-roll ads vary in size based on the site, so we recommend that you set overlays either a) to scale (by setting width and height to percentages) or, when scaling is not desired, b) to be anchored to only one side of the ad, with a floating edge on the other side. Scaling may distort text and details.
+
+* The overlay shouldn't cover more than 1/5 of the video.
+
+* Keep the size of the overlay in mind when you decide how many buttons and/or call to actions to include.
+
+* Display the overlay horizontally or vertically, as needed.
+
+* When you create the overlay, review the video ad it will accompany to ensure that any graphics and messaging aren't covered by the design.
+
+* Consider using animated overlays, which help to attract and engage viewers.
+
+* Use different colors than in the video to help draw a viewer's eye to the overlay and call to action.
+
+>[!MORELIKETHIS]
+>
+>* [Create an Ad](ad-create.md)
+>* [Mobile Ad Settings](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
+>* [Pre-roll Ad Settings](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
