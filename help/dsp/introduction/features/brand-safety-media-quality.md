@@ -16,7 +16,7 @@ In addition to providing central quality management, we believe in empowering ad
 
 DSP supports ads.txt by reading each publisher's ads.txt file and giving you the option to purchase only from verified ads.txt sellers. For example, by matching the sellers we see accessing nytimes.com to the New York Times' ads.txt file, we can identify which are legitimate and which are not, and we'll block the offenders if the placement is configured to purchase only from verified sellers. <!-- can we actually mention NY Times? -->
 
-You can set [default ads.txt controls for each advertiser](/help/dsp/admin/advertiser-settings.md), and then optionally [customize the settings for each placement](/help/dsp/campaign-management/placements/placement-settings.md) to:
+You can set default ads.txt controls for each advertiser<!-- [default ads.txt controls for each advertiser](/help/dsp/admin/advertiser-settings.md) -->, and then optionally [customize the settings for each placement](/help/dsp/campaign-management/placements/placement-settings.md) to:
 
 * buy inventory from a domain's authorized direct sellers only
 
@@ -78,7 +78,7 @@ Users can also maintain account-level and advertiser-level blocked sites lists<!
 
 Contextual filtering allows you to target or block ad opportunities based on the context of the page on which the ad would serve. Adobe provides contextual filtering via integrations with leading vendors in the industry: Comscore, DoubleVerify, Integral Ad Science, and Peer39. Examples of current filters include Adult Content, Natural Disasters, Legal Drinking Age, MANGA, Epidemics, and G-rated Sites.
 
-You can set [default contextual filter controls for each advertiser](/help/dsp/admin/advertiser-settings.md), and then optionally [customize the settings for each placement](/help/dsp/campaign-management/placements/placement-settings.md). Additional fees may apply when you use this feature.
+You can set default contextual filter controls for each advertiser<!-- [default contextual filter controls for each advertiser](/help/dsp/admin/advertiser-settings.md) -->, and then optionally [customize the settings for each placement](/help/dsp/campaign-management/placements/placement-settings.md). Additional fees may apply when you use this feature.
 
 <table >
     <tr>
@@ -95,7 +95,7 @@ You can set [default contextual filter controls for each advertiser](/help/dsp/a
 
 Leverage our third-party integrations with Comscore, DoubleVerify, Integral Ad Science, and Peer39 to block non-human traffic from your campaigns. These integrations provide industry-leading pre-bid blocking capabilities to minimize both general and sophisticated invalid traffic (GIVT and SIVT) in your campaigns.
 
-You can set [default pre-bid fraud blocking controls for each advertiser](/help/dsp/admin/advertiser-settings.md), and then optionally [customize the settings for each placement](/help/dsp/campaign-management/placements/placement-settings.md). Additional fees may apply when you use this feature.
+You can set default pre-bid fraud blocking controls for each advertiser<!-- [default pre-bid fraud blocking controls for each advertiser](/help/dsp/admin/advertiser-settings.md) -->, and then optionally [customize the settings for each placement](/help/dsp/campaign-management/placements/placement-settings.md). Additional fees may apply when you use this feature.
 
 For more information on functionality, contact your preferred vendor directly, or contact your Adobe account manager.
 
@@ -130,7 +130,7 @@ DSP has partnered with DoubleVerify to offer its Authentic Brand Safety targetin
 
 Once you have built a DoubleVerify brand safety segment with the necessary targeting, you can use it within DSP to replicate your post-bid block rules with pre-bid across web environments.
 
-You can [specify a DoubleVerify segment ID for each advertiser](/help/dsp/admin/advertiser-settings.md), and then optionally [enable or disable Authentic Brand Safety for each placement](/help/dsp/campaign-management/placements/placement-settings.md). DSP bills your account for usage for the segment ID.
+You can specify a DoubleVerify segment ID for each advertiser<!-- [specify a DoubleVerify segment ID for each advertiser](/help/dsp/admin/advertiser-settings.md) -->, and then optionally [enable or disable Authentic Brand Safety for each placement](/help/dsp/campaign-management/placements/placement-settings.md). DSP bills your account for usage for the segment ID.
 
 For more information about functionality, contact DoubleVerify directly, or contact your Adobe account manager.
 

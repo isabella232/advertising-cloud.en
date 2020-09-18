@@ -44,7 +44,7 @@ See more information about the required and optional [connected TV ad settings](
 
 Survey ads are created automatically when you create a survey, but you can create additional ads from a survey.
 
-See more information about the required and optional [survey ad settings](ad-settings-survey.md).
+<!-- See more information about the required and optional [survey ad settings](ad-settings-survey.md). -->
 
 >[MORELIKETHIS]
 >
