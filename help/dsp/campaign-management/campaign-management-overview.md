@@ -17,7 +17,7 @@ In Advertising Cloud DSP, an insertion order is represented as a campaign, and l
 
 ## Packages
 
-Each campaign can contain one or more [packages](/help/dsp/campaign-management/packages/packages-about.md), each of which includes a set of placements.
+Each campaign can contain one or more [packages](/help/dsp/campaign-management/packages/package-about.md), each of which includes a set of placements.
 
 Use packages to group placements for delivery to a set budget, performance goal, and custom pacing strategy. DSP optimizes packages by shifting budgets to the best-performing placements in the package. You can organize packages by placement format, inventory type, data provider, persona, or other distinguishable characteristics.
 
