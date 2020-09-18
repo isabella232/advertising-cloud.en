@@ -11,7 +11,7 @@ Advertiser-level lists override account-level lists.
 
 >[!NOTE]
 >
->* Account-level and advertiser-level blocked sites lists are applied in addition to the Advertising Cloud DSP [globally blocked sites list](/help/dsp/introduction/features/blocked-sites-lists.md) of sites deemed unsafe for ads.
+>* Account-level and advertiser-level blocked site lists are applied in addition to the Advertising Cloud DSP [globally blocked site list](/help/dsp/introduction/features/brand-safety-media-quality.md), which include sites deemed unsafe for ads.
 * Users can also add targeted sites to any placement.
 >* Blocked sites lists always override targeted sites lists. If a placement both excludes and includes the same target for an ad, then the target is excluded. <!-- Verify -->
 

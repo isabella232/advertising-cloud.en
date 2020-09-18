@@ -14,7 +14,7 @@
 
         1.  Select the ad type for the placement, and then click **Build this placement**.
 
-        1. Enter the [placement settings](placement-settings.md), and then click **Create Placement**.
+        1. Enter the <!--[placement settings](placement-settings.md)-->, and then click **Create Placement**.
 
     * To attach an existing placement in the campaign:
 

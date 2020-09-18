@@ -20,7 +20,7 @@ How to be billed for usage:
     
     * A media bill sent directly from the media vendor (typically the publisher or a supply side platform (SSP)).
         
-    * A platform fees invoice from Advertising Cloud, according to the fees outlined in [the account's rate card](/help/dsp/admin/rate-card-view.md).
+    * A platform fees invoice from Advertising Cloud, according to the fees outlined in the account's rate card<!-- [the account's rate card](/help/dsp/admin/rate-card-view.md)-->.
 
 ## Feed Access
 

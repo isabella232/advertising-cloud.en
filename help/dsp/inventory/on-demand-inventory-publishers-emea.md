@@ -213,7 +213,7 @@
 
 >[!MORELIKETHIS]
 >
->* [About On Demand Premium Inventory](on-demand-inventory.md)
+>* [About On Demand Premium Inventory](on-demand-inventory-about.md)
 >* [Subscribe and Request Access to On Demand Premium Inventory](on-demand-inventory-subscribe.md)
 >* [On Demand Premium Inventory Publishers in Asia Pacific](on-demand-inventory-publishers-apac.md)
 >* [On Demand Premium Inventory Publishers in Australia and New Zealand](on-demand-inventory-publishers-anz.md)

@@ -77,4 +77,4 @@ Disable this option to serve ads in embedded players, whose URLs may not be incl
 >[!MORELIKETHIS]
 >
 >* [About Private Inventory](private-inventory-about.md)
-<!-->>* [Create Manual Deal ID Details](deal-id-create.md)-->
+<!-->* [Create Manual Deal ID Details](deal-id-create.md)-->
