@@ -13,7 +13,7 @@
 >[!MORELIKETHIS]
 >
 > * [How DSP Optimizes Your Campaigns](optimization-how-dsp-optimizes-campaigns.md)
->* [Package Settings](package-settings.md)
+>* [Package Settings](/help/dsp/campaign-management/packages/package-settings.md)
 >* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
->* [Campaign Settings](campaign-settings.md)
+>* [Campaign Settings](/help/dsp/campaign-management/campaigns/campaign-settings.md)
 >* [Optimization Goals and How to Use Them](optimization-goals.md)

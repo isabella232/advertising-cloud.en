@@ -14,7 +14,7 @@ To create multiple third-party ads at a time, see [Create Multiple Third-party A
 
 1. Above the data table, click **Create**. In the Ad Types section of the menu, click the [ad type](ad-types.md).
 
-1. Specify the ad settings for [audio ads](ad-settings-audio.md), [connected TV](ad-settings-connected-tv.md), [display ads](ad-settings-display.md),[mobile ads](ad-settings-mobile.md), [native ads](ad-settings-native.md), [pre-roll ads](ad-settings-pre-roll.md), or [survey ads](ad-settings-survey.md):
+1. Specify the ad settings for [audio ads](ad-settings-audio.md), [connected TV](ad-settings-connected-tv.md), [display ads](ad-settings-display.md),[mobile ads](ad-settings-mobile.md), [native ads](ad-settings-native.md), [pre-roll ads](ad-settings-pre-roll.md), or survey ads:
 
     1. (Video and audio ads only) On the Upload or Select Creative screen, upload a raw creative asset directly into DSP, select an existing creative asset, or upload a tracking tag from a certified third-party ad serving partner.
 
@@ -43,4 +43,4 @@ To create multiple third-party ads at a time, see [Create Multiple Third-party A
 >* [About Ad Management](ad-about.md)
 >* [Create Multiple Third-party Ads](ad-create-third-party.md)
 >* [Available Ad Types](ad-types.md)
->* [Ad Specifications](ad-specs.pdf)
+>* [Ad Specifications](/help/dsp/assets/ad-specs.pdf)

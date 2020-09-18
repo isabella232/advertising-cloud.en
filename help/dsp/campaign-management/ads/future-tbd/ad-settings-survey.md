@@ -10,6 +10,7 @@
 
 **Ad Name:**
 
+<!--
 >[!MORELIKETHIS]
 >
 >* [About Survey Management in Advertising Cloud DSP](survey-about.md)
@@ -18,3 +19,4 @@
 >* [Create an Additional Ad from a Survey](survey-create-additional-ad.md)
 >* [Best Practices for Survey Optimization](survey-best-practices-optimization)
 >* [View Survey Performance](survey-view-performance.md)
+-->

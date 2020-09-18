@@ -25,7 +25,7 @@ isSticky: 0
 
 If you are using third-party tracking pixels, Advertising Cloud DSP enables you to add these during the ad creation process and  track a variety of integration events including impressions, clicks and completions.
 
-[ ![Ad Configurator](assets/ad-configurator.png)](assets/ad-configurator.png)
+
 
 ## Basic Tab
 
@@ -33,11 +33,10 @@ If you are using third-party tracking pixels, Advertising Cloud DSP enables you 
 
 ## Companion Tab
 
-Add any companion banner 3rd party clickthrough pixels in this section. If you want to also track companion impression, you will need to create an  [iframe](companion-banner.md).
+Add any companion banner 3rd party clickthrough pixels in this section. If you want to also track companion impression, you will need to create an iframe.
 
 ## Pixel Tab
 
-![Pixel2](assets/pixel2.jpeg)
 
 * Integration Events shown in the drop down will change by type of ad unit you've selected:
 
@@ -58,7 +57,6 @@ Add any companion banner 3rd party clickthrough pixels in this section. If you w
 
 * Once you are finished, Save & Close. Repeat the steps if you have multiple pixels to attach.
 
-![pixels](assets/pixels.jpeg)
 
 >[!TIP]
 >

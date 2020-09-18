@@ -7,7 +7,8 @@
 1. In the main menu, click **Settings > Fees**.
 1. 
 
-
+<!--
 >[!MORELIKETHIS]
 >
 >* [Estimate Tax Withholdings for the Account](/help/dsp/admin/tax-withholdings.md)
+-->

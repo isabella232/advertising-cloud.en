@@ -30,8 +30,10 @@
 
 1. Click **I'm done for now**.
 
+<!-- 
 >[!MORELIKETHIS]
 >
 >* [About Package Management](package-about.md)
 >* [Create a Package](package-create.md)
 >* [Package Settings](package-settings.md)
+-->

@@ -135,7 +135,9 @@ You can override the advertiser-level setting at the [placement level](/help/dsp
 
 You can override the advertiser-level setting at the placement level.
 
+<!--
 >[!MORELIKETHIS]
 >
 >* [Create an Advertiser Account](/help/dsp/admin/advertiser-create.md)
 >* [View the Advertiser List for the Account](/help/dsp/admin/advertiser-view.md)
+-->

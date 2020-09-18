@@ -12,7 +12,7 @@ Example of an auto generated name: RTBDB – CNN via appnexus – jdoe – USD �
 
 How to be billed for usage:
 
-* *Adobe Financed and Invoiced:* Advertising Cloud will pay all available media vendors based on usage, manage discrepancies with the vendors, and send one consolidated invoice to the account. This option incurs additional fees as outlined in [the account's rate card](/help/dsp/admin/rate-card-view.md).
+* *Adobe Financed and Invoiced:* Advertising Cloud will pay all available media vendors based on usage, manage discrepancies with the vendors, and send one consolidated invoice to the account. This option incurs additional fees as outlined in the account's rate card<!-- [the account's rate card](/help/dsp/admin/rate-card-view.md) -->.
     
   This option is available only when it's activated. Contact your Adobe account manager to activate it.
     

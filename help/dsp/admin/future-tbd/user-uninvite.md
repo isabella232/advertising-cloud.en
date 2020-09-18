@@ -11,8 +11,10 @@ You can uninvite a user with a pending invitation. Uninviting a user invalidates
 
 1. In the **Invitations** section, click **X** next to the invitation.
 
+<!--
 >[!MORELIKETHIS]
 >
 >* [Invite a New User for Your Organization Account](/help/dsp/admin/user-invite.md)
 >* [Resend a Pending User Invitation for Your Organization Account](/help/dsp/admin/user-resend-invite)
 >* [Edit User Permissions or Delete a User](/help/dsp/admin/user-edit.md)
+-->

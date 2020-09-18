@@ -44,7 +44,7 @@
 
 * To edit an alert in a subscription:
 
-   1. To the right of the subscription name, click ![Edit](assets/edit.png).
+   1. To the right of the subscription name, click ![Edit](/help/dsp/assets/edit.png).
 
    1. Edit the alert parameters.
 
@@ -71,6 +71,8 @@
 1. To the right of the subscription name, click **X**.
 1. In the confirmation message, click **yes**.
 
+<!--
 >[!MORELIKETHIS]
 >
 >[About Alert Subscriptions](/help/dsp/admin/alerts-about.md)
+-->

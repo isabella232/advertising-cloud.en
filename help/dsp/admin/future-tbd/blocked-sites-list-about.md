@@ -17,6 +17,8 @@ Advertiser-level lists override account-level lists.
 
 >[!MORELIKETHIS]
 >
+<!--
 >* [Edit an Account-level or Advertiser-level Blocked Site List](/help/dsp/admin/blocked-sites-list-edit.md)
->* [Comprehensive Support for Site Blocking](/help/dsp/introduction/features/blocked-sites-lists.md)
+[Brand Safety and Media Quality](/help/dsp/introduction/features/brand-safety-media-quality.md)
 >* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
+-->

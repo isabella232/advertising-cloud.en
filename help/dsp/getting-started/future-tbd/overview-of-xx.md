@@ -8,6 +8,7 @@ Initial Launch
 
 Ongoing Tasks
 
+<!--
 * [Campaign Set-Up](execution/campaign-setup.md)
 * [Placement Set-Up](execution/placement-setup.md)
 * [Ad Set-Up](execution/ad-unit-setup.md)
@@ -15,3 +16,4 @@ Ongoing Tasks
 * [Creating a Conversion Pixel](execution/placement-setup/conversions/conversion-pixel-setup.md)
 * [Creating a Custom Segment for retargeting](planning/targeting/retargeting/retargeting-pixel-setup.md)
 * Doublecheck your execution with our [Launch Check-List](execution/launch-checklist.md)
+-->

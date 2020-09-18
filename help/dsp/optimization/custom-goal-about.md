@@ -4,13 +4,13 @@ Custom goals define the success events that an advertiser requires to meet its b
 
 ![custom goals](/help/dsp/assets/objective-goals.png)
 
-Each custom goal consists of one or more metrics, or *transaction properties*, and the relative weights of those transaction properties. The available transaction properties include all conversion, revenue, or other event metrics that you are tracking using the Advertising Cloud conversion pixel and the Adobe Analytics standard conversion tag.
+Each custom goal consists of one or more metrics, or *transaction properties*, and the relative weights of those transaction properties. The available transaction properties include all metrics tracked using the Advertising Cloud conversion pixel and through Adobe Analytics.
 
 >[!NOTE]
 >
->* Analytics eVars and segments aren't available for Advertising Cloud optimization.
->* To make Analytics standard and custom events available in DSP, work with your Adobe account management team to configure an advertiser-level integration with Analytics.
->* All Analytics events follow this naming convention: custom_event_(*event #*)_(*analytics report suite ID*). Example: custom_event_16_1234567
+>* Analytics dimensions and segments aren't available for Advertising Cloud optimization.
+>* To use Analytics events in DSP, work with your Adobe account manager to configure an advertiser-level integration.
+>* Analytics custom events follow this naming convention: `custom_event_[*event #*]_[*Analytics report suite ID*]`. Example: `custom_event_16_examplersid`
 
 For example, suppose that three metrics (transaction properties) are relevant to a specific package in one of your campaigns: "PDF Download" valued at 20 USD, "Email Signup" valued at 30 USD, and "Order Confirmation" valued at 40 USD. If you want to give weight according to the one-time monetary value of the customer action, then the relative weights of the properties would be 1, 2, and 1.5.
 

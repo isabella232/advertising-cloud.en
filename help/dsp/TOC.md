@@ -1,8 +1,9 @@
 ---
-cloud: experience cloud
-product: advertising cloud
+cloud: experience-cloud
+product: advertising-cloud
 archetype: end-user
 user-guide-title: Advertising Cloud DSP Help
+index: no
 ---
 
 # Advertising Cloud DSP Help {#dsp}
@@ -19,7 +20,7 @@ user-guide-title: Advertising Cloud DSP Help
     + [Support for the California Consumer Privacy Act: Consumer Data Access and Delete](https://docs.adobe.com/content/help/en/advertising-cloud/all/privacy/ad-cloud-ccpa-access-delete.html)
     + [Support for the California Consumer Privacy Act: Consumer Opt-Out-of-Sale](https://docs.adobe.com/content/help/en/advertising-cloud/all/privacy/ad-cloud-ccpa-opt-out-of-sale.html)
   + Policies
-    + [Advertising Cloud Ads Requirements Policy](/help/dsp/assets/ads-policy-03-25-20.pdf)
+    + [Advertising Cloud Ads Requirements Policy](/help/dsp/assets/ads-policy-30Aug20.pdf)
     + [Advertising Cloud Data Usage Guidelines](/help/dsp/assets/data-guidelines-9-5-2019.pdf)
   + [Available Advanced Measurement Services](/help/dsp/introduction/advanced-measurement-services.md)
 + Campaign Management
@@ -48,7 +49,7 @@ user-guide-title: Advertising Cloud DSP Help
         + [Mobile Ad Settings](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
         + [Native Ad Settings](/help/dsp/campaign-management/ads/ad-settings-native.md)
         + [Pre-roll Ad Settings](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
-      + [Best Practices for Designing Overlays](/help/dsp/campaign-management/ads/ad-best-practices-overlays)
+      + [Best Practices for Designing Overlays](/help/dsp/campaign-management/ads/ad-best-practices-overlays.md)
     + Bulk Third-party Ads
       + [Create Multiple Third-party Ads](/help/dsp/campaign-management/ads/ad-create-third-party.md)
     + [Specifications for Supported Ad Types](/help/dsp/assets/ad-specs.pdf)
@@ -77,8 +78,8 @@ user-guide-title: Advertising Cloud DSP Help
     + [Create and Implement a Custom Segment](/help/dsp/audiences/audience-create-custom-segment.md)
     + CCPA Opt-out-of-Sale Segments
       <!--+ About CCPA Opt-out-of-Sale Segments-->
-      + [Create and Implement a CCPA Opt-out-of-Sale Segment](audience-create-ccpa-opt-out-segment.md)
-      + [Retrieve Consumer Opt-Out-of-Sale Reports](audience-retrieve-ccpa-opt-out-segment-report.md)
+      + [Create and Implement a CCPA Opt-out-of-Sale Segment](/help/dsp/audiences/audience-create-ccpa-opt-out-segment.md)
+      + [Retrieve Consumer Opt-Out-of-Sale Reports](/help/dsp/audiences/audience-retrieve-ccpa-opt-out-segment-report.md)
   + Manage Audiences
     + [Create a Reusable Audience](/help/dsp/audiences/audience-create-reusable-audience.md)
     + [Audience Settings](/help/dsp/audiences/audience-settings.md)
@@ -95,7 +96,7 @@ user-guide-title: Advertising Cloud DSP Help
       + [On Demand Premium Inventory Publishers in North America](/help/dsp/inventory/on-demand-inventory-publishers-na.md)
     + [Subscribe and Request Access to On Demand Premium Inventory Deals](/help/dsp/inventory/on-demand-inventory-subscribe.md)
     + [Re-request On Demand Premium Inventory Deals](/help/dsp/inventory/on-demand-inventory-rerequest.md)
-    + [View the Status of Your On Demand Deal Requests and Subscriptions](/help/dsp/inventory/on-demand-inventory-view-status)
+    + [View the Status of Your On Demand Deal Requests and Subscriptions](/help/dsp/inventory/on-demand-inventory-view-status.md)
   + Private Inventory
       + Deal IDs
         + Deal ID Inbox
@@ -111,5 +112,4 @@ user-guide-title: Advertising Cloud DSP Help
   + [About Custom Reports](/help/dsp/reports/report-about-custom.md)
   + [Create a Custom Report](/help/dsp/reports/report-create-custom.md)
   + [Custom Report Settings](/help/dsp/reports/report-settings-custom.md)
-  + [Available Report Metrics](/help/dsp/reports/report-metrics.md)
 + [Customer Support](https://helpx.adobe.com/contact/enterprise-support.ec.html)

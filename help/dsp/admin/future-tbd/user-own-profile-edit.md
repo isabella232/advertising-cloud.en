@@ -31,7 +31,9 @@ Your account profile includes your login credentials and other information. Some
 
 1. Click **Save**.
 
+<!--
 >[!MORELIKETHIS]
 >
 >* [User Profile and Organization Account Settings](/help/dsp/admin/user-and-account-settings.md)
 >* [Invite a New User for Your Organization Account](/help/dsp/admin/user-invite.md)
+-->

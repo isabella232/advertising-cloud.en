@@ -27,19 +27,27 @@ isSticky: 0
 
 Advertising Cloud DSP currently accepts the following certified display ad servers.
 
-![DFA](assets/dfa.jpg)
+<!--
+![DFA](/help/dsp/assets/dfa.jpg)
+-->
 
 Supported: iFrame & JavaScript tags only
 
-![0_jivoxlogosmall](assets/0-jivoxlogosmall.gif)
+<!--
+![0_jivoxlogosmall](/help/dsp/assets/0-jivoxlogosmall.gif)
+-->
 
 Supported: all desktop ad sizes, including rich media expandable banners and mobile in-app
 
-![Sizmek](assets/sizmek-300x300.png)
+<!--
+![Sizmek](/help/dsp/assets/sizmek-300x300.png)
+-->
 
 Supported: Desktop and 300x250 mobile web units only
 
-![medialets](assets/medialets-150x135.png)
+<!--
+![medialets](/help/dsp/assets/medialets-150x135.png)
+-->
 
 Supported: JavaScript and IMG tags
 
@@ -47,9 +55,11 @@ Supported: JavaScript and IMG tags
 >
 >For each Medialets tag, you must manually insert a backslash (`\`) in several places. The following example tag shows the required backslashes highlighted in yellow. 
 
-![Example tag for Medialets](assets/medailets_example_tag.png)
+<!--
+![Example tag for Medialets](/help/dsp/assets/medailets_example_tag.png)
+-->
 
-<!-- Replace screen shot image with code block with appropriate highligting once code highlighting is available. -->
+<!-- Replace screen shot image with code block with appropriate highlighting once code highlighting is available. -->
 
 <!--
 
@@ -59,7 +69,9 @@ Supported: JavaScript and IMG tags
 
 -->
 
-![conversant](assets/conversant.png)
+<!--
+![conversant](/help/dsp/assets/conversant.png)
+-->
 
 Supported: iFrame & JavaScript tags for desktop and mobile web units only
 
@@ -67,9 +79,11 @@ Supported: iFrame & JavaScript tags for desktop and mobile web units only
 >
 >For each Conversant tag, you must manually insert the tracking macros `${TM_RANDOM}` and `${TM_CLICK_URL_URLENC}` in multiple places. The following example tag shows the inserted macros highlighted in yellow. 
 
-![Example tag for Conversant](assets/conversant_example_tag.png)
+<!--
+![Example tag for Conversant](/help/dsp/assets/conversant_example_tag.png)
+-->
 
-<!-- Replace screen shot image with code block with appropriate highligting once code highlighting is available. -->
+<!-- Replace screen shot image with code block with appropriate highlighting once code highlighting is available. -->
 
 <!--
 
@@ -87,7 +101,9 @@ Supported: iFrame & JavaScript tags for desktop and mobile web units only
 
 -->
 
-![flashtalking-logo1](assets/flashtalking-logo1.jpg)
+<!--
+![flashtalking-logo1](/help/dsp/assets/flashtalking-logo1.jpg)
+-->
 
 Supported: iFrame & JavaScript tags
 
@@ -95,7 +111,9 @@ Supported: iFrame & JavaScript tags
 >
 >For each FlashTalking tag, you must manually insert the tracking macro `${TM_CLICK_URL_URLENC}` immediately before the URL in the `<a href>` tag and as the value of the `ftClick` variable. The following example tag shows the inserted macros highlighted in yellow.
 
-![Example tag for FlashTalking](assets/flashtalking_example_tag_snippet.png)
+<!--
+![Example tag for FlashTalking](/help/dsp/assets/flashtalking_example_tag_snippet.png)
+-->
 
 <!-- Replace screen shot image with code block with appropriate highligting once code highlighting is available. -->
 <!-- 

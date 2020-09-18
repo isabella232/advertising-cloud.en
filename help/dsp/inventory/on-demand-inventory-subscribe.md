@@ -74,7 +74,7 @@ Once a deal is [approved](/help/dsp/inventory/on-demand-inventory-view-status.md
 
 >[!MORELIKETHIS]
 >
->* [About On Demand Premium Inventory](on-demand-inventory)
+>* [About On Demand Premium Inventory](on-demand-inventory.md)
 >* [View the Status of Your On Demand Deal Requests and Subscriptions](on-demand-inventory-view-status.md)
 >* [Re-Request On Demand Premium Inventory Deals](on-demand-inventory-rerequest.md)
 >* [On Demand Premium Inventory Publishers in Asia Pacific](on-demand-inventory-publishers-apac.md)

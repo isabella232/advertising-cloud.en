@@ -20,5 +20,4 @@ Confirm that all ads are attached, approved, and active. Also, verify that all t
 >
 >* [Campaign Settings](/help/dsp/campaign-management/campaigns/campaign-settings.md)
 >* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
->* [Ad Settings](/help/dsp/campaign-management/ads/ad-settings.md)
 >* [Best Practices for Setting up Performance Campaigns](/help/dsp/optimization/campaign-best-practices-performance.md)

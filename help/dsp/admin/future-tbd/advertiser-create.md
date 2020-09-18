@@ -14,6 +14,8 @@ Advertisers are available to all users in the organization account.
       You can override the default targets when you create a placement.
 1. Click **Save**.
 
+<!--
 >[!MORELIKETHIS]
 >
 >* [Advertiser Settings](/help/dsp/admin/advertiser-settings.md)
+-->

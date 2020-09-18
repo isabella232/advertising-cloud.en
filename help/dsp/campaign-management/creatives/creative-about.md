@@ -3,4 +3,3 @@
 >[!MORELIKETHIS]
 >
 >* [Upload a Creative](creative-upload.md)
->* [link name](URL)

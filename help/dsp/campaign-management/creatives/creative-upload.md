@@ -13,10 +13,9 @@ You can immediately create an ad with the uploaded creative, or you can create a
 1. (Optional) Create an ad with the uploaded creative:
    1. Click **Create an Ad**.
    1. Select the ad subtype.
-   1. Enter the ad settings for [audio ads](ad-settings-audio.md), [display ads](ad-settings-display.md),[mobile ads](ad-settings-mobile.md), [native ads](ad-settings-native.md), or [pre-roll ads](ad-settings-pre-roll.md).
+   1. Enter the ad settings for [audio ads](/help/dsp/campaigns/ads/ad-settings-audio.md), [display ads](/help/dsp/campaigns/ads/ad-settings-display.md),[mobile ads](/help/dsp/campaigns/ads/ad-settings-mobile.md), [native ads](/help/dsp/campaigns/ads/ad-settings-native.md), or [pre-roll ads](/help/dsp/campaigns/ads/ad-settings-pre-roll.md).
    1. Click **Save & Submit for Review**.
 
 >[!MORELIKETHIS]
 >
 >* [About Creative Management](creative-about.md)
->* [link name](URL)

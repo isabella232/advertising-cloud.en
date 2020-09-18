@@ -6,7 +6,7 @@ In Advertising Cloud, you can create and manage audience segments and audience s
 
    * [Custom segments](/help/dsp/audiences/audience-create-custom-segment.md) to track a) users exposed to ads from desktop, mobile, and CTV devices and b) users who visit specific webpages.
 
-   * [CCPA opt-out-of-sale segments](help/dsp/audiences/audience-create-ccpa-opt-out-segment.md) to track the users IDs from consumer opt-out-of-sale requests on your website, per the California Consumer Privacy Act (CCPA). You can retrieve monthly reports of the user IDs from opt-out-of-sale requests.
+   * [CCPA opt-out-of-sale segments](/help/dsp/audiences/audience-create-ccpa-opt-out-segment.md) to track the users IDs from consumer opt-out-of-sale requests on your website, per the California Consumer Privacy Act (CCPA). You can retrieve monthly reports of the user IDs from opt-out-of-sale requests.
    
       For more information about Advertising Cloud support for CCPA opt-out-of-sale requests, see [Adobe Advertising Cloud Support for the California Consumer Privacy Act: Consumer Opt-out Support](https://docs.adobe.com/content/help/en/advertising-cloud/all/privacy/ad-cloud-ccpa-opt-out-of-sale.html).
 

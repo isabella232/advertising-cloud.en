@@ -146,7 +146,7 @@ To specify locations:
 **Inventory Sources:** Inventory sources to include or exclude as targets. By default, all inventory types, and all sources for each type, are included. You can choose from the following types of inventory:
 
 * Public: All of the open exchange inventory to which Advertising Cloud has access. You can include and exclude public inventory.
-* Private: Your existing [private deals with publishers](/help/dsp/inventory/private-inventory-about.md) that you've set up in DSP. You can include, but not exclude, public inventory.
+* Private: Your existing private deals with publishers that you've set up in DSP. You can include, but not exclude, public inventory.
 * On Demand: All premium, non-guaranteed [On Demand Inventory](/help/dsp/inventory/on-demand-inventory-about.md) to which you've subscribed in DSP. You can include and exclude public inventory.
 
 To specify inventory targeting:
@@ -220,7 +220,7 @@ To specify inventory targeting:
 
 >[!NOTE]
 >
->* Account-level and advertiser-level blocked sites lists are also applied, in addition to the Advertising Cloud DSP [globally blocked sites list](/help/dsp/introduction/features/blocked-sites-lists.md) of sites deemed unsafe for ads.
+>* Account-level and advertiser-level blocked site lists are also applied, in addition to the Advertising Cloud DSP [globally blocked site list](/help/dsp/introduction/features/brand-safety-media-quality.md), which includes sites deemed unsafe for ads.
 >* Blocked sites lists always override targeted sites lists. If a placement both excludes and includes the same target for an ad, then the target is excluded.
 
 **Language:** (Optional) A single language to target.
@@ -249,7 +249,7 @@ You can optionally export the list of targeted and blocked sites as a comma-sepa
 
 ## Audience Targeting
 
-**Included Audiences:** Any audience targets for the placement, including [third-party segments, first-party segments, Adobe segments, custom segments, and saved audiences](audience-settings.md). The total and active deduplicated audience size across all selected segments and saved audiences is also displayed. You can select an existing audience, create a new audience that you can reuse later, or select specific audience segments:
+**Included Audiences:** Any audience targets for the placement, including [third-party segments, first-party segments, Adobe segments, custom segments, and saved audiences](/help/dsp/audiences/audience-settings.md). The total and active deduplicated audience size across all selected segments and saved audiences is also displayed. You can select an existing audience, create a new audience that you can reuse later, or select specific audience segments:
 
 * To select an existing audience, click ![Select](/help/dsp/assets/chevron-down.png) next to Included Audiences, and then select the audience.
 * To create a new audience, click ![Select](/help/dsp/assets/chevron-down.png) next to Included Audiences, and then select **+ Create Audience**. For instructions, see [Create a Reusable Audience](/help/dsp/audiences/audience-create-reusable-audience.md), beginning with Step 3.

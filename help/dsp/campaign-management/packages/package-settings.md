@@ -44,7 +44,7 @@ For packages with custom flighting, the budget interval is always *All time*. Fo
 
 **Optimization Goal:** (Packages with package-level pacing only) The optimization goal for the package. See descriptions of each optimization goal at [Optimization Goals and How to Use Them](/help/dsp/optimization/optimization-goals.md).
 
-**Custom Goals:** (Packages with custom optimization goals only) The custom goal for the package. For more information about custom goals, see [Best Practices for Setting up Performance Campaigns](/help/dsp/optimization/campaign-best-practices-performance). <!-- Also add link to info. on how to create custom goals. -->
+**Custom Goals:** (Packages with custom optimization goals only) The [custom goal](/help/dsp/optimization/custom-goal-about.md) for the package. For more information about the best practices for custom goals and campaigns that use them, see  [Best Practices for Building a Custom Goal](/help/dsp/optimization/custom-goal-best-practices.md) and [Best Practices for Setting up Performance Campaigns](/help/dsp/optimization/campaign-best-practices-performance.md).
 
 **Package Goal Type:** (Packages with custom optimization goals only) The purpose of the package. This setting helps determine how to optimize the package:
 

@@ -13,11 +13,11 @@ In Advertising Cloud DSP, an insertion order is represented as a campaign, and l
 
 ## Campaigns
 
-[Campaigns](campaign-about.md) are the overarching framework of flight settings. Each campaign is configured with an advertiser, start and end dates, an overall budget, a cross-device targeting option and default frequency cap, and reporting options for viewability, fraud, brand safety, and audience verification. All campaign-level settings automatically apply to each package and placement within the campaign.
+[Campaigns](/help/dsp/campaigns/campaigns/campaign-about.md) are the overarching framework of flight settings. Each campaign is configured with an advertiser, start and end dates, an overall budget, a cross-device targeting option and default frequency cap, and reporting options for viewability, fraud, brand safety, and audience verification. All campaign-level settings automatically apply to each package and placement within the campaign.
 
 ## Packages
 
-Each campaign can contain one or more [packages](packages-about.md), each of which includes a set of placements.
+Each campaign can contain one or more [packages](/help/dsp/campaigns/packages/packages-about.md), each of which includes a set of placements.
 
 Use packages to group placements for delivery to a set budget, performance goal, and custom pacing strategy. DSP optimizes packages by shifting budgets to the best-performing placements in the package. You can organize packages by placement format, inventory type, data provider, persona, or other distinguishable characteristics.
 
@@ -29,7 +29,7 @@ A [placement](/help/dsp/campaign-management/placements/placement-about.md) store
 
 ## Ads
 
-[Ads](ad-about.md) include creative assets and tracking URLs. You can either upload your creative assets and DSP will serve the ads that use them for free, or you can upload third-party ad serving tags.
+[Ads](/help/dsp/campaigns/ads/ad-about.md) include creative assets and tracking URLs. You can either upload your creative assets and DSP will serve the ads that use them for free, or you can upload third-party ad serving tags.
 
 Once your ads are set up, you'll need to attach each ad to a placement. You can attach a single ad to one or more placements.
 
@@ -44,11 +44,11 @@ You can immediately create an ad with the uploaded creative, or you can create a
 
 >[!MORELIKETHIS]
 >
->* [About Campaign Management](campaign-about.md)
->* [About Package Management](package-about.md)
+>* [About Campaign Management](/help/dsp/campaigns/campaigns/campaign-about.md)
+>* [About Package Management](/help/dsp/campaigns/packages/package-about.md)
 >* [About Placement Management](/help/dsp/campaign-management/placements/placement-about.md)
->* [About Ad Management](ad-about.md)
+>* [About Ad Management](/help/dsp/campaigns/ads/ad-about.md)
 >* [Campaign Launch Checklist](/help/dsp/campaign-management/campaign-launch-checklist.md)
 >* [Best Practices for Setting up Performance Campaigns](/help/dsp/optimization/campaign-best-practices-performance.md)
 >* [About In-Platform Reports](/help/dsp/campaign-management/reports/campaign-reports-about.md)
->* [About the Campaign Data Views](campaign-data-views-about.md)
+>* [About the Campaign Data Views](/help/dsp/campaigns/reports/campaign-data-views-about.md)

@@ -70,7 +70,7 @@ When you include a site on the globally blocked sites list as a placement target
 
 #### Account-level and Advertiser-level Blocked Sites Lists
 
-Users can also maintain [account-level and advertiser-level blocked sites list](/help/dsp/admin/blocked-sites-list-edit.md), which are used automatically for all placements. Lower-level blocked sites list are applied in addition to the globally blocked sites list.
+Users can also maintain account-level and advertiser-level blocked sites lists<!-- [account-level and advertiser-level blocked sites lists](/help/dsp/admin/blocked-sites-list-edit.md) -->, which are used automatically for all placements. Lower-level blocked sites list are applied in addition to the globally blocked sites list.
 
 ## Third-party Integrations
 
@@ -142,5 +142,5 @@ For more information about functionality, contact DoubleVerify directly, or cont
 
 >[!MORELIKETHIS]
 >
->* [Advertiser Account Settings](/help/dsp/admin/advertiser-settings.md)
+<!-- >* [Advertiser Account Settings](/help/dsp/admin/advertiser-settings.md) -->
 >* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)

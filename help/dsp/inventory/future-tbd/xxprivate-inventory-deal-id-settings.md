@@ -32,7 +32,7 @@ Example of an auto generated name: *DEAL_ID* - Deal ID - Guaranteed Fixed - USD 
 
 Google and Rubicon accept deals only in USD. For FreeWheel, you can optionally select the currency for the DSP account. <!-- FreeWheel is the only SSP with non-US currencies. -->
 
-**Billing method:** (Read-only for existing deals) All deal IDs are *Adobe financed and invoiced*. Advertising Cloud will pay all available media vendors based on usage, manage discrepancies with the vendors, and send one consolidated invoice to the account. This option incurs additional fees as outlined in [the account's rate card](/help/dsp/admin/rate-card-view.md).
+**Billing method:** (Read-only for existing deals) All deal IDs are *Adobe financed and invoiced*. Advertising Cloud will pay all available media vendors based on usage, manage discrepancies with the vendors, and send one consolidated invoice to the account. This option incurs additional fees as outlined in the account's rate card<!--[](/help/dsp/admin/rate-card-view.md)-->.
 
 ### Advertisers
 
@@ -77,4 +77,4 @@ Disable this option to serve ads in embedded players, whose URLs may not be incl
 >[!MORELIKETHIS]
 >
 >* [About Private Inventory](private-inventory-about.md)
->* [Create Manual Deal ID Details](deal-id-create.md)
+<!-->>* [Create Manual Deal ID Details](deal-id-create.md)-->

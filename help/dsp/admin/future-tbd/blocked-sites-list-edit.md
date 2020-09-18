@@ -28,5 +28,5 @@
 
 >[!MORELIKETHIS]
 >
-> [About Account-level and Advertiser-level Blocked Sites Lists](/help/dsp/admin/blocked-sites-list-about.md)
+> [Brand Safety and Media Quality](/help/dsp/introduction/features/brand-safety-media-quality.md)
 >* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)

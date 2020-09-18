@@ -15,6 +15,7 @@ c)Edit the necessary fields and press “save”
 
 >[!MORELIKETHIS]
 >
->* [About Private Inventory](private-inventory-about.md)>* [Create a Manual Deal ID](deal-id-create.md)
->* [Manual Deal ID Settings](deal-id-settings.md)
+>* [About Private Inventory](private-inventory-about.md)
+<!-- >* [Create a Manual Deal ID](deal-id-create.md) -->
+<!-- >* [Manual Deal ID Settings](deal-id-settings.md) -->
 <!-- Deal ID Inbox topics -->

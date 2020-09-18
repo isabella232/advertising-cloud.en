@@ -61,4 +61,4 @@ The following settings apply to each pixel that you create or edit.
 >* [About Ad Management](ad-about.md)
 >* [Create an Ad](ad-create.md)
 >* [Available Ad Types](ad-types.md)
->* [Ad Specifications](ad-specs.pdf)
+>* [Ad Specifications](/help/dsp/assets/ad-specs.pdf)

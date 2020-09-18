@@ -90,14 +90,14 @@ You can create a simple ad serving deal in the Inventory > Deals view. Advertisi
 
 On the main feed management page at DSP > Private Inventory > Analytics, you can access more than 30 metrics, ranging from impressions and costs, to completion rates and click throughs to conversions, broken out by publisher and feed.
 
-[ ![privateive](help/dsp/assets/privateive.png)](help/dsp/assets/privateive.png)
+<!-- screen shot -->
 
 The metrics you see onscreen and in downloaded reports are for the specified date range. To change the metrics displayed onscreen, click the metric list icon next to the Options column on the top right. To see all metrics at once, you can download all of the data for the active and archived feeds sections as a Microsoft Excel spreadsheet.
 
-[ ![Feed reporting](help/dsp/assets/feed-reporting.png)](help/dsp/assets/feed-reporting.png) 
+<!-- screen shot -->
 
 ## Deal Details
 
-At the individual feed level, click the gear icon and then select “See Report” to see detailed data. The data includes all of the same metrics as you could from the Private Inventory Analytics page, but you can also view and export reporting by Advertiser, Campaign, Ad Type, and Site. You can also get private feed reporting via customized [Email Reports](../../../dsp/measurement/campaign-reporting/email-reports.md).
+At the individual feed level, click the gear icon and then select “See Report” to see detailed data. The data includes all of the same metrics as you could from the Private Inventory Analytics page, but you can also view and export reporting by Advertiser, Campaign, Ad Type, and Site. You can also get private feed reporting via custom reports.
 
-[ ![privateinventory](help/dsp/assets/privateinventory-1024x603.png)](help/dsp/assets/privateinventory.png) 
+<!-- screen shot -->

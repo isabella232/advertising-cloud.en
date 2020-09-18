@@ -6,7 +6,7 @@
 
 1. In the main menu, click **Settings > Fees**.
 
-1. In the Estimated Tax Withholdings section, click ![Edit](/help/assets/edit.png).
+1. In the Estimated Tax Withholdings section, click ![Edit](/help/dsp/assets/edit.png).
 
 1. Edit the settings:
 
@@ -28,7 +28,8 @@
 >
 >* You can also configure these values in [campaign settings](/help/dsp/campaign-management/campaigns/campaign-settings.md).
 
-
+<!--
 >[!MORELIKETHIS]
 >
 >* [View the DSP Rate Card for the Account](/help/dsp/admin/rate-card-view.md)
+-->

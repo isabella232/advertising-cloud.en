@@ -32,8 +32,8 @@ To create a single third-party ad, see [Create an Ad](ad-create.md).
 
    1. Review the status of each ad, which is based on validation checks on the uploaded tag.
    1. (Optional) Do any of the following for each ad:
-      * To preview an ad, click ![play](/help/assets/play.png) in the ad row.
-      * To edit the ad details, click ![edit](/help/assets/edit.png), edit the details, and then click **Save**.
+      * To preview an ad, click ![play](/help/dsp/assets/play.png) in the ad row.
+      * To edit the ad details, click ![edit](/help/dsp/assets/edit.png), edit the details, and then click **Save**.
       * To remove an ad, click **X** in the ad row.
 
 1. Click **Create *N* Ad(s)**.
@@ -51,5 +51,5 @@ To create a single third-party ad, see [Create an Ad](ad-create.md).
 >
 >* [About Ad Management](ad-about.md)
 >* [Create an Ad](ad-create.md)
->* [Available Ad Types](placement-create-template.md)
->* [Ad Specifications](ad-specs.pdf)
+>* [Available Ad Types](ad-types.md)
+>* [Ad Specifications](/help/dsp/assets/ad-specs.pdf)

@@ -44,6 +44,8 @@
 
 Each credit applied to the account. To export the files to a Microsoft Excel spreadsheet file, click **Export to Excel**.
 
+<!--
 >[!MORELIKETHIS]
 >
 >* [Edit Your Own User Profile](/help/dsp/admin/user-own-profile-edit.md)
+-->

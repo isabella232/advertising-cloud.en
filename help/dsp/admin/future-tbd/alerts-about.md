@@ -38,6 +38,8 @@ You can add or remove alerts from a subscription, edit the users who receive ema
     * No Feed Impressions
     * Guaranteed Feed with No Default Placements
 
+<!--
 >[!MORELIKETHIS]
 >
 >[Manage Alert Subscriptions](/help/dsp/admin/alerts-manage.md)
+-->

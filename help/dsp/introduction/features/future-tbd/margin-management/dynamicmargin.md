@@ -24,17 +24,21 @@ isSticky: 0
 # Dynamic Margin Management {#dynamic-margin-management}
 
 Dynamic Margin Management is the second business model that is supported in the Margin Management feature. This option allows you to manage margins down to the placement level and optimize based on the financial efficiency of each placement. This feature gives you more flexibility than the Fixed Margin Management tool, but unlike that feature does not guarantee the margin %. It is up to the campaign manager to deliver the contracted units at or below their net margin to get the margin they want.
-This feature should be used if your client issues you an insertion order, consisting of several line items that you have agreed to deliver a fixed amount of units or unit types at a fixed rate. In the platform the insertion order is represented as a campaign, and line items are represented as [packages](campaign-setup/packages.md). Each package will have a specific goal, rate, and placements assigned to it. The placements can have different strategies and tactics organized to deliver the line item requirements, or in our case the "package goals" and "package rates".
+This feature should be used if your client issues you an insertion order, consisting of several line items that you have agreed to deliver a fixed amount of units or unit types at a fixed rate. In the platform the insertion order is represented as a campaign, and line items are represented as packages. Each package will have a specific goal, rate, and placements assigned to it. The placements can have different strategies and tactics organized to deliver the line item requirements, or in our case the "package goals" and "package rates".
 
 ## Feature Setup:
 
 Step 1: Navigate to the Campaigns page on the left hand side, and Create New Campaign. From there, fill out the Basic Campaign Details section.
 
-[ ![campaign basics](assets/campaign-basics1.png)](assets/campaign-basics1.png)
+<!--
+[ ![campaign basics](/help/dsp/assets/campaign-basics1.png)](/help/dsp/assets/campaign-basics1.png)
+-->
 
 Step 2: Fill out the Margin Management section of the page:
 
-[ ![image (7)](assets/image-7.png)](assets/image-7.png)
+<!--
+[ ![image (7)](/help/dsp/assets/image-7.png)](/help/dsp/assets/image-7.png)
+-->
 
 * Select "Yes" to activate Margin Management and "Dynamic" for the Margin Type
 * Enter the Gross or Client's Budget
@@ -42,7 +46,10 @@ Step 2: Fill out the Margin Management section of the page:
 * Spend Cap will be auto-calculated based on the Gross Budget and Budget Reserve %.
 
 Step 3: Under Packages click Create a New Package. A new form will populate prompting you to fill in the following information:
-[ ![packages - campaign](assets/packages-campaign.png)](assets/packages-campaign.png)
+
+<!--
+[ ![packages - campaign](/help/dsp/assets/packages-campaign.png)](/help/dsp/assets/packages-campaign.png)
+-->
 
 * Name: Choose a name for your package
 * Dates: Flight dates, note that all placements tied to this package must fall within these dates. These dates must also fall within the campaign flight dates.
@@ -59,15 +66,21 @@ Step 3: Under Packages click Create a New Package. A new form will populate prom
 
 Step 1: Create a package when creating/editing a placement.
 
-[ ![package-placement](assets/package-placement.png)](assets/package-placement.png)
+<!--
+[ ![package-placement](/help/dsp/assets/package-placement.png)](/help/dsp/assets/package-placement.png)
+-->
 
 Step 2: Either choose a Package that has already been created, or Create a New Package. If you are creating a new package, the same package form as above will populate.
 
-[ ![package-placement2](assets/package-placement2.png)](assets/package-placement2.png)
+<!--
+[ ![package-placement2](/help/dsp/assets/package-placement2.png)](/help/dsp/assets/package-placement2.png)
+-->
 
 This feature also allows you to set up 3rd Party Billed Fees at the placement level.
 
-[ ![3rdparty](assets/3rdparty.png)](assets/3rdparty.png)
+<!--
+[ ![3rdparty](/help/dsp/assets/3rdparty.png)](/help/dsp/assets/3rdparty.png)
+-->
 
 >[!NOTE]
 >
@@ -79,17 +92,23 @@ This is accessible in different parts of the platform, depending on the feature.
 
 Margin Management can be found at the campaign and placement reporting pages, as well as exported at the bottom of each page. Revenue will encompass media cost as well as the margin you've obtained.
 
-[ ![reporting-mm](assets/reporting-mm.png)
+<!--
+[ ![reporting-mm](/help/dsp/assets/reporting-mm.png)
+-->
 
 Package level reporting is accessible in 2 ways:
 
 * Option 1: Filter placements by package association in the placement list page.
 
-  [ ![package reporting1](assets/package-reporting1.png)
- 
+<!--
+  [ ![package reporting1](/help/dsp/assets/package-reporting1.png)
+ -->
+
 * Option 2: Export package level data by hitting "Export" button.
 
-  [ ![pacakagereporting2](assets/pacakagereporting2.png)
+<!--
+  [ ![pacakagereporting2](/help/dsp/assets/pacakagereporting2.png)
+-->
 
 In the exported page, analyze the data using the metrics below:
 

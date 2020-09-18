@@ -21,7 +21,8 @@ You can create a new placement by duplicating any placement in the Placements vi
 >* Custom weighting of ads are not attached.
 >* Custom ad scheduling of placement flight dates are changed.
 
->[!MORELIKETHIS] <!-- full list for the chapter - pare down -->
+<!-- 
+>[!MORELIKETHIS]
 >
 >* [About Placement Management](/help/dsp/campaign-management/placements/placement-about.md)
 >* [Create a Placement](/help/dsp/campaign-management/placements/placement-create.md)
@@ -29,3 +30,4 @@ You can create a new placement by duplicating any placement in the Placements vi
 >* [Create a Placement Template](/help/dsp/campaign-management/placements/placement-create-template.md)
 >* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
 >* [Assign a Placement to a Package](/help/dsp/campaign-management/placements/placement-assign-to-package.md)
+-->
