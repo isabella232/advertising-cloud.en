@@ -15,32 +15,46 @@ You can generate reports once, or schedule them to be generated daily, weekly, o
 
 * Custom
 * Pre-configured Report Templates
-    * **Billing:** By default, includes spend metrics for media billing by campaign.
+    * **Custom:** This is a blank template you can use to create your own custom report using most dimensions and metrics. Conversion, Device, Geo, and Site reports are variations of this template with pre-selected columns and dimensions for their respective use cases.
+    
+    * **Billing:** Use this report to understand key billing metrics like spend metrics for media billing by campaign.
+    
+       >[!NOTE]
+       >
+       >* This report includes data about the billing segment. If a user or device is served an impression that belongs to multiple segments, only one billable segment is credited with the impression.
 
-    * **Conversion:** For advertisers configured with multi-touch conversion tracking, any conversion metrics you add that were captured using Advertising Cloud conversion tracking tags will include multi-touch data.
+    * **Conversion:** Use this report to understand how your campaigns are performing based on conversion metrics captured using Advertising Cloud conversion tracking. This includes multi-touch attribution.
 
-    * **Device:** By default, includes impressions by device type.
+    * **Device:** Use this pre-populated template to see key metrics by device-related dimensions.
 
-    * **Frequency (by Impression):** By default, includes the number of times that ads are shown to all viewers and to unique viewers, sorted by impression.
+    * **Frequency (by Impression):** Use this report to understand the distribution of impressions shown to unique viewers (for example, how many unique viewers saw one impression, two impressions, three impressions, and so on. Data is available by placement or campaign.
+           
+       >[!NOTE]
+       >
+       >* Data is available after March 1, 2019.
+       >* Frequency is estimated based on a sampling of data.
+       >* For some inventory, publishers don't pass along a device identifier, which prevents frequency tracking. This report includes only impressions for which a device identifier was available.
+      
 
-    * **Frequency (by App/Site):** By default, includes the number of times that ads are shown to unique viewers for campaigns, sorted by app or domain.
+    * **Frequency (by App/Site):** Use this report to understand how many unique users were reached by app or by site. You can also see how many unique users were reached via only a particular app or site ("distinct unique users").
 
        >[!NOTE]
        >
        >* Data is available after November 15, 2018.
        >* For some private inventory, publishers don't pass along a device identifier, which prevents frequency tracking.
 
-    * **Geo**: By default, includes standard metrics, total media net spend, and total billable net spend for placements by geographical location.
+    * **Geo**: Use this pre-populated template to see key metrics by geographic dimensions.
 
-    * **Margin:** By default, includes the margin % and other spend metrics by campaign.
+    * **Margin:** Use this report to see key metrics like margin, profit, and other spend metrics by campaign or placement.
 
-    * **Segment:** By default, includes standard metrics for placements by segment.
+    * **Segment:** Use this pre-populated template to see key metrics by segment.
 
        >[!NOTE]
        >
-       >Conversion metrics and custom goal data for segments is available after August 2, 2019. All other data for segments is available beginning June 1, 2018
+       >* This report is intended to show how different targeted segments perform. It uses segment membership data. When an impression is served to a person or device belonging to two or more targeted segments, this report will include one row for each segment. For this reason, totals in this report may not match actual delivery.
+       >* Conversion metrics and custom goal data for segments is available after August 2, 2019. All other data for segments is available beginning after June 1, 2018.
      
-    * **Site:** By default, includes standard metrics, total media net spend, and total billable net spend by site site.
+    * **Site:** By default, includes standard metrics, total media net spend, and total billable net spend by site.
 
 >[!MORELIKETHIS
 >
