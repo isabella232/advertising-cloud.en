@@ -52,4 +52,4 @@ To create a single third-party ad, see [Create an Ad](ad-create.md).
 >* [About Ad Management](ad-about.md)
 >* [Create an Ad](ad-create.md)
 >* [Available Ad Types](ad-types.md)
->* [Ad Specifications](/help/dsp/assets/ad-specs.pdf)
+>* [Ad Specifications](https://education.tubemogul.com/wp-content/uploads/2020/08/Adobe_Avstg_Cloud-Ad-Specs-20201.pdf)

@@ -18,7 +18,7 @@ Once your ads are set up, you'll need to attach each ad to a placement, which in
 * Pre-Roll
 * Survey
 
-For more information about these ad types, see [Available Ad Types](ad-types.md) and the complete [Ad Specifications](/help/dsp/assets/ad-specs.pdf).
+For more information about these ad types, see [Available Ad Types](ad-types.md) and the complete [Ad Specifications](https://education.tubemogul.com/wp-content/uploads/2020/08/Adobe_Avstg_Cloud-Ad-Specs-20201.pdf).
 
 ## Special Ad Features
 
@@ -64,4 +64,4 @@ When DSP approves an ad, you'll see a green dot in the Status column.
 >* [Create an Ad](ad-create.md)
 >* [Create Multiple Third-party Ads](ad-create-third-party.md)
 >* [Available Ad Types](ad-types.md)
->* [Ad Specifications](/help/dsp/assets/ad-specs.pdf)
+>* [Ad Specifications](https://education.tubemogul.com/wp-content/uploads/2020/08/Adobe_Avstg_Cloud-Ad-Specs-20201.pdf)

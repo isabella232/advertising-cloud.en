@@ -43,4 +43,4 @@ To create multiple third-party ads at a time, see [Create Multiple Third-party A
 >* [About Ad Management](ad-about.md)
 >* [Create Multiple Third-party Ads](ad-create-third-party.md)
 >* [Available Ad Types](ad-types.md)
->* [Ad Specifications](/help/dsp/assets/ad-specs.pdf)
+>* [Ad Specifications](https://education.tubemogul.com/wp-content/uploads/2020/08/Adobe_Avstg_Cloud-Ad-Specs-20201.pdf)
