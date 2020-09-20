@@ -76,5 +76,5 @@ Add any companion banner 3rd party clickthrough pixels in this section. If you w
         * While the ad is playing on the preview page, the web-debugging tool will record all pixels that are firing.
         * Verify the pixels fired with your 3rd party pixel map.
 
-* If you're using a swf file then you'll need to include the tracking pixels within the file
+* If you're using a SWF file, then you'll need to include the tracking pixels within the file
 * Verify your campaign pixel set-up with our Pixel Q&A tool located in the Tools section on the top navigation bar.
