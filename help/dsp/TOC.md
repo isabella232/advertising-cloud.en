@@ -20,8 +20,8 @@ index: no
     + [Support for the California Consumer Privacy Act: Consumer Data Access and Delete](https://docs.adobe.com/content/help/en/advertising-cloud/all/privacy/ad-cloud-ccpa-access-delete.html)
     + [Support for the California Consumer Privacy Act: Consumer Opt-Out-of-Sale](https://docs.adobe.com/content/help/en/advertising-cloud/all/privacy/ad-cloud-ccpa-opt-out-of-sale.html)
   + Policies {#policies}
-    + [Advertising Cloud Ads Requirements Policy](/help/dsp/assets/ads-policy-30Aug20.pdf)
-    + [Advertising Cloud Data Usage Guidelines](/help/dsp/assets/data-guidelines-9-5-2019.pdf)
+    + [Advertising Cloud Ads Requirements Policy](/help/dsp/introduction/ad-requirements-policy.md)
+    + [Advertising Cloud Data Usage Guidelines](/help/dsp/introduction/data-usage-guidelines.md)
   + [Available Advanced Measurement Services](/help/dsp/introduction/advanced-measurement-services.md)
 + Campaign Management {#campaign-management}
   + [Overview of Campaign Management Structure](/help/dsp/campaign-management/campaign-management-overview.md)
@@ -52,7 +52,7 @@ index: no
       + [Best Practices for Designing Overlays](/help/dsp/campaign-management/ads/ad-best-practices-overlays.md)
     + Bulk Third-party Ads {#bulk-third-party-ads}
       + [Create Multiple Third-party Ads](/help/dsp/campaign-management/ads/ad-create-third-party.md)
-    + [Specifications for Supported Ad Types](/help/dsp/assets/ad-specs.pdf)
+    + [Specifications for Supported Ad Types](https://education.tubemogul.com/wp-content/uploads/2020/08/Adobe_Avstg_Cloud-Ad-Specs-20201.pdf)
   + Campaign Reports {#campaign-reports}
     + [About In-Platform Reports](/help/dsp/campaign-management/reports/campaign-reports-about.md)
     + [View the Sites, Ads, and Frequency Details for a Placement](/help/dsp/campaign-management/reports/placement-details-view.md)
