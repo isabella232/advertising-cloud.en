@@ -3,7 +3,7 @@
 When you create reusable audiences, you can manually define segment logic using alphanumeric segment IDs and the following syntax:
 
 * () to indicate a group
-* || for OR
+* \||\ for OR <!-- || escaped with back slashes so Jenkins doesn't think it's a Markdown table -->
 * && for AND
 * ! for NOT (exclude)
 
