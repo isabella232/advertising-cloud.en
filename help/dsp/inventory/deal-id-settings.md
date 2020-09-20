@@ -51,8 +51,8 @@
        <ul>
           <li><p><i>Non guaranteed (floor)</i>: You and the publisher haven't committed to a fixed number of impression deliveries. The deal specifies the minimum price for the inventory, although the CPM may fluctuate and increase depending on market conditions.</p></li>
           <li><p><i>Non guaranteed (fixed)</i>: You and the publisher haven't committed to a fixed number of impression deliveries. Pricing is at a negotiated fixed rate.</p></li>
-          <li><p><i>Guaranteed (fixed)</i>: You and the publisher have agreed on a pre-defined number of impressions, targeting, flight dates, and fixed price, so you’ll buy any or all impressions that come through the deal.</p></li>
-          <p><b>Note:</b> Guaranteed deals require flight dates and a specified number of impressions in the Tracking section. You'll also need to create a default placement for the deal, although you can optionally use the deal for other placements instead.</p>
+          <li><p><i>Guaranteed (fixed)</i>: You and the publisher have agreed on a pre-defined number of impressions, targeting, flight dates, and fixed price.</p></li>
+          <p><b>Note:</b> Guaranteed deals require flight dates and a specified number of impressions in the Tracking section. You'll also need to create a default programmatic guaranteed (PG) placement for the deal, and you can optionally use the deal for other placements instead.</p>
        </ul></td>
        <td style="border-right: Solid 1px #ffffff; border-bottom: Solid 1px #ffffff; padding-right: 6px; padding-left: 6px; padding-bottom: 6px;" bgcolor="#F0F0F0"><p>Yes</p></td>
        <td style="border-right: Solid 1px #ffffff; border-bottom: Solid 1px #ffffff; padding-right: 6px; padding-left: 6px; padding-bottom: 6px;" bgcolor="#F0F0F0"><p>No</p></td>
@@ -67,8 +67,8 @@
     <tr style="vertical-align: top;">
        <td style="border-left: solid 1px #ffffff; border-right: Solid 1px #ffffff; border-bottom: Solid 1px #ffffff; padding-right: 6px; padding-left: 6px; padding-bottom: 6px;" bgcolor="#F0F0F0"><p>&#160;</p></td>
        <td style="border-right: Solid 1px #ffffff; border-bottom: Solid 1px #ffffff; padding-right: 6px; padding-left: 6px; padding-bottom: 6px;" bgcolor="#F0F0F0"><p>[Currency]</p></td>
-       <td style="border-right: Solid 1px #ffffff; border-bottom: Solid 1px #ffffff; padding-right: 6px; padding-left: 6px; padding-bottom: 6px;" bgcolor="#F0F0F0"><p>The currency for the deal. </p>
-       <p>Google and Rubicon accept deals only in USD. For FreeWheel, you can optionally select the currency for the DSP account. </p></td>
+       <td style="border-right: Solid 1px #ffffff; border-bottom: Solid 1px #ffffff; padding-right: 6px; padding-left: 6px; padding-bottom: 6px;" bgcolor="#F0F0F0"><p>The currency for the deal.</p>
+       <p>All SSPs accept deals in USD. When the SSP accepts the currency for your DSP account, that currency is also available.</p></td>
        <td style="border-right: Solid 1px #ffffff; border-bottom: Solid 1px #ffffff; padding-right: 6px; padding-left: 6px; padding-bottom: 6px;" bgcolor="#F0F0F0"><p>Yes</p></td>
        <td style="border-right: Solid 1px #ffffff; border-bottom: Solid 1px #ffffff; padding-right: 6px; padding-left: 6px; padding-bottom: 6px;" bgcolor="#F0F0F0"><p>No</p></td>
     </tr>
@@ -90,7 +90,7 @@
        <td style="border-left: solid 1px #ffffff; border-right: Solid 1px #ffffff; border-bottom: Solid 1px #ffffff; padding-right: 6px; padding-left: 6px; padding-bottom: 6px;" bgcolor="#F0F0F0"><p>&#160;</p></td>
        <td style="border-right: Solid 1px #ffffff; border-bottom: Solid 1px #ffffff; padding-right: 6px; padding-left: 6px; padding-bottom: 6px;" bgcolor="#F0F0F0"><p>Advertisers that can access this deal</p></td>
        <td style="border-right: Solid 1px #ffffff; border-bottom: Solid 1px #ffffff; padding-right: 6px; padding-left: 6px; padding-bottom: 6px;" bgcolor="#F0F0F0"><p>The specific advertisers in the account who can access this deal.</p>
-       <p><b>Note:</b> Administrator users can give access to advertisers in multiple accounts.</p></td>
+       <p><b>Note:</b> You can share the deal with advertisers in additional accounts from the Deals view. In the deal row, click <img src="https://docs.adobe.com/content/help/en/advertising-cloud/dsp/assets/edit.png" title="Options" alt="Options" />, click <b>share</b>, and then share the deal with an email address.</p></td>
        <td style="border-right: Solid 1px #ffffff; border-bottom: Solid 1px #ffffff; padding-right: 6px; padding-left: 6px; padding-bottom: 6px;" bgcolor="#F0F0F0"><p>Yes</p></td>
        <td style="border-right: Solid 1px #ffffff; border-bottom: Solid 1px #ffffff; padding-right: 6px; padding-left: 6px; padding-bottom: 6px;" bgcolor="#F0F0F0"><p>Yes</p></td>
     </tr>
