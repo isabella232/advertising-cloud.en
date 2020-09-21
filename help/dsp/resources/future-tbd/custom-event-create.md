@@ -1,4 +1,4 @@
-# Create a Custom Event [custom-event-create}]
+# Create a Custom Event
 
 <!-- not in existing help set -->
 
