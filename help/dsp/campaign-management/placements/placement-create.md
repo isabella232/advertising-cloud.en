@@ -5,7 +5,7 @@ description: Create a Placement
 
 # Create a Placement
 
->[!Tip]
+><td>
 >
 >Create placements based on specific campaign goals or reporting needs.
 

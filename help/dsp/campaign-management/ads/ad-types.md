@@ -51,7 +51,7 @@ Survey ads are created automatically when you create a survey, but you can creat
 
 <!-- See more information about the required and optional [survey ad settings](ad-settings-survey.md). -->
 
->[MORELIKETHIS]
+>[!MORELIKETHIS]
 >
 >* [About Ad Management](ad-about.md)
 >* [Create an Ad](ad-create.md)
