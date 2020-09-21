@@ -124,7 +124,7 @@ Topic targeting requires you to create topic segments directly with Comscore or 
 
 To get started, contact your preferred vendor or your Adobe account manager.
 
-![Comscore logo](/help/dsp/assets/comscore-logo.png) ![Grapeshot logo](/help/dsp/oracle-grapeshot-logo.png)
+![Comscore logo](/help/dsp/assets/comscore-logo.png) ![Grapeshot logo](/help/dsp/assets/oracle-grapeshot-logo.png)
 
 <!-- <table >
     <tr>
