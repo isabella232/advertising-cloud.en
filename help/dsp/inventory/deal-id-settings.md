@@ -5,7 +5,7 @@ description: Manual Deal ID Settings
 
 # Manual Deal ID Settings
 
-<table style="vertical-align: top;">
+<table>
     <tr style="vertical-align: top;">
        <td style="border-left: Solid 1px #ffffff; border-top: Solid 1px #ffffff; border-right: Solid 1px #ffffff; border-bottom: Solid 1px #ffffff; padding-right: 6px; padding-left: 6px; padding-top: 0px; padding-bottom: 6px;" bgcolor="#D2D2D2"><p><b>Section</b></p></td>
        <td style="border-top: Solid 1px #ffffff; border-right: Solid 1px #ffffff; border-bottom: Solid 1px #ffffff; padding-right: 6px; padding-left: 6px; padding-top: 0px; padding-bottom: 6px;" bgcolor="#D2D2D2"><p><b>Parameter</b></p></td>
