@@ -85,16 +85,16 @@ Contextual filtering allows you to target or block ad opportunities based on the
 
 You can set default contextual filter controls for each advertiser<!-- [default contextual filter controls for each advertiser](/help/dsp/admin/advertiser-settings.md) -->, and then optionally [customize the settings for each placement](/help/dsp/campaign-management/placements/placement-settings.md). Additional fees may apply when you use this feature.
 
-<table >
+![Comscore logo](/help/dsp/assets/comscore-logo.png) ![DoubleVerify logo](/help/dsp/assets/doubleverify-logo.png) ![Integral Ad Science logo](/help/dsp/assets/ias-logo.png) ![Peer39 logo](/help/dsp/assets/peer39-logo.png)
+
+<!-- <table >
     <tr>
         <td><p><img src="../../assets/comscore-logo.png" title="Comscore logo" alt="Comscore logo" style="border: none;" border="0" /></p></td>
         <td><p><img src="../../assets/doubleverify-logo.png" title="DoubleVerify logo" alt="DoubleVerify logo" style="border: none;" border="0" /></p></td>
         <td><p><img src="../../assets/ias-logo.png" title="Integral Ad Science logo" alt="Integral Ad Science logo" style="border: none;" border="0" /></p></td>
         <td><p><img src="../../assets/peer39-logo.png" title="Peer39 logo" alt="Peer39 logo" style="border: none;" border="0" /></p></td>
     </tr>
-</table>
-
-<!-- ![Comscore logo](/help/dsp/assets/comscore-logo.png) ![DoubleVerify logo](/help/dsp/assets/doubleverify-logo.png) ![Integral Ad Science logo](/help/dsp/assets/ias-logo.png) ![Peer39 logo](/help/dsp/assets/peer39-logo.png) -->
+</table> -->
 
 ### Pre-Bid Fraud Blocking
 
@@ -104,14 +104,16 @@ You can set default pre-bid fraud blocking controls for each advertiser<!-- [def
 
 For more information on functionality, contact your preferred vendor directly, or contact your Adobe account manager.
 
-<table >
+![Comscore logo](/help/dsp/assets/comscore-logo.png) ![DoubleVerify logo](/help/dsp/assets/doubleverify-logo.png) ![Integral Ad Science logo](/help/dsp/assets/ias-logo.png) ![Peer39 logo](/help/dsp/assets/peer39-logo.png)
+
+<!-- <table >
     <tr>
         <td><p><img src="../../assets/comscore-logo.png" title="Comscore logo" alt="Comscore logo" style="border: none;" border="0" /></p></td>
         <td><p><img src="../../assets/doubleverify-logo.png" title="DoubleVerify logo" alt="DoubleVerify logo" style="border: none;" border="0" /></p></td>
         <td><p><img src="../../assets/ias-logo.png" title="Integral Ad Science logo" alt="Integral Ad Science logo" style="border: none;" border="0" /></p></td>
         <td><p><img src="../../assets/peer39-logo.png" title="Peer39 logo" alt="Peer39 logo" style="border: none;" border="0" /></p></td>
     </tr>
-</table>
+</table>-->
 
 ### Topic Targeting
 
@@ -122,12 +124,14 @@ Topic targeting requires you to create topic segments directly with Comscore or 
 
 To get started, contact your preferred vendor or your Adobe account manager.
 
-<table >
+![Comscore logo](/help/dsp/assets/comscore-logo.png) ![Grapeshot logo](/help/dsp/oracle-grapeshot-logo.png)
+
+<!-- <table >
     <tr>
         <td><p><img src="../../assets/comscore-logo.png" title="Comscore logo" alt="Comscore logo" style="border: none;" height="100" width="618" border="0" /></p></td>
         <td style="height:100px"><p><img src="../../assets/oracle-grapeshot-logo.png" title="Grapeshot logo" alt="Grapeshot logo" style="border: none;" height="100" width="171" border="0" /></p></td>
     </tr>
-</table>
+</table>-->
 
 ### DoubleVerify Authentic Brand Safety
 
@@ -139,11 +143,13 @@ You can specify a DoubleVerify segment ID for each advertiser<!-- [specify a Dou
 
 For more information about functionality, contact DoubleVerify directly, or contact your Adobe account manager.
 
-<table >
+![DoubleVerify logo](/help/dsp/assets/doubleverify-logo.png)
+
+<!-- <table >
     <tr>
         <td><p><img src="../../assets/doubleverify-logo.png" title="DoubleVerify logo" alt="DoubleVerify logo" style="border: none;" height-="150" width="158" border="0" /></p></td>
     </tr>
-</table>
+</table> -->
 
 >[!MORELIKETHIS]
 >
