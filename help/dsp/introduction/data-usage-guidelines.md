@@ -1,9 +1,4 @@
----
-title: Adobe Advertising Cloud Data Usage Guidelines
-description: Adobe Advertising Cloud Data Usage Guidelines
----
-
-# Adobe Advertising Cloud Data Usage Guidelines
+# Adobe Advertising Cloud Data Usage Guidelines [#data-usage-guidelines]
 
 *Last Updated: September 5, 2019*
 
