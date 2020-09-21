@@ -56,8 +56,8 @@ description: Manual Deal ID Settings
        <ul>
           <li><p><i>Non guaranteed (floor)</i>: You and the publisher haven't committed to a fixed number of impression deliveries. The deal specifies the minimum price for the inventory, although the CPM may fluctuate and increase depending on market conditions.</p></li>
           <li><p><i>Non guaranteed (fixed)</i>: You and the publisher haven't committed to a fixed number of impression deliveries. Pricing is at a negotiated fixed rate.</p></li>
-          <li><p><i>Guaranteed (fixed)</i>: You and the publisher have agreed on a pre-defined number of impressions, targeting, flight dates, and fixed price.</p></li>
-          <p><b>Note:</b> Guaranteed deals require flight dates and a specified number of impressions in the Tracking section. You'll also need to create a default programmatic guaranteed (PG) placement for the deal, and you can optionally use the deal for other placements instead.</p>
+          <li><p><i>Guaranteed (fixed)</i>: You and the publisher have agreed on a pre-defined number of impressions, targeting, flight dates, and fixed price.</p>
+          <p><b>Note:</b> Guaranteed deals require flight dates and a specified number of impressions in the Tracking section. You'll also need to create a default programmatic guaranteed (PG) placement for the deal, and you can optionally use the deal for other placements instead.</p></li>
        </ul></td>
        <td><p>Yes</p></td>
        <td><p>No</p></td>
