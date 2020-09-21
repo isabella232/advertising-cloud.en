@@ -1,27 +1,4 @@
 ---
-edit-last: 21
-wp-page-template: page-left-sidebar.php
-rawhtml-settings: 0,0,0,0
-pubDate: Mon, 14 Jul 2014 19:39:51 +0000
-dc-creator: hthomas@adobe.com
-guid: https://education.tubemogul.com/?page_id=1818
-isPermaLink: false
-description: 
-postId: 1818
-postDate: 2014-07-14 11:39:51
-postDateGmt: 2014-07-14 19:39:51
-commentStatus: open
-pingStatus: open
-postName: tracking-pixels
-status: publish
-postParent: 1821
-menuOrder: 0
-postType: page
-postPassword: 
-isSticky: 0
----
-
----
 title: Tracking Pixels
 description: Tracking Pixels
 ---

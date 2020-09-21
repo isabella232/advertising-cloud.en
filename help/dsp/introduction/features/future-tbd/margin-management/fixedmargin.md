@@ -1,28 +1,4 @@
 ---
-edit-last: 4
-wp-page-template: page-left-sidebar.php
-rawhtml-settings: 0,0,0,0
-post-restored-from: a:3:{s:20:"restored_revision_id";i:3479;s:16:"restored_by_user";i:4;s:13:"restored_time";i:1429539820;}
-pubDate: Fri, 17 Apr 2015 17:24:20 +0000
-dc-creator: hthomas@adobe.com
-guid: https://education.tubemogul.com/?page_id=3445
-isPermaLink: false
-description: 
-postId: 3445
-postDate: 2015-04-17 09:24:20
-postDateGmt: 2015-04-17 17:24:20
-commentStatus: open
-pingStatus: open
-postName: fixedmargin
-status: publish
-postParent: 1424
-menuOrder: 0
-postType: page
-postPassword: 
-isSticky: 0
----
-
----
 title: Fixed Margin Management
 description: Fixed Margin Management
 ---

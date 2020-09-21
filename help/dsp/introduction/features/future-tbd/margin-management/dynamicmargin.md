@@ -1,27 +1,4 @@
 ---
-edit-last: 4
-wp-page-template: page-left-sidebar.php
-rawhtml-settings: 0,0,0,0
-pubDate: Thu, 14 May 2015 18:14:21 +0000
-dc-creator: hthomas@adobe.com
-guid: https://education.tubemogul.com/?page_id=3715
-isPermaLink: false
-description: 
-postId: 3715
-postDate: 2015-05-14 10:14:21
-postDateGmt: 2015-05-14 18:14:21
-commentStatus: open
-pingStatus: open
-postName: dynamicmargin
-status: publish
-postParent: 1424
-menuOrder: 0
-postType: page
-postPassword: 
-isSticky: 0
----
-
----
 title: Dynamic Margin Management
 description: Dynamic Margin Management
 ---
@@ -31,7 +8,7 @@ description: Dynamic Margin Management
 Dynamic Margin Management is the second business model that is supported in the Margin Management feature. This option allows you to manage margins down to the placement level and optimize based on the financial efficiency of each placement. This feature gives you more flexibility than the Fixed Margin Management tool, but unlike that feature does not guarantee the margin %. It is up to the campaign manager to deliver the contracted units at or below their net margin to get the margin they want.
 This feature should be used if your client issues you an insertion order, consisting of several line items that you have agreed to deliver a fixed amount of units or unit types at a fixed rate. In the platform the insertion order is represented as a campaign, and line items are represented as packages. Each package will have a specific goal, rate, and placements assigned to it. The placements can have different strategies and tactics organized to deliver the line item requirements, or in our case the "package goals" and "package rates".
 
-## Feature Setup:
+## Feature Setup
 
 Step 1: Navigate to the Campaigns page on the left hand side, and Create New Campaign. From there, fill out the Basic Campaign Details section.
 
@@ -65,9 +42,8 @@ Step 3: Under Packages click Create a New Package. A new form will populate prom
 * Package Rate&#42;: The rate for the advertiser. This is used to calculate the dynamic margin but will not cap delivery; you can cap spending only at the campaign level using a fixed margin.
 * Budget is then auto-calculated based on the above information, and used for tracking ONLY.
 * 3rd Party Billed Fees: Enter a consolidated CPM amount and 3rd party fee description.**Note:** This feature doesn't override fees for optional services, such as Nielsen, comScore, and IAS, are tracked as "non-billable other cost." To bring your own rate for these services, contact your Account Manager.
- 
 
-## Feature Setup (Placement Level):
+## Feature Setup (Placement Level)
 
 Step 1: Create a package when creating/editing a placement.
 
@@ -91,7 +67,7 @@ This feature also allows you to set up 3rd Party Billed Fees at the placement le
 >
 >Only include these fees if you have not done so at the package level, or if these fees should only be associated with a single placement within the package.
 
-## Reporting:
+## Reporting
 
 This is accessible in different parts of the platform, depending on the feature.
 
