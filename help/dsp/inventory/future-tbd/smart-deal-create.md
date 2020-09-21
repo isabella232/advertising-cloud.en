@@ -32,7 +32,7 @@
 
            We recommend that you include “Default Placement" and "Guaranteed Feed” somewhere in the name to distinguish it from your other placements.
         
-        1. (Optional) Edit the [placement settings](/help/dsp/campaign-management/placements\placement-settings.md), including overwriting the default bid, which is automatically populated with the CPM value from the deal; changing the date range; or attaching more ads.
+        1. (Optional) Edit the [placement settings](/help/dsp/campaign-management/placements/placement-settings.md), including overwriting the default bid, which is automatically populated with the CPM value from the deal; changing the date range; or attaching more ads.
 
            The deal is automatically targeted in the Inventory Targets section. All other targeting options are inapplicable.
 
