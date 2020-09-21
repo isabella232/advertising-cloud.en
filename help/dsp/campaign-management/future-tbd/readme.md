@@ -1,4 +1,4 @@
-# # Information About This Chapter
+# Information About This Chapter
 
 This is the working folder for this chapter.
 

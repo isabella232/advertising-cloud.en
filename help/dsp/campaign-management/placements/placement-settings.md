@@ -9,12 +9,12 @@ description: Placement Settings
 
 **Placement name** The placement name.
 
->[TIP]
+>[!TIP]
 >Use a naming convention that makes sense for your situation. One suggested naming convention is "*\<Campaign Name\>: \<Ad Unit\>: \<Duration\>: \<Targeting\>*."
 
 **Status:** The placement status: *Active* (the default) or *Paused*.
 
->[TIP]
+>[!TIP]
 >The best practice is to pause the placement until you're ready to launch it.
 
 **Details:** (Read-only) The applicable ad type, the account that is creating or created the placement, and the parent campaign. To see more details, click **Show more**.
