@@ -1,4 +1,8 @@
-# Edit a Custom Column View {#column-view-edit}
+---
+title: Edit a Custom Column View
+description: Edit a Custom Column View
+---
+# Edit a Custom Column View
 
 >[!NOTE]
 >

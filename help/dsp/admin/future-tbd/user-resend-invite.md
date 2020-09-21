@@ -1,4 +1,8 @@
-# Resend a Pending User Invitation for Your Organization Account {#user-resend-invite}
+---
+title: Resend a Pending User Invitation for Your Organization Account
+description: Resend a Pending User Invitation for Your Organization Account
+---
+# Resend a Pending User Invitation for Your Organization Account
 
 *Administrator Users Only*
 

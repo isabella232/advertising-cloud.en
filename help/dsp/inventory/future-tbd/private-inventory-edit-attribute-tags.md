@@ -1,4 +1,8 @@
-# Edit Attribute Tags {#private-inventory-edit-attribute-tags}
+---
+title: Edit Attribute Tags
+description: Edit Attribute Tags
+---
+# Edit Attribute Tags
 
 <!-- Is this for any private inventory deal type, or only for smart ad serving deals? The deal type isn't shown in the Deals UI, so I can't tell. --> 
 

@@ -1,4 +1,8 @@
-# On Demand Premium Inventory Publishers in North America {#on-demand-inventory-publishers-na}
+---
+title: On Demand Premium Inventory Publishers in North America
+description: On Demand Premium Inventory Publishers in North America
+---
+# On Demand Premium Inventory Publishers in North America
 
 <!-- get from Amanda Cabrera <acabrera@adobe.com> -->
 

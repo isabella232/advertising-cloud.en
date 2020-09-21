@@ -1,4 +1,8 @@
-# Best Practices for Building a Custom Goal {#custom-goal-best-practices}
+---
+title: Best Practices for Building a Custom Goal
+description: Best Practices for Building a Custom Goal
+---
+# Best Practices for Building a Custom Goal
 
 ## Custom Goals with a Single Property
 

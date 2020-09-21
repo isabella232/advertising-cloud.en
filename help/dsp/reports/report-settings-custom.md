@@ -1,4 +1,8 @@
-# Custom Report Settings {#report-settings-custom}
+---
+title: Custom Report Settings
+description: Custom Report Settings
+---
+# Custom Report Settings
 
 **Name** The report name. The maximum length is 180 characters.
 

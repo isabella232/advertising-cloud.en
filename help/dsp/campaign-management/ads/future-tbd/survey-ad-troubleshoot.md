@@ -1,4 +1,8 @@
-# Troubleshooting Survey Ads {#survey-ad-troubleshoot}
+---
+title: Troubleshooting Survey Ads
+description: Troubleshooting Survey Ads
+---
+# Troubleshooting Survey Ads
 
 <!-- Legacy graphic is at /help/dsp-legacy/measurement/brandsights-reporting -->
 

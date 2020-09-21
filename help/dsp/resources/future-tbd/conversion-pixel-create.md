@@ -1,4 +1,8 @@
-# Create a Conversion Pixel {#conversion-pixel-create}
+---
+title: Create a Conversion Pixel
+description: Create a Conversion Pixel
+---
+# Create a Conversion Pixel
 
 <!-- FOr search, you have to specify transaction properties to track. These are configured for a specific conversion type -- not just any metric you want. Clarify if you can/should use both types of tags on your sites, or if you'd only do that if you also have Search. I assume  the Search and DSP conversions won't overlap/join if they use different tags. -->
 

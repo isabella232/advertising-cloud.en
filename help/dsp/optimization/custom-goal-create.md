@@ -1,4 +1,8 @@
-# Create a Custom Goal {#custom-goal-create}
+---
+title: Create a Custom Goal
+description: Create a Custom Goal
+---
+# Create a Custom Goal
 
 >[!TIP]
 >

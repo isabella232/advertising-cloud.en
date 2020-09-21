@@ -1,4 +1,8 @@
-# Create a Custom Report {#report-create-custom}
+---
+title: Create a Custom Report
+description: Create a Custom Report
+---
+# Create a Custom Report
 
 1. In the main menu, click ** Reports**.
 1. Click **New Custom Report**.

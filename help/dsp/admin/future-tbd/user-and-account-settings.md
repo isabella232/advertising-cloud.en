@@ -1,4 +1,8 @@
-# User Profile and Organization Account Settings  {#user-and-account-settings}
+---
+title: User Profile and Organization Account Settings 
+description: User Profile and Organization Account Settings 
+---
+# User Profile and Organization Account Settings 
 
 ## Account Activity
 

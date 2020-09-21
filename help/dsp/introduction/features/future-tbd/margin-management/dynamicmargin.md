@@ -21,7 +21,11 @@ postPassword:
 isSticky: 0
 ---
 
-# Dynamic Margin Management {#dynamic-margin-management}
+---
+title: Dynamic Margin Management
+description: Dynamic Margin Management
+---
+# Dynamic Margin Management
 
 Dynamic Margin Management is the second business model that is supported in the Margin Management feature. This option allows you to manage margins down to the placement level and optimize based on the financial efficiency of each placement. This feature gives you more flexibility than the Fixed Margin Management tool, but unlike that feature does not guarantee the margin %. It is up to the campaign manager to deliver the contracted units at or below their net margin to get the margin they want.
 This feature should be used if your client issues you an insertion order, consisting of several line items that you have agreed to deliver a fixed amount of units or unit types at a fixed rate. In the platform the insertion order is represented as a campaign, and line items are represented as packages. Each package will have a specific goal, rate, and placements assigned to it. The placements can have different strategies and tactics organized to deliver the line item requirements, or in our case the "package goals" and "package rates".

@@ -1,4 +1,8 @@
-# Edit a Deal ID {#private-inventory-deal-id-edit}
+---
+title: Edit a Deal ID
+description: Edit a Deal ID
+---
+# Edit a Deal ID
 
 <!-- Title? -->
 

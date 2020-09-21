@@ -1,4 +1,8 @@
-# About In-Platform Reports {#campaign-reports-about}
+---
+title: About In-Platform Reports
+description: About In-Platform Reports
+---
+# About In-Platform Reports
 
 <!-- rename "About Performance Reports in Campaign Management Views?" -->
 The campaign management views in Campaign Home, which is at Campaigns Beta, include comprehensive report data. The available reports help you to identify the packages and placements that are performing well and those that need your attention. Quick action buttons also make you more productive.

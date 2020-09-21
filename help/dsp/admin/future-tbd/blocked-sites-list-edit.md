@@ -1,4 +1,8 @@
-# Edit an Account-level or Advertiser-level Blocked Sites List {#blocked-sites-list-edit}
+---
+title: Edit an Account-level or Advertiser-level Blocked Sites List
+description: Edit an Account-level or Advertiser-level Blocked Sites List
+---
+# Edit an Account-level or Advertiser-level Blocked Sites List
 
 1. In the main menu, click **Settings > Sites.**
 

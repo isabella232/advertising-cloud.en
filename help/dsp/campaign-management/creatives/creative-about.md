@@ -1,4 +1,8 @@
-# About Creative Management in Advertising Cloud DSP {#creative-about}
+---
+title: About Creative Management in Advertising Cloud DSP
+description: About Creative Management in Advertising Cloud DSP
+---
+# About Creative Management in Advertising Cloud DSP
 
 >[!MORELIKETHIS]
 >

@@ -1,4 +1,8 @@
-# Syntax for Audience Segment Logic {#audience-segment-logic-syntax}
+---
+title: Syntax for Audience Segment Logic
+description: Syntax for Audience Segment Logic
+---
+# Syntax for Audience Segment Logic
 
 When you create reusable audiences, you can manually define segment logic using alphanumeric segment IDs and the following syntax:
 

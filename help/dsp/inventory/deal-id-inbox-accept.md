@@ -1,4 +1,8 @@
-# Accept a Deal in the Deal ID Inbox {#deal-id-inbox-accept}
+---
+title: Accept a Deal in the Deal ID Inbox
+description: Accept a Deal in the Deal ID Inbox
+---
+# Accept a Deal in the Deal ID Inbox
 
 *Users in DSP Accounts that Are Mapped to SSP Accounts Only*
 

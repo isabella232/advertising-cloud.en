@@ -1,4 +1,8 @@
-# Cross-Device Solutions {#cross-device-solutions}
+---
+title: Cross-Device Solutions
+description: Cross-Device Solutions
+---
+# Cross-Device Solutions
 
 Advertising Cloud DSP integrations with LiveRamp and Adobe Device Co-op allow you to extend your audience to all of a person's known devices, not just the devices your brand has tracked. The integrations also provide frequency capping and attribution measurement across all devices.
 

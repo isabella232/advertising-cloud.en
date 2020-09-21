@@ -1,4 +1,8 @@
-# About the Campaign Data Views {#campaign-data-views-about}
+---
+title: About the Campaign Data Views
+description: About the Campaign Data Views
+---
+# About the Campaign Data Views
 
 In all campaign management views (Campaigns, Packages, Placements, and Ads), you can customize the data that appears within the data table. You can customize the data in the following ways:
 

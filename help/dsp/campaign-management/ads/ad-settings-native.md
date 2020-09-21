@@ -1,4 +1,8 @@
-# Native Ad Settings {#ad-settings-native}
+---
+title: Native Ad Settings
+description: Native Ad Settings
+---
+# Native Ad Settings
 
 ## Upload or Select Creative
 

@@ -1,4 +1,8 @@
-# Survey Ad Settings {#survey-settings}
+---
+title: Survey Ad Settings
+description: Survey Ad Settings
+---
+# Survey Ad Settings
 
 <!-- If the ad settings vary much by survey type, then create a subheading (##) for each survey type. If there are only a few differences, then all can go in the same list, with "(XXX ads only)" for the fields that don't apply to everything.-->
 

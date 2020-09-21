@@ -1,4 +1,8 @@
-# About Programmatic Guaranteed Deals {#programmatic-guaranteed-about}
+---
+title: About Programmatic Guaranteed Deals
+description: About Programmatic Guaranteed Deals
+---
+# About Programmatic Guaranteed Deals
 
 A programmatic guaranteed (PG) deal is a guaranteed buy directly with a publisher via a deal ID (rather than via ad server tags). PG is more flexible for you and your publisher to manage, and it provides more transparency than regular tag buys. Billing and reporting are consolidated through Advertising Cloud DSP, which saves you time.
 

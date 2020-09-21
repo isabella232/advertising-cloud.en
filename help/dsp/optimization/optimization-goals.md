@@ -1,4 +1,8 @@
-# Optimization Goals and How to Use Them {#optimization-goals}
+---
+title: Optimization Goals and How to Use Them
+description: Optimization Goals and How to Use Them
+---
+# Optimization Goals and How to Use Them
 
 | Optimization Goal | Description  | When to Use This Goal |
 | -----------| ---------- | ---------- |

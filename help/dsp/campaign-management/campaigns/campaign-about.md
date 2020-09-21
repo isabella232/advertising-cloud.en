@@ -1,4 +1,8 @@
-# About Campaign Management in Advertising Cloud DSP {#campaign-about}
+---
+title: About Campaign Management in Advertising Cloud DSP
+description: About Campaign Management in Advertising Cloud DSP
+---
+# About Campaign Management in Advertising Cloud DSP
 
 Campaigns are the overarching framework of flight settings. All campaign level settings automatically apply to each package and placement within the campaign. Each campaign is associated with a specific advertiser.
 

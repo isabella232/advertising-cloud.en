@@ -1,4 +1,8 @@
-# Simple Ad Serving Deal Settings {#simple-deal-settings}
+---
+title: Simple Ad Serving Deal Settings
+description: Simple Ad Serving Deal Settings
+---
+# Simple Ad Serving Deal Settings
 
 ## New Simple Ad Serving Deals
 

@@ -1,4 +1,8 @@
-# Campaign Settings {#campaign-settings}
+---
+title: Campaign Settings
+description: Campaign Settings
+---
+# Campaign Settings
 
 ## Basic Campaign Details
 

@@ -1,4 +1,8 @@
-# Package Settings {#package-settings}
+---
+title: Package Settings
+description: Package Settings
+---
+# Package Settings
 
 ## Basic Details
 

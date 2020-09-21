@@ -1,4 +1,8 @@
-# Connected TV Ad Settings {#ad-settings-connected-tv}
+---
+title: Connected TV Ad Settings
+description: Connected TV Ad Settings
+---
+# Connected TV Ad Settings
 
 ## Upload or Select Creative
 

@@ -1,4 +1,8 @@
-# On Demand Premium Inventory Publishers in Europe, the Middle East, and Africa {#on-demand-inventory-publishers-emea}
+---
+title: On Demand Premium Inventory Publishers in Europe, the Middle East, and Africa
+description: On Demand Premium Inventory Publishers in Europe, the Middle East, and Africa
+---
+# On Demand Premium Inventory Publishers in Europe, the Middle East, and Africa
 
 <!-- get from Amanda Cabrera <acabrera@adobe.com> -->
 

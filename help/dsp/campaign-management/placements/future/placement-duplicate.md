@@ -1,4 +1,8 @@
-# Duplicate a Placement {#placement-duplicate}
+---
+title: Duplicate a Placement
+description: Duplicate a Placement
+---
+# Duplicate a Placement
 
 You can create a new placement by duplicating any placement in the Placements view. Use this feature to:
 

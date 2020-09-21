@@ -1,4 +1,8 @@
-# Create a Smart Ad Serving Deal {#private-inventory-create-smart-deeal}
+---
+title: Create a Smart Ad Serving Deal
+description: Create a Smart Ad Serving Deal
+---
+# Create a Smart Ad Serving Deal
 
 1. In the main menu, click ** Inventory > Deals.**
 

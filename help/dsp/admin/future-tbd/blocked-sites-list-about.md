@@ -1,4 +1,8 @@
-# About Account-level and Advertiser-level Blocked Sites Lists {#blocked-sites-list-about}
+---
+title: About Account-level and Advertiser-level Blocked Sites Lists
+description: About Account-level and Advertiser-level Blocked Sites Lists
+---
+# About Account-level and Advertiser-level Blocked Sites Lists
 
 <!-- Can you just add domains for your acct profile or advertiser to which you have access? It doesn't look like you can remove or edit any existing domains. Or can you with a specific syntax? -->
 

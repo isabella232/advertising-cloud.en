@@ -1,4 +1,8 @@
-# Invite a New User for Your Organization Account {#user-invite}
+---
+title: Invite a New User for Your Organization Account
+description: Invite a New User for Your Organization Account
+---
+# Invite a New User for Your Organization Account
 
 *Administrator Users Only*
 

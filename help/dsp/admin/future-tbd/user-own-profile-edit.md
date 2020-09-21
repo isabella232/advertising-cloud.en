@@ -1,4 +1,8 @@
-# Edit Your User Profile  {#user-own-profile-edit}
+---
+title: Edit Your User Profile 
+description: Edit Your User Profile 
+---
+# Edit Your User Profile 
 
 Your account profile includes your login credentials and other information. Some user roles can also view information about your organization's account and invite additional people to create user accounts in the organization account.
 

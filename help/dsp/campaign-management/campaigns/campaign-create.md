@@ -1,4 +1,8 @@
-# Create a Campaign {#campaign-create}
+---
+title: Create a Campaign
+description: Create a Campaign
+---
+# Create a Campaign
 
 1. In the main menu, select **Campaigns Beta**.
 1. In the Campaigns view, click **Create**.

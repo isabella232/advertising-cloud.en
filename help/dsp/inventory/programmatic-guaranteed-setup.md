@@ -1,4 +1,8 @@
-# Set up a Programmatic Guaranteed Deal {#programmatic-guaranteed-setup}
+---
+title: Set up a Programmatic Guaranteed Deal
+description: Set up a Programmatic Guaranteed Deal
+---
+# Set up a Programmatic Guaranteed Deal
 
 *[Supported supply side platforms only](programmatic-guaranteed-about.md)*
 

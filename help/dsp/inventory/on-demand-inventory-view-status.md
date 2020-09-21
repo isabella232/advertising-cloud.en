@@ -1,4 +1,8 @@
-# View the Status of Your On Demand Deal Requests and Subscriptions {#on-demand-inventory-view-status}
+---
+title: View the Status of Your On Demand Deal Requests and Subscriptions
+description: View the Status of Your On Demand Deal Requests and Subscriptions
+---
+# View the Status of Your On Demand Deal Requests and Subscriptions
 
 After you request an individual deal or subscribe to all of a publisher's deals, see if the publisher has approved or rejected each deal for each advertiser in your account.
 

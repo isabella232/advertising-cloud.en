@@ -1,4 +1,8 @@
-# Glossary {#glossary}
+---
+title: Glossary
+description: Glossary
+---
+# Glossary
 
 <!-- See if anyone has anything to add, then edit. Although I could not worry about adding anything -- just make sure nothing is no longer relevant. -->
 

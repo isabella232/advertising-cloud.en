@@ -1,4 +1,8 @@
-# Available Ad Types {#ad-types}
+---
+title: Available Ad Types
+description: Available Ad Types
+---
+# Available Ad Types
 
 For full specifications for each ad type, see the [Ad Specifications](https://education.tubemogul.com/wp-content/uploads/2020/08/Adobe_Avstg_Cloud-Ad-Specs-20201.pdf).
 

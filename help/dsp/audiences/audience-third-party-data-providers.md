@@ -1,4 +1,8 @@
-# Available Third-party Data Providers in Advertising Cloud DSP {#audience-third-party-data-providers}
+---
+title: Available Third-party Data Providers in Advertising Cloud DSP
+description: Available Third-party Data Providers in Advertising Cloud DSP
+---
+# Available Third-party Data Providers in Advertising Cloud DSP
 
 Data categories and segments for the following third-party data providers are available as placement targets in DSP. These segments are available for primarily U.S. audiences.
 

@@ -21,7 +21,11 @@ postPassword:
 isSticky: 0
 ---
 
-# Tracking Pixels {#tracking-pixels}
+---
+title: Tracking Pixels
+description: Tracking Pixels
+---
+# Tracking Pixels
 
 If you are using third-party tracking pixels, Advertising Cloud DSP enables you to add these during the ad creation process and  track a variety of integration events including impressions, clicks and completions.
 

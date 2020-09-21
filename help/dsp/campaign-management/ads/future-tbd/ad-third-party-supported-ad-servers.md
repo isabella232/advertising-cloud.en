@@ -23,7 +23,11 @@ postPassword:
 isSticky: 0
 ---
 
-# Supported Third-party Ad Servers {#ad-third-party-supported-ad-servers}
+---
+title: Supported Third-party Ad Servers
+description: Supported Third-party Ad Servers
+---
+# Supported Third-party Ad Servers
 
 Advertising Cloud DSP currently accepts the following certified display ad servers.
 

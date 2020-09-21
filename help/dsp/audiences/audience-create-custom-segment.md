@@ -1,4 +1,8 @@
-# Create and Implement a Custom Segment {#audience-create-custom-segment}
+---
+title: Create and Implement a Custom Segment
+description: Create and Implement a Custom Segment
+---
+# Create and Implement a Custom Segment
 
 You can collect your own first-party audience data by creating and implementing a custom Advertising Cloud segment. You can use the segment to track a) users exposed to ads from desktop, mobile, and CTV devices and b) users who visit specific webpages. You can later retarget users in the segment with additional ads or prevent users in the segment from receiving additional ads.
 

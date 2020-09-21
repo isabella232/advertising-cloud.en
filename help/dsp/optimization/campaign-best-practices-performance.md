@@ -1,4 +1,8 @@
-# Best Practices for Setting up Performance Campaigns {#optimization-best-practices-performance}
+---
+title: Best Practices for Setting up Performance Campaigns
+description: Best Practices for Setting up Performance Campaigns
+---
+# Best Practices for Setting up Performance Campaigns
 
 Advertising Cloud can optimize your performance-focused campaigns for placements with the lowest cost per acquisition (CPA) or the highest return on ad spend (ROAS).
 

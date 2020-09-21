@@ -1,4 +1,8 @@
-# Companion Banner {#ad-companion-banner}
+---
+title: Companion Banner
+description: Companion Banner
+---
+# Companion Banner
 
 Companion banners are served alongside pre-roll ads or (with some publishers) audio ads and can help reinforce brand and message association.
 
