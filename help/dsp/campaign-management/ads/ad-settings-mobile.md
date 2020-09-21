@@ -28,7 +28,7 @@
 
 >[!TIP]
 >
-> To check the validity of a VAST tag, paste it into a browser and hit the **Enter** key. If the tag is valid, you will see an XML file that includes <VAST> near the top.
+> To check the validity of a VAST tag, paste it into a browser and hit the **Enter** key. If the tag is valid, you will see an XML file that includes `<VAST>` near the top.
 
 **Advanced: 3rd party Ad Tag:** (Some ad types) To enter a third-party ad tag that contains creative assets and tracking pixels:
 

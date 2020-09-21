@@ -26,7 +26,7 @@
 
 >[!TIP]
 >
-> To check the validity of a VAST tag, paste it into a browser and hit the **Enter** key. If the tag is valid, you will see an XML file that includes <VAST> near the top.
+> To check the validity of a VAST tag, paste it into a browser and hit the **Enter** key. If the tag is valid, you will see an XML file that includes `<VAST>` near the top.
 
 ## Ad Options
 
