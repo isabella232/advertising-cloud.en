@@ -2,6 +2,7 @@
 title: Edit User Permissions or Delete a User
 description: Edit User Permissions or Delete a User
 ---
+
 # Edit User Permissions or Delete a User
 
 <!-- It looks like the account owner can't change his/her own permissions. Probably a superuser has to do that.-->

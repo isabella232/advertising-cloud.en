@@ -1,32 +1,8 @@
 ---
-edit-last: 17
-wp-page-template: page-left-sidebar.php
-rawhtml-settings: 0,0,0,0
-ldc-disable: 0
-ldc-disable-comm: 0
-pubDate: Wed, 10 Jun 2015 17:53:02 +0000
-dc-creator: hthomas@adobe.com
-guid: https://education.tubemogul.com/?page_id=4033
-isPermaLink: false
-description: 
-postId: 4033
-postDate: 2015-06-10 09:53:02
-postDateGmt: 2015-06-10 17:53:02
-commentStatus: open
-pingStatus: open
-postName: certified-display-ad-servers
-status: publish
-postParent: 1821
-menuOrder: 0
-postType: page
-postPassword: 
-isSticky: 0
----
-
----
 title: Supported Third-party Ad Servers
 description: Supported Third-party Ad Servers
 ---
+
 # Supported Third-party Ad Servers
 
 Advertising Cloud DSP currently accepts the following certified display ad servers.

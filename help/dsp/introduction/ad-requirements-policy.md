@@ -2,6 +2,7 @@
 title: Adobe Advertising Cloud Ad Requirements Policy
 description: Adobe Advertising Cloud Ad Requirements Policy
 ---
+
 # Adobe Advertising Cloud Ad Requirements Policy
 
 *Last updated: August 30, 2020*

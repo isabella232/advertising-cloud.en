@@ -2,6 +2,7 @@
 title: Margin Management
 description: Margin Management
 ---
+
 # Margin Management
 
 Manage and accurately track campaign financial margins directly in DSP by applying a margin to be deducted at either the campaign level or the package level. You can apply either a fixed margin or a dynamic margin.

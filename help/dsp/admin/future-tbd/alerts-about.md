@@ -2,6 +2,7 @@
 title: About Alert Subscriptions
 description: About Alert Subscriptions
 ---
+
 # About Alert Subscriptions
 
 You can create groups of automatic email alerts, called subscriptions, which sends email notifications when specified account, campaign, ad, and private inventory deal parameters are met.

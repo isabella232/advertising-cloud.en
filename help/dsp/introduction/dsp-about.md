@@ -2,6 +2,7 @@
 title: About Adobe Advertising Cloud DSP
 description: About Adobe Advertising Cloud DSP
 ---
+
 # About Adobe Advertising Cloud DSP
 
 Adobe Advertising Cloud is the only independent ad platform that unifies and automates all media, data, audiences, and creative at scale. Deliver connected experiences across all advertising channels, including paid search, display, video, connected TV (CTV), audio, and native.

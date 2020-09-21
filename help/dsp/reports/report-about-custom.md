@@ -2,6 +2,7 @@
 title: About Custom Reports
 description: About Custom Reports
 ---
+
 # About Custom Reports
 
 Custom reports (formerly called email reports) allow you to customize the content and delivery of your report data using the campaign dimensions (such as the advertiser, placement, sites, or geos) and the metrics that matter most to you. You can either:

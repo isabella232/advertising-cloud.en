@@ -2,6 +2,7 @@
 title: About Ad Management in Advertising Cloud DSP
 description: About Ad Management in Advertising Cloud DSP
 ---
+
 # About Ad Management in Advertising Cloud DSP
 
 Advertising Cloud DSP offers two ways to serve your ads:

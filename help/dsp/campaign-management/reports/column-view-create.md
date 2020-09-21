@@ -2,6 +2,7 @@
 title: Create a Custom Column View
 description: Create a Custom Column View
 ---
+
 # Create a Custom Column View
 
 1. In the View selector, click ![down arrow](/help/dsp/assets/chevron-down.png), and then click **Create View**.

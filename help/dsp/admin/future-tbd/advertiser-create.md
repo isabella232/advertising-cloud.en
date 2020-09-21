@@ -2,6 +2,7 @@
 title: Create an Advertiser Account
 description: Create an Advertiser Account
 ---
+
 # Create an Advertiser Account
 
 *Not Available to Read-only Users*

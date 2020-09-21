@@ -2,6 +2,7 @@
 title: About Private Inventory
 description: About Private Inventory
 ---
+
 # About Private Inventory
 
 <!-- Can any of these include premium inventory? I think Deal Id Inbox offers only non-premium inventory? -->
@@ -94,6 +95,7 @@ You can create a simple ad serving deal in the Inventory > Deals view. Advertisi
 title: Deal Reporting
 description: Deal Reporting
 ---
+
 # Deal Reporting
 
 On the main feed management page at DSP > Private Inventory > Analytics, you can access more than 30 metrics, ranging from impressions and costs, to completion rates and click throughs to conversions, broken out by publisher and feed.

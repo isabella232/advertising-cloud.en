@@ -2,6 +2,7 @@
 title: About the Deal ID Inbox
 description: About the Deal ID Inbox
 ---
+
 # About the Deal ID Inbox
 
 DSP's Deal ID inbox allows you to quickly set up deals that Advertising Cloud DSP has imported from publishers through supply side platforms (SSPs) so you don't have to set up each deal manually. You can accept the guaranteed and non-guaranteed private inventory deals you've already negotiated with publishers on Google Authorized Buyers (formerly known as AdX), FreeWheel, and Rubicon, from the Deal ID Inbox.

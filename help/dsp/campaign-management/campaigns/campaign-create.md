@@ -2,6 +2,7 @@
 title: Create a Campaign
 description: Create a Campaign
 ---
+
 # Create a Campaign
 
 1. In the main menu, select **Campaigns Beta**.

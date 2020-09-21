@@ -2,6 +2,7 @@
 title: Sort a Data Column
 description: Sort a Data Column
 ---
+
 # Sort a Data Column
 
 You can sort any data column in ascending order (A to Z, or 1 to 10) or descending order (Z to A, or 10 to 1).

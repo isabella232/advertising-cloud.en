@@ -2,6 +2,7 @@
 title: Manual Deal ID Settings
 description: Manual Deal ID Settings
 ---
+
 # Manual Deal ID Settings
 
 ## Deal ID basics

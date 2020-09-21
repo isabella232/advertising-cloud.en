@@ -2,6 +2,7 @@
 title: Manually Create Deal ID Details
 description: Manually Create Deal ID Details
 ---
+
 # Manually Create Deal ID Details
 
 1. In the main menu, click **Inventory > Deals.**

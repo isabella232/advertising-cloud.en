@@ -2,6 +2,7 @@
 title: View Performance and Spend Data by Ad Type
 description: View Performance and Spend Data by Ad Type
 ---
+
 # View Performance and Spend Data by Ad Type
 
 You can view the total spend and performance metrics for each active ad type. By default, impressions and spend are included in the report.

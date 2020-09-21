@@ -2,6 +2,7 @@
 title: About Audience Management in Advertising Cloud DSP
 description: About Audience Management in Advertising Cloud DSP
 ---
+
 # About Audience Management in Advertising Cloud DSP
 
 In Advertising Cloud, you can create and manage audience segments and audience sets, which you can use as targets for your placements:

@@ -25,6 +25,7 @@ isSticky: 0
 title: Dynamic Margin Management
 description: Dynamic Margin Management
 ---
+
 # Dynamic Margin Management
 
 Dynamic Margin Management is the second business model that is supported in the Margin Management feature. This option allows you to manage margins down to the placement level and optimize based on the financial efficiency of each placement. This feature gives you more flexibility than the Fixed Margin Management tool, but unlike that feature does not guarantee the margin %. It is up to the campaign manager to deliver the contracted units at or below their net margin to get the margin they want.

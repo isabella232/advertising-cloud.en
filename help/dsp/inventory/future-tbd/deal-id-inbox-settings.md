@@ -2,6 +2,7 @@
 title: Settings for Deal ID Inbox Deals
 description: Settings for Deal ID Inbox Deals
 ---
+
 # Settings for Deal ID Inbox Deals
 
 <!-- naming????? -->

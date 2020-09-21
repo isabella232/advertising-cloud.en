@@ -2,6 +2,7 @@
 title: Create an Ad
 description: Create an Ad
 ---
+
 # Create an Ad
 
 You can create a single first-party or third-party ad.

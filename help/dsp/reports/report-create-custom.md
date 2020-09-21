@@ -2,6 +2,7 @@
 title: Create a Custom Report
 description: Create a Custom Report
 ---
+
 # Create a Custom Report
 
 1. In the main menu, click ** Reports**.

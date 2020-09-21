@@ -26,6 +26,7 @@ isSticky: 0
 title: Fixed Margin Management
 description: Fixed Margin Management
 ---
+
 # Fixed Margin Management
 
 Fixed Margin Management is one of the two business models supported in the Margin Management feature. In the past, you were asked to calculate the net budget outside of the platform, and then apply these at the campaign and placement levels. Now you can enter a gross budget, enter the pre-negotiated fixed margin percentage, and then Advertising Cloud DSP will auto-calculate and cap spend at the net budget.

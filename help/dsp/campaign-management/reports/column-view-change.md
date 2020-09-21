@@ -2,6 +2,7 @@
 title: Change the Column View
 description: Change the Column View
 ---
+
 # Change the Column View
 
 * In the View selector, click ![down arrow](/help/dsp/assets/chevron-down.png), and then click the name of the desired column view.

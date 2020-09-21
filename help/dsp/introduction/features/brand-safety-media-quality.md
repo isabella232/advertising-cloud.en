@@ -2,6 +2,7 @@
 title: Brand Safety and Media Quality
 description: Brand Safety and Media Quality
 ---
+
 # Brand Safety and Media Quality
 
 <!-- Check on logo sizes in staging environment -- I made them all 100 pixels high except for DoubleVerify, which is 150 (harder to see at 100), but some instances look larger in VS Code. -->

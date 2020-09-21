@@ -2,6 +2,7 @@
 title: About In-Platform Reports
 description: About In-Platform Reports
 ---
+
 # About In-Platform Reports
 
 <!-- rename "About Performance Reports in Campaign Management Views?" -->

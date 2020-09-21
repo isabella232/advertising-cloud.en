@@ -2,6 +2,7 @@
 title: Uninvite a Pending User
 description: Uninvite a Pending User
 ---
+
 # Uninvite a Pending User
 
 *Administrator Users Only*

@@ -2,6 +2,7 @@
 title: Bulk Tools
 description: Bulk Tools
 ---
+
 # Bulk Tools
 
 <!-- pulled directly from old help -->
@@ -19,6 +20,7 @@ Never attach the same ad one by one to multiple placements, or the same placemen
 title: Bulk Editing
 description: Bulk Editing
 ---
+
 # Bulk Editing
 
 Reduce the amount of effort and clicks it takes to make changes across different placements. Scroll down to the bottom of the page, select "Bulk Edit," and choose the placements you'd like to change.

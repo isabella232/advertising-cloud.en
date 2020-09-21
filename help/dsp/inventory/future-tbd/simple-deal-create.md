@@ -2,6 +2,7 @@
 title: Create a Simple Ad Serving Deal
 description: Create a Simple Ad Serving Deal
 ---
+
 # Create a Simple Ad Serving Deal
 
 1. In the main menu, click **Inventory > Deals.**

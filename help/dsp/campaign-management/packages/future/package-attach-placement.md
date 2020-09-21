@@ -2,6 +2,7 @@
 title: Attach a Placement to a Package
 description: Attach a Placement to a Package
 ---
+
 # Attach a Placement to a Package
 
 1. In the main menu, select **Campaigns Beta > Packages**.

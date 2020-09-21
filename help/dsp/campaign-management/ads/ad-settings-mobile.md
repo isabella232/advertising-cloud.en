@@ -2,6 +2,7 @@
 title: Mobile Ad Settings
 description: Mobile Ad Settings
 ---
+
 # Mobile Ad Settings
 
 ## Upload or Select Creative

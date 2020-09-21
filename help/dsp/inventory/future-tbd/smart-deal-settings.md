@@ -2,6 +2,7 @@
 title: Smart Ad Serving Deal Settings
 description: Smart Ad Serving Deal Settings
 ---
+
 # Smart Ad Serving Deal Settings
 
 <!-- ## Screen 1 -->

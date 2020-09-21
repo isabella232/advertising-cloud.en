@@ -2,6 +2,7 @@
 title: Manual Deal ID Settings
 description: Manual Deal ID Settings
 ---
+
 # Manual Deal ID Settings
 
 <table style="vertical-align: top;" cellspacing="0">

@@ -2,6 +2,7 @@
 title: Upload an Audio or Video Creative File
 description: Upload an Audio or Video Creative File
 ---
+
 # Upload an Audio or Video Creative File
 
 You can upload audio files in XXX format and video files in XXX to use in placements for specified campaigns.

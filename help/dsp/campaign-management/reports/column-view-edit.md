@@ -2,6 +2,7 @@
 title: Edit a Custom Column View
 description: Edit a Custom Column View
 ---
+
 # Edit a Custom Column View
 
 >[!NOTE]

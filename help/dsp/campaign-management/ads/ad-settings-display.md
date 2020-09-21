@@ -2,6 +2,7 @@
 title: Display Ad Settings
 description: Display Ad Settings
 ---
+
 # Display Ad Settings
 
 The following settings are for standard display ads. You can also serve click-to-play video ads for display ads, but we don't recommend doing so because not many publishers support them.

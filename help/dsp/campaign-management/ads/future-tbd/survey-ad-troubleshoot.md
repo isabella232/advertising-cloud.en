@@ -2,6 +2,7 @@
 title: Troubleshooting Survey Ads
 description: Troubleshooting Survey Ads
 ---
+
 # Troubleshooting Survey Ads
 
 <!-- Legacy graphic is at /help/dsp-legacy/measurement/brandsights-reporting -->
