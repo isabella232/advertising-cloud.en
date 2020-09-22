@@ -9,6 +9,10 @@ description: Set up a Programmatic Guaranteed Deal
 
 After you negotiate a programmatic guaranteed (PG) deal with a supported publisher, you can set up the deal within DSP either by using the deal ID inbox or by manually entering the deal details.
 
+>[!NOTE]
+>
+> For PG deals, the publisher handles all budget pacing, budget capping, and targeting. All SSPs that allow PG through DSP confirm that the publisher can set up budget capping.
+
 ## Set up a Programmatic Guaranteed Deal Using the Deal ID Inbox
 
 This is the preferred method for FreeWheel, Google Authorized Buyers, and Rubicon.
@@ -17,11 +21,11 @@ This is the preferred method for FreeWheel, Google Authorized Buyers, and Rubico
 
 1. After you save the deal, create a PG default placement, as prompted.
 
-   Creating a default placement for the deal is mandatory to deliver 100% of your buy.
-
-  * If you're accepting a single deal, you're automatically redirected to the PG default placement creation workflow.
-
-  * If you're accepting a proposal with multiple PG deal IDs, identify each PG default placement you need to create. Once you create all required placements, the continue button will <!-- ??? -->
+   Creating a default placement for the deal is mandatory to deliver 100% of your buy. This type of placement has no targeting so DSP can return a bid to every bid request from the publisher.
+   
+   * If you're accepting a single deal, you're automatically redirected to the PG default placement creation workflow.
+   
+   * If you're accepting a proposal with multiple PG deal IDs, identify each PG default placement you need to create. Once you create all required placements, the continue button is enabled.
 
 1. (Optional) Target the PG deal in additional, non-PG placements.
 
@@ -33,9 +37,7 @@ Use this method for all other SSPs.
 
 1. After you save the deal, create a PG default placement, as prompted.
 
-   Creating a default placement for the deal is mandatory to deliver 100% of your buy.
-
-1. Select the advertiser.<!-- ?? -->
+   Creating a default placement for the deal is mandatory to deliver 100% of your buy. This type of placement has no targeting so DSP can return a bid to every bid request from the publisher.
 
 1. (Optional) Target the PG deal in additional, non-PG placements.
 
