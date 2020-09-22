@@ -38,8 +38,7 @@ To optionally create non-even pacing flights for the package, select **Activate 
 >[!NOTE]
 >
 >* The flight dates must be included within the campaign flight dates. In addition, the flight dates for all placements that are assigned to this package must be included within these dates.
-
-* You can't edit the package start date when custom flighting is activated.
+> * You can't edit the package start date when custom flighting is activated.
 
 **Budget:** (Packages with package-level pacing only) The gross budget cap and the budget interval.
 

@@ -153,5 +153,5 @@ For more information about functionality, contact DoubleVerify directly, or cont
 
 >[!MORELIKETHIS]
 >
-<!-- >* [Advertiser Account Settings](/help/dsp/admin/advertiser-settings.md) -->
 >* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
+<!-- >* [Advertiser Account Settings](/help/dsp/admin/advertiser-settings.md) -->

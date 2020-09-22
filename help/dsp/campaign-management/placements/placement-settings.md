@@ -41,6 +41,10 @@ description: Placement Settings
 
 The dates for the package (when applicable) or campaign are auto-populated by default.
 
+>[!NOTE]
+>
+>* The flight dates must be included within the campaign flight dates and the package flight dates.
+
 ### Placements Assigned to Packages with Package-level Pacing
 
 **Placement Funding:** How to budget for the placement:
