@@ -19,7 +19,7 @@ The following settings are for standard display ads. You can also serve click-to
 >
 > Use a name that will be easy to find when you attach the ad to a placement, in the Ads view, and in reports. For example, describe the unit type and some key attributes (such as Holiday Product Preview: 300x250 Gamer”).
 
-**`[Ad Source`]**: Whether Advertising Cloud DSP is serving the ad (*Adobe served*) or you're using a third-party ad server (*3rd party*).
+**\[Ad Source\]**: Whether Advertising Cloud DSP is serving the ad (*Adobe served*) or you're using a third-party ad server (*3rd party*).
 
 **This is an expandable Banner:** (Third-party ads only) Indicates the ad is an expandable banner ad. The related expansion settings determine which inventory to buy, so make sure they reflect the ad behavior.
 

@@ -15,7 +15,7 @@ description: Custom Report Settings
 
 **Observe Daylight Savings Time:** Considers Daylight Saving Time in the reported times.
 
-**`[Date Range]`:** The date range for which to generate data. The number of days available varies by report and by the selected dimensions. Choose one:
+**\[Date Range\]:** The date range for which to generate data. The number of days available varies by report and by the selected dimensions. Choose one:
 
 * **Previous N days:** Includes data for a specific number of days before today.
 
