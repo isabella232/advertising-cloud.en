@@ -48,6 +48,7 @@ index: no
       + [Create an Ad](/help/dsp/campaign-management/ads/ad-create.md)
       + Ad Settings {#ad-settings}
         + [Audio Ad Settings](/help/dsp/campaign-management/ads/ad-settings-audio.md)
+        + [Connected TV Settings](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
         + [Display Ad Settings](/help/dsp/campaign-management/ads/ad-settings-display.md)
         + [Mobile Ad Settings](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
         + [Native Ad Settings](/help/dsp/campaign-management/ads/ad-settings-native.md)
