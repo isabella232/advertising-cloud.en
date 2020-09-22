@@ -143,7 +143,7 @@ To specify locations:
 
 >[!NOTE]
 >
-* Not all countries have State, City, or Postal Code locations.
+>* Not all countries have State, City, or Postal Code locations.
 >* DMA (designated market area), Federal Legislative Districts, and State Legislative Districts are available for U.S. locations only.
 
 ## Inventory Targeting
