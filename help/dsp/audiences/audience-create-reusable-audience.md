@@ -57,9 +57,9 @@ You can save and manage reusable audiences, which are groups of audience segment
     
         1. Copy the segment logic from the existing audience in any of the following ways:
         
-            * In the All Audiences view, hold the cursor over the audience row, and then click **...More > Copy to Clipboard**.
+            * In the All Audiences view, hold the cursor over the audience row, and then click **More > Copy to Clipboard**.
             
-            * In the settings for the existing audience, at the top of the segment logic panel, click **...More > Copy to Clipboard**.
+            * In the settings for the existing audience, at the top of the segment logic panel, click **More > Copy to Clipboard**.
             
             * In a text editor, manually create the segment logic using alphanumeric segment IDs and [Boolean syntax](audience-segment-logic-syntax.md), and copy it to your clipboard.
 

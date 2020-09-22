@@ -105,7 +105,7 @@ index: no
       + Deal IDs {#deal-ids}
         + Deal ID Inbox {#deal-id-inbox}
           + [About the Deal ID Inbox](/help/dsp/inventory/deal-id-inbox-about.md)
-          + [Accept a Deal](/help/dsp/inventory/deal-id-inbox-accept.md)
+          + [Accept a Deal in the Deal ID Inbox](/help/dsp/inventory/deal-id-inbox-accept.md)
         + Manually-entered Deal IDs {#manual-deal-ids}
           + [Manually Create Deal ID Details](/help/dsp/inventory/deal-id-create.md)
           + [Manual Deal ID Settings](/help/dsp/inventory/deal-id-settings.md)
