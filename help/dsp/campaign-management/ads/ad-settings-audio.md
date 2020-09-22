@@ -64,11 +64,11 @@ You can optionally attach up to three companion banners with an ad. The best pra
 >* Not all publishers allow companion banners. The publishers who do allow companion banners don't guarantee companion banner impressions.
 >* Companion banners from third-party ad tags may not always available for preview.
 
-**[Check Box]:** Includes the specified companion banner with the ad. When the check box is disabled, the companion banner isn't included.
+**`[Check Box`]:** Includes the specified companion banner with the ad. When the check box is disabled, the companion banner isn't included.
 
-**[Banner Size]:** The companion banner size: *300x250* (used for iHeartRadio, Spotify, SoundCloud, and TuneIn), *640x640* (used for Spotify), or *1024x1024* (used for SoundCloud).
+**`[Banner Size`]:** The companion banner size: *300x250* (used for iHeartRadio, Spotify, SoundCloud, and TuneIn), *640x640* (used for Spotify), or *1024x1024* (used for SoundCloud).
 
-**[Source]:** The source of the companion banner asset:
+**`[Source`]:** The source of the companion banner asset:
 
 * *Upload My Own Asset:* To upload your own asset.
 * *Use a Third Party Tag:* To enter an iFrame or script tag from a certified third-party ad serving partner.

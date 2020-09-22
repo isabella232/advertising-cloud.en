@@ -53,7 +53,7 @@ description: Mobile Ad Settings
 >
 > Use a name that will be easy to find when you attach the ad to a placement, in the Ads view, and in reports. For example, describe the unit type and some key attributes (such as Holiday Product Preview: 300x250 Gamer”).
 
-**[Ad Source]**: Whether Advertising Cloud DSP is serving the ad (*Adobe served*) or you're using a third-party ad server (*3rd party*).
+**`[Ad Source`]**: Whether Advertising Cloud DSP is serving the ad (*Adobe served*) or you're using a third-party ad server (*3rd party*).
 
 **Creative type:** (Adobe-served ads only) Whether the asset is an *Image* or an *HTML5* asset.
 

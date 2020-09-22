@@ -67,7 +67,7 @@ The media type and ad specification for this deal: <!-- The available ad specs s
 
 All users can select USD, or, if the SSP supports additional currencies, the currency for the DSP account.
 
-**[CPM Pricing Structure]:** (Non-Guaranteed buys only) Whether the pricing structure is for a:
+**`[CPM Pricing Structure`]:** (Non-Guaranteed buys only) Whether the pricing structure is for a:
 
 * *Fixed CPM:* The negotiated fixed rate.
 * *Floor CPM:* The minimum price for the inventory, although the CPM may fluctuate and increase depending on market conditions.

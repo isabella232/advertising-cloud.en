@@ -90,11 +90,11 @@ You can optionally attach up to three companion banners with an ad. The best pra
 > Not all publishers allow companion banners. The publishers who do allow companion banners don't guarantee companion banner impressions.
 > Companion banners from third-party ad tags may not always available for preview.
 
-**[Check Box]:** Includes the specified companion banner with the ad. When the check box is disabled, the companion banner isn't included.
+**`[Check Box`]:** Includes the specified companion banner with the ad. When the check box is disabled, the companion banner isn't included.
 
-**[Banner Size]:** The companion banner size: *300x600 (Skyscraper)*; *300x250 (Medium Rectangle)*, which is the most common ad size and recommended for all ads; *300x60 (Small Banner)*; or *728x90 (Leaderboard)*, which is a less common ad size.
+**`[Banner Size`]:** The companion banner size: *300x600 (Skyscraper)*; *300x250 (Medium Rectangle)*, which is the most common ad size and recommended for all ads; *300x60 (Small Banner)*; or *728x90 (Leaderboard)*, which is a less common ad size.
 
-**[Source]:** Whether you're uploading your own companion banner asset or using a third-party tag.
+**`[Source`]:** Whether you're uploading your own companion banner asset or using a third-party tag.
 
 **Asset:** (Raw assets only) The companion banner asset. Click **Browse** and locate the file on your device or network, and then click **Upload**.
 
