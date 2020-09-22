@@ -17,11 +17,11 @@ This is the preferred method for FreeWheel, Google Authorized Buyers, and Rubico
 
 1. After you save the deal, create a PG default placement, as prompted.
 
-  Creating a default placement for the deal is mandatory to deliver 100% of your buy.
+   Creating a default placement for the deal is mandatory to deliver 100% of your buy.
 
-    * If you're accepting a single deal, you're automatically redirected to the PG default placement creation workflow.
+  * If you're accepting a single deal, you're automatically redirected to the PG default placement creation workflow.
 
-    * If you're accepting a proposal with multiple PG deal IDs, identify each PG default placement you need to create. Once you create all required placements, the continue button will <!-- ??? -->
+  * If you're accepting a proposal with multiple PG deal IDs, identify each PG default placement you need to create. Once you create all required placements, the continue button will <!-- ??? -->
 
 1. (Optional) Target the PG deal in additional, non-PG placements.
 
