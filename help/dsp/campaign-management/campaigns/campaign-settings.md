@@ -77,7 +77,7 @@ To estimate taxes to withhold:
 
 * *LiveRamp - U.S. only:* Available to all advertisers for cross-device targeting at $0.35 CPM for impressions that are delivered by using the LiveRamp device graph (that is, for devices not found within the targeted audience segments). You can set up cross-device targeting at the placement level.
 
-   This option is also available to all advertisers, without any fees, for frequency management and attribution measurement.
+    This option is also available to all advertisers, without any fees, for frequency management and attribution measurement.
 
 * *Adobe Co-op U.S. and Canada only:* Available only to Adobe Experience Cloud Device Co-op participants at no extra fee.
 

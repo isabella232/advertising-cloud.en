@@ -87,15 +87,6 @@ You can set default contextual filter controls for each advertiser<!-- [default 
 
 ![Comscore logo](/help/dsp/assets/comscore-logo.png) ![DoubleVerify logo](/help/dsp/assets/doubleverify-logo.png) ![Integral Ad Science logo](/help/dsp/assets/ias-logo.png) ![Peer39 logo](/help/dsp/assets/peer39-logo.png)
 
-<!-- <table >
-    <tr>
-        <td><p><img src="../../assets/comscore-logo.png" title="Comscore logo" alt="Comscore logo" style="border: none;" border="0" /></p></td>
-        <td><p><img src="../../assets/doubleverify-logo.png" title="DoubleVerify logo" alt="DoubleVerify logo" style="border: none;" border="0" /></p></td>
-        <td><p><img src="../../assets/ias-logo.png" title="Integral Ad Science logo" alt="Integral Ad Science logo" style="border: none;" border="0" /></p></td>
-        <td><p><img src="../../assets/peer39-logo.png" title="Peer39 logo" alt="Peer39 logo" style="border: none;" border="0" /></p></td>
-    </tr>
-</table> -->
-
 ### Pre-Bid Fraud Blocking
 
 Leverage our third-party integrations with Comscore, DoubleVerify, Integral Ad Science, and Peer39 to block non-human traffic from your campaigns. These integrations provide industry-leading pre-bid blocking capabilities to minimize both general and sophisticated invalid traffic (GIVT and SIVT) in your campaigns.
@@ -105,15 +96,6 @@ You can set default pre-bid fraud blocking controls for each advertiser<!-- [def
 For more information on functionality, contact your preferred vendor directly, or contact your Adobe account manager.
 
 ![Comscore logo](/help/dsp/assets/comscore-logo.png) ![DoubleVerify logo](/help/dsp/assets/doubleverify-logo.png) ![Integral Ad Science logo](/help/dsp/assets/ias-logo.png) ![Peer39 logo](/help/dsp/assets/peer39-logo.png)
-
-<!-- <table >
-    <tr>
-        <td><p><img src="../../assets/comscore-logo.png" title="Comscore logo" alt="Comscore logo" style="border: none;" border="0" /></p></td>
-        <td><p><img src="../../assets/doubleverify-logo.png" title="DoubleVerify logo" alt="DoubleVerify logo" style="border: none;" border="0" /></p></td>
-        <td><p><img src="../../assets/ias-logo.png" title="Integral Ad Science logo" alt="Integral Ad Science logo" style="border: none;" border="0" /></p></td>
-        <td><p><img src="../../assets/peer39-logo.png" title="Peer39 logo" alt="Peer39 logo" style="border: none;" border="0" /></p></td>
-    </tr>
-</table>-->
 
 ### Topic Targeting
 
@@ -126,13 +108,6 @@ To get started, contact your preferred vendor or your Adobe account manager.
 
 ![Comscore logo](/help/dsp/assets/comscore-logo.png) ![Grapeshot logo](/help/dsp/assets/oracle-grapeshot-logo.png)
 
-<!-- <table >
-    <tr>
-        <td><p><img src="../../assets/comscore-logo.png" title="Comscore logo" alt="Comscore logo" style="border: none;" height="100" width="618" border="0" /></p></td>
-        <td style="height:100px"><p><img src="../../assets/oracle-grapeshot-logo.png" title="Grapeshot logo" alt="Grapeshot logo" style="border: none;" height="100" width="171" border="0" /></p></td>
-    </tr>
-</table>-->
-
 ### DoubleVerify Authentic Brand Safety
 
 DSP has partnered with DoubleVerify to offer its Authentic Brand Safety targeting solution, which allows you to create a centralized set of brand safety requirements to target across all of your buying platforms for consistency.
@@ -144,12 +119,6 @@ You can specify a DoubleVerify segment ID for each advertiser<!-- [specify a Dou
 For more information about functionality, contact DoubleVerify directly, or contact your Adobe account manager.
 
 ![DoubleVerify logo](/help/dsp/assets/doubleverify-logo.png)
-
-<!-- <table >
-    <tr>
-        <td><p><img src="../../assets/doubleverify-logo.png" title="DoubleVerify logo" alt="DoubleVerify logo" style="border: none;" height-="150" width="158" border="0" /></p></td>
-    </tr>
-</table> -->
 
 >[!MORELIKETHIS]
 >
