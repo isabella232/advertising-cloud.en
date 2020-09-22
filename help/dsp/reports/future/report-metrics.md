@@ -9,6 +9,6 @@ description: Available Report Metrics
 
 >[!MORELIKETHIS]
 >
->* [About Custom Reports](/help/dsp/reports/report-about-custom.md)
->* [Create a Custom Report](/help/dsp/reports/report-create-custom.md)
->* [Custom Report Settings](/help/dsp/reports/report-settings-custom.md)
+>* [About Custom Reports](/help/dsp/reports/report-about.md)
+>* [Create a Custom Report](/help/dsp/reports/report-create.md)
+>* [Custom Report Settings](/help/dsp/reports/report-settings.md)

@@ -20,7 +20,7 @@ By default, the dashboard shows pacing and delivery metrics by campaign. You can
 
 >[!NOTE]
 >
->You can further customize the content and delivery of campaign reporting via [custom reports](/help/dsp/reports/report-about-custom.md).
+>You can further customize the content and delivery of campaign reporting via [custom reports](/help/dsp/reports/report-about.md).
 
 To see all of the packages, placements, and ads within a campaign, click the campaign name.
 

@@ -35,7 +35,7 @@ For each placement, you can open a detail view ([Inspector](/help/dsp/campaign-m
 
 >[!NOTE]
 >
->You can further customize the content and delivery of placement reporting via [custom reports](/help/dsp/reports/report-about-custom.md).
+>You can further customize the content and delivery of placement reporting via [custom reports](/help/dsp/reports/report-about.md).
 
 >[!MORELIKETHIS]
 >

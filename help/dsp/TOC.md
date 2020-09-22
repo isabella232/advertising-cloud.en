@@ -113,7 +113,7 @@ index: no
         + [Overview of Programmatic Guaranteed Deals](/help/dsp/inventory/programmatic-guaranteed-about.md)
         + [Set up a Programmatic Guaranteed Deal](/help/dsp/inventory/programmatic-guaranteed-setup.md)
 + Custom Reports {#custom-reports}
-  + [About Custom Reports](/help/dsp/reports/report-about-custom.md)
-  + [Create a Custom Report](/help/dsp/reports/report-create-custom.md)
-  + [Custom Report Settings](/help/dsp/reports/report-settings-custom.md)
+  + [About Custom Reports](/help/dsp/reports/report-about.md)
+  + [Create a Custom Report](/help/dsp/reports/report-create.md)
+  + [Custom Report Settings](/help/dsp/reports/report-settings.md)
 + [Customer Support](https://helpx.adobe.com/contact/enterprise-support.ec.html)

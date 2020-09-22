@@ -116,7 +116,7 @@ If you sort the percentage of total conversions that are cross-device ((xd)/(tl)
 
 >[!MORELIKETHIS]
 >
->* [Report Settings](/help/dsp/reports/report-settings-custom.md)
+>* [Report Settings](/help/dsp/reports/report-settings.md)
 >* [Campaign Settings](/help/dsp/campaign-management/campaigns/campaign-settings.md)
 >* [Package Settings](/help/dsp/campaign-management/packages/package-settings.md)
 >* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)

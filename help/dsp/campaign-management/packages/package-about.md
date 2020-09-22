@@ -21,7 +21,7 @@ It also shows pacing and delivery metrics by package, by default. You can option
 
 >[!NOTE]
 >
->You can further customize the content and delivery of package reporting via [custom reports](/help/dsp/reports/report-about-custom.md).
+>You can further customize the content and delivery of package reporting via [custom reports](/help/dsp/reports/report-about.md).
 
 To see all of the placements within a package, click the package name.
 
