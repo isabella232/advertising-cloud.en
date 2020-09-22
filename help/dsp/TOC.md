@@ -11,7 +11,7 @@ index: no
 
 # Advertising Cloud DSP Help {#dsp}
 
-<!-- + [What's New](whats-new.md) -->
++ [What's New](whats-new.md)
 + Introduction {#introduction}
   + [Introduction to Adobe Advertising Cloud DSP](/help/dsp/introduction/dsp-about.md)
   + Key Features {#key-features}
