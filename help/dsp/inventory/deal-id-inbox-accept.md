@@ -29,6 +29,6 @@ Once you accept a deal, it's moved from the deal ID inbox to the Inventory > Dea
 >[!MORELIKETHIS]
 >
 >* [About the Deal ID Inbox](deal-id-inbox-about.md)
->* [Set up a Programmatic Guaranteed Deal](programmatic-guaranteed-setup.md)
+>* [Set up a Programmatic Guaranteed Deal](programmatic-guaranteed-set-up.md)
 >* [About Programmatic Guaranteed Deals](programmatic-guaranteed-about.md)
 >* [Overview of Inventory Features](inventory-overview.md)

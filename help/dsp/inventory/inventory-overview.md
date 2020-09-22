@@ -26,6 +26,6 @@ Simple Ad Serving is streamlined technology for guaranteed, non-decisioned ad de
 >[!MORELIKETHIS]
 >
 >* [About On Demand Inventory](on-demand-inventory-about.md)
-<!-- >* [About Private Inventory](private-inventory-about.md) -->
 >* [About the Deal ID Inbox](deal-id-inbox-about.md)
 >* [About Programmatic Guaranteed Deals](programmatic-guaranteed-about.md)
+<!-- >* [About Private Inventory](private-inventory-about.md) -->

@@ -31,5 +31,5 @@ PG deals require a PG default placement and ads so DSP can return a request to e
 
 >[!MORELIKETHIS]
 >
->* [Set up a Programmatic Guaranteed Deal](programmatic-guaranteed-setup.md)
+>* [Set up a Programmatic Guaranteed Deal](programmatic-guaranteed-set-up.md)
 >* [Overview of Inventory Features](inventory-overview.md)

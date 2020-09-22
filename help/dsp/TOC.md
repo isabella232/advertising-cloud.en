@@ -111,7 +111,7 @@ index: no
           + [Manual Deal ID Settings](/help/dsp/inventory/deal-id-settings.md)
       + Programmatic Guaranteed Deals {#programmatic-guaranteed-deal}
         + [Overview of Programmatic Guaranteed Deals](/help/dsp/inventory/programmatic-guaranteed-about.md)
-        + [Set up a Programmatic Guaranteed Deal](/help/dsp/inventory/programmatic-guaranteed-setup.md)
+        + [Set up a Programmatic Guaranteed Deal](/help/dsp/inventory/programmatic-guaranteed-set-up.md)
 + Custom Reports {#custom-reports}
   + [About Custom Reports](/help/dsp/reports/report-about.md)
   + [Create a Custom Report](/help/dsp/reports/report-create.md)

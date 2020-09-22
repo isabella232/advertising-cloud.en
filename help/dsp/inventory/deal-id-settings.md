@@ -120,5 +120,5 @@ description: Manual Deal ID Settings
 
 >[!MORELIKETHIS]
 >
-<!-- >* [About Private Inventory](private-inventory-about.md) -->
 >* [Manually Create Deal ID Details](deal-id-create.md)
+<!-- >* [About Private Inventory](private-inventory-about.md) -->
