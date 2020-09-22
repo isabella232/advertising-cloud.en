@@ -42,7 +42,7 @@ The fee for using each segment is shown next to the segment name in placement se
 * TruSignal
 * Weborama
 
-For more information about importing custom third-party segments for your account, contact your account manager.
+For more information about importing custom third-party segments for your account, contact your Adobe account manager.
 
 >[!MORELIKETHIS]
 >
