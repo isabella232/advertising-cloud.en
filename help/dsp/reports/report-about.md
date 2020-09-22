@@ -63,7 +63,7 @@ You can generate reports once, or schedule them to be generated daily, weekly, o
 
 >[!MORELIKETHIS]
 >
->* [Create a Custom Report](/help/dsp/reports/report-create-custom.md)
->* [Custom Report Settings](/help/dsp/reports/report-settings-custom.md)
-<!-- >* [Available Report Metrics](/help/dsp/reports/report-metrics.md) -->
+>* [Create a Custom Report](/help/dsp/reports/report-create.md)
+>* [Custom Report Settings](/help/dsp/reports/report-settings.md)
 >* [About In-Platform Reports](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+<!-- >* [Available Report Metrics](/help/dsp/reports/report-metrics.md) -->

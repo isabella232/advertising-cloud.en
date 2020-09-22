@@ -13,18 +13,17 @@ description: Custom Report Settings
 
 **Timezone:** The timezone for reporting.
 
-**Observe Daylight Savings Time?:** Considers Daylight Saving Time in the reported times.
+**Observe Daylight Savings Time:** Considers Daylight Saving Time in the reported times.
 
-**[Date Range]:** The date range for which to generate data. The number of days available varies by report and by the selected dimensions. Choose one:
+**`[Date Range]`:** The date range for which to generate data. The number of days available varies by report and by the selected dimensions. Choose one:
 
-    * **Previous N days:** Includes data for a specific number of days before today.
+* **Previous N days:** Includes data for a specific number of days before today.
 
-    * **Custom:** Includes data between specific beginning and end dates. To report data through the previous day, select **Present**.
+* **Custom:** Includes data between specific beginning and end dates. To report data through the previous day, select **Present**.
 
-    * **Last Calendar Month:** Includes data for the previous calendar month.
+* **Last Calendar Month:** Includes data for the previous calendar month.
 
-**Add Filters:** (Optional) Additional dimensions by which to filter the data, whether or
-not the dimensions are included as columns in the report: *Account* \*, *Advertiser*, *Campaign*, *Placement*, *Ad*, *Ad Type*, *Video*, *Video Duration*, *Country*, *Package*.
+**Add Filters:** (Optional) Additional dimensions by which to filter the data, whether or not the dimensions are included as columns in the report: *Account* \*, *Advertiser*, *Campaign*, *Placement*, *Ad*, *Ad Type*, *Video*, *Video Duration*, *Country*, *Package*.
 
 \* *Account* is available only when your organization is configured for cross-account reporting. Contact your Adobe account manager for more information about cross-account reporting.
 
@@ -59,11 +58,11 @@ To apply one or more filters, do the following:
 
 * *Last Event:* Attributes conversions to the last click or impression in the conversion path.  
 
-* *Weight Last Event More:* Attributes conversions to all events in the conversion path but gives the most weight to the last event and successively less weight to the preceding events. 
+* *Weight Last Event More:* Attributes conversions to all events in the conversion path but gives the most weight to the last event and successively less weight to the preceding events.
 
-* *Even Distribution:* Attributes conversions equally to each event in the conversion path. 
+* *Even Distribution:* Attributes conversions equally to each event in the conversion path.
 
-* *Weight First Event More:* Attributes conversions to all events in the conversion path but gives the most weight to the first event and successively less weight to the following events. 
+* *Weight First Event More:* Attributes conversions to all events in the conversion path but gives the most weight to the first event and successively less weight to the following events.
 
 * *First Event:* Attributes conversions to the first click or impression in the conversion path.
 
@@ -113,7 +112,7 @@ Learn more about [cross-device solutions](/help/dsp/introduction/features/cross-
 
 >[!MORELIKETHIS]
 >
->* [About Custom Reports](/help/dsp/reports/report-about-custom.md)
->* [Create a Custom Report](/help/dsp/reports/report-create-custom.md)
->* [Custom Report Settings](/help/dsp/reports/report-settings-custom.md)
+>* [About Custom Reports](/help/dsp/reports/report-about.md)
+>* [Create a Custom Report](/help/dsp/reports/report-create.md)
+>* [Custom Report Settings](/help/dsp/reports/report-settings.md)
 <!-- >* [Available Report Metrics](/help/dsp/reports/report-metrics.md) -->
