@@ -8,7 +8,7 @@ breadcrumb-title: Advertising Cloud DSP Guide
 index: no
 ---
 
-# Advertising Cloud DSP Help {#dsp}
+# Advertising Cloud DSP Guide {#dsp}
 
 + [What's New](/help/dsp/home.md)
 + Introduction {#introduction}
