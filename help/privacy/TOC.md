@@ -2,7 +2,6 @@
 user-guide-title: Adobe Advertising Cloud Documentation
 user-guide-description: This page includes a list of Advertising Cloud documentation available from this site. All other help for Advertising Cloud is available within the products.
 breadcrumb-title: Advertising Cloud Guide
-breadcrumb-url: /docs/advertising-cloud/all/home.html
 index: no
 ---
 

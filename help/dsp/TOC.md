@@ -5,7 +5,6 @@ archetype: end-user
 user-guide-title: Advertising Cloud DSP Help
 user-guide-description: Advertising Cloud DSP Help
 breadcrumb-title: Advertising Cloud DSP Guide
-breadcrumb-url: /docs/advertising-cloud/dsp/TOC.html
 index: no
 ---
 
