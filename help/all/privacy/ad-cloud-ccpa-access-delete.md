@@ -19,7 +19,7 @@ As your service provider, Adobe Advertising Cloud provides support for your busi
 
 This document describes how Advertising Cloud Search, Advertising Cloud Creative, Advertising Cloud DSP (Demand Side Platform), and Media Optimizer DCO &mdash; as service providers &mdash; support consumers' rights to access and delete personal information using the Adobe Experience Platform Privacy Service API and Privacy Service UI.
 
-For information about how Advertising Cloud DSP supports the consumer right to opt-out of the sale of personal information, see [Adobe Advertising Cloud Support for the California Consumer Privacy Act: Consumer Opt-out Support](ad-cloud-ccpa-opt-out-of-sale.md).
+For information about how Advertising Cloud DSP supports the consumer right to opt-out of the sale of personal information, see [Adobe Advertising Cloud Support for the California Consumer Privacy Act: Consumer Opt-out Support](/help/all/privacy/ad-cloud-ccpa-opt-out-of-sale.md).
 
 For more information about the Adobe Privacy services for CCPA, see the [Adobe Privacy Center](https://www.adobe.com/privacy/ccpa.html).
 
