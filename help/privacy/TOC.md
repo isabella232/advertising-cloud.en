@@ -1,7 +1,7 @@
 ---
-user-guide-title: Adobe Advertising Cloud Documentation
-user-guide-description: This page includes a list of Advertising Cloud documentation available from this site. All other help for Advertising Cloud is available within the products.
-breadcrumb-title: Advertising Cloud Guide
+user-guide-title: Adobe Advertising Cloud Support for Consumer Privacy
+user-guide-description: This page lists all types of security and privacy controls that Advertising Cloud provides to help advertiser customers comply with consumer privacy laws.
+breadcrumb-title: Support for Consumer Privacy
 index: no
 ---
 

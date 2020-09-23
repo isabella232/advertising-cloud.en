@@ -2,8 +2,8 @@
 cloud: experience-cloud
 product: advertising-cloud
 archetype: end-user
-user-guide-title: Advertising Cloud DSP Help
-user-guide-description: Advertising Cloud DSP Help
+user-guide-title: Advertising Cloud DSP Guide
+user-guide-description: This guide explains the major features, tasks, settings, and other resources required to manage, optimize, and report on your display ad strategies.
 breadcrumb-title: Advertising Cloud DSP Guide
 index: no
 ---
