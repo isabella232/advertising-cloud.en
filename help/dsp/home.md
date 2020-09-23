@@ -1,6 +1,9 @@
 ---
-title: What's New
-description: What's New
+title: What's New in Advertising Cloud DSP
+description: This page describes new and recently-changed features in Advertising Cloud DSP.
+cloud: experience-cloud
+product: advertising cloud
+index: no
 ---
 
 # What's New
