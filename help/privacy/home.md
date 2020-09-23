@@ -1,6 +1,6 @@
 ---
 title: Adobe Advertising Cloud Documentation
-description: This page includes a list of all Adobe Advertising Cloud documentation available from this site.
+description: This page lists all types of security and privacy controls that Advertising Cloud provides to help advertiser customers comply with consumer privacy laws.
 cloud: experience-cloud
 product: advertising cloud
 index: no
@@ -8,7 +8,7 @@ index: no
 
 # Advertising Cloud Support for Consumer Privacy
 
-This page lists all Adobe Advertising Cloud cross-product documentation for consumer privacy support.
+This page lists all types of security and privacy controls that Adobe Advertising Cloud provides to help advertiser customers comply with consumer privacy laws.
 
 * [Support for the General Data Protection Regulation](/help/privacy/ad-cloud-gdpr.md)
 
