@@ -13,7 +13,7 @@ index: no
 + [What's New](/help/dsp/home.md)
 + Introduction {#introduction}
   + [Introduction to Adobe Advertising Cloud DSP](/help/dsp/introduction/dsp-about.md)
-  + Key Features {#key-features}
+  + Key Features {#features}
     + [Optimization](/help/dsp/introduction/features/optimization.md)
     + [Brand Safety and Media Quality](/help/dsp/introduction/features/brand-safety-media-quality.md)
     + [Cross-Device Solutions](/help/dsp/introduction/features/cross-device-solutions.md)
@@ -43,7 +43,7 @@ index: no
   + Ads {#ads}
     + [About Ad Management](/help/dsp/campaign-management/ads/ad-about.md)
     + [Available Ad Types](/help/dsp/campaign-management/ads/ad-types.md)
-    + Advertising Cloud-served Ads {#advertising-cloud-served-ads}
+    + Advertising Cloud-served Ads {#advertising-cloud-served}
       + [Create an Ad](/help/dsp/campaign-management/ads/ad-create.md)
       + Ad Settings {#ad-settings}
         + [Audio Ad Settings](/help/dsp/campaign-management/ads/ad-settings-audio.md)
@@ -53,7 +53,7 @@ index: no
         + [Native Ad Settings](/help/dsp/campaign-management/ads/ad-settings-native.md)
         + [Pre-roll Ad Settings](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
       + [Best Practices for Designing Overlays](/help/dsp/campaign-management/ads/ad-best-practices-overlays.md)
-    + Bulk Third-party Ads {#bulk-third-party-ads}
+    + Bulk Third-party Ads {#bulk-third-party}
       + [Create Multiple Third-party Ads](/help/dsp/campaign-management/ads/ad-create-third-party.md)
     + [Specifications for Supported Ad Types](https://docs.adobe.com/content/help/en/advertising-cloud/dsp/assets/ad-specs.pdf)
   + Campaign Reports {#campaign-reports}
@@ -77,22 +77,22 @@ index: no
   + [Best Practices for Setting up Performance Campaigns](/help/dsp/optimization/campaign-best-practices-performance.md)
 + Audiences {#audiences}
   + [About Audience Management](/help/dsp/audiences/audience-about.md)
-  + Manage Segments {#manage-segments}
+  + Manage Segments {#segments}
     + [Create and Implement a Custom Segment](/help/dsp/audiences/audience-create-custom-segment.md)
     + CCPA Opt-out-of-Sale Segments {#ccpa-opt-out-of-sale-segments}
       <!--+ About CCPA Opt-out-of-Sale Segments-->
       + [Create and Implement a CCPA Opt-out-of-Sale Segment](/help/dsp/audiences/audience-create-ccpa-opt-out-segment.md)
       + [Retrieve Consumer Opt-Out-of-Sale Reports](/help/dsp/audiences/audience-retrieve-ccpa-opt-out-segment-report.md)
-  + Manage Audiences {#manage-audiences}
+  + Manage Audiences {#reusable-audiences}
     + [Create a Reusable Audience](/help/dsp/audiences/audience-create-reusable-audience.md)
     + [Audience Settings](/help/dsp/audiences/audience-settings.md)
     + [Syntax for Audience Segment Logic](/help/dsp/audiences/audience-segment-logic-syntax.md)
   + [Available Third-party Data Providers](/help/dsp/audiences/audience-third-party-data-providers.md)
 + Inventory {#inventory}
   + [Overview of Inventory Features](/help/dsp/inventory/inventory-overview.md)
-  + On Demand Inventory {#on-demand-inventory}
+  + On Demand Inventory {#on-demand}
     + [About On Demand Premium Inventory](/help/dsp/inventory/on-demand-inventory-about.md)
-    + Available On-demand Premium Inventory Publishers {#on-demand-inventory-publishers}
+    + Available On-demand Premium Inventory Publishers {#publishers}
       + [On Demand Premium Inventory Publishers in Asia Pacific](/help/dsp/inventory/on-demand-inventory-publishers-apac.md)
       + [On Demand Premium Inventory Publishers in Australia and New Zealand](/help/dsp/inventory/on-demand-inventory-publishers-anz.md)
       + [On Demand Premium Inventory Publishers in Europe, the Middle East, and Africa](/help/dsp/inventory/on-demand-inventory-publishers-emea.md)
@@ -102,10 +102,10 @@ index: no
     + [View the Status of Your On Demand Deal Requests and Subscriptions](/help/dsp/inventory/on-demand-inventory-view-status.md)
   + Private Inventory {#private-inventory}
       + Deal IDs {#deal-ids}
-        + Deal ID Inbox {#deal-id-inbox}
+        + Deal ID Inbox {#inbox}
           + [About the Deal ID Inbox](/help/dsp/inventory/deal-id-inbox-about.md)
           + [Accept a Deal in the Deal ID Inbox](/help/dsp/inventory/deal-id-inbox-accept.md)
-        + Manually-entered Deal IDs {#manual-deal-ids}
+        + Manually-entered Deal IDs {#manual}
           + [Manually Create Deal ID Details](/help/dsp/inventory/deal-id-create.md)
           + [Manual Deal ID Settings](/help/dsp/inventory/deal-id-settings.md)
       + Programmatic Guaranteed Deals {#programmatic-guaranteed-deal}
