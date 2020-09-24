@@ -61,6 +61,14 @@ You can generate reports once, or schedule them to be generated daily, weekly, o
      
     * **Site:** By default, includes standard metrics, total media net spend, and total billable net spend by site.
 
+## Cross-Account Reporting {#cross-account-reporting}
+
+Any organization with multiple DSP accounts can optionally enable cross-account data in custom reports, according to the organization's needs. For example, you can give Account A access to Account B's data, and give Account B access to Account C's (but not Account A's) data. To enable and configure this feature, contact your Account account manager.
+
+Once the feature is enabled for your organization, you can [filter](report-settings.md) any of the following report types by account:  Custom, Site, Segment, Geo, Device, Frequency by Impression, and Conversion.
+
+Your account settings at Settings > Account indicate a) the other accounts whose data is available to your account and b) the other accounts that can access your account's data.
+
 >[!MORELIKETHIS]
 >
 >* [Create a Custom Report](/help/dsp/reports/report-create.md)
