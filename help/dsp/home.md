@@ -8,7 +8,7 @@ index: no
 
 # What's New
 
-The following features are new or recently changed [test](/help/dsp/assets/ad-specs.pdf).
+The following features are new or recently changed.
 
 | Date | Feature | Description | For More Information |
 | ---- | ------- | ----------- | -------------------- |
