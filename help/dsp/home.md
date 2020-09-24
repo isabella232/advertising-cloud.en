@@ -8,10 +8,8 @@ index: no
 
 # What's New
 
-The following features are new or recently changed.
+The following features are new or recently changed [test](/help/dsp/assets/ad-specs.pdf).
 
 | Date | Feature | Description | For More Information |
 | ---- | ------- | ----------- | -------------------- |
 | 21 September 2020 | Product Help | This new help set will be expanded in the coming weeks and will eventually replace the existing help available from the "Help" link in the main menu. | &mdash; |
-
-[test](/help/dsp/assets/ad-specs.pdf)
