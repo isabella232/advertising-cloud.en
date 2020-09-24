@@ -25,7 +25,7 @@ description: Custom Report Settings
 
 **Add Filters:** (Optional) Additional dimensions by which to filter the data, whether or not the dimensions are included as columns in the report: *Account* \*, *Advertiser*, *Campaign*, *Placement*, *Ad*, *Ad Type*, *Video*, *Video Duration*, *Country*, *Package*.
 
-\* *Account* is available only when your organization is configured for cross-account reporting. Contact your Adobe account manager for more information about cross-account reporting.
+\* *Account* is available for the following report types only when your organization is configured for [cross-account reporting](#cross-account-reporting):  Custom, Site, Segment, Geo, Device, Frequency by Impression, and Conversion. Contact your Adobe account manager for more information about cross-account reporting.
 
 To apply one or more filters, do the following:
 
