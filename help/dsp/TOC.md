@@ -10,7 +10,6 @@ index: no
 
 # Advertising Cloud DSP Guide {#dsp}
 
-+ [Test PDF](/help/dsp/assets/test.pdf)
 + [What's New](/help/dsp/home.md)
 + Introduction {#introduction}
   + [Introduction to Adobe Advertising Cloud DSP](/help/dsp/introduction/dsp-about.md)
