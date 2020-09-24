@@ -10,6 +10,7 @@ index: no
 
 # Advertising Cloud DSP Guide {#dsp}
 
++ [Test PDF](/help/dsp/assets/test.pdf)
 + [What's New](/help/dsp/home.md)
 + Introduction {#introduction}
   + [Introduction to Adobe Advertising Cloud DSP](/help/dsp/introduction/dsp-about.md)
@@ -55,7 +56,7 @@ index: no
       + [Best Practices for Designing Overlays](/help/dsp/campaign-management/ads/ad-best-practices-overlays.md)
     + Bulk Third-party Ads {#bulk-third-party-ads}
       + [Create Multiple Third-party Ads](/help/dsp/campaign-management/ads/ad-create-third-party.md)
-    + [Specifications for Supported Ad Types](/help/dsp/assets/ad-specs.pdf)
+    + [Specifications for Supported Ad Types](https://education.tubemogul.com/wp-content/uploads/2020/08/Adobe_Avstg_Cloud-Ad-Specs-20201.pdf)
   + Campaign Reports {#campaign-reports}
     + [About In-Platform Reports](/help/dsp/campaign-management/reports/campaign-reports-about.md)
     + [View the Sites, Ads, and Frequency Details for a Placement](/help/dsp/campaign-management/reports/placement-details-view.md)
