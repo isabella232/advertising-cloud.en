@@ -10,8 +10,8 @@ index: no
 
 This page lists all types of security and privacy controls that Adobe Advertising Cloud provides to help advertiser customers comply with consumer privacy laws.
 
-* [Support for the General Data Protection Regulation](/help/all/privacy/ad-cloud-gdpr.md)
+* [Support for the General Data Protection Regulation](/help/privacy/ad-cloud-gdpr.md)
 
-* [Support for the California Consumer Privacy Act: Consumer Data Access and Delete](/help/all/privacy/ad-cloud-ccpa-access-delete.md)
+* [Support for the California Consumer Privacy Act: Consumer Data Access and Delete](/help/privacy/ad-cloud-ccpa-access-delete.md)
 
-* [(DSP Only) Support for the California Consumer Privacy Act: Consumer Opt-Out-of-Sale](/help/all/privacy/ad-cloud-ccpa-opt-out-of-sale.md)
+* [(DSP Only) Support for the California Consumer Privacy Act: Consumer Opt-Out-of-Sale](/help/privacy/ad-cloud-ccpa-opt-out-of-sale.md)

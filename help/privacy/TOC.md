@@ -7,6 +7,6 @@ index: no
 
 # Advertising Cloud Support for Consumer Privacy {#privacy}
 
-+ [Support for GDPR](/help/all/privacy/ad-cloud-gdpr.md)
-+ [Support for CCPA: Consumer Data Access and Delete](/help/all/privacy/ad-cloud-ccpa-access-delete.md)
-+ [(DSP Only) Support for CCPA: Consumer Opt-Out-of-Sale](/help/all/privacy/ad-cloud-ccpa-opt-out-of-sale.md)
++ [Support for GDPR](/help/privacy/ad-cloud-gdpr.md)
++ [Support for CCPA: Consumer Data Access and Delete](/help/privacy/ad-cloud-ccpa-access-delete.md)
++ [(DSP Only) Support for CCPA: Consumer Opt-Out-of-Sale](/help/privacy/ad-cloud-ccpa-opt-out-of-sale.md)
