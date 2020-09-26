@@ -9,7 +9,7 @@ You can collect your own first-party audience data by creating and implementing 
 
 >[!NOTE]
 >
->To track users IDs from consumer opt-out-of-sale requests on your website, per the California Consumer Privacy Act (CCPA), create a [CCPA opt-out-of-sale segment](audience-ccpa-opt-out-segment-create.md).
+>To track users IDs from consumer opt-out-of-sale requests on your website, per the California Consumer Privacy Act (CCPA), create a [CCPA opt-out-of-sale segment](ccpa-opt-out-segment-create.md).
 
 1. Create the segment:
 
