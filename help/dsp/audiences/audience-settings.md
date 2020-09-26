@@ -28,10 +28,10 @@ description: Audience Settings
 >[!MORELIKETHIS]
 >
 >* [About Audience Management](audience-about.md)
->* [Create a Reusable Audience](audience-create-reusable-audience.md)
->* [Available Third-party Data Providers](audience-third-party-data-providers.md)
+>* [Create a Reusable Audience](reusable-audience-create.md)
+>* [Available Third-party Data Providers](third-party-data-providers.md)
 >* [Syntax for Audience Segment Logic](audience-segment-logic-syntax.md)
->* [Create and Implement a Custom Segment](audience-create-custom-segment.md)
->* [Create and Implement a CCPA Opt-Out-of-Sale Segment](audience-create-ccpa-opt-out-segment.md)
+>* [Create and Implement a Custom Segment](custom-segment-create.md)
+>* [Create and Implement a CCPA Opt-Out-of-Sale Segment](ccpa-opt-out-segment-create.md)
 >* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
 

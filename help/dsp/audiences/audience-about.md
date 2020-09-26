@@ -9,13 +9,13 @@ In Advertising Cloud, you can create and manage audience segments and audience s
 
 * You can collect your own first-party audience data by creating and implementing segments. You can later retarget users in the segment with ads or prevent users in the segment from receiving ads. You can create the following types of segments:
 
-   * [Custom segments](/help/dsp/audiences/audience-create-custom-segment.md) to track a) users exposed to ads from desktop, mobile, and CTV devices and b) users who visit specific webpages.
+   * [Custom segments](/help/dsp/audiences/custom-segment-create.md) to track a) users exposed to ads from desktop, mobile, and CTV devices and b) users who visit specific webpages.
 
-   * [CCPA opt-out-of-sale segments](/help/dsp/audiences/audience-create-ccpa-opt-out-segment.md) to track the users IDs from consumer opt-out-of-sale requests on your website, per the California Consumer Privacy Act (CCPA). You can retrieve monthly reports of the user IDs from opt-out-of-sale requests.
+   * [CCPA opt-out-of-sale segments](/help/dsp/audiences/ccpa-opt-out-segment-create.md) to track the users IDs from consumer opt-out-of-sale requests on your website, per the California Consumer Privacy Act (CCPA). You can retrieve monthly reports of the user IDs from opt-out-of-sale requests.
    
-      For more information about Advertising Cloud support for CCPA opt-out-of-sale requests, see [Adobe Advertising Cloud Support for the California Consumer Privacy Act: Consumer Opt-out Support](https://docs.adobe.com/content/help/en/advertising-cloud/all/privacy/ad-cloud-ccpa-opt-out-of-sale.html).
+      For more information about Advertising Cloud support for CCPA opt-out-of-sale requests, see [Adobe Advertising Cloud Support for the California Consumer Privacy Act: Consumer Opt-out Support](https://docs.adobe.com/content/help/en/advertising-cloud/privacy/ad-cloud-ccpa-opt-out-of-sale.html).
 
-* You can create an audience library of [reusable audiences](/help/dsp/audiences/audience-create-reusable-audience.md). Saved audiences are composed of any of your available audience segments and any of your other saved audiences. Any changes you make to a saved audience are automatically applied to all placements that target or exclude the audience and to all other audiences that include the saved audience.
+* You can create an audience library of [reusable audiences](/help/dsp/audiences/reusable-audience-create.md). Saved audiences are composed of any of your available audience segments and any of your other saved audiences. Any changes you make to a saved audience are automatically applied to all placements that target or exclude the audience and to all other audiences that include the saved audience.
 
    Saved audiences allow media planners to group audiences as needed, by including and excluding multiple segments using complex Boolean logic. The size of each individual segment and the total audience size are indicated as you build an audience. Campaign executioners can then simply select one or more saved audiences as placement targets rather than manually configure audience targets for each placement.
 
@@ -45,7 +45,7 @@ You can target your placements to all of the following types of audiences.
 
 * All of your imported custom third-party data segments.
 
-* (Placements targeting the U.S. only) [All third-party data segments available to Advertising Cloud DSP customers from over 30 providers](/help/dsp/audiences/audience-third-party-data-providers.md), including Acxiom, Datalogix, eXelate (Nielsen), Lotame, Oracle, Quantcast, and many more.
+* (Placements targeting the U.S. only) [All third-party data segments available to Advertising Cloud DSP customers from over 30 providers](/help/dsp/audiences/third-party-data-providers.md), including Acxiom, Datalogix, eXelate (Nielsen), Lotame, Oracle, Quantcast, and many more.
 
    You can target specific segments, which target users based on audience data (for example, users with specific demographics, interests or intents, and/or behavioral profiles). You can browse by data provider and category, search for segments by name or segment ID, or filter the results by data provider, total segment size, web browser count, or devices count.
    
@@ -103,10 +103,10 @@ The Segments view also lists the following segment types:
 
 >[!MORELIKETHIS]
 >
->* [Create a Reusable Audience](audience-create-reusable-audience.md)
+>* [Create a Reusable Audience](reusable-audience-create.md)
 >* [Audience Settings](audience-settings.md)
 >* [Syntax for Audience Segment Logic](audience-segment-logic-syntax.md)
->* [Create and Implement a Custom Segment](audience-create-custom-segment.md)
->* [Create and Implement a CCPA Opt-Out-of-Sale Segment](audience-create-ccpa-opt-out-segment.md)
->* [Available Third-party Data Providers](audience-third-party-data-providers.md)
+>* [Create and Implement a Custom Segment](custom-segment-create.md)
+>* [Create and Implement a CCPA Opt-Out-of-Sale Segment](ccpa-opt-out-segment-create.md)
+>* [Available Third-party Data Providers](third-party-data-providers.md)
 >* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)

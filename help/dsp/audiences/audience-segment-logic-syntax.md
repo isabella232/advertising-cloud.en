@@ -35,6 +35,6 @@ INCLUDE Segment ID X5vUk1cNvZxvBJ3jMjTt OR INCLUDE Segment ID sfvXrmQkk77PL5OtHp
 >[!MORELIKETHIS]
 >
 >* [About Audience Management](audience-about.md)
->* [Create a Reusable Audience](audience-create-reusable-audience.md)
+>* [Create a Reusable Audience](reusable-audience-create.md)
 >* [Audience Settings](audience-settings.md)
->* [Available Third-party Data Providers](audience-third-party-data-providers.md)
+>* [Available Third-party Data Providers](third-party-data-providers.md)
