@@ -18,9 +18,9 @@ index: no
     + [Brand Safety and Media Quality](/help/dsp/introduction/features/brand-safety-media-quality.md)
     + [Cross-Device Solutions](/help/dsp/introduction/features/cross-device-solutions.md)
   + Support for Consumer Privacy {#privacy}
-    + [Support for the General Data Protection Regulation](https://docs.adobe.com/content/help/en/advertising-cloud/all/privacy/ad-cloud-gdpr.html)
-    + [Support for the California Consumer Privacy Act: Consumer Data Access and Delete](https://docs.adobe.com/content/help/en/advertising-cloud/all/privacy/ad-cloud-ccpa-access-delete.html)
-    + [Support for the California Consumer Privacy Act: Consumer Opt-Out-of-Sale](https://docs.adobe.com/content/help/en/advertising-cloud/all/privacy/ad-cloud-ccpa-opt-out-of-sale.html)
+    + [Support for the General Data Protection Regulation](https://docs.adobe.com/content/help/en/advertising-cloud/privacy/ad-cloud-gdpr.html)
+    + [Support for the California Consumer Privacy Act: Consumer Data Access and Delete](https://docs.adobe.com/content/help/en/advertising-cloud/privacy/ad-cloud-ccpa-access-delete.html)
+    + [Support for the California Consumer Privacy Act: Consumer Opt-Out-of-Sale](https://docs.adobe.com/content/help/en/advertising-cloud/privacy/ad-cloud-ccpa-opt-out-of-sale.html)
   + Policies {#policies}
     + [Advertising Cloud Ads Requirements Policy](/help/dsp/introduction/ad-requirements-policy.md)
     + [Advertising Cloud Data Usage Guidelines](/help/dsp/introduction/data-usage-guidelines.md)
@@ -78,16 +78,16 @@ index: no
 + Audiences {#audiences}
   + [About Audience Management](/help/dsp/audiences/audience-about.md)
   + Manage Segments {#segments}
-    + [Create and Implement a Custom Segment](/help/dsp/audiences/audience-create-custom-segment.md)
+    + [Create and Implement a Custom Segment](/help/dsp/audiences/custom-segment-create.md)
     + CCPA Opt-out-of-Sale Segments {#ccpa-opt-out-of-sale-segments}
-      <!--+ About CCPA Opt-out-of-Sale Segments-->
-      + [Create and Implement a CCPA Opt-out-of-Sale Segment](/help/dsp/audiences/audience-create-ccpa-opt-out-segment.md)
-      + [Retrieve Consumer Opt-Out-of-Sale Reports](/help/dsp/audiences/audience-retrieve-ccpa-opt-out-segment-report.md)
+      + [About CCPA Opt-out-of-Sale Segments](/help/dsp/audiences/ccpa-opt-out-about.md)
+      + [Create and Implement a CCPA Opt-out-of-Sale Segment](/help/dsp/audiences/ccpa-opt-out-segment-create.md)
+      + [Retrieve Consumer Opt-Out-of-Sale Reports](/help/dsp/audiences/ccpa-opt-out-segment-report-retrieve.md)
   + Manage Audiences {#reusable-audiences}
-    + [Create a Reusable Audience](/help/dsp/audiences/audience-create-reusable-audience.md)
+    + [Create a Reusable Audience](/help/dsp/audiences/reusable-audience-create.md)
     + [Audience Settings](/help/dsp/audiences/audience-settings.md)
     + [Syntax for Audience Segment Logic](/help/dsp/audiences/audience-segment-logic-syntax.md)
-  + [Available Third-party Data Providers](/help/dsp/audiences/audience-third-party-data-providers.md)
+  + [Available Third-party Data Providers](/help/dsp/audiences/third-party-data-providers.md)
 + Inventory {#inventory}
   + [Overview of Inventory Features](/help/dsp/inventory/inventory-overview.md)
   + On Demand Inventory {#on-demand}
