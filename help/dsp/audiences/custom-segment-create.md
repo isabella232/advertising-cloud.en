@@ -9,7 +9,7 @@ You can collect your own first-party audience data by creating and implementing 
 
 >[!NOTE]
 >
->To track users IDs from consumer opt-out-of-sale requests on your website, per the California Consumer Privacy Act (CCPA), create a [CCPA opt-out-of-sale segment](audience-create-ccpa-opt-out-segment.md).
+>To track users IDs from consumer opt-out-of-sale requests on your website, per the California Consumer Privacy Act (CCPA), create a [CCPA opt-out-of-sale segment](audience-ccpa-opt-out-segment-create.md).
 
 1. Create the segment:
 
@@ -56,9 +56,9 @@ Once a tracking tag is implemented, you can use the segment in the audience targ
 >[!MORELIKETHIS]
 >
 >* [About Audience Management](audience-about.md)
->* [Create and Implement a CCPA Opt-Out-of-Sale Segment](audience-create-ccpa-opt-out-segment.md)
->* [Create a Reusable Audience](audience-create-reusable-audience.md)
+>* [Create and Implement a CCPA Opt-Out-of-Sale Segment](ccpa-opt-out-segment-create.md)
+>* [Create a Reusable Audience](reusable-audience-create.md)
 >* [Audience Settings](audience-settings.md)
->* [Available Third-party Data Providers](audience-third-party-data-providers.md)
+>* [Available Third-party Data Providers](third-party-data-providers.md)
 >* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
 <!-- I'll add x-ref to ad settings later.-->

@@ -5,14 +5,14 @@ description: Create and Implement a CCPA Opt-out-of-Sale Segment
 
 # Create and Implement a CCPA Opt-out-of-Sale Segment
 
-You can track users IDs from consumer opt-out-of-sale requests on your website, per the California Consumer Privacy Act (CCPA), by creating and implementing a CCPA opt-out-of-sale segment. Users remain in CCPA opt-out-of-sale segments indefinitely.
+You can create a segment to track users IDs from consumer opt-out-of-sale requests on your website, per the California Consumer Privacy Act (CCPA). Users remain in CCPA opt-out-of-sale segments indefinitely.
 
 Once the segment pixel tag is implemented, Advertising Cloud will begin to collect a pool of IDs on the advertiser’s behalf.
 
 >[!NOTE]
 >
->* To track users who visit webpages for purposes not related to tracking CCPA opt-out-of-sale events, as well as users exposed to ads from desktop, mobile, and CTV devices, create a [custom segment](/help/dsp/audiences/audience-create-custom-segment.md).
->* For information about how to communicate CCPA opt-out-of-sale requests to Advertising Cloud using the Adobe Experience Platform Privacy Service API, see [https://docs.adobe.com/content/help/en/advertising-cloud/all/privacy/ad-cloud-ccpa-opt-out-of-sale.html](https://docs.adobe.com/content/help/en/advertising-cloud/all/privacy/ad-cloud-ccpa-opt-out-of-sale.html).
+>* For information about how to communicate CCPA opt-out-of-sale requests to Advertising Cloud using the Adobe Experience Platform Privacy Service API, see [https://docs.adobe.com/content/help/en/advertising-cloud/privacy/ad-cloud-ccpa-opt-out-of-sale.html](https://docs.adobe.com/content/help/en/advertising-cloud/privacy/ad-cloud-ccpa-opt-out-of-sale.html).
+>* To track users who visit webpages for purposes not related to tracking CCPA opt-out-of-sale events, as well as users exposed to ads from desktop, mobile, and CTV devices, create a [custom segment](/help/dsp/audiences/audience-custom-segment-create.md).
 
 1. Create the segment:
 
@@ -32,9 +32,9 @@ Once the segment pixel tag is implemented, Advertising Cloud will begin to colle
 
     1. Return to **Audiences > Segments**.
 
-    1. In the segment row, hold the cursor over the segment row and click **Get pixel**.
+    1. In the segment row, hold the cursor over the new segment and click **Get pixel**.
 
-    1. Copy the page view tracking tag, which is labeled "Desktop or mobile websites."
+    1. Copy the image pixel (beginning with `<img src="https://rtd-tm.everesttech.net"`) to collect user IDs of desktop and mobile visitors to a webpage.
 
     1. Provide the tag to the advertiser or website contact for deployment using the mechanism that the company uses to track CCPA opt-out of sale requests (such as using a Consent Management Platform).
 
@@ -53,7 +53,8 @@ Once the segment pixel tag is implemented, Advertising Cloud will begin to colle
 
 >[!MORELIKETHIS]
 >
->* [Adobe Advertising Cloud Support for the California Consumer Privacy Act: Consumer Opt-out Support](https://docs.adobe.com/content/help/en/advertising-cloud/all/privacy/ad-cloud-ccpa-opt-out-of-sale.html)
->* [Retrieve Consumer Opt-Out-of-Sale Reports](audience-retrieve-ccpa-opt-out-segment-report.md)
->* [Create and Implement a Custom Segment](audience-create-custom-segment.md)
+>* [Adobe Advertising Cloud Support for the California Consumer Privacy Act: Consumer Opt-out Support](https://docs.adobe.com/content/help/en/advertising-cloud/privacy/ad-cloud-ccpa-opt-out-of-sale.html)
+>* [About CCPA Opt-out-of-Sale Segments and Reports](ccpa-opt-out-about.md)
+>* [Retrieve Consumer Opt-Out-of-Sale Reports](ccpa-opt-out-segment-report-retrieve.md)
+>* [Create and Implement a Custom Segment](audience-custom-segment-create.md)
 >* [About Audience Management](audience-about.md)

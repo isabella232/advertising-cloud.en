@@ -47,5 +47,5 @@ For more information about importing custom third-party segments for your accoun
 >[!MORELIKETHIS]
 >
 >* [About Audience Management](audience-about.md)
->* [Create a Reusable Audience](audience-create-reusable-audience.md)
+>* [Create a Reusable Audience](reusable-audience-create.md)
 >* [Audience Settings](audience-settings.md)
