@@ -73,11 +73,21 @@ Pricing model that charges for every one thousand impressions accrued
 *Cost Per View (CPV)*
 Client only pays for user-initiated views rather than impressions. Commonly used for user-initiated units such as Click to Play and Rollover to Play
 
-*Curated Site List*
+*Curated site list*
 A list of sites tailored to a specific audience, vertical, brand or campaign
 
 *Demographics*
 The age, gender, household income, marital status, children and homeowner status of viewers
+
+*Deterministic data*<!-- pulled from 2016 Tube blog; edit, and possibly change focus to "XX audience targeting" (also do the same for "probabilistic data") -->
+Audience targeting based on data that the user supplied dDies then match cookies or mobile IDs to commonly used identifiers such as names, email addresses, birth
+dates, and phone numbers to build audience targeting data. Additional user information, behaviors and traits are
+also then linked to these consumers. All personally identifiable information (PII) is encrypted along the way to
+protect consumer privacy.
+Deterministic data can be built from online surveys, e-commerce purchase portals, software platforms and social
+media channels like Facebook, Instagram and Twitter. A good example of this is Facebook’s “people-based
+marketing”, where advertisers are able to target Facebook and Instagram users based on user inputted profile
+information, liked content, interests and more. <!-- Copied directly from another website web, so edit anything I use: Deterministic data: Information about people that is known for sure  Deterministic data is digital facts about people that we trust are 100% true. Crucially, these facts will never change and the probability that they are true will always be 100%, thus they provide a solid foundation for a multitude of applications in online marketing. For example, if we know from a reliable source that a person was a 20 year old female last year then that will always be true. We can even be clever and deduce that this year the person is a 21 year old female. -->
 
 *eCPM*
 Average CPM, or cost per thousand impressions; eCPM = (Total cost / Total impressions) x 1000
@@ -133,6 +143,17 @@ The average viewing time of the video(s), measured in seconds
 
 *Private Exchange (PEX)*
 Private exchanges allow publishers to create exclusive pools of video inventory, which approved advertisers can use to buy via real-time platforms. A private exchange offers the confidence of a direct buy combined with programmatic benefits like efficiency, streamlined workflow and centralized campaign analytics.
+
+*Probabilistic data*<!-- pulled from 2016 Tube blog; edit, and possibly change focus to "XX audience targeting" -->
+Probabilistic data means an audience group with a high probability to be accurately
+profiled. Probabilistic data has its roots in a subset of deterministic data in which data scientists then model off of
+to build a larger group of targeted audiences. They do this by observing relational patterns from multiple datasets
+and segmenting these out as the larger look-a-like groupings.
+To give an example of this, a data provider might take anonymized PII like website visitor data, purchasing data,
+household financial income and device IDs to come up with a persona for in-market Toyota Prius buyers. They
+then score the entire populous of cookie IDs or device IDs on how closely each profiles matches up with the
+persona characteristics. And finally, audience groups are built by including the highest scoring profiles that match
+the persona.
 
 *Request for Proposal (RFP)*
 Sent out by agencies seeking proposals for a video strategy to use in an upcoming campaign. The RFP identifies the brand’s goals and key performance indicators for the campaign. Additional parameters such as audience demographics, geography and site-level restrictions may also be outlined.
