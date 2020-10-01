@@ -56,8 +56,6 @@ For each placement, you can [open a detail view (Inspector)](placement-details-v
     * the estimated number of impressions at the specified frequency level
     * the estimated average frequency for the specified frequency level. This value is equal to (Estimated Impressions)/(Estimated Uniques).
 
-   For example, 
-
 ![placement Inspector](/help/dsp/assets/placement-inspector-sites.png)
 
 You can export the data on the Sites, Ads, or Frequency tab to your browser's default download folder as a report in XLSM format.
