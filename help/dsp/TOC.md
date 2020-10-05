@@ -90,6 +90,8 @@ index: no
   + [Available Third-party Data Providers](/help/dsp/audiences/third-party-data-providers.md)
 + Inventory {#inventory}
   + [Overview of Inventory Features](/help/dsp/inventory/inventory-overview.md)
+  <!-- + DSP and Roku Partnership {#roku} -->
+    <!-- + [About the Advertising Cloud DSP and Roku Partnership](/help/dsp/inventory/roku-about.md) -->
   + On Demand Inventory {#on-demand}
     + [About On Demand Premium Inventory](/help/dsp/inventory/on-demand-inventory-about.md)
     + Available On-demand Premium Inventory Publishers {#publishers}
@@ -101,16 +103,16 @@ index: no
     + [Re-request On Demand Premium Inventory Deals](/help/dsp/inventory/on-demand-inventory-rerequest.md)
     + [View the Status of Your On Demand Deal Requests and Subscriptions](/help/dsp/inventory/on-demand-inventory-view-status.md)
   + Private Inventory {#private-inventory}
-      + Deal IDs {#deal-ids}
-        + Deal ID Inbox {#inbox}
-          + [About the Deal ID Inbox](/help/dsp/inventory/deal-id-inbox-about.md)
-          + [Accept a Deal in the Deal ID Inbox](/help/dsp/inventory/deal-id-inbox-accept.md)
-        + Manually-entered Deal IDs {#manual}
-          + [Manually Create Deal ID Details](/help/dsp/inventory/deal-id-create.md)
-          + [Manual Deal ID Settings](/help/dsp/inventory/deal-id-settings.md)
-      + Programmatic Guaranteed Deals {#programmatic-guaranteed-deal}
-        + [Overview of Programmatic Guaranteed Deals](/help/dsp/inventory/programmatic-guaranteed-about.md)
-        + [Set up a Programmatic Guaranteed Deal](/help/dsp/inventory/programmatic-guaranteed-set-up.md)
+    + Deal IDs {#deal-ids}
+      + Deal ID Inbox {#inbox}
+        + [About the Deal ID Inbox](/help/dsp/inventory/deal-id-inbox-about.md)
+        + [Accept a Deal in the Deal ID Inbox](/help/dsp/inventory/deal-id-inbox-accept.md)
+      + Manually-entered Deal IDs {#manual}
+        + [Manually Create Deal ID Details](/help/dsp/inventory/deal-id-create.md)
+        + [Manual Deal ID Settings](/help/dsp/inventory/deal-id-settings.md)
+    + Programmatic Guaranteed Deals {#programmatic-guaranteed-deal}
+      + [Overview of Programmatic Guaranteed Deals](/help/dsp/inventory/programmatic-guaranteed-about.md)
+      + [Set up a Programmatic Guaranteed Deal](/help/dsp/inventory/programmatic-guaranteed-set-up.md)
 + Custom Reports {#custom-reports}
   + [About Custom Reports](/help/dsp/reports/report-about.md)
   + [Create a Custom Report](/help/dsp/reports/report-create.md)
