@@ -5,8 +5,6 @@ description: Using Roku Inventory
 
 # Using Roku Inventory
 
-<!-- Change metadata and all cross-links to this topic to match title -->
-
 Advertising Cloud DSP provides unique features for advertising on Roku.
 
 ## The Advertising Cloud DSP and Roku Partnership
