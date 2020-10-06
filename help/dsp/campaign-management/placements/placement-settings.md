@@ -122,6 +122,10 @@ Example: If recency is between 1 and 2 hours, then set max mid to $3
 
 **Audience Location:** (Optional) Specific locations in which to include or exclude ads in the placement. If you don't specify any locations, all locations are targeted.
 
+>[!NOTE]
+>
+>City and DMA locations aren't available for Roku placements.
+
 To specify locations:
 
 1. Click ![Edit](/help/dsp/assets/edit.png).
@@ -152,11 +156,19 @@ To specify locations:
 
 ## Inventory Targeting
 
-**Inventory Sources:** Inventory sources to include or exclude as targets. By default, all inventory types, and all sources for each type, are included. You can choose from the following types of inventory:
+**Inventory Sources:** Inventory sources to include or exclude as targets. For most placement types, all inventory types, and all sources for each type, are included by default. For Roku placements, you must specify the inventory type and sources. You can choose from the following types of inventory:
 
-* Public: All of the open exchange inventory to which Advertising Cloud has access. You can include and exclude public inventory.
-* Private: Your existing private deals with publishers that you've set up in DSP. You can include, but not exclude, public inventory.
-* On Demand: All premium, non-guaranteed [On Demand Inventory](/help/dsp/inventory/on-demand-inventory-about.md) to which you've subscribed in DSP. You can include and exclude public inventory.
+* Public: (All placement types except for Roku) All of the open exchange inventory to which Advertising Cloud has access. You can include and exclude public inventory.
+
+    You can view the list by source or by feed. When you view the list by feed, you can search by feed name, feed key, or a selected characteristic tag.
+
+* Private | Roku Private: Your existing private deals (or existing private Roku deals for Roku placements) with publishers that you've set up in DSP. You can include, but not exclude, public inventory.
+
+    You can search the list by keyword, key, deal ID, or custom tag.
+
+* On Demand | Roku On Demand: All premium, non-guaranteed [On Demand Inventory](/help/dsp/inventory/on-demand-inventory-about.md) (or On Demand Roku deals for Roku placements) to which you've subscribed in DSP. You can include and exclude On Demand inventory.
+
+    You can view the list by source or by feed. When you view the list by feed, you can search by feed name, feed key, or a selected publisher region, category tag, or characteristic tag.
 
 To specify inventory targeting:
 
@@ -166,6 +178,7 @@ To specify inventory targeting:
    1. (Optional) Change the sources to include:
       1. Click ![Edit](/help/dsp/assets/edit.png).
       1. (Public and On Demand inventory) Click **View by Source** or **View by Feed** to change how the sources are listed.
+      1. (When applicable) Filter the inventory as needed.
       1. Specify the sources to include and exclude:
          * To include a Public or On Demand source, click **Include** next to the source name.
          * To include Private sources:
@@ -264,7 +277,7 @@ You can optionally export the list of targeted and blocked sites as a comma-sepa
 * To create a new audience, click ![Select](/help/dsp/assets/chevron-down.png) next to Included Audiences, and then select **+ Create Audience**. For instructions, see [Create a Reusable Audience](/help/dsp/audiences/reusable-audience-create.md), beginning with Step 3.
 * To select specific audience segments, click **Select segments for this placement only**. Select the segment logic; for instructions, see Step 6 in [Create a Reusable Audience](/help/dsp/audiences/reusable-audience-create.md). When you're done, click **Save**.
 
-**Excluded Audiences:** Any audiences to exclude for the placement, including audiences with[third-party segments, first-party segments, Adobe segments, custom segments, and saved audiences](/help/dsp/audiences/audience-settings.md). The total and active deduplicated audience size across all excluded audiences is also displayed. You can select an existing audience or create a new audience that you can reuse later:
+**Excluded Audiences:** Any audiences to exclude for the placement, including audiences with [third-party segments, first-party segments, Adobe segments, custom segments, and saved audiences](/help/dsp/audiences/audience-settings.md). The total and active deduplicated audience size across all excluded audiences is also displayed. You can select an existing audience or create a new audience that you can reuse later:
 
 * To select an existing audience, click ![Select](/help/dsp/assets/chevron-down.png) next to Excluded Audiences, and then select the audience.
 * To create a new audience, click ![Select](/help/dsp/assets/chevron-down.png) next to Excluded Audiences, and then select **+ Create Audience**. For instructions, see [Create a Reusable Audience](/help/dsp/audiences/reusable-audience-create.md), beginning with Step 3.
@@ -381,7 +394,12 @@ Which level of [Ads.txt](https://iabtechlab.com/ads-txt-about/) pre-bid filterin
 
 ## Tracking
 
+>[!NOTE]
+>
+>(Roku placements) Third-party tracking vendors approved by Roku include Acxiom, comScore, Data Plus Math, Experian, Factual, Kantar, Marketing Evolution, Neustar, Nielsen, Nielsen Catalina Solutions, NinthDecimal, Oracle, Placed, Polk, and Research Now.
+
 **Event Pixels:** (Optional) Third-party event tracking pixels that will be attached by default to all new ads in the placement. To specify event pixels:
+
 1. Click ![Edit](/help/dsp/assets/edit.png).
 1. Do any of the following:
    * To select an existing pixel, select the check box in the pixel row.
@@ -396,6 +414,7 @@ Which level of [Ads.txt](https://iabtechlab.com/ads-txt-about/) pre-bid filterin
    1. Click **Save**.
 
 **Conversion Pixels:** (Optional) Conversion tracking pixels that will be attached by default to all new ads in the placement. To specify conversion pixels:
+
 1. Click ![Edit](/help/dsp/assets/edit.png).
 1. Do any of the following:
    * To select an existing pixel, select the check box in the pixel row.

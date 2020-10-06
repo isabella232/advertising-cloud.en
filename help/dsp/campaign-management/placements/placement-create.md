@@ -27,17 +27,24 @@ description: Create a Placement
        If the package to which the placement is assigned has package-level pacing, then your goals and pacing settings will reflect the package settings.
 
     1. (Optional) In the Geo-Targeting section, narrow down the locations that are included or excluded.
-       If you don't specify specific locations, all locations are targeted.
+     
+       If you don't identify specific locations, all locations are targeted.
 
-    1. (Optional) In the Inventory Targeting section, narrow down the inventory sources to include or exclude.
+       >[!NOTE]
+       >
+       >City and DMA locations aren't available for Roku placements.
 
-       By default, all inventory sources are targeted.
+    1. In the Inventory Targeting section, narrow down the inventory sources to include or exclude.
+
+       For most placement types, all inventory types, and all sources for each type, are included by default. For Roku placements, you must specify the inventory type and sources.
 
     1. (Optional) In the Site Targeting section, narrow down the sites that you want to target, and specify any sites that you want to exclude.
 
     1. (Optional) In the Audience Targeting section:
     
       1. Narrow down the audience. This includes selecting audience segments to target within the placement.
+
+          For Roku placements, you can leverage [DSP’s unique audience matching with Roku](/help/dsp/inventory/roku-inventory.md) by including one or more one audience segments that can be matched against Roku’s (opted-in) deterministic dataset.
       
       1. (For campaigns with people-level cross-device targeting; optional) When the placement targets one or more specific audiences, enable people-based cross-device targeting for the placement.
       
@@ -46,6 +53,10 @@ description: Create a Placement
     1. (Optional) In the Brand Safety and Media Targeting section, apply brand safety restrictions for your placements.
 
     1. (Optional) In the Tracking section, enter third-party event pixels or conversion pixels for ads in the placement.
+
+        >[!NOTE]
+        >
+        >(Roku placements) Third-party pixel vendors approved by Roku include Acxiom, comScore, Data Plus Math, Experian, Factual, Kantar, Marketing Evolution, Neustar, Nielsen, Nielsen Catalina Solutions, NinthDecimal, Oracle, Placed, Polk, and Research Now.
 
 1. Click **Create Placement**.
 
