@@ -147,7 +147,7 @@ To specify locations:
          Include one postal code per line, or enter multiple values separated by commas or tabs.
       1. Click *Include All* to include all of the locations as targets or *Exclude All* to exclude all of the locations as targets.
    * To remove a location from the Included or Excluded list, click **X** next to the location in the right column.
-1. Click *Done**.
+1. Click *Done*.
 
 >[!NOTE]
 >
