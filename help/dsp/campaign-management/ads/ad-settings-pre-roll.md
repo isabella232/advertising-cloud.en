@@ -155,5 +155,5 @@ The following settings apply to each pixel that you create or edit.
 >* [About Ad Management](ad-about.md)
 >* [Create an Ad](ad-create.md)
 >* [Available Ad Types](ad-types.md)
->* [Ad Specifications](https://docs.adobe.com/content/help/en/advertising-cloud/dsp/assets/ad-specs.pdf)
+>* [Ad Specifications](/help/dsp/assets/ad-specs.pdf)
 >* [Best Practices for Designing Overlays](/help/dsp/campaign-management/ads/ad-best-practices-overlays.md)
