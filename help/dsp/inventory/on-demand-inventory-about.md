@@ -33,7 +33,7 @@ Below the carousel, you can view all available deals and publishers. You can swi
 The details for each deal include data in the following columns:
 
 * **TVB:** Indicates when the publisher is a TV broadcaster
-* **Tune:** Indicates when the publisher accepts "tune-in" creatives (for example, "Tune in tonight at 9 pm for the new episode of `<*our show*`>)
+* **Tune:** Indicates when the publisher accepts "tune-in" creatives (for example, "Tune in tonight at 9 pm for the new episode of \<*our show*\>)
 * **LDA:** (Legal drinking age) Indicates when the publisher has applied 21+ targeting and accepts alcohol ads
 * **CPM:** Indicates when the floor or fixed rate CPM for the deal is not visible until the advertiser has been granted access to the deal
 * **Status:** The status of your subscription request (when applicable)
