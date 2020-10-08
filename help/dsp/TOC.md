@@ -89,7 +89,7 @@ index: no
   + [Available Third-party Data Providers](/help/dsp/audiences/third-party-data-providers.md)
 + Inventory {#inventory}
   + [Overview of Inventory Features](/help/dsp/inventory/inventory-overview.md)
-  + [Using Roku Inventory](/help/dsp/inventory/roku-partnership.md)
+  + [Using Roku Inventory](/help/dsp/inventory/roku-inventory.md)
   + On Demand Inventory {#on-demand}
     + [About On Demand Premium Inventory](/help/dsp/inventory/on-demand-inventory-about.md)
     + Available On-demand Premium Inventory Publishers {#publishers}
