@@ -5,7 +5,7 @@ description: Available Ad Types
 
 # Available Ad Types
 
-For full specifications for each ad type, see the [Ad Specifications](https://education.tubemogul.com/wp-content/uploads/2020/08/Adobe_Avstg_Cloud-Ad-Specs-20201.pdf).
+For full specifications for each ad type, see the [Ad Specifications](https://docs.adobe.com/content/help/en/advertising-cloud/dsp/assets/ad-specs.pdf).
 
 All of the following ad types are available for first-party, Advertising Cloud DSP-served ads. Audio, display, mobile, pre-roll, and connected TV ads are also available for [third-party-served ads](/help/dsp/campaign-management/ads/ad-create-third-party.md).
 
@@ -55,4 +55,4 @@ Survey ads are created automatically when you create a survey, but you can creat
 >
 >* [About Ad Management](ad-about.md)
 >* [Create an Ad](ad-create.md)
->* [Ad Specifications](https://education.tubemogul.com/wp-content/uploads/2020/08/Adobe_Avstg_Cloud-Ad-Specs-20201.pdf)
+>* [Ad Specifications](https://docs.adobe.com/content/help/en/advertising-cloud/dsp/assets/ad-specs.pdf)

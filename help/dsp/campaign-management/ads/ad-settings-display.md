@@ -37,7 +37,7 @@ The following settings are for standard display ads. You can also serve click-to
 
 **Asset | HTML5 Asset:** (Adobe-served ads only) An image file or zipped HTML5 asset to upload, depending on the creative type. Click **Browse** and locate the file on your device or network, and then click **Upload** or **Upload Image**.
 
-**Ad Size:** The width and height of the ad. It must be a [supported standard display ad size](https://education.tubemogul.com/wp-content/uploads/2020/08/Adobe_Avstg_Cloud-Ad-Specs-20201.pdf). You can manually enter the ad size before you upload the ad or enter a Display Code. If you don't enter the ad size, the dimensions of the uploaded ad or ad tag are automatically entered as read-only. Note that the Display ad will not save if the dimensions are not within Standard Display as sizes - e.g. 301x250 instead of 300x250 ad size.
+**Ad Size:** The width and height of the ad. It must be a [supported standard display ad size](https://docs.adobe.com/content/help/en/advertising-cloud/dsp/assets/ad-specs.pdf). You can manually enter the ad size before you upload the ad or enter a Display Code. If you don't enter the ad size, the dimensions of the uploaded ad or ad tag are automatically entered as read-only. Note that the Display ad will not save if the dimensions are not within Standard Display as sizes - e.g. 301x250 instead of 300x250 ad size.
 
 >[!IMPORTANT]
 >
@@ -68,4 +68,4 @@ The following settings apply to each pixel that you create or edit.
 >* [About Ad Management](ad-about.md)
 >* [Create an Ad](ad-create.md)
 >* [Available Ad Types](ad-types.md)
->* [Ad Specifications](https://education.tubemogul.com/wp-content/uploads/2020/08/Adobe_Avstg_Cloud-Ad-Specs-20201.pdf)
+>* [Ad Specifications](https://docs.adobe.com/content/help/en/advertising-cloud/dsp/assets/ad-specs.pdf)
