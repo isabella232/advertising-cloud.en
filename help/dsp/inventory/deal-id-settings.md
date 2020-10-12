@@ -95,7 +95,7 @@ description: Manual Deal ID Settings
        <td><p>&#160;</p></td>
        <td><p>Advertisers that can access this deal</p></td>
        <td><p>The specific advertisers in the account who can access this deal.</p>
-       <p><b>Note:</b> You can share the deal with advertisers in additional accounts from the Deals view. In the deal row, click <img src="https://docs.adobe.com/content/help/en/advertising-cloud/dsp/assets/edit.png">, click <b>share</b>, and then share the deal with an email address.</p></td>
+       <p><b>Note:</b> You can share the deal with advertisers in additional accounts from the Deals view. In the deal row, click <img src="/help/dsp/assets/edit.png">, click <b>share</b>, and then share the deal with an email address.</p></td>
        <td><p>Yes</p></td>
        <td><p>Yes</p></td>
     </tr>
