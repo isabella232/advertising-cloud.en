@@ -7,9 +7,14 @@ description: FAQ
 
 <!-- directly from legacy help -- need to edit -->
 
+## Placements
+
 **What should I bid?**
 
-Generally, pre-roll impressions are more expensive than click-to-play impressions. Average cost-per-thousand (CPM) impressions for pre-roll is around $8-$15 while display ad units are around $2-$4. However, pricing can vary drastically from site-to-site or for many other reasons.
+Generally, pre-roll impressions are more expensive than click-to-play impressions. The average cost per thousand impressions (CPM) for pre-roll is around 8-15 USD, while display ad units are around 2-4 USD. However, pricing can vary drastically from site to site or for many other reasons.
+
+
+## Ads
 
 **Why was my ad rejected?**
 
@@ -27,11 +32,15 @@ After your ad has been approved, any changes will require the ad to undergo ad a
 
 There are several ways. First, you can set the expiration date on the placement. After this date the ad will automatically stop running. Second, you can set the placement status to paused. Third, you can delete the entire placement (NOTE: We do not recommend deleting the placement because you will no longer be able to see reporting.)
 
+## Creatives
+
 **Why is my creative just a bunch of tags?**
 Some clients send all of their creative to one vendor who creates tags, or bits of code that contain information to access both the creative assets and third party tracking pixels. There are two big advantages to this for clients:
 
 1. The vendor takes care of sending the creative to all of the other vendors on the buy: platforms and exchanges like Advertising Cloud DSP, ad networks and individual publishers.
 1. The client can look in just one dashboard to see results for all of the platforms, exchanges, networks and publishers, knowing that the tracking has been implemented the same way across the board.
+
+## Surveys
 
 **How many questions should I run in a survey?**
 An important consideration for your planning and budgeting should be the attrition rate between questions:
