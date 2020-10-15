@@ -12,15 +12,13 @@ description: FAQ About Campaign Management
     
     **[Edit this] XX changes take up to NN hours to take effect.**
     
-    If it's the final day of delivery, make changes early in the day so DSP has plenty of time to recalibrate the package based on the changes.
-
-    Example: If you change from even pacing to frontload pacing, DSP needs to re-draw the pacing line <!-- In plain English: Develop a new pacing strategy? --> and understand how much it needs to deliver. Don't make that kind of change if you only have one hour left to deliver on the final day of the flight.
+    If it's the final day of delivery, make changes early in the day so DSP has plenty of time to recalibrate the package based on the changes. For example, if you change from even pacing to frontload pacing, DSP needs to re-draw the pacing line <!-- In plain English: Develop a new pacing strategy? --> and understand how much it needs to deliver. Don't make that kind of change if you only have one hour left to deliver on the final day of the flight.
 
 ## Budget Updates Mid-Flight
 
 * When you make a change to a placement, how long does DSP take to update the budget allocation? <!-- Are we talking allocation of the package or campaign budget?  And what kinds of changes does this refer to -- the various placement settings? What about the inclusion/removal of ads/creatives? -->?
 
-Budget allocation is based on placement performance, which is evaluated using a 14-day average. Changes to a placement result in changes to the budget allocation only when they cause changes in performance during the 14-day average.
+    Budget allocation is based on placement performance, which is evaluated using a 14-day average. Changes to a placement result in changes to the budget allocation only when they cause changes in performance during the 14-day average.
 
 * How is budget reallocated when a placement is removed from a package and added to another package?
 
