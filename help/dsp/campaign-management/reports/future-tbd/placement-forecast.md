@@ -9,7 +9,7 @@ Placements with placement-level pacing only (?). Only available for some placeme
 
 In placement settings, right column (alongside settings)
 
-Will populate with the estimated delivery based on the specified budget goal.
+Includes a) an "Estimated Delivery" section which indicates the estimated delivery based on the specified budget goal and current targeting configuration and b) an "Estimated Maximums" section indicates how much more capacity is available with the specified budget goal and current targeting configuration.
 
 >[!NOTE]
 >
