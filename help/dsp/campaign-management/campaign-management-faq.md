@@ -25,7 +25,7 @@ description: FAQ About Campaign Management
     A placement's entire spend history is attached to the placement and moves with it from package to package.
     
     <!-- Verify wording. Also, this talks about a daily budget. What if the campaign or package budget is for a different interval, like "All time" or "Monthly?" -->When you remove a placement from a package, the package no longer has any history of the placement's spend. The daily package budget will become (package budget - removed placement budget) / days remaining in flight. The package budget is then allocated to the placements remaining in the package.
-
+    
     <!-- Verify behavior and wording -->Similarly, if you add the same placement to a different package, the placement's spend history is considered when DSP allocates budget for all placements in the new package.
 
 * How does a package behave differently on the last day of a flight?
