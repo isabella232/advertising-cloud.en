@@ -30,6 +30,6 @@ description: FAQ About Campaign Management
     
     Similarly, if you add the same placement to a different package, DSP considers the placement's spend history when it allocates budget for all placements in the new package. **[Verify behavior and wording]**<!-- see comments -->
 
-* How does a package behave differently on the last day of a flight?
+* How does package pacing change on the last day of a flight?
 
     On the last day of a flight, the day is shortened from 24 hours to 23 hours so that the package budget isn't exceeded. Also, the package's pacing fill strategy automatically changes to "Frontload," even if it's set to "even." This means 65% of the daily budget should deliver by 11:30 a.m. EST.
