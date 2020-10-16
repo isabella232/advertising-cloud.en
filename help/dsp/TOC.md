@@ -66,7 +66,6 @@ index: no
       + [Edit a Custom Column View](/help/dsp/campaign-management/reports/column-view-edit.md)
       + [Sort a Column](/help/dsp/campaign-management/reports/campaign-data-sort.md)
     + [Manage Data Visualizations](/help/dsp/campaign-management/reports/campaign-data-visualization-manage.md)
-  + [FAQs About Campaign Management](/help/dsp/campaign-management/campaign-management-faq.md)
 + Optimization {#optimization}
   + [How DSP Optimizes Your Campaigns](/help/dsp/optimization/optimization-how-dsp-optimizes-campaigns.md)
   + [Optimization Goals and How to Use Them](/help/dsp/optimization/optimization-goals.md)
