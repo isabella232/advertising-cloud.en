@@ -16,15 +16,17 @@ description: FAQ About Campaign Management
 
 ## Budget Updates Mid-Flight
 
-* When you make a change to a placement, how long does DSP take to update the budget allocation? **[Is this allocation of the package or campaign budget?  And what kinds of changes does this cover -- any of the various placement settings? What about the inclusion/removal of ads/creatives?]**<!-- see comments -->?
+* When you make a change to a placement, how long does DSP take to reallocate the **[campaign? package?]** budget? **[1) The answer doesn't actually answer this question; I added a sentence with placeholder below. 2) Define "change":  does this refer only to changes to any of the various placement settings, or does it also include the inclusion/removal of ads/creatives? 3) Will changes to a placement result in changes to only that placement's budget, or might it potentially change the budgets for all other placements within the same package or campaign?]**<!-- see comments -->?
 
     Budget allocation is based on placement performance, which is evaluated using a 14-day average. Changes to a placement result in changes to the budget allocation only when they cause changes in performance during the 14-day average.
+
+    **[Fill in/edit this] When performance changes occur, DSP can take up to NN hours to reallocate the [campaign or package?] budget among the placements accordingly.**
 
 * How is budget reallocated when a placement is removed from a package and added to another package?
 
     A placement's entire spend history is attached to the placement and moves with it from package to package.
     
-    When you remove a placement from a package, the package no longer has any history of the placement's spend. The daily package budget will become (package budget - removed placement budget) / days remaining in flight. The package budget is then allocated to the placements remaining in the package. **[Verify wording. Also, this talks about a daily budget. What if the campaign or package budget is for a different interval, like "All time" or "Monthly?]**<!-- see comments -->
+    When you remove a placement from a package, the package no longer has any history of the placement's spend. The daily package budget will become (package budget - removed placement budget) / days remaining in flight. The package budget is then allocated to the placements remaining in the package. **[Verify wording. Also, this talks about a daily package budget, but can we just remove the word "daily?" What if the package budget is for a different interval, like "All time" or "Monthly?"]**<!-- see comments -->
     
     Similarly, if you add the same placement to a different package, DSP considers the placement's spend history when it allocates budget for all placements in the new package. **[Verify behavior and wording]**<!-- see comments -->
 
