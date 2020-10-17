@@ -39,13 +39,13 @@ This optimization mode works well if:
 
 * You're prioritizing scale over efficiency.
 
-#### Pacing logic {#pacing-logic-1}
+#### Pacing logic {#pacing-logic-performance}
 
 * If spending is on pace, bidding will become more selective, so that you'll only bid on auctions predicted to have high performance rates.
 
 * If spending is behind pace, bidding will become less selective, so that you'll bid on auctions predicted to have lower performance rates in order to catch up to the pacing goal.
 
-#### Clearing Price/Bid Shading {#clearing-price}
+#### Clearing Price/Bid Shading {#clearing-price-performance}
 
 After it executes the pacing logic, DSP runs the proposed bid through a Clearing Price prediction model. If the prediction indicates that the bid can be lowered with minimal decrease to the win rate, then the bid is decremented per the prediction.
 
@@ -53,7 +53,7 @@ After it executes the pacing logic, DSP runs the proposed bid through a Clearing
 
 For some optimization goals, DSP predicts the performance of each auction and adjusts bid prices automatically, never exceeding the Max Bid. Examples of applicable optimization goals include Lowest CPM, Lowest CPA, Lowest Cost per View, Lowest Cost per Click, and so on.
 
-#### Pacing Logic {#pacing-logic-2}
+#### Pacing Logic {#pacing-logic-balanced}
 
 * If spending is on pace, the system will become more price sensitive - bidding lower amounts to tradeoff win rate with the pacing plan  
 
@@ -63,7 +63,7 @@ For some optimization goals, DSP predicts the performance of each auction and ad
 
 * If a performance metric is also being balanced (all goals except Lowest CPM), the predicted KPI will be blended into the amount bid such that we bid higher for auctions predicted to be more performant on a “cost per” basis.  
 
-#### Clearing Price/Bid Shading {#clearing-price-bid}
+#### Clearing Price/Bid Shading {#clearing-price-balanced}
 
 After it executes the pacing logic, DSP runs the proposed bid through a Clearing Price prediction model. If the prediction indicates that the bid can be lowered with minimal decrease to the win rate, then the bid is decremented per the prediction.  
 
