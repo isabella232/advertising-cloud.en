@@ -80,11 +80,11 @@ You can optionally configure default targets for the advertiser's new placements
 
 Types of Comscore, DoubleVerify, Integral Ad Science, and Peer39 contextual filters to apply. You can override the advertiser-level settings at the [placement level](/help/dsp/campaign-management/placements/placement-settings.md).
 
-##### DoubleVerify {#doubleverify-1}
+##### DoubleVerify {#doubleverify-context}
 
 **Block sites that are:** (Optional) One or more types of inventory context to block by default. Additional fees may apply.
 
-##### Peer 39 {#peer39}
+##### Peer 39 {#peer39-context}
 
 **Target sites that are:** (Optional) One or more types of inventory attributes to target by default. Additional fees may apply.
 
@@ -92,7 +92,7 @@ Types of Comscore, DoubleVerify, Integral Ad Science, and Peer39 contextual filt
 
 **Block sites that are:** (Optional) One or more types of inventory attributes to block by default. Additional fees may apply.
 
-##### Integral Ad Science {#integral-ad-science-1}
+##### Integral Ad Science {#ias-context}
 
 **Adult Content:** (Optional) The degree of adult content for which to block ads by default: *Do Not Block* (the default), *Standard*, or *Strict*. Additional fees may apply.
 
@@ -102,17 +102,17 @@ Types of Comscore, DoubleVerify, Integral Ad Science, and Peer39 contextual filt
 
 Types of sites to block based on fraudulent traffic and suspicious activities measured through DoubleVerify, Integral Ad Science, and Peer39. You can override the advertiser-level settings at the [placement level](/help/dsp/campaign-management/placements/placement-settings.md).
 
-##### DoubleVerify {#doubleverify-2}
+##### DoubleVerify {#doubleverify-fraud}
 
 **Block Fraud Sites (100% Invalid traffic) and User-Based Fraud and IVT Devices:** By default, blocks all 100% invalid traffic, including traffic on highjacked devices, for new placements. Additional fees may apply.
 
 **Also block sites with:** (Optional) An additional level of fraud and invalid traffic that will cause DSP to block ads by default:  *None* (the default, which doesn't block additional traffic), *>2% Average Fraud/IVT levels (lowest reach)*, *>4% Average Fraud/IVT levels*, *>6% Average Fraud/IVT levels*, *>10% Average Fraud/IVT levels*, or *>25% Average Fraud/IVT levels*. Additional fees may apply.
 
-##### Peer 39 {#peer-39}
+##### Peer 39 {#peer-39-fraud}
 
 **Block sites that are:** (Optional) One or more types of fraud that will cause DSP to block ads by default: *Fraud* (which blocks all sites with fraud), *Fraud: Bot Sites_Non-Human traffic*, and/or *Fraud: Zero Ads*. Additional fees may apply.
 
-##### Integral Ad Science {#integral-ad-science-2}
+##### Integral Ad Science {#ias-fraud}
 
 **Block sites that are:** (Optional) A type of suspicious website or app activity that will cause DSP to block ads by default: *None* (the default, which doesn't block ads based on suspicious activity), *Suspicious Activity - High Risk*, or *Suspicious Activity - High or Moderate Risk*. Additional fees may apply.
 
