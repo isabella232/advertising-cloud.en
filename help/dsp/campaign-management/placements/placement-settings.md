@@ -292,7 +292,7 @@ You can optionally export the list of targeted and blocked sites as a comma-sepa
 
 **Secondary Cap:** (Optional; available when you include a numeric Placement Cap) An additional limitation within the bounds of the primary placement cap. Select the number of impressions and the time period (such as 3 per 12 hours).
 
-**Day Parting:** (Optional) Specific days of the week and time of day in which ads may run. To specify day parting intervals:
+**Day Parting:** (Optional) Specific days of the week and time of day in which ads may run. To specify dayparting intervals:
 1. Click ![Edit](/help/dsp/assets/edit.png).
 1. Select the applicable time zone:
    * To use a specific time zone, select it from the list.
