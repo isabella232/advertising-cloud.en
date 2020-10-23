@@ -1,9 +1,9 @@
 ---
-title: Checklist for Negotiating a Programmatic Guaranteed Deal
-description: Checklist for Negotiating a Programmatic Guaranteed Deal
+title: Tips for Negotiating a Programmatic Guaranteed Deal
+description: Tips for Negotiating a Programmatic Guaranteed Deal
 ---
 
-# Checklist for Negotiating a Programmatic Guaranteed Deal
+# Tips for Negotiating a Programmatic Guaranteed Deal
 
 When negotiating a programmatic guaranteed deal, the buyer and publisher need to discuss and confirm the following items:
 
