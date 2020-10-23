@@ -1,32 +1,42 @@
+---
+title: Checklist for Negotiating a Programmatic Guaranteed Deal
+description: Checklist for Negotiating a Programmatic Guaranteed Deal
+---
+
 # Checklist for Negotiating a Programmatic Guaranteed Deal
 
-When negotiating a programmatic guaranteed deal, the buyer and publisher need to discuss and confirm the following items prior to the launch of the deal:
+When negotiating a programmatic guaranteed deal, the buyer and publisher need to discuss and confirm the following items:
 
-
-Flight Date
+* Flight date
 * Geos
-* Inventory Types
-* Creative Lengths
-* Display Sizes
-* Performance Goals
-* Brand Safety requirements
-* Target Audience
-* Impressions 
+* Inventory types
+* Creative lengths
+* Display sizes
+* Performance goals
+* Brand safety requirements
+* Target audience
+* Impressions
 * Budget
 * CPM
 * Frequency
-* Day parting 
-* Activation Process 
+* Dayparting
+* Activation process
 
-Buyer responsibilities for a Programmatic Guaranteed Deal 
-* Deal Set up and Activation
-* Programmatic Guaranteed placement creation 
+## Buyer Responsibilities for a Programmatic Guaranteed Deal
+
+* Deal setup and activation
+* Creation of a programmatic guaranteed placement
 * Troubleshooting
-* Delivery Monitoring
-* 95%-100% Bid/Response Rate
+* Delivery monitoring
+* Executing a 95%-100% bid/response rate
 
-Publisher responsibilities for a Programmatic Guaranteed deal
-* Delivery of negotiated Budget, Impressions, CPM, Geo, Audience, Frequency, Dayparting within required Flight Dates
-* Performance of KPIs and Brand Safety within required flight dates
+## Publisher Responsibilities for a Programmatic Guaranteed Deal
+
+* Delivery of the negotiated budget, impressions, CPM, geos, audience, frequency, and dayparting within the required flight dates
+* Meeting the KPI and brand safety requirements within the required flight dates
 * Troubleshooting
 
+>[!MORELIKETHIS]
+>
+>* [About Programmatic Guaranteed Deals](programmatic-guaranteed-about.md)
+>* [Set up a Programmatic Guaranteed Deal](programmatic-guaranteed-set-up.md)
