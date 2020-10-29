@@ -118,4 +118,4 @@ index: no
   + [Create a Custom Report](/help/dsp/reports/report-create.md)
   + [Custom Report Settings](/help/dsp/reports/report-settings.md)
 + [Customer Support](https://helpx.adobe.com/contact/enterprise-support.ec.html)
-+ [Advertising Cloud Release Notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en#adcloud)
++ [Adobe Experience Cloud Release Notes](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html)
