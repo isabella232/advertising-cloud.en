@@ -106,18 +106,6 @@ The dates for the package (when applicable) or campaign are auto-populated by de
    * To remove a filter, click **X** in the filter row.
 1. Click **Save**.
 
-**Bidding Rules:** (Optional; placements with placement-level pacing only) Rules for when to change the maximum bid or to not bid, based on inventory type and recency (how recently the cookie or device ID was added to a targeted segment). When this option is enabled (*On*), you can specify rules:
-
-* To add a rule, click **Add More**.
-* To specify a rule:
-   1. Next to **If**, select the rule type: **inventory* or *recency*.
-   1. Select the operator. For inventory rules, options include *is* or *is not*. For recency rules, options include *is less than*, *is more than*, or *is between*.
-   1. Specify the condition. For inventory rules, options include *Public*, *Private*, or *On Demand*. For recency rules, you can specify time in minutes, hours, and days.
-   1. Next to **then**, select the action (*set max bid to* or *do not bid*).
-   1. (When the action is *set max bid to*) Specify the maximum CPM bid.
-
-Example: If recency is between 1 and 2 hours, then set max mid to $3
-
 ## Geo-Targeting
 
 **Audience Location:** (Optional) Specific locations in which to include or exclude ads in the placement. If you don't specify any locations, all locations are targeted.
