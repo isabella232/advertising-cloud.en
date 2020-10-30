@@ -282,9 +282,7 @@ You can optionally export the list of targeted and blocked sites as a comma-sepa
 
 **Day Parting:** (Optional) Specific days of the week and time of day in which ads may run. To specify dayparting intervals:
 1. Click ![Edit](/help/dsp/assets/edit.png).
-1. Select the applicable time zone:
-   * To use a specific time zone, select it from the list.
-   * To use the viewer's time zone, select **Target based on viewer's timezone**.
+1. Select the applicable time zone.
 1. Specify the intervals:
    * To select a preset interval, click one of the interval buttons. Options include *Weekends**, **Weekdays**, **Morning**, **Lunch**, **Dinner**, or **Prime** (primetime).
    * To manually select an interval, click inside a cell and optionally drag to select the interval.
