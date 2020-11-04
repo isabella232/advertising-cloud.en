@@ -55,7 +55,7 @@ index: no
       + [Best Practices for Designing Overlays](/help/dsp/campaign-management/ads/ad-best-practices-overlays.md)
     + Bulk Third-party Ads {#bulk-third-party}
       + [Create Multiple Third-party Ads](/help/dsp/campaign-management/ads/ad-create-third-party.md)
-    + [Specifications for Supported Ad Types](/help/dsp/assets/ad-specs.pdf)
+    + [Specifications for Supported Ad Types](https://experienceleague.adobe.com/docs/advertising-cloud/assets/ad-specs.pdf?lang=en)
   + Campaign Reports {#campaign-reports}
     + [About In-Platform Reports](/help/dsp/campaign-management/reports/campaign-reports-about.md)
     + [View the Sites, Ads, and Frequency Details for a Placement](/help/dsp/campaign-management/reports/placement-details-view.md)
@@ -66,6 +66,7 @@ index: no
       + [Edit a Custom Column View](/help/dsp/campaign-management/reports/column-view-edit.md)
       + [Sort a Column](/help/dsp/campaign-management/reports/campaign-data-sort.md)
     + [Manage Data Visualizations](/help/dsp/campaign-management/reports/campaign-data-visualization-manage.md)
+  + [FAQs About Campaign Management](/help/dsp/campaign-management/campaign-management-faq.md)
 + Optimization {#optimization}
   + [How DSP Optimizes Your Campaigns](/help/dsp/optimization/optimization-how-dsp-optimizes-campaigns.md)
   + [Optimization Goals and How to Use Them](/help/dsp/optimization/optimization-goals.md)
