@@ -431,3 +431,4 @@ Which level of [Ads.txt](https://iabtechlab.com/ads-txt-about/) pre-bid filterin
 >
 >* [About Placement Management](/help/dsp/campaign-management/placements/placement-about.md)
 >* [Create a Placement](/help/dsp/campaign-management/placements/placement-create.md)
+>* [FAQs About Campaign Management](/help/dsp/campaign-management/campaign-management-faq.md)
