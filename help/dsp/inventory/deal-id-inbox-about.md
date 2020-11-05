@@ -45,7 +45,7 @@ During deal negotiations, tell the publisher to send the deal to your buyer inst
 
 ## What Types of Deals Can't Be Accepted?
 
-When a deal listing doesn't include a ![Accept](/help/dsp/assets/accept.png) icon or an Accept button, you can't accept it from the deal ID inbox. Instead, you can [create the deal ID settings manually](/help/dsp/inventory/deal-id-create.md).
+When a deal listing doesn't include a ![Accept](/help/dsp/assets/accept.png) icon or an Accept button, you can't accept it from the deal ID inbox. Instead, you can [create the deal ID details manually](/help/dsp/inventory/deal-id-create.md).
 
 You can't accept the following types of deals:
 
