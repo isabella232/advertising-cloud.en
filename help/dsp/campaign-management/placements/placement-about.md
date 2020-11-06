@@ -41,3 +41,4 @@ For each placement, you can open a detail view ([Inspector](/help/dsp/campaign-m
 >
 >* [Create a Placement](/help/dsp/campaign-management/placements/placement-create.md)
 >* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
+>*[Troubleshooting Performance](/help/dsp/optimization/troubleshooting-performance.md)

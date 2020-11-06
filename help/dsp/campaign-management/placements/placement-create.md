@@ -110,3 +110,4 @@ description: Create a Placement
 >
 >* [About Placement Management](/help/dsp/campaign-management/placements/placement-about.md)
 >* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
+>*[Troubleshooting Performance](/help/dsp/optimization/troubleshooting-performance.md)

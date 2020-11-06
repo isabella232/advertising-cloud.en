@@ -83,3 +83,4 @@ See [Placement-level Pre-Bid Filters and How to Use Them](optimization-pre-bid-f
 >* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
 >* [Optimization Goals and How to Use Them](optimization-goals.md)
 >* [Placement-level Pre-Bid Filters and How to Use Them](optimization-pre-bid-filters.md)
+>* [Troubleshooting Performance](/help/dsp/optimization/troubleshooting-performance.md)
