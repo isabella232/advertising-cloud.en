@@ -76,6 +76,7 @@ index: no
     + [Create a Custom Goal](/help/dsp/optimization/custom-goal-create.md)
     + [Best Practices for Building Custom Goals](/help/dsp/optimization/custom-goal-best-practices.md)
   + [Best Practices for Setting up Performance Campaigns](/help/dsp/optimization/campaign-best-practices-performance.md)
+  + [Troubleshooting Performance](/help/dsp/optimization/troubleshooting-performance.md)
 + Audiences {#audiences}
   + [About Audience Management](/help/dsp/audiences/audience-about.md)
   + Manage Segments {#segments}
