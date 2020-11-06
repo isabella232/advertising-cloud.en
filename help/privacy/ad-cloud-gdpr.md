@@ -45,7 +45,7 @@ To make requests to access and delete data for Advertising Cloud, you'll need to
    >
    >Deleting personal data is different than Opt-Out, which stops the targeting of an end user with audience segments. However, when a data subject asks to delete personal data from Creative, DSP, or DCO, the library also sends a request to Advertising Cloud to opt out the data subject from segment targeting. For advertisers with Search, we recommend that you provide the data subjects a link to [https://www.adobe.com/privacy/opt-out.html](https://www.adobe.com/privacy/opt-out.html), which explains how to opt out of audience segment targeting.
 
-1. Identify your IMS Org ID and make sure it is linked to your Advertising Cloud accounts.
+1. Identify your IMS Org ID and make sure it's linked to your Advertising Cloud accounts.
 
    An IMS Org ID is a 24-character alphanumeric string appended with @AdobeOrg. Most Adobe Experience Cloud customers have been assigned an IMS Org ID. If your marketing team or internal Adobe system administrator doesn't know your organization's IMS Org ID, or isn't sure if it's been provisioned, contact Adobe Customer Care at gdprsupport@adobe.com. You'll need the IMS Org ID to submit requests to the Privacy API.
 
@@ -53,7 +53,7 @@ To make requests to access and delete data for Advertising Cloud, you'll need to
    >
    >Contact your company’s Advertising Cloud representative to confirm that all of your organization's Advertising Cloud accounts &mdash; including DSP accounts or advertisers, Search accounts, and Creative or DCO accounts &mdash; are linked to your IMS Org ID.
 
-1. Use either the Adobe Experience Platform Privacy Service API (for automated requests) or the Privacy Service UI (for ad-hoc requests) to submit access and delete requests to Advertising Cloud on behalf of the data subjects, and to check the status of existing requests.
+1. Use either the [Adobe Experience Platform Privacy Service API](https://experienceleague.adobe.com/docs/experience-platform/privacy/api/privacy-jobs.html) (for automated requests) or the [Privacy Service UI](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html) (for ad-hoc requests) to submit access and delete requests to Advertising Cloud on behalf of the data subjects, and to check the status of existing requests.
 
    For advertisers who have a mobile app to interact with data subjects and launch campaigns with the DSP, you'll need to download the Privacy-ready Mobile SDKs for Experience Cloud. The Mobile SDKs allow data controllers to set opt-out status flags, retrieve the data subject's device ID (namespace ID: deviceID), and submit requests to the Privacy Service API. Your mobile app will require an SDK Version 4.15.0 or greater.
 

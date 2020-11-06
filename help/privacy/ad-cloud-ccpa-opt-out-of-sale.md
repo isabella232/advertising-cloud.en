@@ -51,7 +51,7 @@ You can communicate consumer opt-out-of-sale requests by using either:
 
    You should deploy the library on the web page from which your customers can submit opt-out-of-sale requests, such as your company's privacy portal. The library helps you retrieve Adobe cookies (namespace ID: gsurferID) so that you can submit these identities as part of opt-out-of-sale requests via the Adobe Experience Platform Privacy Service API.
 
-1. Identify your IMS Org ID and make sure it is linked to your Advertising Cloud accounts.
+1. Identify your IMS Org ID and make sure it's linked to your Advertising Cloud accounts.
 
    An IMS Org ID is a 24-character alphanumeric string appended with @AdobeOrg. Most Adobe Experience Cloud customers have been assigned an IMS Org ID. If your marketing team or internal Adobe system administrator doesn't know your organization's IMS Org ID, or isn't sure if it's been provisioned, contact Adobe Customer Care at gdprsupport@adobe.com. You'll need the IMS Org ID to submit requests to the Privacy API.
 
@@ -59,7 +59,7 @@ You can communicate consumer opt-out-of-sale requests by using either:
    >
    >Contact your company’s Advertising Cloud representative to confirm that all of your organization's Advertising Cloud accounts &mdash; including DSP accounts or advertisers, Search accounts, and Creative or DCO accounts &mdash; are linked to your IMS Org ID.
 
-1. Use the Adobe Experience Platform Privacy Service API to submit opt-out-of-sale requests to Advertising Cloud on behalf of consumers, and to check the status of existing requests.
+1. Use the Adobe Experience Platform Privacy Service API to [submit opt-out-of-sale requests](https://experienceleague.adobe.com/docs/experience-platform/privacy/api/consent.html) to Advertising Cloud on behalf of consumers, and to check the status of existing requests.
 
    See the Appendix below for an example of an opt-out-of-sale request.
 
