@@ -8,7 +8,7 @@ index: no
 
 # About Advertising Cloud Support for Consumer Privacy
 
-Adobe Advertising Cloud provides security and privacy controls  to help advertiser customers comply with the following consumer privacy laws:
+Adobe Advertising Cloud provides security and privacy controls to help advertiser customers comply with the following consumer privacy laws:
 
 * The General Data Protection Regulation (GDPR)
 
