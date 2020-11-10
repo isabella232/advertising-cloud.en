@@ -13,7 +13,7 @@ In Advertising Cloud, you can create and manage audience segments and audience s
 
    * [CCPA opt-out-of-sale segments](/help/dsp/audiences/ccpa-opt-out-segment-create.md) to track the users IDs from consumer opt-out-of-sale requests on your website, per the California Consumer Privacy Act (CCPA). You can retrieve monthly reports of the user IDs from opt-out-of-sale requests.
    
-      For more information about Advertising Cloud support for CCPA opt-out-of-sale requests, see [Adobe Advertising Cloud Support for the California Consumer Privacy Act: Consumer Opt-out Support](https://docs.adobe.com/content/help/en/advertising-cloud/privacy/ad-cloud-ccpa-opt-out-of-sale.html).
+      For more information about Advertising Cloud support for CCPA opt-out-of-sale requests, see [Adobe Advertising Cloud Support for the California Consumer Privacy Act: Consumer Opt-out Support](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ad-cloud-ccpa-opt-out-of-sale.html).
 
 * You can create an audience library of [reusable audiences](/help/dsp/audiences/reusable-audience-create.md). Saved audiences are composed of any of your available audience segments and any of your other saved audiences. Any changes you make to a saved audience are automatically applied to all placements that target or exclude the audience and to all other audiences that include the saved audience.
 
@@ -59,7 +59,7 @@ You can target your placements to all of the following types of audiences.
    
    >[!NOTE]
    >
-   >See the documentation for [Audience Manager](https://docs.adobe.com/content/help/en/audience-manager/user-guide/aam-home.html), [Analytics](https://docs.adobe.com/content/help/en/analytics/landing/home.html), and [Adobe Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/audiences/audience-library.html) for information about setting up and collecting data for segments in those solutions.
+   >See the documentation for [Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html), [Analytics](https://experienceleague.adobe.com/docs/analytics/landing/home.html), and [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/audiences/audience-library.html) for information about setting up and collecting data for segments in those solutions.
 
 ## Audience Size Data
 

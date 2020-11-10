@@ -55,7 +55,7 @@ This is the documentation repository for Adobe Advertising Cloud, including cros
 For more publishing instructions, style guides, samples and other resources, see:
 
 + [Contributing author guidelines **specifically for Advertising Cloud**](https://wiki.corp.adobe.com/pages/viewpage.action?spaceKey=EfficientFrontier&title=Contributing+Author+Guidelines+for+Advertising+Cloud+Help)
-+ [Collaborative authoring for all Adobe writers](https://docs.adobe.com/content/help/en/collaborative-doc-instructions/collaboration-guide/home.html)
++ [Collaborative authoring for all Adobe writers](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/home.html)
 
 See also:
 

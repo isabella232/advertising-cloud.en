@@ -18,9 +18,9 @@ index: no
     + [Brand Safety and Media Quality](/help/dsp/introduction/features/brand-safety-media-quality.md)
     + [Cross-Device Solutions](/help/dsp/introduction/features/cross-device-solutions.md)
   + Support for Consumer Privacy {#privacy}
-    + [Support for the General Data Protection Regulation](https://docs.adobe.com/content/help/en/advertising-cloud/privacy/ad-cloud-gdpr.html)
-    + [Support for the California Consumer Privacy Act: Consumer Data Access and Delete](https://docs.adobe.com/content/help/en/advertising-cloud/privacy/ad-cloud-ccpa-access-delete.html)
-    + [Support for the California Consumer Privacy Act: Consumer Opt-Out-of-Sale](https://docs.adobe.com/content/help/en/advertising-cloud/privacy/ad-cloud-ccpa-opt-out-of-sale.html)
+    + [Support for the General Data Protection Regulation](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ad-cloud-gdpr.html)
+    + [Support for the California Consumer Privacy Act: Consumer Data Access and Delete](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ad-cloud-ccpa-access-delete.html)
+    + [Support for the California Consumer Privacy Act: Consumer Opt-Out-of-Sale](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ad-cloud-ccpa-opt-out-of-sale.html)
   + Policies {#policies}
     + [Advertising Cloud Ads Requirements Policy](/help/dsp/introduction/ad-requirements-policy.md)
     + [Advertising Cloud Data Usage Guidelines](/help/dsp/introduction/data-usage-guidelines.md)
@@ -120,4 +120,4 @@ index: no
   + [Create a Custom Report](/help/dsp/reports/report-create.md)
   + [Custom Report Settings](/help/dsp/reports/report-settings.md)
 + [Customer Support](https://helpx.adobe.com/contact/enterprise-support.ec.html)
-+ [Adobe Experience Cloud Release Notes](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html)
++ [Adobe Experience Cloud Release Notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)

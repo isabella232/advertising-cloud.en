@@ -67,7 +67,7 @@ You can communicate consumer opt-out-of-sale requests by using either:
    >
    >If your business has multiple Adobe Experience Cloud Identity Management Service Organization IDs (IMS Org IDs), then you must send separate API requests for each. You can, however make one API request to multiple Advertising Cloud sub-solutions (Search, Creative, DSP, and DCO), with one account per sub-solution.
 
-All of these steps are necessary to receive support from Advertising Cloud. For more information about these and other related tasks you need to perform using the Adobe Experience Platform Privacy Service, and where to find the items you'll need, see [https://docs.adobe.com/content/help/en/experience-platform/privacy/home.html](https://docs.adobe.com/content/help/en/experience-platform/privacy/home.html).
+All of these steps are necessary to receive support from Advertising Cloud. For more information about these and other related tasks you need to perform using the Adobe Experience Platform Privacy Service, and where to find the items you'll need, see [https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html).
 
 ## Retrieving Reports of Consumers Who Submitted Opt-Out-of-Sale Requests
 
