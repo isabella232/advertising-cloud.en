@@ -10,7 +10,7 @@ index: no
 
 The following features are new or recently changed.
 
->[!VIDEO](https://www.youtube.com/watch?v=AoUF2SLx4ZU)
+>[test video](https://www.youtube.com/watch?v=AoUF2SLx4ZU)
 
 | Date | Feature | Description | For More Information |
 | ---- | ------- | ----------- | -------------------- |
