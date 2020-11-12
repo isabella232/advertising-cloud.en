@@ -8,6 +8,8 @@ index: no
 
 # What's New
 
+**Test embedded video** [!VIDEO](https://www.youtube.com/watch?v=AoUF2SLx4ZU)
+
 The following features are new or recently changed.
 
 | Date | Feature | Description | For More Information |
