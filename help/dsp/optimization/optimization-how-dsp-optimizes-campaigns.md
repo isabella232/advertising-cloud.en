@@ -73,7 +73,7 @@ Placement pre-bid filters are the strictest way to ensure strong performance. DS
 
 >[!NOTE]
 >
->The available pre-bids filters vary by ad type. For example, for a standard display placement, you can filter by click through rate and viewability but not by completion rate.
+>The available pre-bids filters vary by ad type. For example, for a standard display placement, you can filter by click-through rate and viewability but not by completion rate.
 
 See [Placement-level Pre-Bid Filters and How to Use Them](optimization-pre-bid-filters.md) to determine which pre-bid filter will help you achieve your KPI(s).
 
