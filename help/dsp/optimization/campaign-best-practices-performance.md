@@ -133,7 +133,7 @@ To maximize scale, use Public (Open Exchange) and On Demand inventory.
 
 * **Device Targeting**:
   * Include Computer, Mobile, and Tablet.
-  * Don't target Firefox, Safari, or IE 6, 7, or 8 because of targeting and measurement limitations. Contact your Adobe account manager for more details about Adobe support for Safari ITP.
+  * Don't target Firefox and Safari because of targeting and measurement limitations. Contact your Adobe account manager for more details about Adobe support for Safari ITP.
   * If you target mobile web traffic, then disable all mobile browsers except Chrome and Edge.
 
 ### Brand Safety and Media Quality
