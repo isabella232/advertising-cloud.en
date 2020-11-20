@@ -77,7 +77,6 @@ All users can select USD, or, if the SSP supports additional currencies, the cur
 >[!TIP]
 >
 >* In the Inventory > Deals view, the Pacing & Budget column will show how the deal is pacing to the specified flight date and impression goal.
-
 >* If delivery is under- or over-pacing, contact your publisher to adjust how much volume it is sending through the deal.
 
 **Flight Dates:** (Optional for non-guaranteed deals) The start and end dates for traffic using this deal. These date are for tracking purposes only and don't impact ad delivery.
