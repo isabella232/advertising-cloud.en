@@ -1,14 +1,5 @@
 # Collaborative documentation for Advertising Cloud
 
-| EXL-PR | EXL | Preview | Activate | Published | Help |
-|--- |--- |--- |--- |--- |--- |
-| [![Build Status](https://docs.ci.corp.adobe.com/view/exl-pr/job/advertising-cloud.en_pr-exl/badge/icon)](https://docs.ci.corp.adobe.com/view/exl-pr/job/advertising-cloud.en_pr-exl/lastBuild/) | [![Build Status](https://docs.ci.corp.adobe.com/view/exl-pr/job/advertising-cloud.en_exl/lastBuild/badge/icon)](https://docs.ci.corp.adobe.com/view/exl-pr/job/advertising-cloud.en_exl/lastBuild/lastBuild) | [Preview URL](https://experienceleague.corp.adobe.com/docs/advertising-cloud/dsp/home.html?lang=en) | [activate-exl](https://docs.ci.corp.adobe.com/job/activate-exl/build/)| [Live URL](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html?lang=en) | [Authoring Guide](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/home.html?lang=en) |
-
-| Production | Stage |
-|---|---|
-| [![Build Status](https://docs.ci.corp.adobe.com/job/advertising-cloud.en_production/badge/icon)](https://docs.ci.corp.adobe.com/job/advertising-cloud.en_production/lastBuild) | [![Build Status](https://docs.ci.corp.adobe.com/job/advertising-cloud.en_stage/badge/icon)](https://docs.ci.corp.adobe.com/job/advertising-cloud.en_stage/lastBuild) |
-|[AEM Author Prod](https://docs-author.corp.adobe.com/content/help/en/advertising-cloud/all/home.html)|[Output Stg](https://docs-stg.corp.adobe.com/content/help/en/advertising-cloud/all/home.html)|
-
 This is the documentation repository for Adobe Advertising Cloud, including cross-product, DSP, and TV docs. (Later, it will include docs for Creative and Search.)
 
 **Note: This page isn't published in the customer-facing documentation.**
