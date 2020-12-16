@@ -22,11 +22,15 @@ The change in consumer attitude, perception and intentions towards a brand in a 
 *Budget*
 The amount of money or impressions specified for a campaign
 
+*Click*
+A single user click on or within an online ad
+
 *Click redirects*
 Pixels that fire when someone clicks on an ad. These pixels do two things: they fire when the viewer clicks and they open a new tab or window with a destination page. If you don’t have third party pixels on a campaign, you need a URL to send the clicks to.
 
 *Click-through*
-When a viewer clicks on the video or banner to a landing page
+When a viewer clicks on the video or banner to a landing page and stays long enough for the page event to be recorded
+<!-- for Analytics for Advertising CLoud, this is recorded when the visitor lands on the destination website, the landing page loads, and the Analytics request at the bottom of the page sends the data to Analytics-->
 
 *Click-through rate*
 Percentage of total viewers that clicked through to a landing page. Click-through rate = (total clicks / total views) x 100
@@ -108,7 +112,7 @@ Period of time a campaign or ad runs
 GRPs are the standard currency that broadcast TV has used to plan, purchase and measure campaigns since the 1950s. The GRP represents a combination of reach (how many people saw an ad) and frequency (how many times, on average, did people see an ad). GRPs for TV broadcast are usually measured according to the households reached by an advertisement, typically within a target demographic (TGRP). As consumption of video has moved online, there have been many attempts to move GRPS to the online world.
 
 *Impression*
-An impression is generated each time the video player loads on the page
+A single display of an ad on a web page, mobile app, or other delivery medium. For a video ad, an impression is generated each time the video player loads on the page. A user doesn't have to see or click the ad for it to count as an impression.
 
 *Impression Pixels*
 fire in the background to count an impression, a view (the video starting to play) or that the video has been viewed 25, 50, 75 or 100% of the way through. The viewer doesn’t see anything connected to the pixel.
@@ -193,3 +197,6 @@ Video Player Ad-Serving Interface Definition. See [https://www.iab.com/guideline
 
 *View*
 In-stream units: a view is a video player load; User-initiated units: a view is when a viewer initiates video play
+
+*View-through*
+
