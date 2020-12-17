@@ -15,7 +15,7 @@ To create a single third-party ad, see [Create an Ad](ad-create.md).
 >
 > The best practice is to use third-party ads that are served securely using HTTPS. URLs served using HTTPS begin with "https."
 
-1. In the main menu, select **Campaigns Beta**.
+1. In the main menu, click **Campaigns**.
 
 1. Click the name of the campaign in which the ad will be included.
 

@@ -5,7 +5,7 @@ description: Attach a Placement to a Package
 
 # Attach a Placement to a Package
 
-1. In the main menu, select **Campaigns Beta > Packages**.
+1. In the main menu, click **Campaigns**.
 
 1. Click the name of the campaign in which you want to create the package.
 

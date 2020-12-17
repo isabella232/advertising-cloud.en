@@ -9,7 +9,7 @@ description: Create a Placement
 >
 >Create placements based on specific campaign goals or reporting needs.
 
-1. In the main menu, click **Campaigns Beta**.
+1. In the main menu, click **Campaigns**.
 
 1. Click the name of the campaign in which the placement will be included.
 

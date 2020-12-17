@@ -13,7 +13,7 @@ To create multiple third-party ads at a time, see [Create Multiple Third-party A
 >
 >All of your settings are saved automatically, even before you submit the ad for review.
 
-1. In the main menu, select **Campaigns Beta**.
+1. In the main menu, click **Campaigns**.
 
 1. Click the name of the campaign in which the ad will be included.
 

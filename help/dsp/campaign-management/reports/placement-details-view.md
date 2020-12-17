@@ -10,12 +10,12 @@ The Placement Inspector lists all targeted sites and all ads in a placement. It 
 1. Open the placements view for the parent campaign or package:
 
     * View all placements within the parent campaign:
-        1. In the main menu, click **Campaigns Beta**.
+        1. In the main menu, click **Campaigns**.
         1. Click the name of the campaign.
         1. Click the **Placements** tab.
 
     * View all placements within the parent package:
-        1. In the main menu, click **Campaigns Beta**.
+        1. In the main menu, click **Campaigns**.
         1. Click the name of the campaign.
         1. Click the **Packages** tab.
         1. Click the name of the parent package.

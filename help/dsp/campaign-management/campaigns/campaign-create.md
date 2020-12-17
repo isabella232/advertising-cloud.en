@@ -5,7 +5,7 @@ description: Create a Campaign
 
 # Create a Campaign
 
-1. In the main menu, select **Campaigns Beta**.
+1. In the main menu, click **Campaigns**.
 1. In the Campaigns view, click **Create campaign**.
 1. Enter the [campaign settings](campaign-settings.md):
     1. Specify the Basic Campaign Details.
