@@ -11,7 +11,7 @@ You can retrieve monthly reports of IDs that customers have submitted for opt-ou
 >
 >You can optionally retrieve consumer opt-out-of-sale reports using the Advertising Cloud Trafficking API. For instructions, see the documentation for the Trafficking API. If your organization doesn't use the Trafficking API but is interested in more information, contact your Adobe account manager.
 
-1. In the main menu, select **Audiences > Segments**.
+1. In the main menu, click **Audiences > Segments**.
 1. Above the segment list, click **Access CCPA Reports**.
 1. Click the link for any available monthly report to download a GZIP file, which you can extract to a tab-separated text file.
 
