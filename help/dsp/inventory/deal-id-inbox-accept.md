@@ -14,7 +14,7 @@ description: Accept a Deal in the Deal ID Inbox
    DSP automatically refreshes all deal details daily at 4:30 a.m. EST. It also refreshes all FreeWheel deals and updates existing deals from Google and Rubicon hourly.
 
 1. (If you previously ignored the deal) Click the **Ignored Deals** tab.
-1. To review and confirm the deal details, such as the publisher and dates, hold the cursor over the deal row and click ![Review](/help/dsp/assets/review.png) t.
+1. To review and confirm the deal details, such as the publisher and dates, hold the cursor over the deal row and click ![Review](/help/dsp/assets/review.png).
 1. Do either of the following:
     * In the deal details, click **Accept**.
     * In the Deal ID inbox, hold the cursor over the deal row and click ![Accept](/help/dsp/assets/accept.png).
