@@ -5,7 +5,7 @@ description: Manage Data Visualizations
 
 # Manage Data Visualizations
 
-You can change the metrics and chart mode for all data visualizations for a single campaign in Campaigns Beta. The changes are applied across all data visualizations for the campaign, including the Packages, Placements, and Ads tabs.
+You can change the metrics and chart mode for all data visualizations for a single campaign. The changes are applied across all data visualizations for the campaign, including the Packages, Placements, and Ads tabs.
 
 ## Change the Metrics for a Data Visualization
 

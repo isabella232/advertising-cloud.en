@@ -6,11 +6,11 @@ description: About In-Platform Reports
 # About In-Platform Reports
 
 <!-- rename "About Performance Reports in Campaign Management Views?" -->
-The campaign management views in Campaign Home, which is at Campaigns Beta, include comprehensive report data. The available reports help you to identify the packages and placements that are performing well and those that need your attention. Quick action buttons also make you more productive.
+The campaign management views include comprehensive report data. The available reports help you to identify the packages and placements that are performing well and those that need your attention. Quick action buttons also make you more productive.
 
 ## All Campaigns List
 
-Campaigns Beta opens to a list of all campaigns within your account. The Subtotals row shows either the sum or the average value of each metric across all visible rows.
+The Campaigns view opens to a list of all campaigns within your account. The Subtotals row shows either the sum or the average value of each metric across all visible rows.
 
 ![Campaigns list](/help/dsp/assets/campaigns-list.png)
 
@@ -64,7 +64,7 @@ You can export the data on the Sites, Ads, or Frequency tab to your browser's de
 
 For other data breakouts, view the legacy campaign-level reporting pages in Campaigns Classic. The legacy report includes sections on Geo, Audience, Device, Demographics, and Viewability data.
 
-To open the legacy campaign-level report in a new browser tab from within Campaigns Beta, click **More > View report**.
+To open the legacy campaign-level report in a new browser tab from within the Campaigns view, click **More > View report**.
 
 ![link to legacy campaign-level reporting pages](/help/dsp/assets/legacy-campaign-report-link.png)
 
