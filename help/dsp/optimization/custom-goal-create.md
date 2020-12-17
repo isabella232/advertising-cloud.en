@@ -11,11 +11,11 @@ description: Create a Custom Goal
 
 1. Log into Advertising Cloud Search at (U.S. companies) [https://enterprise-na.efrontier.com](https://enterprise-na.efrontier.com) or (companies in all other countries) [https://enterprise-intl.efrontier.com](https://enterprise-intl.efrontier.com).
 1. Make sure the metrics you want to include in your goal have been tracked, are available in the product, and include a display name:
-    1. In the main menu, select **Search > Admin > Transaction Properties**.
+    1. In the main menu, click **Search > Admin > Transaction Properties**.
     1. Locate the metric, and make sure that **Show in UI and Reports** is enabled for the metric.
     1. If the metric doesn't have a value in the **Display Name** column, click in the cell, enter the display name, and then click **Apply.**
 1. Create the custom goal as an *objective*:
-    1. In the main menu, select **Search > Optimization > Objectives**.
+    1. In the main menu, click **Search > Optimization > Objectives**.
     1. In the toolbar, click **Create objective.**
     1. Enter the objective settings:
         1. In the **Change Objective Name** field, enter the objective name.
