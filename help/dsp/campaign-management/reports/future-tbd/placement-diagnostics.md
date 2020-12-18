@@ -1,14 +1,50 @@
 ---
-title: 
-description: 
+title: Placement Diagnostics Report
+description: Placement Diagnostics Report
 ---
 
-# Placement Diagnostics
+# Placement Diagnostics Report
 
-Available for all placement types/pacing? Any other caveats?
+<!-- Available for all placement types/pacing? Any other caveats? -->
 
-In placement settings, right column (alongside settings). Dialog has three tabs:
+Thee following tools can help you diagnose issues with placement setup or pacing once a campaign is live:
 
-Change Log
-Ad  Approvals
-Non Bids
+* **Change Log:** Shows changes to key placement settings, such as the name, status, and maximum bid. Each entry includes the date and username of the person who made the change.
+* **Ad  Approvals:** Shows whether ads were approved or declined by the inventory providers<!-- SSP? -->.<!-- Should you have at least one entry for each publisher/piece of inventory? --> You can optionally change the status of any ad or open the ad settings.<!-- Are there are limitations for ad statuses you can change here (for example, are rejected ads)? -->
+<!-- * **Genius:** - for some ads, regardless of whether I'm logged in as user or admin -->
+* **Non Bids:** Shows out why DSP didn't bid on the placement.
+<!-- * **Fill Charts:** - for some ads -->
+
+<!-- anything else to say? Ideal if a paragraph here since jumping from one list to another below. -->
+
+1. Open the Diagnostics report:
+
+    1. Open the placement settings:
+        1. In the main menu, click **Campaigns**.
+        1. Click the name of the campaign, and then click **Placements**.
+        1. Next to the placement name, click  **... > Edit**.
+    1. In the upper right, click ![Placement Diagnostics](/help/dsp/assets/placement-diagnostics.png) or **Diagnostic**.<!-- I see different buttons for two different placements. Why? -->
+
+1. Do any of the following:
+    * To view the change log:
+         1. Click **Change Log**.
+         1. (Optional) Filter the report results:
+            * In the date menu, change the report period from the default Last 14 Days to another period (*Last 30 days,* *Last 60 days,* *Last 90 days,* or *Last 1 year*).
+            * In the left menu, filter the report by a specific username.
+            * In the right menu, filter the report by a specific placement setting.
+    * To view the status of ad approvals:
+        1. In the upper right, click **Ad Approvals**.
+        1. (Optional) To pause or activate the ad, click the status switch (![Status switch](/help/dsp/assets/status-switch.png)) in the Ad column).
+        1. (Optional) To open the settings for an ad, click **View Ad** next to the ad.
+
+    * To see why DSP didn't bid on the placement:
+        1. In the upper right, click **Non Bids**.
+        1. (Optional) Filter the report results:
+            * <!-- Verify how this works. It looks like these button are toggles to de-select/select a region, but I don't see a difference. -->To view information results for a specific region, click the name of the region: *US-East,* *US-West,* *EU-West,* or *HKG* (Hong Kong and XXXX<!-- ? -->).
+            * To change the date range, click in the date field and select a different date or date range.
+
+<!--
+>[!MORELIKETHIS]
+>
+>* Definitions for NBRs (Reading No Bid Reports (NBRs))
+-->
