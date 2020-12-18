@@ -1,9 +1,9 @@
 ---
-title: Placement Diagnostics Report
-description: Placement Diagnostics Report
+title: View the Placement Diagnostic Reports
+description: View the Placement Diagnostic Reports
 ---
 
-# Placement Diagnostics Report
+# View the Placement Diagnostic Reports
 
 <!-- Does this really belong in the Campaign Management > Reports section or in the Placements section? -->
 <!-- Available for all placement types/pacing? Any other caveats? -->
