@@ -1,9 +1,11 @@
 ---
-title: Duplicate a Placement
-description: Duplicate a Placement
+title: Duplicate Placements
+description: Duplicate Placements
 ---
 
-# Duplicate a Placement
+# Duplicate Placements
+
+<!-- can select multiple placements -->
 
 You can create a new placement by duplicating any placement in the Placements view. Use this feature to:
 
@@ -14,6 +16,7 @@ You can create a new placement by duplicating any placement in the Placements vi
 * Modify the flight dates of the copied placements
 
 1. In the Placements view, select the placement, right-click Edit, and select Duplicate.
+  or can select multiple rows
 1. XXX.
 1. Click Submit.
 
