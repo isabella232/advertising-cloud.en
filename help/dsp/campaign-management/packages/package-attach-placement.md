@@ -9,7 +9,7 @@ description: Attach a Placement to a Package
 
 1. In the main menu, click **Campaigns**.
 
-1. Click the name of the campaign in which you want to create the package, and then cLick the package name.
+1. Click the name of the campaign in which you want to create the package, and then click the package name.
 
 1. In the upper right, click **Create** and select the placement type.
 

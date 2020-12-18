@@ -10,11 +10,8 @@ Hide a package that isn't being used by archiving it. Archived packages aren't s
 You can un-archive an archived package to restore its previous status at any time.
 
 1. In the main menu, click **Campaigns**.
-
 1. Click the name of the campaign to open the Packages view.
-
 1. Next to the package name, click  **... > Archive**.
-
 1. In the confirmation message, click **Archive**.
 
 >[!NOTE]
