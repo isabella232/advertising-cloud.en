@@ -64,7 +64,7 @@ index: yes
   + Campaign Reports {#campaign-reports}
     + [About In-Platform Reports](/help/dsp/campaign-management/reports/campaign-reports-about.md)
     + [View the Sites, Ads, and Frequency Details for a Placement](/help/dsp/campaign-management/reports/placement-details-view.md)
-    + [View the Placement Diagnostic Reports](/help/dsp/campaign-management/reports/reports/placement-diagnostics.md)
+    + [View the Placement Diagnostic Reports](/help/dsp/campaign-management/reports/placement-diagnostics.md)
     + Manage Data Views {#data-views}
       + [About the Campaign Data Views](/help/dsp/campaign-management/reports/campaign-data-views-about.md)
       + [Change the Column View](/help/dsp/campaign-management/reports/column-view-change.md)
