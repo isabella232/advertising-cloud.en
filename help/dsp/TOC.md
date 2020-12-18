@@ -35,6 +35,11 @@ index: yes
   + Packages {#packages}
     + [About Package Management](/help/dsp/campaign-management/packages/package-about.md)
     + [Create a Package](/help/dsp/campaign-management/packages/package-create.md)
+    + [Attach a Placement to a Package](/help/dsp/campaign-management/packages/package-attach-placement.md)
+    + [Duplicate a Package](/help/dsp/campaign-management/packages/package-duplicate.md)
+    + [Edit a Package](/help/dsp/campaign-management/packages/package-edit.md)
+    + [Archive a Package](/help/dsp/campaign-management/packages/package-archive.md)
+    + [Unarchive a Package](/help/dsp/campaign-management/packages/package-unarchive.md)
     + [Package Settings](/help/dsp/campaign-management/packages/package-settings.md)
   + Placements {#placements}
     + [About Placement Management](/help/dsp/campaign-management/placements/placement-about.md)
@@ -59,6 +64,7 @@ index: yes
   + Campaign Reports {#campaign-reports}
     + [About In-Platform Reports](/help/dsp/campaign-management/reports/campaign-reports-about.md)
     + [View the Sites, Ads, and Frequency Details for a Placement](/help/dsp/campaign-management/reports/placement-details-view.md)
+    + [View the Placement Diagnostic Reports](/help/dsp/campaign-management/reports/reports/placement-diagnostics.md)
     + Manage Data Views {#data-views}
       + [About the Campaign Data Views](/help/dsp/campaign-management/reports/campaign-data-views-about.md)
       + [Change the Column View](/help/dsp/campaign-management/reports/column-view-change.md)
