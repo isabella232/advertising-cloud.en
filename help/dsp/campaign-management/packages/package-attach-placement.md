@@ -15,7 +15,7 @@ description: Attach a Placement to a Package
 
      The selected package is automatically selected in the placement settings.
 
-1. Enter the remaining [placement settings](placement-settings.md), and then click **Create Placement**.
+1. Enter the remaining [placement settings](/help/dsp/campaign-management/placements/placement-settings.md), and then click **Create Placement**.
 
 ## Attach a New or Existing Placement from the Packages View
 
@@ -33,7 +33,7 @@ description: Attach a Placement to a Package
 
         1.  Select the ad type for the placement, and then click **Build this placement**.
 
-        1. Enter the [placement settings](placement-settings.md), and then click **Create Placement**.
+        1. Enter the [placement settings](/help/dsp/campaign-management/placements/placement-settings.md), and then click **Create Placement**.
 
     * To attach an existing placement in the campaign:
 
@@ -54,3 +54,4 @@ description: Attach a Placement to a Package
 >* [About Package Management](package-about.md)
 >* [Create a Package](package-create.md)
 >* [Package Settings](package-settings.md)
+>* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
