@@ -5,15 +5,16 @@ description: Placement Diagnostics Report
 
 # Placement Diagnostics Report
 
+<!-- Does this really belong in the Campaign Management > Reports section or in the Placements section? -->
 <!-- Available for all placement types/pacing? Any other caveats? -->
 
 Thee following tools can help you diagnose issues with placement setup or pacing once a campaign is live:
 
 * **Change Log:** Shows changes to key placement settings, such as the name, status, and maximum bid. Each entry includes the date and username of the person who made the change.
 * **Ad  Approvals:** Shows whether ads were approved or declined by the inventory providers<!-- SSP? -->.<!-- Should you have at least one entry for each publisher/piece of inventory? --> You can optionally change the status of any ad or open the ad settings.<!-- Are there are limitations for ad statuses you can change here (for example, are rejected ads)? -->
-<!-- * **Genius:** - for some ads, regardless of whether I'm logged in as user or admin -->
+<!-- * **Genius:** - for some placements, regardless of whether I'm logged in as user or admin -->
 * **Non Bids:** Shows out why DSP didn't bid on the placement.
-<!-- * **Fill Charts:** - for some ads -->
+<!-- * **Fill Charts:** - for some placements -->
 
 <!-- anything else to say? Ideal if a paragraph here since jumping from one list to another below. -->
 
@@ -40,7 +41,7 @@ Thee following tools can help you diagnose issues with placement setup or pacing
     * To see why DSP didn't bid on the placement:
         1. In the upper right, click **Non Bids**.
         1. (Optional) Filter the report results:
-            * <!-- Verify how this works. It looks like these button are toggles to de-select/select a region, but I don't see a difference. -->To view information results for a specific region, click the name of the region: *US-East,* *US-West,* *EU-West,* or *HKG* (Hong Kong and XXXX<!-- ? -->).
+            * <!-- Verify how this works. It looks like these button are toggles to de-select/select a region, but I don't see a difference. -->To view information results for a specific region, click the name of the region: *US-East,* *US-West,* *EU-West,* or *HKG* (Hong Kong).
             * To change the date range, click in the date field and select a different date or date range.
 
 <!--
