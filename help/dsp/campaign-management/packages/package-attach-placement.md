@@ -5,7 +5,7 @@ description: Attach a Placement to a Package
 
 # Attach a Placement to a Package
 
-# Attach a New Placement from the Placements View
+## Attach a New Placement from the Placements View
 
 1. In the main menu, click **Campaigns**.
 
@@ -17,7 +17,7 @@ description: Attach a Placement to a Package
 
 1. Enter the remaining [placement settings](placement-settings.md), and then click **Create Placement**.
 
-# Attach a New or Existing Placement from the Packages View
+## Attach a New or Existing Placement from the Packages View
 
 1. In the main menu, click **Campaigns**.
 
