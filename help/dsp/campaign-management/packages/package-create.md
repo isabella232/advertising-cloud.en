@@ -21,3 +21,5 @@ Once you create a package, you can assign placements to it.
 >
 >* [About Package Management](package-about.md)
 >* [Package Settings](package-settings.md)
+>* [Edit a Package](/help/dsp/campaign-management/packages/package-edit.md)
+>* [Attach a Placement to a Package](/help/dsp/campaign-management/packages/package-attach-placement.md)
