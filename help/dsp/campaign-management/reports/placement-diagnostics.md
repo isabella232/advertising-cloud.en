@@ -34,8 +34,10 @@ The following tools can help you diagnose issues with placement setup or pacing 
         1. In the upper right, click **Non Bids**.
         1. (Optional) To change the date range, click in the date field and select a different date or date range.
 
+<!-- Later, add link to >* Definitions for NBRs (Reading No Bid Reports (NBRs)) -->
+
 >[!MORELIKETHIS]
 >
 >* [About In-Platform Reports](/help/dsp/campaign-management/reports/campaign-reports-about.md)
 >* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
-<!-->* Definitions for NBRs (Reading No Bid Reports (NBRs)) -->
+
