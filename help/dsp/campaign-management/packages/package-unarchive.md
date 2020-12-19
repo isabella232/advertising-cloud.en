@@ -5,7 +5,7 @@ description: Unarchive a Package
 
 # Unarchive a Package
 
-Unarchive an archived package to restore its previous status.
+Unarchive a package to restore its previous status.
 
 1. In the main menu, click **Campaigns**.
 1. Click the name of the campaign to open the Packages view.
@@ -14,5 +14,5 @@ Unarchive an archived package to restore its previous status.
 
 >[!MORELIKETHIS]
 >
->* [About Package Management](package-about.md)
 >* [Archive a Package](package-archive.md)
+>* [Edit a Package](/help/dsp/campaign-management/packages/package-edit.md)
