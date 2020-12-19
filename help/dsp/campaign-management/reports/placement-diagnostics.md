@@ -10,7 +10,7 @@ description: View the Placement Diagnostic Reports
 The following tools can help you diagnose issues with placement setup or pacing once a campaign is live:
 
 * **Change Log:** Shows changes to key placement settings, such as the name, status, and maximum bid. Each entry includes the date and username of the person who made the change.
-* **Ad  Approvals:** Shows whether ads were approved or declined by the inventory providers<!-- SSP? -->. You can optionally change the status of any ad or open the ad settings.<!-- Are there are limitations for ad statuses you can change here (for example, are rejected ads)? -->
+* **Ad Approvals:** Shows whether ads were approved or declined by the inventory providers<!-- SSP? -->. You can optionally change the status of any ad or open the ad settings.<!-- Are there are limitations for ad statuses you can change here (for example, are rejected ads)? -->
 * **Non Bids:** Shows out why DSP didn't bid on the placement.
 
 1. Open the Diagnostics report:
