@@ -20,24 +20,14 @@ description: Attach an Ad to a Placement
         1. Do either of the following:
             * To add one ad at a time:
                 1. Next to the ad name, click **Select.**
-                1. (Optional) For each additional ad you want to attach, click **Attach Another Ad**, and then repeat Steps 1-2.<!-- see what step numbers these should be -->
-            * To add up to 20 ads at a time:
+                1. (Optional) For each additional ad you want to attach, click **Attach to Other Placement**. Next to the ad name, click **Select.**
+            * To attach the ad to up to 20 placements at a time:
                 1. Select the check box next to **Bulk Select."
-                1. Select the check box next to each ad to add.
+                1. Select the check box next to each placement to which to attach the ad.
                 1. Click **Attach**.
         1. On the Complete & Review tab, select one of the following:
-            * To return to the Campaign, click **I'm done for now**.
+            * To return to the Ads view, click **I'm done for now**.
             * To attach the ad to another placement, click **Attach To Other Placement**.
-            * (Optional) To override the default flight period and ad rotation for specific ads in the placement:
-                1. Click **Custom Schedule Ads**.
-                1. Do any of the following:
-                    * To add a flight, click **Add Flight**, and then specify the start date and end date.
-                    * To add an existing flight to an ad, click **+** in the ad row for the flight column.
-                    * To remove an existing flight from an ad, click **x** in the ad row for the flight column.
-                    * (When multiple ads have the same flight) To rotate the ads unevenly, click **Even Rotation** in the flight information, and then enter the relative weight by which to rotate each ad, as a percentage.
-                  The total weights must equal 100.
-                1. In the upper right, click **Continue**.
-                1. Review the flight details, and then click **Save & Finish**.
 
 ## Attach a New or Existing Ad from the Placements View
 
@@ -62,7 +52,7 @@ description: Attach an Ad to a Placement
         1. Specify the ads:
             * To add one ad at a time:
                 1. Next to the ad name, click **Select.**
-                1. (Optional) For each additional ad you want to attach, click **Attach Another Ad**, and then repeat Steps 1-2.<!-- see what step numbers these should be -->
+                1. (Optional) For each additional ad you want to attach, click **Add Another Ad**. Next to the ad name, click **Select.**
             * To add up to 20 ads at a time:
                 1. Select the check box next to **Bulk Select."
                 1. Select the check box next to each ad to add.
