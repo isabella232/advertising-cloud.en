@@ -5,17 +5,17 @@ description: Duplicate a Package
 
 # Duplicate a Package
 
-Duplicate a package to save time creating a package with similar settings.
+Duplicate a package to create a package with similar settings. You can optionally duplicate the original ads if the new package is within the original campaign.
 
 All settings from the original placements are duplicated except:
 
-* Experiment settings<!-- where are these? -->
+* Experiment settings
 * (If you change the flight dates) Custom ad scheduling
 * (If you don't attach ads) Custom ad weighting and scheduling
 * Programmatic guaranteed (PG) default placements and Simple Ad Serving placements
 * (Placements copied to a different campaign):
-    * Geo-fencing <!-- Geo targets? -->
-    * Event pixels<!-- verify if placement-level --> 
+    * Geo targets
+    * Pixels<!-- verify if event pixels or segment pixels -->
     * Ads
     * Placement-level<!-- This said "custom," so verify if that means placement-level as opposed to advertiser-level segments --> DoubleVerify Authentic Brand Safety segments
 
