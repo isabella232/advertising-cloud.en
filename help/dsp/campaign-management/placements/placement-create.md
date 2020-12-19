@@ -81,10 +81,16 @@ description: Create a Placement
       * To attach existing ads in the campaign:
     
          1. Click **Select an Ad**.
-
-         1. Next to the ad name, click **Select**.
-
-         1. (Optional) For each additional ad you want to attach, click **Add Another Ad**, and then repeat the Steps 1-2.
+         1. Do either of the following:
+            * To add one ad at a time:
+                1. Next to the ad name, click **Select.**
+                1. (Optional) For each additional ad you want to attach, click **Attach Another Ad**, and then repeat Steps 1-2.<!-- see what step numbers these should be -->
+            * To add up to 20 ads at a time:
+                1. Select the check box above the ad list.
+                1. Select the check box next to each ad to add.
+                1. Click **Attach**.
+                
+                Next to the ad name, click **Select**.
 
          1. (Optional) To override the default flight period and ad rotation for specific ads in the placement:
          
