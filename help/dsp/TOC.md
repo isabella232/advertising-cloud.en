@@ -50,6 +50,7 @@ index: yes
     + [Available Ad Types](/help/dsp/campaign-management/ads/ad-types.md)
     + Advertising Cloud-served Ads {#advertising-cloud-served}
       + [Create an Ad](/help/dsp/campaign-management/ads/ad-create.md)
+      + [Edit an Ad](/help/dsp/campaign-management/ads/ad-edit.md)]
       + Ad Settings {#ad-settings}
         + [Audio Ad Settings](/help/dsp/campaign-management/ads/ad-settings-audio.md)
         + [Connected TV Settings](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
