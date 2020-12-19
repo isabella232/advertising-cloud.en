@@ -53,7 +53,7 @@ index: yes
     + Advertising Cloud-served Ads {#advertising-cloud-served}
       + [Create an Ad](/help/dsp/campaign-management/ads/ad-create.md)
       + [Attach an Ad to a Placement](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)
-      + [Edit an Ad](/help/dsp/campaign-management/ads/ad-edit.md)]
+      + [Edit an Ad](/help/dsp/campaign-management/ads/ad-edit.md)
       + [Duplicate an Ad](/help/dsp/campaign-management/ads/ad-duplicate.md)
       + [Archive an Ad](/help/dsp/campaign-management/ads/ad-archive.md)
       + [Unarchive an Ad](/help/dsp/campaign-management/ads/ad-unarchive.md)

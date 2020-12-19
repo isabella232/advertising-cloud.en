@@ -84,4 +84,3 @@ description: Attach an Ad to a Placement
 >* [About Ad Management](ad-about.md)
 >* [Create an Ad](ad-create.md)
 >* [Edit an Ad](ad-edit.md)
->* [Ad Settings](ad-settings.md)

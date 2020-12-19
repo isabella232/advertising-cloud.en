@@ -28,6 +28,6 @@ To see all of the placements within a package, click the package name.
 >[!MORELIKETHIS]
 >
 >* [Create a Package](package-create.md)
->* [Edit a Package](/help/dsp/campaign-management/packages/package-edit.md)
+>* [Edit a Package](package-edit.md)
 >* [Package Settings](package-settings.md)
->* [Attach a Placement to a Package](/help/dsp/campaign-management/packages/package-attach-placement.md)
+>* [Attach a Placement to a Package](package-attach-placement.md)
