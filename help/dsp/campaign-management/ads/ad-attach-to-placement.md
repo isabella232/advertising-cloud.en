@@ -48,7 +48,8 @@ description: Attach an Ad to a Placement
 1. In the Add Ad to Placement screen, do either of the following:
     * To create a new ad:
         1. Click **Create a New Ad**.
-        1. Enter the [ad settings](ad-settings.md), and then click **Save & Submit for Review**.
+        1. Enter the ad settings for [audio ads](ad-settings-audio.md), [connected TV](ad-settings-connected-tv.md), [display ads](ad-settings-display.md),[mobile ads](ad-settings-mobile.md), [native ads](ad-settings-native.md), [pre-roll ads](ad-settings-pre-roll.md), or survey ads
+        1. Click **Save & Submit for Review**.
         
              The [ad review](ad-about.md) for the new ad takes 24-48 hours and includes checks for sensitive categories, click URL functionality, and preview rendering. The Status column indicates whether the ad has been approved. Broken ads may have a pending status for longer than 24-48 hours so you have time to fix errors before they're rejected.
              
