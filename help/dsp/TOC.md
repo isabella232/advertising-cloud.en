@@ -36,14 +36,15 @@ index: yes
     + [About Package Management](/help/dsp/campaign-management/packages/package-about.md)
     + [Create a Package](/help/dsp/campaign-management/packages/package-create.md)
     + [Attach a Placement to a Package](/help/dsp/campaign-management/packages/package-attach-placement.md)
-    + [Duplicate a Package](/help/dsp/campaign-management/packages/package-duplicate.md)
     + [Edit a Package](/help/dsp/campaign-management/packages/package-edit.md)
+    + [Duplicate a Package](/help/dsp/campaign-management/packages/package-duplicate.md)
     + [Archive a Package](/help/dsp/campaign-management/packages/package-archive.md)
     + [Unarchive a Package](/help/dsp/campaign-management/packages/package-unarchive.md)
     + [Package Settings](/help/dsp/campaign-management/packages/package-settings.md)
   + Placements {#placements}
     + [About Placement Management](/help/dsp/campaign-management/placements/placement-about.md)
     + [Create a Placement](/help/dsp/campaign-management/placements/placement-create.md)
+    + [Duplicate a Placement](/help/dsp/campaign-management/placements/placement-duplicate.md)
     + [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
   + Ads {#ads}
     + [About Ad Management](/help/dsp/campaign-management/ads/ad-about.md)
@@ -51,6 +52,9 @@ index: yes
     + Advertising Cloud-served Ads {#advertising-cloud-served}
       + [Create an Ad](/help/dsp/campaign-management/ads/ad-create.md)
       + [Edit an Ad](/help/dsp/campaign-management/ads/ad-edit.md)]
+      + [Attach an Ad to a Placement](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)
+      + [Archive an Ad](/help/dsp/campaign-management/ads/ad-archive.md)
+      + [Unarchive an Ad](/help/dsp/campaign-management/ads/ad-unarchive.md)
       + Ad Settings {#ad-settings}
         + [Audio Ad Settings](/help/dsp/campaign-management/ads/ad-settings-audio.md)
         + [Connected TV Settings](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
