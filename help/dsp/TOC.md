@@ -44,6 +44,7 @@ index: yes
   + Placements {#placements}
     + [About Placement Management](/help/dsp/campaign-management/placements/placement-about.md)
     + [Create a Placement](/help/dsp/campaign-management/placements/placement-create.md)
+    + [Edit a Placement](/help/dsp/campaign-management/placements/placement-edit.md)
     + [Duplicate a Placement](/help/dsp/campaign-management/placements/placement-duplicate.md)
     + [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
   + Ads {#ads}
@@ -51,8 +52,9 @@ index: yes
     + [Available Ad Types](/help/dsp/campaign-management/ads/ad-types.md)
     + Advertising Cloud-served Ads {#advertising-cloud-served}
       + [Create an Ad](/help/dsp/campaign-management/ads/ad-create.md)
-      + [Edit an Ad](/help/dsp/campaign-management/ads/ad-edit.md)]
       + [Attach an Ad to a Placement](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)
+      + [Edit an Ad](/help/dsp/campaign-management/ads/ad-edit.md)]
+      + [Duplicate an Ad](/help/dsp/campaign-management/ads/ad-duplicate.md)
       + [Archive an Ad](/help/dsp/campaign-management/ads/ad-archive.md)
       + [Unarchive an Ad](/help/dsp/campaign-management/ads/ad-unarchive.md)
       + Ad Settings {#ad-settings}
