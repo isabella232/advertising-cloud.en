@@ -11,7 +11,7 @@ Macros are most commonly used during trafficking of third-party and custom creat
 
 ## General Tracking Macros
 
-General tracking macros are available across all ad and tag types in order to pass back the required data.
+Use general tracking macros across all ad and tag types to pass back specific data, as required.
 
 | Macro | Description |
 | --------------- | ---------------------- |
@@ -36,3 +36,12 @@ DSP automatically inserts display click macros in a display tag when you:
 * Bulk upload Flashtalking or Google DoubleClick for Advertisers ad tags directly in DSP
 
 If a click macro is missing when you build a display ad, DSP displays a warning message, which prompts you to manually insert the appropriate display click macro in the correct area of the tag.
+
+>[!MORELIKETHIS]
+>
+>* [Audio Ad Settings](/help/dsp/campaign-management/ads/ad-settings-audio.md)
+>* [Audio Ad Settings](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
+>* [Audio Ad Settings](/help/dsp/campaign-management/ads/ad-settings-display.md)
+>* [Audio Ad Settings](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
+>* [Audio Ad Settings](/help/dsp/campaign-management/ads/ad-settings-native.md)
+>* [Audio Ad Settings](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
