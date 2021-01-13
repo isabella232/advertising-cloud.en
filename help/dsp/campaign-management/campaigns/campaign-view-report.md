@@ -16,5 +16,5 @@ The legacy campaign-level report includes an overview and sections on Geography,
 >
 >* [View a Detailed Report for a Placement](/help/dsp/campaign-management/placements/placement-view-report.md)
 >* [View a Detailed Report for an Ad](/help/dsp/campaign-management/ads/ad-view-report.md)
->* [About In-Platform Reports](campaign-reports-about.md)
+>* [About In-Platform Reports](/help/dsp/campaign-management/reports/campaign-reports-about.md)
 >* [About Custom Reports](/help/dsp/reports/report-about.md)

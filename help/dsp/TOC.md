@@ -51,9 +51,9 @@ index: yes
     + [Quickly Edit Key Placement Settings](/help/dsp/campaign-management/placements/placement-quick-edit.md)
     + [Duplicate a Placement](/help/dsp/campaign-management/placements/placement-duplicate.md)
     + [Attach an Ad to a Placement](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)
-    + [Edit the Ad Schedule for a Placement](placement-edit-ad-schedule.md)
+    + [Edit the Ad Schedule for a Placement](/help/dsp/campaign-management/placements/placement-edit-ad-schedule.md)
     + [View a Detailed Report for a Placement](/help/dsp/campaign-management/placements/placement-view-report.md)
-    + [Pause or Activate a Placement](placement-pause-activate.md)
+    + [Pause or Activate a Placement](/help/dsp/campaign-management/placements/placement-pause-activate.md)
     + [Archive or Unarchive a Placement](/help/dsp/campaign-management/placements/placement-archive-unarchive.md)
     + [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
   + Ads {#ads}

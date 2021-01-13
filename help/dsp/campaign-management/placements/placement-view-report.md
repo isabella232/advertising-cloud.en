@@ -14,8 +14,8 @@ The legacy placement-level report includes an overview and sections on Geography
 
 >[!MORELIKETHIS]
 >
->* [View the Sites, Ads, and Frequency Details for a Placement](placement-details-view.md)
+>* [View the Sites, Ads, and Frequency Details for a Placement](/help/dsp/campaign-management/reports/placement-details-view.md)
 >* [View a Detailed Report for an Ad](/help/dsp/campaign-management/ads/ad-view-report.md)
 >* [View a Detailed Report for a Campaign](/help/dsp/campaign-management/campaigns/campaign-view-report.md)
->* [About In-Platform Reports](campaign-reports-about.md)
+>* [About In-Platform Reports](/help/dsp/campaign-management/reports/campaign-reports-about.md)
 >* [About Custom Reports](/help/dsp/reports/report-about.md)
