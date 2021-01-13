@@ -10,7 +10,7 @@ description: View the Placement Diagnostic Reports
 The following tools can help you diagnose issues with placement setup or pacing once a campaign is live:
 
 * **Change Log:** Shows changes to key placement settings, such as the name, status, and maximum bid. Each entry includes the date and username of the person who made the change.
-* **Ad Approvals:** Shows whether ads were approved or declined by the inventory providers<!-- SSP? -->. You can optionally change the status of any ad or open the ad settings.<!-- Are there are limitations for ad statuses you can change here (for example, are rejected ads)? -->
+* **Ad Approvals:** Shows whether ads were approved or rejected by the inventory providers. You can optionally change the status of any ad (for example, pause a rejected ad) or open the ad settings.
 * **Non Bids:** Shows out why DSP didn't bid on the placement.
 
 1. Open the Diagnostics report:
@@ -18,7 +18,7 @@ The following tools can help you diagnose issues with placement setup or pacing 
         1. In the main menu, click **Campaigns**.
         1. Click the name of the campaign, and then click **Placements**.
         1. Next to the placement name, click  **... > Edit**.
-    1. In the upper right, click ![Placement Diagnostics](/help/dsp/assets/placement-diagnostics.png) or **Diagnostic**.<!-- I see different buttons for two different placements. Why? -->
+    1. In the upper right, click ![Placement Diagnostics](/help/dsp/assets/placement-diagnostics.png) or **Diagnostic**.
 1. Do any of the following:
     * To view the change log:
          1. Click **Change Log**.
@@ -38,6 +38,5 @@ The following tools can help you diagnose issues with placement setup or pacing 
 
 >[!MORELIKETHIS]
 >
->* [About In-Platform Reports](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+>* [About In-Platform Reports](campaign-reports-about.md)
 >* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
-
