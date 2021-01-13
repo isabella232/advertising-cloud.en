@@ -5,7 +5,12 @@ description: Duplicate a Package
 
 # Duplicate a Package
 
-Duplicate a package to create a package with similar settings. You can optionally duplicate the original ads if the new package is within the original campaign.
+Duplicate a package to create a package with similar settings. You can:
+
+* Duplicate the package within the original advertiser and campaign or within different ones
+* Optionally duplicate the placements within the package
+* (For duplicated packages within the original campaigns) Optionally duplicate the original ads and placement-level event pixels
+* Modify the flight dates of the new package
 
 All settings from the original placements are duplicated except:
 
@@ -15,9 +20,9 @@ All settings from the original placements are duplicated except:
 * Programmatic guaranteed (PG) default placements and Simple Ad Serving placements
 * (Placements copied to a different campaign):
     * Geo targets
-    * Pixels<!-- verify if event pixels or segment pixels -->
+    * Event pixels
     * Ads
-    * Placement-level<!-- This said "custom," so verify if that means placement-level as opposed to advertiser-level segments --> DoubleVerify Authentic Brand Safety segments
+    * <!-- Placement-level? This said "custom," so verify if that means placement-level as opposed to advertiser-level segments -->DoubleVerify Authentic Brand Safety segments
 
 1. In the main menu, click **Campaigns**.
 1. Click the name of the campaign to open the Packages view.
@@ -31,7 +36,7 @@ All settings from the original placements are duplicated except:
          * The new package is assigned to the original advertiser and campaign.
          * The new package becomes active on the current day.<!-- and the flight continues for NN  days. -->
          * Placements within the original package are copied to the new package.
-         * The ads and the placement-level<!-- verify -->  event pixels aren't copied to the new package.
+         * The ads and the placement-level event pixels aren't copied to the new package.
 1. Click **Save**.
 
 >[!MORELIKETHIS]
