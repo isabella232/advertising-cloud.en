@@ -26,5 +26,6 @@ You can duplicate an ad within the same campaign.
 >
 >* [About Ad Management](ad-about.md)
 >* [Create an Ad](/help/dsp/campaign-management/packages/package-create.md)
+>* [Create Multiple Third-party Ads](ad-create-third-party.md)
 >* [Edit an Ad](ad-edit.md)
 >* [Ad Specifications](/help/dsp/assets/ad-specs.pdf)
