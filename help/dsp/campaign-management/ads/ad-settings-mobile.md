@@ -61,11 +61,11 @@ description: Mobile Ad Settings
 
 **Click URL:** (Adobe-served ads only) The URL on which the viewer will land when they click the ad.
 
-**Final Click URL:** (Adobe-served ads only; read-only) The Click URL with the necessary Advertising Cloud tracking macros inserted, if applicable.
+**Final Click URL:** (Adobe-served ads only; read-only) The Click URL with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
 
 **Display Code:** (Third-party ads only) The URL of the third-party creative asset. Any [timestamp] and [[timestamp]] parameters will be replaced with actual values.
 
-**Final Display Code:** (Third-party ads only) The URL for the third-party creative asset, with the necessary Advertising Cloud tracking macros inserted, if applicable.
+**Final Display Code:** (Third-party ads only) The URL for the third-party creative asset, with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
 
 ### Basic: Video Ads
 
@@ -101,11 +101,11 @@ This is the same as the **Height** field.
 
 **Click URL:** (Adobe-served ads only) The URL on which the viewer will land when they click the ad.
 
-**Final Click URL:** (Adobe-served ads only; read-only) The Click URL with the necessary Advertising Cloud tracking macros inserted, if applicable.
+**Final Click URL:** (Adobe-served ads only; read-only) The Click URL with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
 
 **VAST Tag:** (Ads using VAST tags only; read-only) The third-party VAST tag you entered as the creative asset.
 
-**Final VAST Tag:** (Ads using VAST tags only; read-only) The third-party VAST tag you entered as the creative asset with the necessary Advertising Cloud tracking macros inserted, if applicable.
+**Final VAST Tag:** (Ads using VAST tags only; read-only) The third-party VAST tag you entered as the creative asset with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
 
 **Wmode:** (Some ad types) The window mode: *window*, *transparent*, or *opaque*.
 

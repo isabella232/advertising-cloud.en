@@ -31,7 +31,7 @@ The following settings are for standard display ads. You can also serve click-to
 
 **Display Code:** (Third-party ads only) The URL of the third-party creative asset. Any [timestamp] and [[timestamp]] parameters will be replaced with actual values.
 
-**Final Display Code:** (Third-party ads only) The URL for the third-party creative asset, with the necessary Advertising Cloud tracking macros inserted, if applicable.
+**Final Display Code:** (Third-party ads only) The URL for the third-party creative asset, with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
 
 **Creative type:** (Adobe-served ads only) Whether the asset is an *Image* or an *HTML5* asset.
 
@@ -45,7 +45,7 @@ The following settings are for standard display ads. You can also serve click-to
 
 **Click URL:** (Adobe-served ads only) The URL on which the viewer will land when they click the ad.
 
-**Final Click URL:** (Adobe-served ads only; read-only) The Click URL with the necessary Advertising Cloud tracking macros inserted, if applicable.
+**Final Click URL:** (Adobe-served ads only; read-only) The Click URL with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
 
 ### Pixel
 

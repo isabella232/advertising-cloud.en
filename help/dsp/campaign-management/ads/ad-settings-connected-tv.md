@@ -61,11 +61,11 @@ This is the same as the **Height** field.
 
 **Click URL:** (Adobe-served ads only) The URL on which the viewer will land when they click the ad.
 
-**Final Click URL:** (Adobe-served ads only; read-only) The Click URL with the necessary Advertising Cloud tracking macros inserted, if applicable.
+**Final Click URL:** (Adobe-served ads only; read-only) The Click URL with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
 
 **VAST Tag:** (Ads using VAST tags only; read-only) The third-party VAST tag you entered as the ad source.
 
-**Final VAST Tag:** (Ads using VAST tags only; read-only) The third-party VAST tag you entered as the ad source with the necessary Advertising Cloud tracking macros inserted, if applicable.
+**Final VAST Tag:** (Ads using VAST tags only; read-only) The third-party VAST tag you entered as the ad source with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
 
 **Clock Number**: (Used only in the United Kingdom; available only to users with permission) A unique identifier used to ensure that the right ad is broadcast. If this setting isn't applicable, leave it blank.
 

@@ -37,7 +37,7 @@ description: Native Ad Settings
 
 **Landing Page:** The URL on which the viewer will land when they click the ad.
 
-**Final Landing Page:** The landing page URL with the necessary Advertising Cloud tracking macros inserted, if applicable.
+**Final Landing Page:** The landing page URL with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
 
 **Sponsored By (Advertiser Name):** The advertiser for the ad.
 

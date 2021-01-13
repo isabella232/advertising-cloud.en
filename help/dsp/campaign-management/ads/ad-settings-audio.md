@@ -45,11 +45,11 @@ This field may or may not be displayed, depending on the account permissions.
 
 **Click URL:** (Ads using raw assets and with display banners only; optional) The URL on which the viewer will land when they click a display banner that accompanies your ad.
 
-**Final Click URL:** (Ads using raw assets and with display banners only; read-only) The Click URL with the necessary Advertising Cloud tracking macros inserted, if applicable.
+**Final Click URL:** (Ads using raw assets and with display banners only; read-only) The Click URL with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
 
 **VAST Tag:** (Ads using VAST tags only) An URL for a third-party ad source. Make sure that the VAST tag includes only audio media files.
 
-**Final VAST Tag:** (Ads using VAST tags only) The URL for the third-party ad source with the necessary Advertising Cloud tracking macros inserted, if applicable.
+**Final VAST Tag:** (Ads using VAST tags only) The URL for the third-party ad source with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
 
 **Select Rate:** (Users with permission only) A pre-negotiated rate billed through Adobe, or one of the rates that you've negotiated and will be billed for through the vendor. To add a rate, contact your Adobe account manager.
 
@@ -79,11 +79,11 @@ Use a third-party tag when you want to track third-party companion banner impres
 
 **Click URL:** (Raw assets only) The URL on which the viewer will land when they click the companion banner for the ad. It can include a click redirect using a third-party click tracking pixel.
 
-**Final Click URL:** (Raw assets only; read-only) The Click URL with the necessary Advertising Cloud tracking macros inserted, if applicable.
+**Final Click URL:** (Raw assets only; read-only) The Click URL with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
 
 **Ad Tag:** (Ads using third-party ad tags only) An iFrame or script banner tag for a third-party companion banner source. It must be from a certified third-party ad serving partner.
 
-**Final Ad Tag:** (Ads using third-party ad tags only) The Ad Tag with the necessary Advertising Cloud tracking macros inserted, if applicable.
+**Final Ad Tag:** (Ads using third-party ad tags only) The Ad Tag with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
 
 ### Pixel
 

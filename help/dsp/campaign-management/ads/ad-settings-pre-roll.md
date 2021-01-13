@@ -67,11 +67,11 @@ This is the same as the **Height** field.
 
 **Click URL:** (Adobe-served ads only) The URL on which the viewer will land when they click the ad.
 
-**Final Click URL:** (Adobe-served ads only; read-only) The Click URL with the necessary Advertising Cloud tracking macros inserted, if applicable.
+**Final Click URL:** (Adobe-served ads only; read-only) The Click URL with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
 
 **VAST Tag:** (Ads using VAST tags only; read-only) The third-party VAST tag you entered as the ad source.
 
-**Final VAST Tag:** (Ads using VAST tags only; read-only) The third-party VAST tag you entered as the ad source with the necessary Advertising Cloud tracking macros inserted, if applicable.
+**Final VAST Tag:** (Ads using VAST tags only; read-only) The third-party VAST tag you entered as the ad source with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
 
 **Wmode:** (Interactive pre-roll only) The window mode: *window*, *transparent*, or *opaque*.
 
@@ -100,7 +100,7 @@ You can optionally attach up to three companion banners with an ad. The best pra
 
 **Ad Tag:** (Ads using VAST tags only) An URL to a third-party companion banner source.
 
-**Final Ad Tag:** (Ads using VAST tags only) An URL to a third-party companion banner source source with the necessary Advertising Cloud tracking macros inserted, if applicable.
+**Final Ad Tag:** (Ads using VAST tags only) An URL to a third-party companion banner source source with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
 
 ### Overlays
 
