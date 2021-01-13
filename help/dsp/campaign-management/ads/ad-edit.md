@@ -16,5 +16,6 @@ description: Edit an Ad
 >
 >* [About Ad Management](ad-about.md)
 >* [Create an Ad](/help/dsp/campaign-management/packages/package-create.md)
+>* [Create Multiple Third-party Ads](ad-create-third-party.md)
 >* [Duplicate an Ad](ad-duplicate.md)
 >* [Ad Specifications](/help/dsp/assets/ad-specs.pdf)
