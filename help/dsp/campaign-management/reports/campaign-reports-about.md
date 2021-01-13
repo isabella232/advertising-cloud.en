@@ -64,9 +64,7 @@ You can export the data on the Sites, Ads, or Frequency tab to your browser's de
 
 For other data breakouts, view the legacy campaign-level reporting pages in Campaigns Classic. The legacy report includes sections on Geo, Audience, Device, Demographics, and Viewability data.
 
-To open the legacy campaign-level report in a new browser tab from within the Campaigns view, click **More > View report**.
-
-![link to legacy campaign-level reporting pages](/help/dsp/assets/legacy-campaign-report-link.png)
+To open the legacy campaign-level report in a new browser tab from within the Campaigns view, click **... > View report** in the upper right toolbar.
 
 >[!MORELIKETHIS]
 >
@@ -75,3 +73,4 @@ To open the legacy campaign-level report in a new browser tab from within the Ca
 >* [Create a Custom Column View](column-view-create.md)
 >* [Change the Column View](column-view-change.md)
 >* [Manage Data Visualizations](campaign-data-visualization-manage.md)
+>* [Export Data from a Campaign Management View](campaign-export-data.md)
