@@ -5,6 +5,12 @@ description: Edit a Placement
 
 # Edit a Placement
 
+<!-- Some placements don't have this option. Clarify which placement types aren't eligible -- is it PG and simple ad serving placements, or all placements using private inventory? And anything else? -->
+
+>[!TIP]
+>
+> To edit only the placement name, status, maximum bid, and budget, see "[Quickly Edit Key Placement Settings](/help/dsp/campaign-management/placements/placement-quick-edit.md)."
+
 1. In the main menu, click **Campaigns**.
 1. Click the name of the campaign.
 1. In the submenu, click **Placements**.
@@ -15,6 +21,9 @@ description: Edit a Placement
 >[!MORELIKETHIS]
 >
 >* [About Placement Management](placement-about.md)
+>* [Quickly Edit Key Placement Settings](/help/dsp/campaign-management/placements/placement-quick-edit.md)
 >* [Create a Placement](placement-create.md)
 >* [Duplicate a Placement](placement-duplicate.md)
+>* [Edit the Ad Schedule for a Placement](placement-edit-ad-schedule.md)
+>* [Pause or Activate a Placement](placement-pause-activate.md)
 >* [Placement Settings](placement-settings.md)
