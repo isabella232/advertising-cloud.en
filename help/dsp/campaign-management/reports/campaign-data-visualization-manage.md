@@ -20,6 +20,6 @@ You can change the metrics and chart mode for all data visualizations for a sing
 
 >[!MORELIKETHIS]
 >
->* [About In-Platform Reports](/help/dsp/campaign-management/reports/campaign-reports-about.md)
->* [View the Sites, Ads, and Frequency Details for a Placement](/help/dsp/campaign-management/reports/placement-details-view.md)
+>* [About In-Platform Reports](campaign-reports-about.md)
+>* [View the Sites, Ads, and Frequency Details for a Placement](placement-details-view.md)
 >* [Change the Column View](column-view-change.md)
