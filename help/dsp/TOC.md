@@ -47,6 +47,7 @@ index: yes
     + [About Placement Management](/help/dsp/campaign-management/placements/placement-about.md)
     + [Create a Placement](/help/dsp/campaign-management/placements/placement-create.md)
     + [Edit a Placement](/help/dsp/campaign-management/placements/placement-edit.md)
+    + [Quickly Edit Key Placement Settings](/help/dsp/campaign-management/placements/placement-quick-edit.md)
     + [Duplicate a Placement](/help/dsp/campaign-management/placements/placement-duplicate.md)
     + [Attach an Ad to a Placement](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)
     + [Edit the Ad Schedule for a Placement](placement-edit-ad-schedule.md)
@@ -71,8 +72,8 @@ index: yes
     + [Attach an Ad to a Placement](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)
     + [Edit an Ad](/help/dsp/campaign-management/ads/ad-edit.md)
     + [Duplicate an Ad](/help/dsp/campaign-management/ads/ad-duplicate.md)
-    + [Archive an Ad](/help/dsp/campaign-management/ads/ad-archive.md)
-    + [Unarchive an Ad](/help/dsp/campaign-management/ads/ad-unarchive.md)
+    + [List the Placements Associated with an Ad](/help/dsp/campaign-management/ads/ad-list-placements.md)
+    + [Archive or Unarchive an Ad](/help/dsp/campaign-management/ads/ad-archive-unarchive.md)
     + [Specifications for Supported Ad Types](/help/dsp/assets/ad-specs.pdf)
   + Campaign Reports {#campaign-reports}
     + [About In-Platform Reports](/help/dsp/campaign-management/reports/campaign-reports-about.md)
@@ -86,6 +87,7 @@ index: yes
       + [Edit a Custom Column View](/help/dsp/campaign-management/reports/column-view-edit.md)
       + [Sort a Column](/help/dsp/campaign-management/reports/campaign-data-sort.md)
     + [Manage Data Visualizations](/help/dsp/campaign-management/reports/campaign-data-visualization-manage.md)
+  + [Understanding Advertising Cloud DSP Macros](/help/dsp/campaign-management/macros.md)
   + [FAQs About Campaign Management](/help/dsp/campaign-management/campaign-management-faq.md)
 + Optimization {#optimization}
   + [How DSP Optimizes Your Campaigns](/help/dsp/optimization/optimization-how-dsp-optimizes-campaigns.md)
