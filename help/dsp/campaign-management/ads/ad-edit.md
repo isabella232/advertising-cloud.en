@@ -18,4 +18,5 @@ description: Edit an Ad
 >* [Create an Ad](/help/dsp/campaign-management/packages/package-create.md)
 >* [Create Multiple Third-party Ads](ad-create-third-party.md)
 >* [Duplicate an Ad](ad-duplicate.md)
+>* [List the Placements Associated with an Ad](/help/dsp/campaign-management/ads/ad-list-placements.md)
 >* [Ad Specifications](/help/dsp/assets/ad-specs.pdf)
