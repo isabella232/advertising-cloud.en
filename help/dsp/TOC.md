@@ -32,6 +32,7 @@ index: yes
     + [Create a Campaign](/help/dsp/campaign-management/campaigns/campaign-create.md)
     + [Edit a Campaign](/help/dsp/campaign-management/campaigns/campaign-edit.md)
     + [Duplicate a Campaign](/help/dsp/campaign-management/campaigns/campaign-duplicate.md)
+    + [View a Detailed Report for a Campaign](/help/dsp/campaign-management/campaigns/campaign-view-report.md)
     + [Archive or Unarchive a Campaign](/help/dsp/campaign-management/campaigns/campaign-archive-unarchive.md)
     + [Campaign Settings](/help/dsp/campaign-management/campaigns/campaign-settings.md)
     + [Campaign Launch Checklist](/help/dsp/campaign-management/campaign-launch-checklist.md)
@@ -51,6 +52,7 @@ index: yes
     + [Duplicate a Placement](/help/dsp/campaign-management/placements/placement-duplicate.md)
     + [Attach an Ad to a Placement](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)
     + [Edit the Ad Schedule for a Placement](placement-edit-ad-schedule.md)
+    + [View a Detailed Report for a Placement](/help/dsp/campaign-management/placements/placement-view-report.md)
     + [Pause or Activate a Placement](placement-pause-activate.md)
     + [Archive or Unarchive a Placement](/help/dsp/campaign-management/placements/placement-archive-unarchive.md)
     + [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
@@ -73,6 +75,7 @@ index: yes
     + [Edit an Ad](/help/dsp/campaign-management/ads/ad-edit.md)
     + [Duplicate an Ad](/help/dsp/campaign-management/ads/ad-duplicate.md)
     + [List the Placements Associated with an Ad](/help/dsp/campaign-management/ads/ad-list-placements.md)
+    + [View a Detailed Report for an Ad](/help/dsp/campaign-management/ads/ad-view-report.md)
     + [Archive or Unarchive an Ad](/help/dsp/campaign-management/ads/ad-archive-unarchive.md)
     + [Specifications for Supported Ad Types](/help/dsp/assets/ad-specs.pdf)
   + Campaign Reports {#campaign-reports}
