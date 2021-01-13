@@ -23,7 +23,7 @@ You can un-archive a placement to restore its previous status at any time.
 >
 >To view archived placements, filter the Placements view: click ![Filter button](/help/dsp/assets/filter.png), click **Placement status** and select **Archived**, and then click **Apply.**
 
-# Unarchive a Placement
+## Unarchive a Placement
 
 1. In the main menu, click **Campaigns**.
 1. Click the name of the campaign.

@@ -3,7 +3,7 @@ title: View a Detailed Report for an Ad
 description:  View a Detailed Report for an Ad
 ---
 
-#  View a Detailed Report for an Ad
+# View a Detailed Report for an Ad
 
 The legacy ad-level report includes Overview, Geography, and Viewability data.
 

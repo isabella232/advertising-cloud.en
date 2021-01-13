@@ -19,7 +19,7 @@ You can un-archive a campaign to restore its previous status at any time.
 >
 >To view archived campaign, filter the Campaigns view: click ![Filter button](/help/dsp/assets/filter.png), click **Campaign status** and select **Archived**, and then click **Apply.**
 
-# Unarchive a Campaign
+## Unarchive a Campaign
 
 1. In the main menu, click **Campaigns**.
 1. Next to the campaign name, click  **... > Unarchive**.
