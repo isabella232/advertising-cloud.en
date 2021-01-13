@@ -30,33 +30,34 @@ index: yes
   + Campaigns {#campaigns}
     + [About Campaign Management](/help/dsp/campaign-management/campaigns/campaign-about.md)
     + [Create a Campaign](/help/dsp/campaign-management/campaigns/campaign-create.md)
+    + [Edit a Campaign](/help/dsp/campaign-management/campaigns/campaign-edit.md)
+    + [Duplicate a Campaign](/help/dsp/campaign-management/campaigns/campaign-duplicate.md)
+    + [Archive or Unarchive a Campaign](/help/dsp/campaign-management/campaigns/campaign-archive-unarchive.md)
     + [Campaign Settings](/help/dsp/campaign-management/campaigns/campaign-settings.md)
     + [Campaign Launch Checklist](/help/dsp/campaign-management/campaign-launch-checklist.md)
   + Packages {#packages}
     + [About Package Management](/help/dsp/campaign-management/packages/package-about.md)
     + [Create a Package](/help/dsp/campaign-management/packages/package-create.md)
-    + [Attach a Placement to a Package](/help/dsp/campaign-management/packages/package-attach-placement.md)
     + [Edit a Package](/help/dsp/campaign-management/packages/package-edit.md)
     + [Duplicate a Package](/help/dsp/campaign-management/packages/package-duplicate.md)
-    + [Archive a Package](/help/dsp/campaign-management/packages/package-archive.md)
-    + [Unarchive a Package](/help/dsp/campaign-management/packages/package-unarchive.md)
+    + [Attach a Placement to a Package](/help/dsp/campaign-management/packages/package-attach-placement.md)
+    + [Archive or Unarchive a Package](/help/dsp/campaign-management/packages/package-archive-unarchive.md)
     + [Package Settings](/help/dsp/campaign-management/packages/package-settings.md)
   + Placements {#placements}
     + [About Placement Management](/help/dsp/campaign-management/placements/placement-about.md)
     + [Create a Placement](/help/dsp/campaign-management/placements/placement-create.md)
     + [Edit a Placement](/help/dsp/campaign-management/placements/placement-edit.md)
     + [Duplicate a Placement](/help/dsp/campaign-management/placements/placement-duplicate.md)
+    + [Attach an Ad to a Placement](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)
+    + [Edit the Ad Schedule for a Placement](placement-edit-ad-schedule.md)
+    + [Pause or Activate a Placement](placement-pause-activate.md)
+    + [Archive or Unarchive a Placement](/help/dsp/campaign-management/placements/placement-archive-unarchive.md)
     + [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
   + Ads {#ads}
     + [About Ad Management](/help/dsp/campaign-management/ads/ad-about.md)
     + [Available Ad Types](/help/dsp/campaign-management/ads/ad-types.md)
     + Advertising Cloud-served Ads {#advertising-cloud-served}
       + [Create an Ad](/help/dsp/campaign-management/ads/ad-create.md)
-      + [Attach an Ad to a Placement](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)
-      + [Edit an Ad](/help/dsp/campaign-management/ads/ad-edit.md)
-      + [Duplicate an Ad](/help/dsp/campaign-management/ads/ad-duplicate.md)
-      + [Archive an Ad](/help/dsp/campaign-management/ads/ad-archive.md)
-      + [Unarchive an Ad](/help/dsp/campaign-management/ads/ad-unarchive.md)
       + Ad Settings {#ad-settings}
         + [Audio Ad Settings](/help/dsp/campaign-management/ads/ad-settings-audio.md)
         + [Connected TV Settings](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
@@ -67,9 +68,15 @@ index: yes
       + [Best Practices for Designing Overlays](/help/dsp/campaign-management/ads/ad-best-practices-overlays.md)
     + Bulk Third-party Ads {#bulk-third-party}
       + [Create Multiple Third-party Ads](/help/dsp/campaign-management/ads/ad-create-third-party.md)
+    + [Attach an Ad to a Placement](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)
+    + [Edit an Ad](/help/dsp/campaign-management/ads/ad-edit.md)
+    + [Duplicate an Ad](/help/dsp/campaign-management/ads/ad-duplicate.md)
+    + [Archive an Ad](/help/dsp/campaign-management/ads/ad-archive.md)
+    + [Unarchive an Ad](/help/dsp/campaign-management/ads/ad-unarchive.md)
     + [Specifications for Supported Ad Types](/help/dsp/assets/ad-specs.pdf)
   + Campaign Reports {#campaign-reports}
     + [About In-Platform Reports](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+    + [Export Data from a Campaign Management View](/help/dsp/campaign-management/reports/campaign-export-data.md)
     + [View the Sites, Ads, and Frequency Details for a Placement](/help/dsp/campaign-management/reports/placement-details-view.md)
     + [View the Placement Diagnostic Reports](/help/dsp/campaign-management/reports/placement-diagnostics.md)
     + Manage Data Views {#data-views}
