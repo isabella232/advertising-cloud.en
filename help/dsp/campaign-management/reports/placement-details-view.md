@@ -29,7 +29,7 @@ The Placement Inspector lists all targeted sites and all ads in a placement. It 
 
 >[!MORELIKETHIS]
 >
->* [About In-Platform Reports](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+>* [About In-Platform Reports](campaign-reports-about.md)
 >* [About the Campaign Data Views](campaign-data-views-about.md)
 >* [Change the Column View](column-view-change.md)
->* [Manage Data Visualizations](/help/dsp/campaign-management/reports/campaign-data-visualization-manage.md)
+>* [Manage Data Visualizations](campaign-data-visualization-manage.md)
