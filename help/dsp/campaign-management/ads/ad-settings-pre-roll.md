@@ -158,3 +158,4 @@ The following settings apply to each pixel that you create or edit.
 >* [Available Ad Types](ad-types.md)
 >* [Ad Specifications](/help/dsp/assets/ad-specs.pdf)
 >* [Best Practices for Designing Overlays](/help/dsp/campaign-management/ads/ad-best-practices-overlays.md)
+>* [Understanding Advertising Cloud DSP Macros](/help/dsp/campaign-management/macros.md)

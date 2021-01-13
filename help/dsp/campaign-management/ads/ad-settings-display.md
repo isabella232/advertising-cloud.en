@@ -67,6 +67,7 @@ The following settings apply to each pixel that you create or edit.
 >
 >* [About Ad Management](ad-about.md)
 >* [Create an Ad](ad-create.md)
->* [List the Placements Associated with an Ad](/help/dsp/campaign-management/ads/ad-list-placements.md)
+>* [List the Placements Associated with an Ad](ad-list-placements.md)
 >* [Available Ad Types](ad-types.md)
 >* [Ad Specifications](/help/dsp/assets/ad-specs.pdf)
+>* [Understanding Advertising Cloud DSP Macros](/help/dsp/campaign-management/macros.md)
