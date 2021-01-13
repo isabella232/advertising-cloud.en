@@ -11,7 +11,7 @@ You can sort any data column in ascending order (A to Z, or 1 to 10) or descendi
 
 >[!MORELIKETHIS]
 >
->* [About In-Platform Reports](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+>* [About In-Platform Reports](campaign-reports-about.md)
 >* [Create a Custom Column View](column-view-create.md)
 >* [Change the Column View](column-view-change.md)
->* [Manage Data Visualizations](/help/dsp/campaign-management/reports/campaign-data-visualization-manage.md)
+>* [Manage Data Visualizations](campaign-data-visualization-manage.md)
