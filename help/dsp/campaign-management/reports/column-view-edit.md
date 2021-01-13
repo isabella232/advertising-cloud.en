@@ -24,7 +24,7 @@ description: Edit a Custom Column View
 
 >[!MORELIKETHIS]
 >
->* [About In-Platform Reports](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+>* [About In-Platform Reports](campaign-reports-about.md)
 >* [About the Campaign Data Views](campaign-data-views-about.md)
 >* [Change the Column View](column-view-change.md)
 >* [Create a Custom Column View](column-view-create.md)
