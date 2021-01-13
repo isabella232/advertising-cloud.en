@@ -75,3 +75,4 @@ description: Attach an Ad to a Placement
 >* [Create an Ad](ad-create.md)
 >* [Edit an Ad](ad-edit.md)
 >* [Edit the Ad Schedule for a Placement](placement-edit-ad-schedule.md)
+>* [List the Placements Associated with an Ad](/help/dsp/campaign-management/ads/ad-list-placements.md)
