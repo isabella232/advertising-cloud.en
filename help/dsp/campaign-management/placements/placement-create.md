@@ -115,5 +115,8 @@ description: Create a Placement
 >[!MORELIKETHIS]
 >
 >* [About Placement Management](/help/dsp/campaign-management/placements/placement-about.md)
+>* [Edit a Placement](placement-edit.md)
+>* [Edit the Ad Schedule for a Placement](placement-edit-ad-schedule.md)
+>* [Pause or Activate a Placement](placement-pause-activate.md)
 >* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
 >*[Troubleshooting Performance](/help/dsp/optimization/troubleshooting-performance.md)
