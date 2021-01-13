@@ -5,7 +5,9 @@ description: Archive or Unarchive a Placement
 
 # Archive or Unarchive a Placement
 
-Hide a placement that isn't being used by archiving it. Archived placements aren't shown by default but are still available for reporting.
+<!-- Some placements don't have this option. Clarify which placement types aren't eligible -- is it PG and simple ad serving placements, or all placements using private inventory? And anything else?  -->
+
+Hide a placement that isn't being used by archiving it. The only action you can take on an archived placement is to unarchive it. Archived placements aren't shown by default but are still available for reporting.
 
 You can un-archive a placement to restore its previous status at any time.
 
