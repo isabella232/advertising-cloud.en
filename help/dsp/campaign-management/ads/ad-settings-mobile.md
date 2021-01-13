@@ -195,6 +195,7 @@ Deprecated
 >
 >* [About Ad Management](ad-about.md)
 >* [Create an Ad](ad-create.md)
+>* [List the Placements Associated with an Ad](/help/dsp/campaign-management/ads/ad-list-placements.md)
 >* [Available Ad Types](ad-types.md)
 >* [Ad Specifications](/help/dsp/assets/ad-specs.pdf)
 >* [Best Practices for Designing Overlays](/help/dsp/campaign-management/ads/ad-best-practices-overlays.md)
