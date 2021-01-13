@@ -37,4 +37,5 @@ In all campaign management views (Campaigns, Packages, Placements, and Ads), you
 >* [Edit a Custom Column View](column-view-edit.md)
 >* [Manage Data Visualizations](campaign-data-visualization-manage.md)
 >* [View the Sites, Ads, and Frequency Details for a Placement](placement-details-view.md)
->* [View the Placement Diagnostic Reports](/help/dsp/campaign-management/reports/placement-diagnostics.md)
+>* [View the Placement Diagnostic Reports](placement-diagnostics.md)
+>* [Export Data from a Campaign Management View](campaign-export-data.md)
