@@ -5,7 +5,14 @@ description: Duplicate Placements
 
 # Duplicate Placements
 
-Duplicate one or more placements to create placements with similar settings. You can optionally duplicate the original ads for new placements within the original campaign.
+<!-- Some placements don't have this option. Clarify which placement types aren't eligible -- is it PG and simple ad serving placements, or all placements using private inventory? And anything else? -->
+
+Duplicate one or more placements to create placements with similar settings. You can:
+
+* Make multiple duplicates of placements
+* Duplicate placements within the original advertisers and campaigns or within different ones
+* (For duplicated placements within the original campaigns) Optionally duplicate the original ads
+* Modify the status and flight dates of the new placements
 
 All settings from the original placements are duplicated except:
 
@@ -15,9 +22,9 @@ All settings from the original placements are duplicated except:
 * Programmatic guaranteed (PG) default placements and Simple Ad Serving placements
 * (Placements copied to a different campaign):
     * Geo targets
-    * Pixels<!-- verify if event pixels or segment pixels -->
+    * Event pixels
     * Ads
-    * Placement-level<!-- This said "custom," so verify if that means placement-level as opposed to advertiser-level segments --> DoubleVerify Authentic Brand Safety segments
+    * <!-- Placement-level? This said "custom," so verify if that means placement-level as opposed to advertiser-level segments -->DoubleVerify Authentic Brand Safety segments
 
 1. In the main menu, click **Campaigns**.
 1. Click the name of the campaign.
@@ -31,7 +38,7 @@ All settings from the original placements are duplicated except:
     
     The settings apply to all selected placements.
 
-    By default, the new placements are assigned to the original advertisers and campaigns, have flight schedules that begin on the current day, are paused, and don't include the original ads.
+    By default, the new placements are for the original ad type, are assigned to the original advertisers and campaigns, have flight schedules that begin on the current day, are paused, and don't include the original ads.
 
 1. Click **Save**.
 
