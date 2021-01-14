@@ -23,3 +23,4 @@ You can change the metrics and chart mode for all data visualizations for a sing
 >* [About In-Platform Reports](campaign-reports-about.md)
 >* [View the Sites, Ads, and Frequency Details for a Placement](placement-details-view.md)
 >* [Change the Column View](column-view-change.md)
+>* [Filter Campaign Data](campaign-data-filter.md)

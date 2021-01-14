@@ -16,13 +16,13 @@ The Campaigns view opens to a list of all campaigns within your account. The Sub
 
 By default, each campaign row includes pacing and delivery metrics. Pacing metrics include Gross Spend (Lifetime), which includes a gauge of the actual on-target spend versus the expected on-target spend across all packages in the campaign, so you can identify under-performing campaigns at a glance. You can optionally [change the column view](column-view-change.md) or even [create a custom column view](column-view-create.md).
 
-You can further [customize the data tables](campaign-data-views-about.md) in additional ways.
+You can further [customize the data tables](campaign-data-views-about.md) in additional ways and [filter the visible data](campaign-data-filter.md).
 
 To view a campaign in more detail, click the campaign name.
 
 ## Single Campaign Reporting
 
-Within a campaign, you can filter data based on the campaign entity: Packages, Placements, and Ads.
+Within a campaign, you can filter data based on the campaign entity: Packages, Placements, and Ads. You can further [filter the visible data](campaign-data-filter.md) to include only the packages, placements, or ads that you want to see.
 
 ![Campaign entity tabs](/help/dsp/assets/campaign-subtabs.png)
 

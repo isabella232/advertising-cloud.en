@@ -21,7 +21,7 @@ In all campaign management views (Campaigns, Packages, Placements, and Ads), you
 
    DSP saves your most recent view as the default view so that, every time you return to the page, you will always view the metrics that are pertinent to you.
 
-* Apply filters to change the data that is displayed on the current tab. Available filters vary by entity type but may include entity name, status, and additional property columns.
+* Apply [filters](campaign-data-filter.md) to change the data that is displayed on the current tab. Available filters vary by entity type but may include entity name, status, and additional property columns.
 
 * Change the date range used in all standard and custom views.
 

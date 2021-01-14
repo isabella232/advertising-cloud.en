@@ -23,4 +23,5 @@ You can export a snapshot of the current, filtered campaign management view to a
 >
 >* [About In-Platform Reports](campaign-reports-about.md)
 >* [Change the Column View](column-view-change.md)
+>* [Filter Campaign Data](campaign-data-filter.md)
 >* [Sort a Data Column](campaign-data-sort.md)

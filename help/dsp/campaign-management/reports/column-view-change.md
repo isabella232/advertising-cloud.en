@@ -13,4 +13,5 @@ description: Change the Column View
 >* [About the Campaign Data Views](campaign-data-views-about.md)
 >* [Create a Custom Column View](column-view-create.md)
 >* [Edit a Custom Column View](column-view-edit.md)
+>* [Filter Campaign Data](campaign-data-filter.md)
 >* [Sort a Data Column](campaign-data-sort.md)

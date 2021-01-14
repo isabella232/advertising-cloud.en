@@ -14,4 +14,5 @@ You can sort any data column in ascending order (A to Z, or 1 to 10) or descendi
 >* [About In-Platform Reports](campaign-reports-about.md)
 >* [Create a Custom Column View](column-view-create.md)
 >* [Change the Column View](column-view-change.md)
+>* [Filter Campaign Data](campaign-data-filter.md)
 >* [Manage Data Visualizations](campaign-data-visualization-manage.md)
