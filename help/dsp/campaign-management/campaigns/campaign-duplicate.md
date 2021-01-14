@@ -1,6 +1,6 @@
 ---
-title: Duplicate Placements
-description: Duplicate Placements
+title: Duplicate a Campaign
+description: Duplicate a Campaign
 ---
 
 # Duplicate a Campaign
