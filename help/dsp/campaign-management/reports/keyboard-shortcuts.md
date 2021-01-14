@@ -17,10 +17,11 @@ Within placement settings, use keyboard shortcuts to quickly navigate<!-- and to
 | Placement settings | b | Moves you to the Brand Safety settings |
 | Placement settings | t | Moves you to the Tracking settings |
 | Placement settings | l | Moves you to the Adobe Labs settings |
-<!-- | Legacy placement settings | npv | Lets you create a new video placement |
-| Legacy placement settings | npd | Lets you create a new display placement |
-| Legacy placement settings | nav | Lets you create a new video ad |
-| Legacy placement settings | nad | Lets you create a new display ad| -->
+
+<!-- | Legacy placement settings | npv | Lets you create a new video placement | -->
+<!-- | Legacy placement settings | npd | Lets you create a new display placement | -->
+<!-- | Legacy placement settings | nav | Lets you create a new video ad | -->
+<!-- | Legacy placement settings | nad | Lets you create a new display ad| -->
 
 >[!MORELIKETHIS]
 >
