@@ -34,13 +34,18 @@ All settings from the original placements are duplicated except:
     * To duplicate multiple placements:
         1. Select the check box next to each placement to duplicate.
         1. In the bulk actions toolbar, click **Duplicate**.
-1. (Optional) Change the default settings.
+1. Specify the new placement settings:
+    1. (Single placements) Enter the new placement name.
+    1. In the **Choose Package (Required)** menu, select either the parent package or **No package*.
+    1. (Optional) Change the default settings.
     
     The settings apply to all selected placements.
 
     By default, the new placements are for the original ad type, are assigned to the original advertisers and campaigns, have flight schedules that begin on the current day, are paused, and don't include the original ads.
 
-1. Click **Save**.
+    When you create multiple placements, the new placement names are appended with a number, in sequence, using the convention <*original_placement_name #N*>, such as "My Placement #2."
+
+1. Click **Submit**.
 
 >[!MORELIKETHIS]
 >

@@ -37,7 +37,7 @@ All settings from the original placements are duplicated except:
          * The new package becomes active on the current day.<!-- and the flight continues for NN  days. -->
          * Placements within the original package are copied to the new package.
          * The ads and the placement-level event pixels aren't copied to the new package.
-1. Click **Save**.
+1. Click **Submit**.
 
 >[!MORELIKETHIS]
 >
