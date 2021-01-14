@@ -26,4 +26,5 @@ description: Edit a Placement
 >* [Duplicate a Placement](placement-duplicate.md)
 >* [Edit the Ad Schedule for a Placement](placement-edit-ad-schedule.md)
 >* [Pause or Activate a Placement](placement-pause-activate.md)
+>* [Keyboard Shortcuts](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
 >* [Placement Settings](placement-settings.md)
