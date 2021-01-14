@@ -92,7 +92,7 @@ index: yes
       + [Sort a Column](/help/dsp/campaign-management/reports/campaign-data-sort.md)
     + [Manage Data Visualizations](/help/dsp/campaign-management/reports/campaign-data-visualization-manage.md)
   + [Understanding Advertising Cloud DSP Macros](/help/dsp/campaign-management/macros.md)
-  + [Keyboard Shortcuts](/help/dsp/campaign-management/reports/keyboard-shorcuts.md)
+  + [Keyboard Shortcuts](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
   + [FAQs About Campaign Management](/help/dsp/campaign-management/campaign-management-faq.md)
 + Optimization {#optimization}
   + [How DSP Optimizes Your Campaigns](/help/dsp/optimization/optimization-how-dsp-optimizes-campaigns.md)
