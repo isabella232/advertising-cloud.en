@@ -37,7 +37,7 @@ All settings from the original placements are duplicated except:
 
 >[!MORELIKETHIS]
 >
->* [About Placement Management](placement-about.md)
->* [Create a Placement](placement-create.md)
->* [Edit a Placement](placement-edit.md)
->* [Placement Settings](placement-settings.md)
+>* [About Campaign Management](campaign-about.md)
+>* [Create a Campaign](campaign-create.md)
+>* [Edit a Campaign](campaign-edit.md)
+>* [Campaign Settings](campaign-settings.md)

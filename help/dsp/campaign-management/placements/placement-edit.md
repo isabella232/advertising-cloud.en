@@ -21,7 +21,7 @@ description: Edit a Placement
 >[!MORELIKETHIS]
 >
 >* [About Placement Management](placement-about.md)
->* [Quickly Edit Key Placement Settings](/help/dsp/campaign-management/placements/placement-quick-edit.md)
+>* [Quickly Edit Key Placement Settings](placement-quick-edit.md)
 >* [Create a Placement](placement-create.md)
 >* [Duplicate a Placement](placement-duplicate.md)
 >* [Edit the Ad Schedule for a Placement](placement-edit-ad-schedule.md)
