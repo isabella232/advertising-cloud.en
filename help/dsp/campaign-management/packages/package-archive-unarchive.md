@@ -7,7 +7,7 @@ description: Archive or Unarchive a Package
 
 Hide a package that isn't being used by archiving it. The only action you can take on an archived package is to unarchive it. Archived packages aren't shown by default but are still available for reporting.
 
-You can un-archive a package to restore its previous status at any time.
+You can unarchive a package to restore its previous status at any time.
 
 ## Archive a Package
 
