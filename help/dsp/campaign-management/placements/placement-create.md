@@ -70,7 +70,7 @@ description: Create a Placement
 
          1. Click **Create a New Ad.**
 
-         1. Specify the ad settings for [audio ads](/help/dsp/campaign-management/ads/ad-settings-audio.md), [connected TV](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md), [display ads](/help/dsp/campaign-management/ads/ad-settings-display.md),[mobile ads](/help/dsp/campaign-management/ads/ad-settings-mobile.md), [native ads](/help/dsp/campaign-management/ads/ad-settings-native.md), [pre-roll ads](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md), or new survey ads.
+         1. Specify the ad settings for [audio ads](/help/dsp/campaign-management/ads/ad-settings-audio.md), [connected TV](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md), [display ads](/help/dsp/campaign-management/ads/ad-settings-display.md),[mobile ads](/help/dsp/campaign-management/ads/ad-settings-mobile.md), [native ads](/help/dsp/campaign-management/ads/ad-settings-native.md), or [pre-roll ads](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md).
         
          1. Click "Save & Submit for Review."
 
