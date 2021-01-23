@@ -37,7 +37,7 @@ To create multiple third-party ads at a time, see [Create Multiple Third-party A
 
 1. When the ad is complete, click **Save & Submit for Review**.
 
-   The [ad review](ad-about.md) takes 24-48 hours and includes checks for sensitive categories, click URL functionality, and preview rendering. The Status column indicates whether the ad has been approved. Broken ads may have a pending status for longer than 24-48 hours so you have time to fix errors before they're rejected.
+   The [ad review](ad-about.md) takes 24-48 hours and includes checks for sensitive categories, click URL functionality, and preview rendering. The Status column indicates whether DSP has approved the ad. Broken ads may have a pending status for longer than 24-48 hours so you have time to fix errors before they're rejected.
 
    >[!NOTE]
    >

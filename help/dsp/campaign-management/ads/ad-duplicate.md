@@ -16,7 +16,7 @@ You can duplicate an ad within the same campaign.
     1. (Optional) Change the ad settings for [audio ads](ad-settings-audio.md), [connected TV](ad-settings-connected-tv.md), [display ads](ad-settings-display.md),[mobile ads](ad-settings-mobile.md), [native ads](ad-settings-native.md), [pre-roll ads](ad-settings-pre-roll.md), or survey ads.
 1. Click **Save & Submit for Review**.
 
-   The [ad review](ad-about.md) for the new ad takes 24-48 hours and includes checks for sensitive categories, click URL functionality, and preview rendering. The Status column indicates whether the ad has been approved. Broken ads may have a pending status for longer than 24-48 hours so you have time to fix errors before they're rejected.
+   The [ad review](ad-about.md) for the new ad takes 24-48 hours and includes checks for sensitive categories, click URL functionality, and preview rendering. The Status column indicates whether DSP has approved the ad. Broken ads may have a pending status for longer than 24-48 hours so you have time to fix errors before they're rejected.
 
    >[!NOTE]
    >
