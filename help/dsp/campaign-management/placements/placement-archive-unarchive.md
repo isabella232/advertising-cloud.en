@@ -9,7 +9,7 @@ description: Archive or Unarchive a Placement
 
 Hide a placement that isn't being used by archiving it. The only action you can take on an archived placement is to unarchive it. Archived placements aren't shown by default but are still available for reporting.
 
-You can un-archive a placement to restore its previous status at any time.
+You can unarchive a placement to restore its previous status at any time.
 
 ## Archive a Placement
 
