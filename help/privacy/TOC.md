@@ -2,7 +2,7 @@
 user-guide-title: Adobe Advertising Cloud Support for Consumer Privacy
 user-guide-description: This document includes all types of security and privacy controls that Advertising Cloud provides to help advertiser customers comply with consumer privacy laws.
 breadcrumb-title: Support for Consumer Privacy
-index: no
+index: yes
 ---
 
 # Advertising Cloud Support for Consumer Privacy {#privacy}
