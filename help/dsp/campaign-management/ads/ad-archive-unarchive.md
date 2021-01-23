@@ -5,11 +5,11 @@ description: Archive or Unarchive an Ad
 
 # Archive or Unarchive an Ad
 
-## Archive an Ad
-
 Hide an ad that isn't being used by archiving it. Archived ads aren't shown by default but are still available for reporting.
 
-You can un-archive an ad to restore its previous status at any time.
+You can unarchive an ad to restore its previous status at any time.
+
+## Archive an Ad
 
 1. In the main menu, click **Campaigns**.
 1. Click the name of the campaign.

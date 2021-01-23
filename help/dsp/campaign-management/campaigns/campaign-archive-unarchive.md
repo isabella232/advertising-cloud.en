@@ -5,11 +5,11 @@ description: Archive or Unarchive a Campaign
 
 # Archive or Unarchive a Campaign
 
-## Archive a Campaign
-
 Hide a campaign that isn't being used by archiving it. The only action you can take on an archived campaign is to unarchive it. Archived campaigns aren't shown by default but are still available for reporting.
 
-You can un-archive a campaign to restore its previous status at any time.
+You can unarchive a campaign to restore its previous status at any time.
+
+## Archive a Campaign
 
 1. In the main menu, click **Campaigns**.
 1. Next to the campaign name, click  **... > Archive**.
