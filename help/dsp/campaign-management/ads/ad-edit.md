@@ -12,6 +12,12 @@ description: Edit an Ad
 1. Edit the ad settings for [audio ads](ad-settings-audio.md), [connected TV](ad-settings-connected-tv.md), [display ads](ad-settings-display.md),[mobile ads](ad-settings-mobile.md), [native ads](ad-settings-native.md), [pre-roll ads](ad-settings-pre-roll.md), or survey ads.
 1. Click **Save and Close**.
 
+   The edited ad goes through a new [ad review](ad-about.md), which takes 24-48 hours and includes checks for sensitive categories, click URL functionality, and preview rendering. The Status column indicates whether DSP has approved the ad. Broken ads may have a pending status for longer than 24-48 hours so you have time to fix errors before they're rejected.
+
+   >[!NOTE]
+   >
+   >Your ad will only be served if both DSP and the SSP have approved the creative. Each SSP has its own approval requirements and process.
+
 >[!MORELIKETHIS]
 >
 >* [About Ad Management](ad-about.md)
