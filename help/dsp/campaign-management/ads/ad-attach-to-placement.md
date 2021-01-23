@@ -38,7 +38,7 @@ description: Attach an Ad to a Placement
 1. In the Add Ad to Placement screen, do either of the following:
     * To create a new ad:
         1. Click **Create a New Ad**.
-        1. Enter the ad settings for [audio ads](ad-settings-audio.md), [connected TV](ad-settings-connected-tv.md), [display ads](ad-settings-display.md),[mobile ads](ad-settings-mobile.md), [native ads](ad-settings-native.md), [pre-roll ads](ad-settings-pre-roll.md), or survey ads
+        1. Enter the ad settings for [audio ads](ad-settings-audio.md), [connected TV](ad-settings-connected-tv.md), [display ads](ad-settings-display.md),[mobile ads](ad-settings-mobile.md), [native ads](ad-settings-native.md), or [pre-roll ads](ad-settings-pre-roll.md).
         1. Click **Save & Submit for Review**.
         
              The [ad review](ad-about.md) for the new ad takes 24-48 hours and includes checks for sensitive categories, click URL functionality, and preview rendering. The Status column indicates whether DSP has approved the ad. Broken ads may have a pending status for longer than 24-48 hours so you have time to fix errors before they're rejected.
@@ -54,7 +54,7 @@ description: Attach an Ad to a Placement
                 1. Next to the ad name, click **Select.**
                 1. (Optional) For each additional ad you want to attach, click **Add Another Ad**. Next to the ad name, click **Select.**
             * To add up to 20 ads at a time:
-                1. Select the check box next to **Bulk Select."
+                1. Select the check box next to **Bulk Select**."
                 1. Select the check box next to each ad to add.
                 1. Click **Attach**.
         1. (Optional) To override the default flight period and ad rotation for specific ads in the placement:
