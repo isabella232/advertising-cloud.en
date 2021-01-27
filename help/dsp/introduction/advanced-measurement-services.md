@@ -17,15 +17,12 @@ The following measurement solution packages are available to validate the succes
 
 * Household- and People-Based Reach and Frequency
 * Web Conversions
-* Segment Planning
 * Experiments
-* Panel and Recruitment-Based Surveys
-* TV Tune-In
-* TV Insights
 * Offline Sales Optimization
 * Foot Traffic Measurement
 * Transaction Measurement and Insights
-* Segment Creation
+* In-Segment Reach
+* Panel-Based Surveys
 * Exposure File Passing
 
 To learn more about leveraging advanced measurement services to create a custom learning agenda for your campaign, contact your Adobe Client Services team.
