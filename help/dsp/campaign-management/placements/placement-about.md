@@ -16,7 +16,6 @@ You can create a placement manually or by duplicating an existing one. You can a
 * Pre-Roll
 * Mobile
 * Display
-* Surveys
 * Native
 * Audio
 * Connected TV

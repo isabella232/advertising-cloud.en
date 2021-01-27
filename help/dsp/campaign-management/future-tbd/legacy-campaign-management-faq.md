@@ -39,17 +39,3 @@ Some clients send all of their creative to one vendor who creates tags, or bits 
 
 1. The vendor takes care of sending the creative to all of the other vendors on the buy: platforms and exchanges like Advertising Cloud DSP, ad networks and individual publishers.
 1. The client can look in just one dashboard to see results for all of the platforms, exchanges, networks and publishers, knowing that the tracking has been implemented the same way across the board.
-
-## Surveys
-
-**How many questions should I run in a survey?**
-An important consideration for your planning and budgeting should be the attrition rate between questions:
-
-* The median drop off rate for campaigns is 26% from Question 1 to Question 2, meaning that a typical campaign would get 100 responses for the first question and 74 for the second question.
-* The drop off rate between Question 2 and Question 3 is 17%. In a typical campaign, if you had 100 responses to the first question, you would be down to 61 responses for the third question.
-
-**What is a good sample size to gather for my survey?**
-
-We recommend having at least 200 responses in each of your survey groups to get results with potential to reveal statistically significant differences between your respondent groups. If you’re running an ad effectiveness study with control and exposed groups, that means 200 control responses and 200 exposed responses.
-
-Generally, we find that having fewer than 100 responses in your group is not enough to really say much about the data. If you increase your sample size to over 200 responses, you will see your margins of error get smaller, which could help you closer to statistically significant results. 

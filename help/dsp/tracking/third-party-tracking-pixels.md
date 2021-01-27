@@ -24,10 +24,6 @@ Add any companion banner 3rd party clickthrough pixels in this section. If you w
 
     * For In-Stream units, fire the pixel on the impression or quartile completion.
     * For In-Display units, fire the pixel on the impression, view, quartile completions and clicks.
-    * Our BrandSights surveys can fire the following 3rd party pixels:
-
-        * Survey Start: The first question has been answered. (Only fired if there is more than one question.)
-        * Survey Complete: The last (or only) question has been answered.
 
 * Pixel URL: drop the 1x1 3rd party pixel here
 * Pixel Name: name the pixel. Recommended to be specific to avoid confusion

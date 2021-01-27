@@ -50,8 +50,6 @@ Percentage of total viewers that completed the video. Completion rate = (complet
 * 50% completion rate: Percentage of viewers that completed 50% the video
 * 75% completion rate: Percentage of viewers that completed 75% the video
 * 100% completion rate: Percentage of viewers that completed 100% the video
-* Control/Exposed Survey Methodology
-* The goal behind this methodology is to determine if exposure (seeing an ad) changes consumer attitude, perception and intentions towards a brand in a material way. We also call this “brand lift”. The methodology itself is relatively straightforward. You ask a group of people exposed to the ad a question about the brand and then comparing their response to a control group of people who have similar interests/demographic characteristics, but did not see the ad. The hope is that the people exposed to the ad have a better perception of the brand, remember their slogan/message better, etc.
 
 *Conversion Pixel*
 Conversion pixels measure actions beyond click-through on an ad unit, such as completely loading the landing page, sign-ups, purchases or visiting a secondary landing page.

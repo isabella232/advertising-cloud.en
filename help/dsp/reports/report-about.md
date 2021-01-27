@@ -14,7 +14,7 @@ You can generate reports once, or schedule them to be generated daily, weekly, o
 
 >[!NOTE]
 >
->You can also view on-demand data at all levels of a campaign (campaign, package, placement, ad, or survey) [within the relevant campaign management view](/help/dsp/campaign-management/reports/campaign-reports-about.md).
+>You can also view on-demand data at all levels of a campaign (campaign, package, placement, or ad) [within the relevant campaign management view](/help/dsp/campaign-management/reports/campaign-reports-about.md).
 
 ## Available Report Types
 

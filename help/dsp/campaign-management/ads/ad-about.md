@@ -21,7 +21,6 @@ Once your ads are set up, you'll need to attach each ad to a placement, which in
 * Mobile
 * Native
 * Pre-Roll
-* Survey
 
 For more information about these ad types, see [Available Ad Types](ad-types.md) and the complete [Ad Specifications](/help/dsp/assets/ad-specs.pdf).
 
