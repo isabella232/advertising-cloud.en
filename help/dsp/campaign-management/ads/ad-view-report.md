@@ -15,6 +15,8 @@ The legacy ad-level report includes Overview, Geography, and Viewability data.
 >[!MORELIKETHIS]
 >
 >* [View a Detailed Report for a Placement](/help/dsp/campaign-management/placements/placement-view-report.md)
-<!-- >* [View a Detailed Report for a Campaign](/help/dsp/campaign-management/campaigns/campaign-view-report.md) -->
+<!-- 
+>* [View a Detailed Report for a Campaign](/help/dsp/campaign-management/campaigns/campaign-view-report.md)
+ -->
 >* [About In-Platform Reports](/help/dsp/campaign-management/reports/campaign-reports-about.md)
 >* [About Custom Reports](/help/dsp/reports/report-about.md)

@@ -98,5 +98,7 @@ For each flight, enter the start date, end date, and the target number of impres
 >
 >* [About Package Management](package-about.md)
 >* [Create a Package](package-create.md)
-<!-- >* [Edit a Package](/help/dsp/campaign-management/packages/package-edit.md) -->
+<!-- 
+>* [Edit a Package](/help/dsp/campaign-management/packages/package-edit.md)
+ -->
 >* [FAQs About Campaign Management](/help/dsp/campaign-management/campaign-management-faq.md)
