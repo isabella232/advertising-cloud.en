@@ -147,4 +147,4 @@ To estimate taxes to withhold:
 >
 >* [About Campaign Management](campaign-about.md)
 >* [Create a Campaign](campaign-create.md)
-<!-- >* [Edit a Campaign](campaign-edit.md) -->
+>* [Edit a Campaign](campaign-edit.md)

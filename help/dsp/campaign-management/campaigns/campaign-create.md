@@ -17,8 +17,6 @@ description: Create a Campaign
 >[!MORELIKETHIS]
 >
 >* [About Campaign Management](campaign-about.md)
->* [Campaign Settings](campaign-settings.md)
-
-<!-- >* [Duplicate a Campaign](campaign-duplicate.md)
+>* [Duplicate a Campaign](campaign-duplicate.md)
 >* [Edit a Campaign](campaign-edit.md)
- -->
+>* [Campaign Settings](campaign-settings.md)
