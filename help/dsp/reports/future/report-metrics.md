@@ -5,10 +5,8 @@ description: Available Report Metrics
 
 # Available Report Metrics
 
-
-
-
 | Metric Type | Name | Final |
+| ----------- | ---- | ----- |
 | Dimension | Ad ID | The unique identifier for the ad in the Adobe Advertising Cloud system |
 | Dimension | Ad Name | The name of the ad as assigned by the user |
 | Dimension | Ad Type | The format of the ad |
