@@ -21,5 +21,5 @@ Once you create a package, you can assign placements to it.
 >
 >* [About Package Management](package-about.md)
 >* [Package Settings](package-settings.md)
->* [Edit a Package](package-edit.md)
->* [Attach a Placement to a Package](package-attach-placement.md)
+<!-- >* [Edit a Package](package-edit.md)
+>* [Attach a Placement to a Package](package-attach-placement.md) -->

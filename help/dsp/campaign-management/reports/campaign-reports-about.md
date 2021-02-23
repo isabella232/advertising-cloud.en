@@ -62,7 +62,7 @@ You can export the data on the Sites, Ads, or Frequency tab to your browser's de
 
 ### Other Types of Campaign-level Reporting
 
-For other data breakouts, [view the legacy campaign-level reporting pages](/help/dsp/campaign-management/campaigns/campaign-view-report.md) from Campaigns Classic. The legacy report includes sections on Geography, Device, Viewability, and Audience Performance data.
+For other data breakouts, view the legacy campaign-level reporting pages<!--  [](/help/dsp/campaign-management/campaigns/campaign-view-report.md) --> from Campaigns Classic. The legacy report includes sections on Geography, Device, Viewability, and Audience Performance data.
 
 >[!MORELIKETHIS]
 >
@@ -72,4 +72,4 @@ For other data breakouts, [view the legacy campaign-level reporting pages](/help
 >* [Change the Column View](column-view-change.md)
 >* [Manage Data Visualizations](campaign-data-visualization-manage.md)
 >* [Export Data from a Campaign Management View](campaign-export-data.md)
->* [View a Detailed Report for a Campaign](/help/dsp/campaign-management/campaigns/campaign-view-report.md)
+<!-- >* [View a Detailed Report for a Campaign](/help/dsp/campaign-management/campaigns/campaign-view-report.md) -->
