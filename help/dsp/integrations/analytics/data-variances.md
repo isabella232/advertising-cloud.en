@@ -133,7 +133,7 @@ Note the following two limitations with data in Paid Search Detection reports:
 
 The Paid Search Detection reports allow you to identify natural search traffic in the Analytics [Marketing Channels](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/marketing-channels-admin.html) reports. Separating paid search traffic versus natural search traffic is a great way to understand the value that natural search brings to the full marketing ecosystem.
 
-## Click-Through Data Validation for Analytics for Advertising Cloud{#data-validation}
+## Click-Through Data Validation for Analytics for Advertising Cloud {#data-validation}
 
 For your integration, you should validate your click-through data to make sure that all pages on your site are properly tracking click-throughs.
 
@@ -192,6 +192,7 @@ Consider the following example: User 1 and User 2 both access a site by clicking
 ![Example of the difference between clicks and visits](/help/dsp/assets/a4adc-visits-example.png)
 
 ### The Difference Between Clicks and Click-Throughs
+
 <!-- Rob to let me know if we should remove this and add more info. to the section on AMO Instances etc. -->
 
 Clicks and click-throughs are two different metrics:
@@ -220,7 +221,7 @@ However, if you view the AMO Clicks and AMO Cost metrics by an on-page dimension
 
 ### Using AMO ID Instances as a Substitute for Clicks with Non-Advertising Cloud Dimensions
 
-Since you can't use AMO Clicks with on-site dimensions, you may want to find an equivalent to clicks. You may be tempted to use Visits as a substitute, but they aren't the best option because each visitor may have multiple visits. (See "[The Difference Between Clicks and Visits]( {#clicks-vs-visits}.") Instead, we recommend using AMO ID Instances, which is the number of times the AMO ID is captured. While AMO ID Instances won't match AMO Clicks exactly, they are the best option for measuring click traffic on the site. For more information, see "[Data Validation for Analytics for Advertising Cloud](#data-validation)."
+Since you can't use AMO Clicks with on-site dimensions, you may want to find an equivalent to clicks. You may be tempted to use Visits as a substitute, but they aren't the best option because each visitor may have multiple visits. (See "[The Difference Between Clicks and Visits](#clicks-vs-visits)." Instead, we recommend using AMO ID Instances, which is the number of times the AMO ID is captured. While AMO ID Instances won't match AMO Clicks exactly, they are the best option for measuring click traffic on the site. For more information, see "[Data Validation for Analytics for Advertising Cloud](#data-validation)."
 
 ![Example of AMO ID Instances instead of AMO Clicks for an unsupported dimension](/help/dsp/assets/a4adc-amo-id-instances.png)
 

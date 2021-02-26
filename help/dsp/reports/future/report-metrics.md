@@ -79,11 +79,10 @@ description: Available Report Metrics
 | Metric | Profit | The value derived between Net Spend and Gross Spend |
 | Metric | Revenue (Should be Gross Spend?) | "Sum of Gross spend (Media), Gross spend (Data) & Gross spend (Other)" |
 | Metric | Total Ad Clicks | The sum of all clicks on an ad |
-| Metric | Total Billable Net Spend | Sum of Billable spend (Media), Billable spend (Data) and Billable spend (Other)
-  |
-| Metric | Total Data eCPM | "The average net data cost per thousand impresssions, calculated by Net spend (Data) / Impressions x 1000" |
+| Metric | Total Billable Net Spend | Sum of Billable spend (Media), Billable spend (Data) and Billable spend (Other) |
+| Metric | Total Data eCPM | "The average net data cost per thousand impressions, calculated by Net spend (Data) / Impressions x 1000" |
 | Metric | Total Data Net Spend | Total net cost of audience segment data fees |
-| Metric | Total Media CPM | "The average net media cost per thousand impresssions, calculated by Net spend (Media) / Impressions x 1000" |
+| Metric | Total Media CPM | "The average net media cost per thousand impressions, calculated by Net spend (Media) / Impressions x 1000" |
 | Metric | Total Media Net Spend | "Total net cost of media, including the tech fees" |
 | Metric | Total Net Spend | "Sum of Net spend (Media), Net spend (Data) & Net spend (Other)" |
 | Metric | Total Non-Billable Net Spend | "Sum of Non-billable spend (Media), Non-billable spend (Data) and Non-billable spend (Other)" |

@@ -30,7 +30,7 @@ You can find both of these IDs on the [Summary screen of the Adobe Experience Cl
 
 ![Experience Cloud Debugger Summary screen](/help/dsp/assets/a4adc-debugger-summary.png)
 
-## Analytics Data in Advertising Cloud{lookback-a4adc}
+## Analytics Data in Advertising Cloud {#lookback-a4adc}
 
 Because Analytics data is sent to Advertising Cloud for reporting and optimization, the data is subject to the attribution rules, including the impression and click lookback windows, that are configured for the advertiser in Advertising Cloud.
 

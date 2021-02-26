@@ -32,11 +32,11 @@ The Analytics for Advertising Cloud JavaScript function must come after the Expe
 
 You can perform validation using any packet sniffer type of tool (such as Charles, Fiddler, or Chrome Developer Tools) by comparing the values of the four IDs between the request going to Advertising Cloud and the request going to Analytics, as outlined below.
 
-#### How to Confirm the Code with Chrome Developer Tools{validate-js-chrome}
+#### How to Confirm the Code with Chrome Developer Tools {#validate-js-chrome}
 
 1. Open Chrome Developer Tools and click the **Network** tab.
 1. Load a website page that contains the Analytics for Advertising Cloud JavaScript.
-1.	Filter the Network tab by “last” and review two rows:
+1. Filter the Network tab by “last” and review two rows:
 
      ![Filtering on last](/help/dsp/assets/a4adc-code-validation-filter-last.png)
 
@@ -47,7 +47,7 @@ You can perform validation using any packet sniffer type of tool (such as Charle
          
           1. On the Application tab, find the “adcloud” cookie, and verify that the cookie contains “_les_v” (last visit) with a value of “y” and a UTC epoch timestamp that expires in 30 minutes.
           1. Delete the “ad cloud” cookie and refresh the page.
-5.	Filter on “/b/ss” to see the Analytics hit.
+1. Filter on “/b/ss” to see the Analytics hit.
 
      ![Filtering on /b/ss](/help/dsp/assets/a4adc-code-validation-filter-bss.png)
 
