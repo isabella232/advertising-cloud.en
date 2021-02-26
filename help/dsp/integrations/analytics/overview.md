@@ -71,7 +71,7 @@ You can use your standard events and custom events from Analytics to build weigh
 
 Your Advertising Cloud team will help you to identify and map the events that are applicable to paid media performance into Advertising Cloud, where they will appear in [!UICONTROL Search] > [!UICONTROL Admin] > [!UICONTROL Transaction Properties].
 
-See "[Analytics Metrics in Advertising Cloud](analytics-metrics-in-advertising-cloud.md)" for a list of available metrics.
+See "[Analytics Metrics in Advertising Cloud](analytics-data-in-advertising-cloud.md)" for a list of available metrics.
 
 ### Analytics Segments for Site Retargeting
 
