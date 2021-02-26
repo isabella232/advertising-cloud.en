@@ -77,7 +77,7 @@ You can perform validation using any packet sniffer type of tool (such as Charle
      * Check to make sure the SDID parameter matches the Supplemental Data ID in the Adobe Analytics filter.
      * If the code isn't generating, then check to make sure the Advertising Cloud cookie has been removed in the Application tab. Once it's removed, refresh the page and repeat the process.
 
-     ![Auditing Analytics for Advertising Cloud JavaScript code in Experience Cloud Debugger](/help/dsp/assets/a4adc-js-audit-debugger)
+     ![Auditing Analytics for Advertising Cloud JavaScript code in Experience Cloud Debugger](/help/dsp/assets/a4adc-js-audit-debugger.png)
 
 >[!MORELIKETHIS]
 >
