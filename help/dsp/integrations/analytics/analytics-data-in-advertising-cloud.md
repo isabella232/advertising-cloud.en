@@ -39,7 +39,7 @@ Analytics passes conversion metrics to Advertising Cloud daily.
 * [Units](https://experienceleague.adobe.com/docs/analytics/components/metrics/units.html?lang=en)
 * [Carts](https://experienceleague.adobe.com/docs/analytics/components/metrics/carts.html?lang=en)
 * [Cart Views](https://experienceleague.adobe.com/docs/analytics/components/metrics/cart-views.html)
-*[Checkouts](https://experienceleague.adobe.com/docs/analytics/components/metrics/checkouts.html)
+* [Checkouts](https://experienceleague.adobe.com/docs/analytics/components/metrics/checkouts.html)
 * [Cart Additions](https://experienceleague.adobe.com/docs/analytics/components/metrics/cart-additions.html)
 * [Cart Removals](https://experienceleague.adobe.com/docs/analytics/components/metrics/cart-removals.html)
 
