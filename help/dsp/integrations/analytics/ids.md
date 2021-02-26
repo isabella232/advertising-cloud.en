@@ -16,8 +16,8 @@ When an ad impression occurs, Advertising Cloud creates the AMO ID and EF ID val
 Advertising Cloud distinguishes between a click-through or view-through entry to the website using the following criteria:
 
 * A view-through entry is captured when a user visits the site after viewing an ad but not clicking it. Analytics records a view-through if two conditions are met:
-    * The visitor has no click-throughs for a DSP or Search ad during the [click lookback window]((#lookback-a4adc)).
-    * The visitor has seen at least one DSP ad during the [impression lookback window]((#lookback-a4adc)). The last impression is passed as the view-through.
+    * The visitor has no click-throughs for a DSP or Search ad during the [click lookback window](#lookback-a4adc).
+    * The visitor has seen at least one DSP ad during the [impression lookback window](#lookback-a4adc). The last impression is passed as the view-through.
 * A click-through entry is captured when a site visitor clicks an ad before entering the site. Analytics captures a click-through when either of the following conditions occurs:
     * The URL includes an EF ID and AMO ID as added to the landing page URL by Advertising Cloud.
     * The URL contains no tracking codes, but the Advertising Cloud JavaScript code detects a click within the last two minutes.

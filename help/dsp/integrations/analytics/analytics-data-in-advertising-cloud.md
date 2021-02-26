@@ -1,3 +1,8 @@
+---
+title: Analytics Data in Advertising Cloud
+description: Analytics Data in Advertising Cloud
+---
+
 # Analytics Data in Advertising Cloud
 
 *Advertisers with an Advertising Cloud-Adobe Analytics Integration Only*

@@ -1,3 +1,8 @@
+---
+title: Advertising Cloud Metrics in Analysis Workspace
+description: Advertising Cloud Metrics in Analysis Workspace
+---
+
 # Advertising Cloud Metrics in Analysis Workspace
 
 *Advertisers with an Advertising Cloud-Adobe Analytics Integration Only*

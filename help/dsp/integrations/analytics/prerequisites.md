@@ -1,3 +1,8 @@
+---
+title: Prerequisites and Key Information for Implementing Analytics for Advertising Cloud
+description: Prerequisites and Key Information for Implementing Analytics for Advertising Cloud
+---
+
 # Prerequisites and Key Information for Implementing Analytics for Advertising Cloud
 
 *Advertisers with Advertising Cloud DSP and Advertising Cloud Search*

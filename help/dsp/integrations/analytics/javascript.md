@@ -1,3 +1,8 @@
+---
+title: JavaScript Code for Analytics for Advertising Cloud
+description: JavaScript Code for Analytics for Advertising Cloud
+---
+
 # JavaScript Code for Analytics for Advertising Cloud
 
 *Advertisers with an Advertising Cloud-Adobe Analytics Integration Only*
