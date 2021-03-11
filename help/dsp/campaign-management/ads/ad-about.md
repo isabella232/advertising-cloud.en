@@ -5,6 +5,8 @@ description: About Ad Management in Advertising Cloud DSP
 
 # About Ad Management in Advertising Cloud DSP
 
+<!-- add "The Ads View (Dashboard?)" section -->
+
 Advertising Cloud DSP offers two ways to serve your ads:
 
 * Advertising Cloud DSP will serve your ads for free when you upload your own assets (such as display banners, video assets, audio files, or URLs) directly to DSP. For DSP-served assets, you have access to additional features, such as overlays.
