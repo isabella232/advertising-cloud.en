@@ -20,7 +20,6 @@ Once you create a package, you can assign placements to it.
 >[!MORELIKETHIS]
 >
 >* [About Package Management](package-about.md)
+>* [Edit a Package](package-edit.md)
+>* [Attach a Placement to a Package](package-attach-placement.md)
 >* [Package Settings](package-settings.md)
-
-<!-- >* [Edit a Package](package-edit.md)
->* [Attach a Placement to a Package](package-attach-placement.md) -->
