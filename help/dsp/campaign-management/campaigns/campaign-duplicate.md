@@ -13,18 +13,6 @@ Duplicate a campaign to create a new campaign with similar settings. You can:
 * Optionally duplicate the original packages and placements
 * Modify the flight dates of the new campaign
 
-All settings from the original placements are duplicated except:
-
-* Experiment settings
-* (If you change the flight dates) Custom ad scheduling
-* (If you don't attach ads) Custom ad weighting and scheduling
-* Programmatic guaranteed (PG) default placements and Simple Ad Serving placements
-* (Placements copied to a different campaign):
-    * Geo targets
-    * Event pixels
-    * Ads
-    * <!-- Placement-level? This said "custom," so verify if that means placement-level as opposed to advertiser-level segments -->DoubleVerify Authentic Brand Safety segments
-
 1. In the main menu, click **Campaigns**.
 1. Next to the campaign name, click  **... > Duplicate**.
 1. Specify the new campaign settings:
@@ -34,6 +22,18 @@ All settings from the original placements are duplicated except:
          By default, the new campaign is assigned to the original advertiser, has a flight schedule that begins on the current day, and includes the original packages and placements.
 
 1. Click **Submit**.
+
+All settings from the original placements are duplicated except:
+
+* Experiment settings
+* (If you change the flight dates) Custom ad scheduling
+* (If you don't attach ads) Custom ad weighting and scheduling
+* Programmatic guaranteed (PG) default placements and Simple Ad Serving placements
+* (If you copy placements to a different campaign):
+    * Geo targets
+    * Event pixels
+    * Ads
+    * Placement-level DoubleVerify Authentic Brand Safety segments (which override the advertiser-level segments)
 
 >[!MORELIKETHIS]
 >

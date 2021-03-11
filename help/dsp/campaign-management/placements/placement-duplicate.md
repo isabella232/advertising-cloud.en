@@ -14,18 +14,6 @@ Duplicate one or more placements to create placements with similar settings. You
 * (For duplicated placements within the original campaigns) Optionally duplicate the original ads
 * Modify the status and flight dates of the new placements
 
-All settings from the original placements are duplicated except:
-
-* Experiment settings
-* (If you change the flight dates) Custom ad scheduling
-* (If you don't attach ads) Custom ad weighting and scheduling
-* Programmatic guaranteed (PG) default placements and Simple Ad Serving placements
-* (Placements copied to a different campaign):
-    * Geo targets
-    * Event pixels
-    * Ads
-    * <!-- Placement-level? This said "custom," so verify if that means placement-level as opposed to advertiser-level segments -->DoubleVerify Authentic Brand Safety segments
-
 1. In the main menu, click **Campaigns**.
 1. Click the name of the campaign.
 1. In the submenu, click **Placements**.
@@ -47,6 +35,18 @@ All settings from the original placements are duplicated except:
 
 1. Click **Submit**.
 
+All settings from the original placements are duplicated except:
+
+* Experiment settings
+* (If you change the flight dates) Custom ad scheduling
+* (If you don't attach ads) Custom ad weighting and scheduling
+* Programmatic guaranteed (PG) default placements and Simple Ad Serving placements
+* (If you copy placements to a different campaign):
+    * Geo targets
+    * Event pixels
+    * Ads
+    * Placement-level DoubleVerify Authentic Brand Safety segments (which override the advertiser-level segments)
+    
 >[!MORELIKETHIS]
 >
 >* [About Placement Management](placement-about.md)
