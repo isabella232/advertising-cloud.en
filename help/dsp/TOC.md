@@ -46,7 +46,7 @@ index: yes
   + Placements {#placements}
     + [About Placement Management](/help/dsp/campaign-management/placements/placement-about.md)
     + [Create a Placement](/help/dsp/campaign-management/placements/placement-create.md)
-    + [Edit a Placement](/help/dsp/campaign-management/placements/placement-edit.md)
+    + [Edit a Placement](/help/dsp/campaign-management/placements/placement-edit.md) 
     + [Quickly Edit Key Placement Settings](/help/dsp/campaign-management/placements/placement-quick-edit.md)
     + [Duplicate a Placement](/help/dsp/campaign-management/placements/placement-duplicate.md)
     + [Attach an Ad to a Placement](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)
