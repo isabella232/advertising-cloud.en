@@ -14,6 +14,8 @@ Duplicate one or more placements to create placements with similar settings. You
 * (For duplicated placements within the original campaigns) Optionally duplicate the original ads
 * Modify the status and flight dates of the new placements
 
+See "[What's Not Duplicated](#placement-not-duplicated)" for a list of placement settings that aren't duplicated.
+
 1. In the main menu, click **Campaigns**.
 1. Click the name of the campaign.
 1. In the submenu, click **Placements**.
@@ -34,6 +36,8 @@ Duplicate one or more placements to create placements with similar settings. You
     When you create multiple placements, the new placement names are appended with a number, in sequence, using the convention <*original_placement_name #N*>, such as "My Placement #2."
 
 1. Click **Submit**.
+
+## What's Not Duplicated {#placement-not-duplicated}
 
 All settings from the original placements are duplicated except:
 

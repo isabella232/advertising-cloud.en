@@ -13,6 +13,8 @@ Duplicate a campaign to create a new campaign with similar settings. You can:
 * Optionally duplicate the original packages and placements
 * Modify the flight dates of the new campaign
 
+See "[What's Not Duplicated](#campaign-not-duplicated)" for a list of placement settings that aren't duplicated.
+
 1. In the main menu, click **Campaigns**.
 1. Next to the campaign name, click  **... > Duplicate**.
 1. Specify the new campaign settings:
@@ -22,6 +24,8 @@ Duplicate a campaign to create a new campaign with similar settings. You can:
          By default, the new campaign is assigned to the original advertiser, has a flight schedule that begins on the current day, and includes the original packages and placements.
 
 1. Click **Submit**.
+
+## What's Not Duplicated {#campaign-not-duplicated}
 
 All settings from the original placements are duplicated except:
 

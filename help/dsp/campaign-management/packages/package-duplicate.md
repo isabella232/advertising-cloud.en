@@ -12,6 +12,8 @@ Duplicate a package to create a package with similar settings. You can:
 * (For duplicated packages within the original campaigns) Optionally duplicate the original ads and placement-level event pixels
 * Modify the flight dates of the new package
 
+See "[What's Not Duplicated](#package-not-duplicated)" for a list of placement settings that aren't duplicated.
+
 1. In the main menu, click **Campaigns**.
 1. Click the name of the campaign to open the Packages view.
 1. Next to the package name, click  **... > Duplicate**.
@@ -26,6 +28,8 @@ Duplicate a package to create a package with similar settings. You can:
          * Placements within the original package are copied to the new package.
          * The ads and the placement-level event pixels aren't copied to the new package.
 1. Click **Submit**.
+
+## What's Not Duplicated {#package-not-duplicated}
 
 All settings from the original placements are duplicated except:
 
