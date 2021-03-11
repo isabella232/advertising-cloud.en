@@ -29,6 +29,8 @@ index: yes
   + Campaigns {#campaigns}
     + [About Campaign Management](/help/dsp/campaign-management/campaigns/campaign-about.md)
     + [Create a Campaign](/help/dsp/campaign-management/campaigns/campaign-create.md)
+    + [Edit a Campaign](/help/dsp/campaign-management/campaigns/campaign-edit.md)
+    + [Archive or Unarchive a Campaign](/help/dsp/campaign-management/campaigns/campaign-archive-unarchive.md)
     + [Campaign Settings](/help/dsp/campaign-management/campaigns/campaign-settings.md)
     + [Campaign Launch Checklist](/help/dsp/campaign-management/campaign-launch-checklist.md)
   + Packages {#packages}
