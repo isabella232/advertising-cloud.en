@@ -13,9 +13,6 @@ DSP's Deal ID inbox allows you to quickly set up deals that Advertising Cloud DS
 
 In the deal ID inbox, you can see the details of the deal as your publisher sees them, speed up your deal setup, and avoid manual entry errors.
 
-<!-- which of the following is currently correct? -->
-The deal ID inbox refreshes hourly and includes a manual option to populate new deals within the hour.
-OR
 DSP automatically refreshes all deal details daily at 4:30 a.m. EST. It also refreshes all FreeWheel deals and updates existing deals from Google and Rubicon hourly. You can also manually refresh the deal details to populate new deals at any time.
 
 <!-- MC: I'm not sure where I got the following. Is this currently true? -->
@@ -31,7 +28,7 @@ To receive your deals in the deal ID inbox, your SSP accounts must map your orga
 >
 >DSP will share the organization's account names with the relevant SSPs.
 
-During deal negotiations, tell the publisher to send the deal to your buyer instead of to the parent DSP account. The deal identifier may be a name or an ID, depending on the SSP.<!-- Is this correct? I think "this" meant "deal identifier. -->
+During deal negotiations, tell the publisher to send the deal to your buyer instead of to the parent DSP account. The deal identifier may be a name or an ID, depending on the SSP.
 
 ## Actions You Can Take on Your Deals
 
