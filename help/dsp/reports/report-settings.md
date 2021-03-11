@@ -39,8 +39,8 @@ To apply one or more filters, do the following:
 
 * Dimensions
 * Metrics
-* Conversion Metrics
-* Custom Goals
+* Conversion Metrics (sorted by advertiser)
+* Custom Goals (sorted by advertiser)
 
 **Drag to Re-Order Report Headers Below:** The order of the column headers. You can drag and drop any column to customize the order.
 
