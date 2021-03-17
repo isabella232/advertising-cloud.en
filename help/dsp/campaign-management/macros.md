@@ -32,7 +32,7 @@ To accurately track clicks for ads using third-party display tags, DSP requires 
 
 DSP automatically inserts display click macros in a display tag when you:
 
-* Export ad tags from an Advertising Cloud ad server partner <!-- [Needs PM confirmation] -->
+* Export ad tags from an Advertising Cloud ad server partner <!-- [Needs PM confirmation.] -->
 * Bulk upload Flashtalking or Google DoubleClick for Advertisers ad tags directly in DSP
 
 If a click macro is missing when you build a display ad, DSP displays a warning message, which prompts you to manually insert the appropriate display click macro in the correct area of the tag.
