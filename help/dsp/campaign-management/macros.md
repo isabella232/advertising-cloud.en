@@ -5,7 +5,7 @@ description: Understanding Advertising Cloud DSP Macros
 
 # Understanding Advertising Cloud DSP Macros
 
-A macro is a short command or shorthand for an instruction and usually follows the format ```${MACRO_NAME}```. The Advertising Cloud DSP ad server executes macros when the ad is served or clicked.
+A macro is a short command or shorthand for an instruction and usually follows the format `${MACRO_NAME}`. The Advertising Cloud DSP ad server executes macros when the ad is served or clicked.
 
 Macros are most commonly used during trafficking of third-party and custom creative code or metadata (such as third-party pixels).
 
@@ -15,11 +15,11 @@ Use general tracking macros across all ad and tag types to pass back specific da
 
 | Macro | Description |
 | --------------- | ---------------------- |
-| ```${USER_ID}``` | User identifier for all device types. |
-| ```${TM_RANDOM}``` | Cachebuster: a random number between 1 and 1000000 |
-| ```${TM_PLACEMENT_ID_NUM}``` | The placement ID |
-| ```${TM_SITE_URL_URLENC}``` | The URL passed in the bid request; URL-encoded |
-| ```${TM_SITE_DOMAIN_URLENC}``` | The page subdomain parsed from the URL in the bid request; URL-encoded |
+| `${USER_ID}` | User identifier for all device types. |
+| `${TM_RANDOM}` | Cachebuster: a random number between 1 and 1000000 |
+| `${TM_PLACEMENT_ID_NUM}` | The placement ID |
+| `${TM_SITE_URL_URLENC}` | The URL passed in the bid request; URL-encoded |
+| `${TM_SITE_DOMAIN_URLENC}` | The page subdomain parsed from the URL in the bid request; URL-encoded |
 
 ## Click Macros for Third-Party Display Ads
 
@@ -27,8 +27,8 @@ To accurately track clicks for ads using third-party display tags, DSP requires 
 
 | Macro | Description |
 | --------------- | ---------------------- |
-| ```${TM_CLICK_URL}``` | Redirect URL that enables ad servers to track and count ad clicks in the platform |
-| ```${TM_CLICK_URL_URLENC}``` | Redirect URL that enables ad servers that require URL encoding to track and count ad clicks in the platform |
+| `${TM_CLICK_URL}` | Redirect URL that enables ad servers to track and count ad clicks in the platform |
+| `${TM_CLICK_URL_URLENC}` | Redirect URL that enables ad servers that require URL encoding to track and count ad clicks in the platform |
 
 DSP automatically inserts display click macros in a display tag when you:
 
