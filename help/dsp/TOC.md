@@ -145,6 +145,7 @@ index: yes
   + [About Custom Reports](/help/dsp/reports/report-about.md)
   + [Create a Custom Report](/help/dsp/reports/report-create.md)
   + [Custom Report Settings](/help/dsp/reports/report-settings.md)
+  + [Available Report Columns](/help/dsp/reports/report-columns.md)
 + Integrations with Adobe Experience Cloud {#integrations}
   + Analytics for Advertising Cloud {#analytics}
     + [Overview of Analytics for Advertising Cloud](/help/dsp/integrations/analytics/overview.md)

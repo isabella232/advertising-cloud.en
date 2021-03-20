@@ -115,4 +115,4 @@ Learn more about [cross-device solutions](/help/dsp/introduction/features/cross-
 >* [About Custom Reports](/help/dsp/reports/report-about.md)
 >* [Create a Custom Report](/help/dsp/reports/report-create.md)
 >* [Custom Report Settings](/help/dsp/reports/report-settings.md)
-<!-- >* [Available Report Metrics](/help/dsp/reports/report-metrics.md) -->
+* [Available Report Columns](/help/dsp/reports/report-columns.md)

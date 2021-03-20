@@ -15,4 +15,4 @@ description: Create a Custom Report
 >* [About Custom Reports](/help/dsp/reports/report-about.md)
 >* [Custom Report Settings](/help/dsp/reports/report-settings.md)
 >* [About In-Platform Reports](/help/dsp/campaign-management/reports/campaign-reports-about.md)
-<!-- >* [Available Report Metrics](/help/dsp/reports/report-metrics.md) -->
+>* [Available Report Columns](/help/dsp/reports/report-columns.md)
