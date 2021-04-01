@@ -97,6 +97,14 @@ For more information on functionality, contact your preferred vendor directly, o
 
 ![Comscore logo](/help/dsp/assets/comscore-logo.png) ![DoubleVerify logo](/help/dsp/assets/doubleverify-logo.png) ![Integral Ad Science logo](/help/dsp/assets/ias-logo.png) ![Peer39 logo](/help/dsp/assets/peer39-logo.png)
 
+### Pre-Bid Viewability
+
+Pre-Bid Viewability filters powered by our industry leading partners allow advertisers to ensure their campaigns meet their desired viewability performance goals across video and display inventory. 
+
+You can set default viewability filters for each advertiser<!-- [default pre-viewability filters for each advertiser](/help/dsp/admin/advertiser-settings.md) -->, and then optionally [customize the settings for each placement](/help/dsp/campaign-management/placements/placement-settings.md). Additional fees may apply when you use this feature.
+
+![DoubleVerify logo](/help/dsp/assets/doubleverify-logo.png) ![Integral Ad Science logo](/help/dsp/assets/ias-logo.png)
+
 ### Topic Targeting
 
 DSP topic targeting allows you to target or block keyword lists by leveraging our industry-leading contextual partners Comscore and Oracle Data Cloud (Grapeshot).
