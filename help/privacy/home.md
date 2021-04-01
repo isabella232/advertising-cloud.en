@@ -1,7 +1,7 @@
 ---
 title: Advertising Cloud Support for Consumer Privacy
 description: Adobe Advertising Cloud provides security and privacy controls to help advertiser customers comply with consumer privacy laws.
-cloud: experience-cloud
+cloud: Experience Cloud
 product: advertising cloud
 index: yes
 ---

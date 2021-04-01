@@ -1,5 +1,5 @@
 ---
-cloud: experience-cloud
+cloud: Experience Cloud
 product: advertising cloud
 user-guide-title: Advertising Cloud DSP Guide
 user-guide-description: This guide explains the major features, tasks, settings, and other resources required to manage, optimize, and report on your display ad strategies using Advertising Cloud DSP.

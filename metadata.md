@@ -1,5 +1,5 @@
 ---
-cloud: experience-cloud
+cloud: Experience Cloud
 product: advertising cloud
 git-repo: https://git.corp.adobe.com/AdobeDocs/advertising-cloud.en
 ---

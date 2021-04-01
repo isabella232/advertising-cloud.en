@@ -1,7 +1,7 @@
 ---
 title: What's New in Advertising Cloud DSP
 description: This page describes new and recently-changed features in Advertising Cloud DSP.
-cloud: experience-cloud
+cloud: Experience Cloud
 product: advertising cloud
 index: yes
 ---
