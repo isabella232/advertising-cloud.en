@@ -1,8 +1,8 @@
 ---
 title: Display Ad Settings
 description: Display Ad Settings
+exl-id: ae88dfab-0b0c-42ab-9135-422b20a4b6cd
 ---
-
 # Display Ad Settings
 
 The following settings are for standard display ads. You can also serve click-to-play video ads for display ads, but we don't recommend doing so because not many publishers support them.

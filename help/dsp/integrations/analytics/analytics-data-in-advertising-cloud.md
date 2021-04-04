@@ -1,8 +1,8 @@
 ---
 title: Analytics Data in Advertising Cloud
 description: Analytics Data in Advertising Cloud
+exl-id: 79fbc809-9965-41c1-971f-3652cc78fee3
 ---
-
 # Analytics Data in Advertising Cloud
 
 *Advertisers with an Advertising Cloud-Adobe Analytics Integration Only*

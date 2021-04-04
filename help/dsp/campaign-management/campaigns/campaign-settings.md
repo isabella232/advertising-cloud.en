@@ -1,8 +1,8 @@
 ---
 title: Campaign Settings
 description: Campaign Settings
+exl-id: ff2e22ff-8073-4532-884b-36e0c1f22641
 ---
-
 # Campaign Settings
 
 ## Basic Campaign Details

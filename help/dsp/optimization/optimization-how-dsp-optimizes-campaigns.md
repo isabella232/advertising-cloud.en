@@ -1,8 +1,8 @@
 ---
 title: How DSP Optimizes Your Campaigns
 description: How DSP Optimizes Your Campaigns
+exl-id: 054582ef-b677-4725-b25c-b82bf3e5b43e
 ---
-
 # How DSP Optimizes Your Campaigns
 
 This page outlines how the Advertising Cloud DSP optimization engine, which is powered by Adobe Sensei, optimizes the packages in your campaigns. For tips and tricks on how to manually optimize your campaigns, contact your Adobe account manager. <!-- add link to trading playbook if we add it to help -->

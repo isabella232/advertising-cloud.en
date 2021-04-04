@@ -1,8 +1,8 @@
 ---
 title: Archive or Unarchive a Campaign
 description: Archive or Unarchive a Campaign
+exl-id: 9a6822c5-9d93-490a-9a2e-37afb1591028
 ---
-
 # Archive or Unarchive a Campaign
 
 Hide a campaign that isn't being used by archiving it. The only action you can take on an archived campaign is to unarchive it. Archived campaigns aren't shown by default but are still available for reporting.

@@ -1,8 +1,8 @@
 ---
 title: Audience Settings
 description: Audience Settings
+exl-id: 959c1e04-cb09-42f0-a261-580ff98b86be
 ---
-
 # Audience Settings
 
 ## Third Party Segments
@@ -34,4 +34,3 @@ description: Audience Settings
 >* [Create and Implement a Custom Segment](custom-segment-create.md)
 >* [Create and Implement a CCPA Opt-Out-of-Sale Segment](ccpa-opt-out-segment-create.md)
 >* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
-

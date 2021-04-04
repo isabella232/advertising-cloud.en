@@ -1,8 +1,8 @@
 ---
 title: Retrieve Consumer Opt-Out-of-Sale Reports
 description: Retrieve Consumer Opt-Out-of-Sale Reports
+exl-id: 8ada787a-6dcf-455b-88f4-701743e68292
 ---
-
 # Retrieve Consumer Opt-Out-of-Sale Reports
 
 You can retrieve monthly reports of IDs that customers have submitted for opt-out-of-sale requests for the account. You can retrieve the reports that were created in the previous three months. Each link is valid for seven days but refreshes each time a customer attempts to retrieve one.

@@ -1,8 +1,8 @@
 ---
 title: Tips for Negotiating a Programmatic Guaranteed Deal
 description: Tips for Negotiating a Programmatic Guaranteed Deal
+exl-id: b754f993-b52f-4527-a246-bf232038c7cd
 ---
-
 # Tips for Negotiating a Programmatic Guaranteed Deal
 
 When negotiating a programmatic guaranteed deal, the buyer and publisher need to discuss and confirm the following items:

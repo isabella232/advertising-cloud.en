@@ -4,8 +4,8 @@ description: Adobe Advertising Cloud provides security and privacy controls to h
 cloud: Experience Cloud
 product: advertising cloud
 index: yes
+exl-id: ffc50470-301e-44bc-9f56-63667dd8fb64
 ---
-
 # About Advertising Cloud Support for Consumer Privacy
 
 Adobe Advertising Cloud provides security and privacy controls to help advertiser customers comply with the following consumer privacy laws:

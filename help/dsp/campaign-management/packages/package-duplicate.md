@@ -1,8 +1,8 @@
 ---
 title: Duplicate a Package
 description: Duplicate a Package
+exl-id: 4c37883f-5feb-4513-9573-ed4e32606132
 ---
-
 # Duplicate a Package
 
 Duplicate a package to create a package with similar settings. You can:

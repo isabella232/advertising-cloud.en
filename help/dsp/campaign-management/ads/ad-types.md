@@ -1,8 +1,8 @@
 ---
 title: Available Ad Types
 description: Available Ad Types
+exl-id: 27df3948-b645-4ddf-a5e0-ade72f15a969
 ---
-
 # Available Ad Types
 
 For full specifications for each ad type, see the [Ad Specifications](/help/dsp/assets/ad-specs.pdf).

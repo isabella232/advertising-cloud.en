@@ -1,8 +1,8 @@
 ---
 title: Subscribe and Request Access to On Demand Premium Inventory Deals
 description: Subscribe and Request Access to On Demand Premium Inventory Deals
+exl-id: e66e5bad-526e-4b71-8072-332dd173f105
 ---
-
 # Subscribe and Request Access to On Demand Premium Inventory Deals
 
 *Not available to users with the account types Ad Network, Publisher Audience Extension, and Other; advertisers with the category Other; and resellers*

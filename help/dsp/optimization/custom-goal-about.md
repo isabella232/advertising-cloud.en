@@ -1,8 +1,8 @@
 ---
 title: About Custom Goals
 description: About Custom Goals
+exl-id: 623cb1ef-85ab-4535-aa3a-8e6ec8ae15ee
 ---
-
 # About Custom Goals
 
 Custom goals define the success events that an advertiser requires to meet its business objectives. Each package that uses the optimization goals "Highest ROAS - Custom Goal" or "Lowest CPA - Custom Goal" must include a custom goal that will help achieve the overall optimization goal. You can create custom goals as *objectives* in Advertising Cloud Search.

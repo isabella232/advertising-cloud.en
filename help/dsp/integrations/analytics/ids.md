@@ -1,8 +1,8 @@
 ---
 title: Advertising Cloud IDs Used by Analytics
 description: Advertising Cloud IDs Used by Analytics
+exl-id: ed1aab7b-9bd0-4d42-9bfb-9c6fa6db76bc
 ---
-
 # Advertising Cloud IDs Used by Analytics
 
 *Advertisers with an Advertising Cloud-Adobe Analytics Integration Only*

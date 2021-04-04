@@ -1,8 +1,8 @@
 ---
 title: Advertising Cloud Metrics in Analysis Workspace
 description: Advertising Cloud Metrics in Analysis Workspace
+exl-id: d740bd19-c643-4917-9cfd-f9cf0affd07e
 ---
-
 # Advertising Cloud Metrics in Analysis Workspace
 
 *Advertisers with an Advertising Cloud-Adobe Analytics Integration Only*

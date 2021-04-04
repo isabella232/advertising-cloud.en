@@ -1,8 +1,8 @@
 ---
 title: Create Multiple Third-party Ads
 description: Create Multiple Third-party Ads
+exl-id: 83d35d27-1ab6-4fcf-877f-650a2dc6975a
 ---
-
 # Create Multiple Third-party Ads
 
 You can create up to 500 third-party ads at a time by uploading tags that point to creative assets hosted on third-party ad servers. You can include tracking pixels for the ads.<!-- The bulksheet template for other ad servers says you can include 200. Which is it: 200 or 500? -->

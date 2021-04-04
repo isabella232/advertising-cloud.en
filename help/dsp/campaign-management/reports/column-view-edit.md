@@ -1,8 +1,8 @@
 ---
 title: Edit a Custom Column View
 description: Edit a Custom Column View
+exl-id: 54ab4d03-39f6-40c8-b99f-aac449241923
 ---
-
 # Edit a Custom Column View
 
 >[!NOTE]

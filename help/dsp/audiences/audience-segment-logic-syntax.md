@@ -1,8 +1,8 @@
 ---
 title: Syntax for Audience Segment Logic
 description: Syntax for Audience Segment Logic
+exl-id: 3a51b1b5-1eef-453b-9be5-0694e27491a8
 ---
-
 # Syntax for Audience Segment Logic
 
 When you create reusable audiences, you can manually define segment logic using alphanumeric segment IDs and the following syntax:

@@ -1,8 +1,8 @@
 ---
 title: Edit a Placement
 description: Edit a Placement
+exl-id: 135adad3-0bc0-4402-ac4a-a4fc71f78edf
 ---
-
 # Edit a Placement
 
 <!-- Some placements don't have this option. Clarify which placement types aren't eligible -- is it PG and simple ad serving placements, or all placements using private inventory? And anything else? -->

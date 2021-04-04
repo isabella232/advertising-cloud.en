@@ -1,8 +1,8 @@
 ---
 title: View the Sites, Ads, and Frequency Details for a Placement
 description: View the Sites, Ads, and Frequency Details for a Placement
+exl-id: 99bb4a4e-dc52-4130-87c4-5458e25bbc1e
 ---
-
 # View the Sites, Ads, and Frequency Details for a Placement
 
 The Placement Inspector lists all targeted sites and all ads in a placement. It also includes frequency data for the placement.

@@ -1,8 +1,8 @@
 ---
 title: Understanding Advertising Cloud DSP Macros
 description: Understanding Advertising Cloud DSP Macros
+exl-id: e31cc2e5-ad1f-4555-a87b-0e4c3731fe5f
 ---
-
 # Understanding Advertising Cloud DSP Macros
 
 A macro is a short command or shorthand for an instruction and usually follows the format `${MACRO_NAME}`. The Advertising Cloud DSP ad server executes macros when the ad is served or clicked.

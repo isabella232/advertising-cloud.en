@@ -1,8 +1,8 @@
 ---
 title: View a Detailed Report for a Campaign
 description: View a Detailed Report for a Campaign
+exl-id: 88fd3cdc-18af-4d3c-a93e-88058d56aabc
 ---
-
 # View a Detailed Report for a Campaign
 
 The legacy campaign-level report includes an overview and sections on Geography, Device, Viewability, and Audience Performance data.

@@ -1,8 +1,8 @@
 ---
 title: Connected TV Ad Settings
 description: Connected TV Ad Settings
+exl-id: 4daae9e4-27eb-4496-9186-f33aebd8daae
 ---
-
 # Connected TV Ad Settings
 
 ## Upload or Select Creative

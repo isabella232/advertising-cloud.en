@@ -1,8 +1,8 @@
 ---
 title: Package Settings
 description: Package Settings
+exl-id: b4d415d1-86a5-40bd-b645-1709b267c174
 ---
-
 # Package Settings
 
 ## Basic Details

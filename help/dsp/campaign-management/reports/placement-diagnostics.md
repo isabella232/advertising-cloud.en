@@ -1,8 +1,8 @@
 ---
 title: View the Placement Diagnostic Reports
 description: View the Placement Diagnostic Reports
+exl-id: d64406b6-83b5-4ae7-984c-98610fc1ee40
 ---
-
 # View the Placement Diagnostic Reports
 
 <!-- Does this really belong in the Campaign Management > Reports section or in the Placements section? -->

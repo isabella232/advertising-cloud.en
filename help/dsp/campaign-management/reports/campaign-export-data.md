@@ -1,8 +1,8 @@
 ---
 title: Export Data from a Campaign Management View
 description: Export Data from a Campaign Management View
+exl-id: 393b0726-d26c-4d0b-8926-98fc27259286
 ---
-
 # Export Data from a Campaign Management View
 
 You can export a snapshot of the current, filtered campaign management view to a file in Microsoft Excel spreadsheet (XLSX) format. You can export data for:

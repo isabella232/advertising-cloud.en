@@ -1,8 +1,8 @@
 ---
 title: Overview of Campaign Management in Advertising Cloud DSP
 description: Overview of Campaign Management in Advertising Cloud DSP
+exl-id: c94e08d0-0dd5-4cf9-8df2-9eb4c591375c
 ---
-
 # Overview of Campaign Management in Advertising Cloud DSP
 
 Advertising Cloud DSP campaigns have the following hierarchy:

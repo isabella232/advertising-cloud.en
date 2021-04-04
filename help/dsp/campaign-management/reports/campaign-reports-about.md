@@ -1,8 +1,8 @@
 ---
 title: About In-Platform Reports
 description: About In-Platform Reports
+exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
 ---
-
 # About In-Platform Reports
 
 <!-- rename "About Performance Reports in Campaign Management Views?" -->

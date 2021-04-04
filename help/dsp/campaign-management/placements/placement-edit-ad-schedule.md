@@ -1,8 +1,8 @@
 ---
 title: Edit the Ad Schedule for a Placement
 description: Edit the Ad Schedule for a Placement
+exl-id: 880522d3-efcd-4ff9-8cef-bf6be626869c
 ---
-
 # Edit the Ad Schedule for a Placement
 
 <!-- Some placements don't have this option. Clarify which placement types aren't eligible -- just simple ad serving placements (PG ones seem okay)? And anything else? -->
@@ -27,4 +27,3 @@ You can change the scheduled flight dates and ad rotation for the ads attached t
 >* [About Placement Management](placement-about.md)
 >* [Edit a Placement](placement-edit.md)
 >* [Placement Settings](placement-settings.md)
-

@@ -1,8 +1,8 @@
 ---
 title: Placement-level Pre-Bid Filters and How to Use Them
 description: Placement-level Pre-Bid Filters and How to Use Them
+exl-id: c699e970-84ca-429b-8062-81804e6c9f21
 ---
-
 # Placement-level Pre-Bid Filters and How to Use Them
 
 | Pre-Bid Filter | Description | When to Use This Filter|

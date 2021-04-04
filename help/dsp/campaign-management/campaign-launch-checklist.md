@@ -1,8 +1,8 @@
 ---
 title: Campaign Launch Checklist
 description: Campaign Launch Checklist
+exl-id: bf0147d0-0b58-435d-a2de-5b98e0d3488c
 ---
-
 # Campaign Launch Checklist
 
 ## Account Funding

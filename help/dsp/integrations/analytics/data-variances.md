@@ -1,8 +1,8 @@
 ---
 title: Expected Data Variances Between Analytics and Advertising Cloud
 description: Expected Data Variances Between Analytics and Advertising Cloud
+exl-id: 34685e04-d4f9-4e27-b83e-b56164244b2b
 ---
-
 # Expected Data Variances Between Analytics and Advertising Cloud
 
 *Advertisers with an Advertising Cloud-Adobe Analytics Integration Only*

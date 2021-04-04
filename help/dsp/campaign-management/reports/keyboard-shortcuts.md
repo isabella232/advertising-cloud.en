@@ -1,8 +1,8 @@
 ---
 title: Keyboard Shortcuts
 description: Keyboard Shortcuts
+exl-id: bef0406c-9c10-48ec-b069-b887ef8f66ae
 ---
-
 # Keyboard Shortcuts
 
 Within placement settings, use keyboard shortcuts to quickly navigate<!-- and to create ads and placements -->.

@@ -1,8 +1,8 @@
 ---
 title: Adobe Advertising Cloud support for the California Consumer Privacy Act &#58; Consumer Data Access and Delete Support
 description: Supported data request types, required setup and field values, and examples of API access requests using legacy product IDs and returned data fields for Adobe Advertising Cloud
+exl-id: 1330da6c-a944-4bb5-8539-488d97f56175
 ---
-
 # Adobe Advertising Cloud Support for the California Consumer Privacy Act: Consumer Data Access and Delete Support
 
 *For Adobe Advertising Cloud Search, Adobe Advertising Cloud Creative, Adobe Advertising Cloud DSP, and Adobe Media Optimizer DCO*

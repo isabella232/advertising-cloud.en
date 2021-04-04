@@ -1,8 +1,8 @@
 ---
 title: View a Detailed Report for a Placement
 description: View a Detailed Report for a Placement
+exl-id: 90cd8030-73a6-4224-9a04-dcee91ce7d78
 ---
-
 # View a Detailed Report for a Placement
 
 The legacy placement-level report includes an overview and sections on Geography, Device, Viewability, Audience Performance, Notifications, and Ads data.
