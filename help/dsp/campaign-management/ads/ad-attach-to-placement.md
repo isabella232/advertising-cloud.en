@@ -1,8 +1,7 @@
 ---
 title: Attach an Ad to a Placement
 description: Attach an Ad to a Placement
-exl-id: 4d85b89b-217f-46eb-a8b2-27da4c220be7
-exl-id: bca590c9-e0d0-41e6-96b1-26ea5b2f842f
+exl-id: 4d85b89b-217f-46eb-a8b2-27da4c220be7,bca590c9-e0d0-41e6-96b1-26ea5b2f842f
 ---
 # Attach an Ad to a Placement
 
