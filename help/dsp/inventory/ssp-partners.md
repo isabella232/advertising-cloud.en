@@ -21,8 +21,7 @@ A supply-side platform (SSP) is an advertising technology platform used to help 
 | FreeWheel (formerly StickyAds) | x | x | x |  |  |  |  |  |  | Yes | TubeMogul or Adobe Advertising Cloud | Global | USD, EUR, AUD, GBP |
 | Fyber/Inneractive  | x | x |  |  |  |  |  |  |  | No | TubeMogul | Global | USD |
 | GumGum | x | x |  | x | x |  |  |  |  | No | Adobe Advertising Cloud | US/CA | USD |
-| Index | x | x | x | x | x |  |  |  |  | No | Adobe Display<br>
-Adobe Video | Global | USD |
+| Index | x | x | x | x | x |  |  |  |  | No | Adobe Display<br>Adobe Video | Global | USD |
 | MoPub |  | x |  |  |  |  |  |  |  | No | TubeMogul | Global | USD |
 | OpenX | x |  |  | x | x |  |  |  |  | Yes | TubeMogul or Adobe Advertising Cloud | Global | USD |
 | Pubmatic | x | x | x | x | x |  |  |  |  | No | TubeMogul or Adobe Advertising Cloud | Global | USD |
