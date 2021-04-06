@@ -7,7 +7,7 @@ exl-id:
 
 A supply-side platform (SSP) is an advertising technology platform used to help digital media owners and publishers sell digital ads in automated auctions. Digital media owners and publishers use SSPs to coordinate, manage, and monetize the supply and distribution of their ad inventory. Advertising Cloud DSP is integrated with all leading SSPs, allowing advertisers to easily access high-quality inventory for their advertising needs.
 
-| SSP/Open Exchange Partner | VIDEO Desktop | VIDEO Mobile | VIDEO CTV | DISPLAY Desktop | DISPLAY Mobile | NATIVE Video | NATIVE Display | AUDIO Desktop | AUDIO Mobile | Programmatic Guaranteed Support | Seat ID | Region | Supported Currency |
+| SSP/Open Exchange Partner | Video Desktop | Video Mobile | Video CTV | Display Desktop | Display Mobile | Native Video | Native Display | Audio Desktop | Audio Mobile | Programmatic Guaranteed Support | Seat ID | Region | Supported Currency |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | AdColony (previously Opera) | | x | | | | | | | | No  | TubeMogul | Global | USD |
 | AdsWizz  | | | | | | | | x | x | No | Adobe Advertising Cloud | Global | USD, EUR, GBP |
@@ -42,6 +42,8 @@ A supply-side platform (SSP) is an advertising technology platform used to help 
 | Verizon Media Group (formerly OATH) - One Video | x | x | x |  |  |  |  |  |  | No | TubeMogul or Adobe Advertising Cloud | Global | USD |
 | Verizon Media Group (formerly OATH) - One Display |  |  |  | x | x |  |  |  |  | No | TubeMogul or Adobe Advertising Cloud | Global | USD |
 | Verizon Media Group (formerly OATH) - BRXD |  |  |  | x | x |  |  |  |  | No | TubeMogul or Adobe Advertising Cloud | Global | USD |
+
+{style="table-layout:auto"}
 
 >[!MORELIKETHIS]
 >
