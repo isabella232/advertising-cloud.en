@@ -1,8 +1,8 @@
 ---
 title: Overview of Inventory Features in Advertising Cloud DSP
 description: Overview of Inventory Features in Advertising Cloud DSP
+exl-id: b3d0b96e-e638-4bd2-ba14-d348a8fc030b
 ---
-
 # Overview of Inventory Features in Advertising Cloud DSP
 
 Advertising Cloud DSP can support your inventory needs, whether you’re wanting to find scale with public inventory, find scale among premium publishers with On Demand, or set up a 1:1 private marketplace (PMP) deal with a publisher to activate against specific audiences or sites. Your campaign goals will help dictate which type of inventory best suits your campaign’s performance needs. Integrations with top supply side platforms (SSPs) allow seamless setup and activation of your PMPs.

@@ -1,8 +1,8 @@
 ---
 title: Duplicate a Campaign
 description: Duplicate a Campaign
+exl-id: 2bb4030d-22b0-4a16-aeed-35f64a19df6a
 ---
-
 # Duplicate a Campaign
 
 <!-- Some placements don't have this option. Clarify which placement types aren't eligible -- is it PG and simple ad serving placements, or all placements using private inventory? And anything else? -->

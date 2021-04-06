@@ -1,8 +1,8 @@
 ---
 title: About Placement Management in Advertising Cloud DSP
 description: About Placement Management in Advertising Cloud DSP
+exl-id: 1d1382d9-b6c8-44bf-a708-8458769a39c6
 ---
-
 # About Placement Management in Advertising Cloud DSP
 
 A placement includes targeting parameters for one or more ads of the same ad type. You can create a placement for a single campaign or package, and then assign ads to it. Each campaign or placement can include multiple placements, with a specified ad rotation. By default, ads are rotated evenly.

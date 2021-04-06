@@ -1,8 +1,8 @@
 ---
 title: Create a Campaign
 description: Create a Campaign
+exl-id: c8f553c1-de52-4121-bed4-7b4ce2ecd847
 ---
-
 # Create a Campaign
 
 1. In the main menu, click **Campaigns**.

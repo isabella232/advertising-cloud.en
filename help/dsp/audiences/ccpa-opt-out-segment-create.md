@@ -1,8 +1,8 @@
 ---
 title: Create and Implement a CCPA Opt-out-of-Sale Segment
 description: Create and Implement a CCPA Opt-out-of-Sale Segment
+exl-id: aebe0c5b-382f-4e4a-b145-c32f32d216ca
 ---
-
 # Create and Implement a CCPA Opt-out-of-Sale Segment
 
 You can create a segment to track users IDs from consumer opt-out-of-sale requests on your website, per the California Consumer Privacy Act (CCPA). Users remain in CCPA opt-out-of-sale segments indefinitely.

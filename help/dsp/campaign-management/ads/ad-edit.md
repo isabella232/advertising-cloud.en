@@ -1,8 +1,8 @@
 ---
 title: Edit an Ad
 description: Edit an Ad
+exl-id: ef140d61-f04e-4c1c-acdd-9985730dfb07
 ---
-
 # Edit an Ad
 
 1. In the main menu, click **Campaigns**.

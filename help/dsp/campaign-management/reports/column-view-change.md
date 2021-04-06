@@ -1,8 +1,8 @@
 ---
 title: Change the Column View
 description: Change the Column View
+exl-id: e7a95ed3-82f5-4c5c-937b-3cc48f9a3470
 ---
-
 # Change the Column View
 
 * In the View selector, click ![down arrow](/help/dsp/assets/chevron-down.png), and then click the name of the desired column view.

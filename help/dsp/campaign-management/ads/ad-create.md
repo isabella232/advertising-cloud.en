@@ -1,8 +1,8 @@
 ---
 title: Create an Ad
 description: Create an Ad
+exl-id: d93c6a66-a5cb-4117-97e8-424422200fce
 ---
-
 # Create an Ad
 
 You can create a single first-party or third-party ad.

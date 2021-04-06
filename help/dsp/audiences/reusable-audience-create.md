@@ -1,8 +1,8 @@
 ---
 title: Create a Reusable Audience
 description: Create a Reusable Audience
+exl-id: 48e3dc4c-6e2d-452c-8d69-7e6211d808e0
 ---
-
 # Create a Reusable Audience
 
 <!-- "Saved audience" is used in UI, but "saved" is a state, not a type. "Reusable audience" sounds better in a description. "Audience template" isn't perfect, either, since it implies you can edit it on the fly to create a new, different audience. Some other term? -->

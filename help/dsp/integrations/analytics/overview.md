@@ -1,8 +1,8 @@
 ---
 title: Overview of Analytics for Advertising Cloud
 description: Overview of Analytics for Advertising Cloud
+exl-id: 31367c8b-3410-4110-9ae6-11defe625355
 ---
-
 # Overview of Analytics for Advertising Cloud
 
 *Advertisers with Advertising Cloud DSP and Advertising Cloud Search*

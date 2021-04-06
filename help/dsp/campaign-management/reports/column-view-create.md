@@ -1,8 +1,8 @@
 ---
 title: Create a Custom Column View
 description: Create a Custom Column View
+exl-id: f39e6ce9-aa4e-4049-af16-eddb0ba30087
 ---
-
 # Create a Custom Column View
 
 1. In the View selector, click ![down arrow](/help/dsp/assets/chevron-down.png), and then click **Create View**.

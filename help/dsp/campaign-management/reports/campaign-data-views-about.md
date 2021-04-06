@@ -1,8 +1,8 @@
 ---
 title: About the Campaign Data Views
 description: About the Campaign Data Views
+exl-id: acc312b9-2de4-4e2f-9b59-b91f23d82357
 ---
-
 # About the Campaign Data Views
 
 In all campaign management views (Campaigns, Packages, Placements, and Ads), you can customize the data that appears within the data table. You can customize the data in the following ways:

@@ -1,8 +1,8 @@
 ---
 title: Attach a Placement to a Package
 description: Attach a Placement to a Package
+exl-id: 443aa1a3-c8b9-4949-87be-5a37e67f00a8
 ---
-
 # Attach a Placement to a Package
 
 ## Attach a New Placement from the Placements View

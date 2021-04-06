@@ -1,8 +1,8 @@
 ---
 title: Attach an Ad to a Placement
 description: Attach an Ad to a Placement
+exl-id: 4d85b89b-217f-46eb-a8b2-27da4c220be7,bca590c9-e0d0-41e6-96b1-26ea5b2f842f
 ---
-
 # Attach an Ad to a Placement
 
 ## Attach a New Ad from the Ads View
@@ -76,4 +76,3 @@ description: Attach an Ad to a Placement
 >* [Edit an Ad](ad-edit.md)
 >* [List the Placements Associated with an Ad](ad-list-placements.md)
 >* [Edit the Ad Schedule for a Placement](/help/dsp/campaign-management/placements/placement-edit-ad-schedule.md)
- 

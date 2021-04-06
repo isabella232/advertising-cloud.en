@@ -4,8 +4,8 @@ description: This page describes new and recently-changed features in Advertisin
 cloud: Experience Cloud
 product: advertising cloud
 index: yes
+exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
 ---
-
 # What's New
 
 The following features are new or recently changed.

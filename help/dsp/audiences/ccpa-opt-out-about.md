@@ -1,8 +1,8 @@
 ---
 title: About CCPA Opt-out-of-Sale Segments and Reports
 description: About CCPA Opt-out-of-Sale Segments and Reports
+exl-id: 9256d34e-d0dd-4abf-bc96-2b599caf2a8e
 ---
-
 # About CCPA Opt-out-of-Sale Segments and Reports
 
 You can track users IDs from consumer opt-out-of-sale requests on your website, per the California Consumer Privacy Act (CCPA), by [creating and implementing a CCPA opt-out-of-sale segment](ccpa-opt-out-segment-create.md). Users remain in CCPA opt-out-of-sale segments indefinitely.

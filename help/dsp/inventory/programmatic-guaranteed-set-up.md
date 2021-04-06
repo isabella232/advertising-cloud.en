@@ -1,8 +1,8 @@
 ---
 title: Set up a Programmatic Guaranteed Deal
 description: Set up a Programmatic Guaranteed Deal
+exl-id: 9e371606-5428-4635-9653-7dc43449e489
 ---
-
 # Set up a Programmatic Guaranteed Deal
 
 *[Supported supply side platforms only](programmatic-guaranteed-about.md)*

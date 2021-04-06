@@ -1,8 +1,8 @@
 ---
 title: Edit a Package
 description: Edit a Package
+exl-id: 4067f8c8-d5a9-4fe6-9abe-78aa73bc00a1
 ---
-
 # Edit a Package
 
 1. In the main menu, click **Campaigns**.

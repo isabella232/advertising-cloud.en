@@ -1,8 +1,8 @@
 ---
 title: Re-Request On Demand Premium Inventory Deals
 description: Re-Request On Demand Premium Inventory Deals
+exl-id: db5a5708-16e3-4304-8bd0-f1aa8ecd0e3c
 ---
-
 # Re-Request On Demand Premium Inventory Deals
 
 *Not available to users with the account types Ad Network, Publisher Audience Extension, and Other; advertisers with the category Other; and resellers*

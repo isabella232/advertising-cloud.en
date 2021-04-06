@@ -1,8 +1,8 @@
 ---
 title: Pause or Activate a Placement
 description: Pause or Activate a Placement
+exl-id: 9b7f1a2b-0ced-4e09-870b-172897e49b27
 ---
-
 # Pause or Activate a Placement
 
 Pause a live placement, or activate a paused placement when it's within the configured flight schedule.

@@ -1,8 +1,8 @@
 ---
 title: Best Practices for Designing Overlays
 description: Best Practices for Designing Overlays
+exl-id: e0511391-bbfd-42de-be65-9bfd4f8702eb
 ---
-
 # Best Practices for Designing Overlays
 
 * Interactive pre-roll ads vary in size based on the site, so we recommend that you set overlays either a) to scale (by setting width and height to percentages) or, when scaling is not desired, b) to be anchored to only one side of the ad, with a floating edge on the other side. Scaling may distort text and details.

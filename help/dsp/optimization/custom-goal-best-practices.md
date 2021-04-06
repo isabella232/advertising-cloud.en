@@ -1,8 +1,8 @@
 ---
 title: Best Practices for Building a Custom Goal
 description: Best Practices for Building a Custom Goal
+exl-id: 54b16325-4b72-48a3-a2e0-4e342229211c
 ---
-
 # Best Practices for Building a Custom Goal
 
 ## Custom Goals with a Single Property

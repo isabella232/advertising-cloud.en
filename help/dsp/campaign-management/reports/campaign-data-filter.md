@@ -1,8 +1,8 @@
 ---
 title: Filter Campaign Data
 description: Filter Campaign Data
+exl-id: 784f025c-a96b-45bb-8326-e2e5216197e3
 ---
-
 # Filter Campaign Data
 
 1. In the main toolbar, click ![Filter button](/help/dsp/assets/filter.png).

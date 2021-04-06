@@ -1,8 +1,8 @@
 ---
 title: Optimization
 description: Optimization
+exl-id: 75c144d5-2790-415d-ade9-de2803ff9054
 ---
-
 # Optimization
 
 When you set up a programmatic campaign, one of the key items to consider is the campaign goal and how you will translate it into measurable KPIs. This translation will define how you configure the campaign's optimization goals.

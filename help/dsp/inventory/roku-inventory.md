@@ -1,8 +1,8 @@
 ---
 title: Using Roku Inventory
 description: Using Roku Inventory
+exl-id: 0cd42782-f006-4aa8-b879-322f86cfac4b
 ---
-
 # Using Roku Inventory
 
 Advertising Cloud DSP provides unique features for advertising on Roku.

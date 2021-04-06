@@ -1,8 +1,8 @@
 ---
 title: Edit a Campaign
 description: Edit a Campaign
+exl-id: 5647029b-f861-4396-8501-2a06a7f4d910
 ---
-
 # Edit a Campaign
 
 1. In the main menu, click **Campaigns**.

@@ -1,8 +1,8 @@
 ---
 title: Accept a Deal in the Deal ID Inbox
 description: Accept a Deal in the Deal ID Inbox
+exl-id: 55e8ca50-05f5-4f38-9fd5-afaed71315dc
 ---
-
 # Accept a Deal in the Deal ID Inbox
 
 *Users in DSP Accounts that Are Mapped to SSP Accounts Only*

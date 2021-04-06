@@ -1,8 +1,8 @@
 ---
 title: Archive or Unarchive a Package
 description: Archive or Unarchive a Package
+exl-id: a8840f9e-e0ee-481d-80c2-66b56fc1882f
 ---
-
 # Archive or Unarchive a Package
 
 Hide a package that isn't being used by archiving it. The only action you can take on an archived package is to unarchive it. Archived packages aren't shown by default but are still available for reporting.

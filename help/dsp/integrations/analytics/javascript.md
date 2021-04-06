@@ -1,8 +1,8 @@
 ---
 title: JavaScript Code for Analytics for Advertising Cloud
 description: JavaScript Code for Analytics for Advertising Cloud
+exl-id: 184508ce-df8d-4fa0-b22b-ca0546a61d58
 ---
-
 # JavaScript Code for Analytics for Advertising Cloud
 
 *Advertisers with an Advertising Cloud-Adobe Analytics Integration Only*

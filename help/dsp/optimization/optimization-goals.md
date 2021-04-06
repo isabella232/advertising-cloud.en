@@ -1,8 +1,8 @@
 ---
 title: Optimization Goals and How to Use Them
 description: Optimization Goals and How to Use Them
+exl-id: 9bca09b5-9aa7-4009-a576-9b30cfddfd55
 ---
-
 # Optimization Goals and How to Use Them
 
 | Optimization Goal | Description  | When to Use This Goal |

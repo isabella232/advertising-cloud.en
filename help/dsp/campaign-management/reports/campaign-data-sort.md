@@ -1,8 +1,8 @@
 ---
 title: Sort a Data Column
 description: Sort a Data Column
+exl-id: ed27246a-a31e-4ad2-bc30-446478fc58d1
 ---
-
 # Sort a Data Column
 
 You can sort any data column in ascending order (A to Z, or 1 to 10) or descending order (Z to A, or 10 to 1).

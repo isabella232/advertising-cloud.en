@@ -1,8 +1,8 @@
 ---
 title: About Package Management in Advertising Cloud DSP
 description: About Package Management in Advertising Cloud DSP
+exl-id: 06d77698-62ae-466b-8cf7-c9148907ba6d
 ---
-
 # About Package Management in Advertising Cloud DSP
 
 Use packages to group placements for delivery to a set budget, performance goal, and custom pacing strategy. DSP optimizes packages by shifting budgets to the best-performing placements in the package. You can organize packages by placement format, inventory type, data provider, persona, or other distinguishable characteristics. Packages are optional.

@@ -1,8 +1,8 @@
 ---
 title: Adobe Advertising Cloud Support for the General Data Protection Regulation
 description: Supported data request types, required setup and field values, and examples of API access requests using legacy product IDs and returned data fields for Adobe Advertising Cloud
+exl-id: 304d88d0-d63d-4b32-8d4d-c61ba2409adc
 ---
-
 # Adobe Advertising Cloud Support for the General Data Protection Regulation
 
 *For Adobe Advertising Cloud Search, Adobe Advertising Cloud Creative, Adobe Advertising Cloud DSP, and Adobe Media Optimizer DCO*
