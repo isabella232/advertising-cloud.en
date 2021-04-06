@@ -40,3 +40,4 @@ When negotiating a programmatic guaranteed deal, the buyer and publisher need to
 >
 >* [About Programmatic Guaranteed Deals](programmatic-guaranteed-about.md)
 >* [Set up a Programmatic Guaranteed Deal](programmatic-guaranteed-set-up.md)
+>* [SSP Partners](ssp-partners.md)

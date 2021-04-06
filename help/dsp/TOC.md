@@ -119,6 +119,7 @@ index: yes
 + Inventory {#inventory}
   + [Overview of Inventory Features](/help/dsp/inventory/inventory-overview.md)
   + [Using Roku Inventory](/help/dsp/inventory/roku-inventory.md)
+  + [SSP Partners](/help/dsp/inventory/ssp-partners.md)
   + On Demand Inventory {#on-demand}
     + [About On Demand Premium Inventory](/help/dsp/inventory/on-demand-inventory-about.md)
     + Available On-demand Premium Inventory Publishers {#publishers}
