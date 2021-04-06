@@ -1,7 +1,7 @@
 ---
 title: SSP Partners
 description: Supply-side platform (SSP) and open exchange partners
-exl-id: 
+exl-id: 8487f4ce-0232-4145-ad8b-b0631fd0ab7f,None
 ---
 # SSP Partners
 
