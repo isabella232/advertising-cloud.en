@@ -22,8 +22,7 @@ A supply-side platform (SSP) is an advertising technology platform used to help 
 |Fyber/Inneractive||TubeMogul|No|Global|USD|x|x||||||
 |Google AdX (now Google Authorized Buyers)|Google|Adobe NA - 44912714<br>Adobe EU - 94893418<br>Adobe APAC - 89185975|Yes|Global|USD, BRL|x|x|x|x|x||x|
 |GumGum||Adobe Advertising Cloud|No|US/CA|USD|x|x||x|x|||
-|Index|Index|Adobe Display
-	Adobe Video|No|Global|USD|x|x|x|x|x|||
+|Index|Index|Adobe Display<br>Adobe Video|No|Global|USD|x|x|x|x|x| | |
 |MoPub|Twitter|TubeMogul|No|Global|USD||x||||||
 |OpenX|OpenX|TubeMogul or Adobe Advertising Cloud|Yes|Global|USD|x|||x|x|||
 |PubMatic New ortb2.2|Pubmatic|TubeMogul or Adobe Advertising Cloud|No|Global|USD|x|x|x|x|x|||
@@ -44,6 +43,8 @@ A supply-side platform (SSP) is an advertising technology platform used to help 
 |Triton||Adobe Advertising Cloud|No|Global|USD|||||||x|
 |UnRuly|Rhythm One|Adobe Advertising Cloud|No|US + EMEA|USD|x|x||||||
 |Yahoo|Verizon Media Group|TubeMogul or Adobe Advertising Cloud|No|Global|USD||||x|x|||
+
+{style="table-layout:auto"}
 
 <!--
 | SSP/Open Exchange Partner | Video Desktop | Video Mobile | Video CTV | Display Desktop | Display Mobile | Native Video | Native Display | Audio Desktop | Audio Mobile | Programmatic Guaranteed Support | Seat ID | Region | Supported Currency |
@@ -82,8 +83,6 @@ A supply-side platform (SSP) is an advertising technology platform used to help 
 | Verizon Media Group (formerly OATH) - One Display |  |  |  | x | x |  |  |  |  | No | TubeMogul or Adobe Advertising Cloud | Global | USD |
 | Verizon Media Group (formerly OATH) - BRXD |  |  |  | x | x |  |  |  |  | No | TubeMogul or Adobe Advertising Cloud | Global | USD |
 -->
-
-{style="table-layout:auto"}
 
 >[!MORELIKETHIS]
 >
