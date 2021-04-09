@@ -384,7 +384,7 @@ Which level of [Ads.txt](https://iabtechlab.com/ads-txt-about/) pre-bid filterin
 >
 >(Roku placements) Third-party tracking vendors approved by Roku include Acxiom, comScore, Data Plus Math, Experian, Factual, Kantar, Marketing Evolution, Neustar, Nielsen, Nielsen Catalina Solutions, NinthDecimal, Oracle, Placed, Polk, and Research Now.
 
-**Event Pixels:** (Optional) Third-party event tracking pixels that will be attached by default to all new ads in the placement. To specify event pixels:
+**Event Pixels:** (Optional) Third-party event-tracking pixels that will be attached by default to all new ads in the placement. To specify event pixels:
 
 1. Click ![Edit](/help/dsp/assets/edit.png).
 1. Do any of the following:
@@ -421,7 +421,7 @@ Which level of [Ads.txt](https://iabtechlab.com/ads-txt-about/) pre-bid filterin
             The advertiser's IT department or other group may need to schedule, or be informed about, the tag deployment.
    1. Click **Save**.
 
-**3rd-party Fees:** (Optional) Any static third-party fee to be tracked as non-billable costs. The package-level default is automatically applied for new placements, when applicable, unless you enter a different value as the cost per thousand impressions.
+**3rd-party Fees:** (Optional) A static, third-party fee rate to be tracked as a non-billable cost per thousand impressions. The package-level default is automatically applied for new placements, when applicable, unless you enter a different value.
 
 >[!NOTE]
 >

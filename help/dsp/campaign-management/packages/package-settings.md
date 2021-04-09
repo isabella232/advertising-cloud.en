@@ -11,7 +11,7 @@ exl-id: b4d415d1-86a5-40bd-b645-1709b267c174
 
 **Description:** (Optional) A description of the package.
 
-**3rd Party Billed Fees:** (Optional) Any static third-party fees to be tracked as non-billable costs:
+**3rd Party Billed Fees:** (Optional) A static third-party fee to be tracked as a non-billable cost:
 
 >[!NOTE]
 >
