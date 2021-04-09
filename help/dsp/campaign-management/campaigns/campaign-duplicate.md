@@ -16,7 +16,7 @@ Duplicate a campaign to create a new campaign with similar settings. You can:
 See "[What's Not Duplicated](#campaign-not-duplicated)" for a list of placement settings that aren't duplicated.
 
 1. In the main menu, click **Campaigns**.
-1. Next to the campaign name, click  **... > Duplicate**.
+1. Next to the campaign name, click **... > Duplicate**.
 1. Specify the new campaign settings:
     1. Enter the new campaign name and the end flight date.
     1. (Optional) Change the default settings.
