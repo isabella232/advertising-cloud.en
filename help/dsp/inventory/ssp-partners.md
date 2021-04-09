@@ -11,7 +11,7 @@ A supply-side platform (SSP) is an advertising technology platform used to help 
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | AdColony (previously Opera) | | x | | | | | | | | No  | TubeMogul | Global | USD |
 | AdsWizz  | | | | | | | | x | x | No | Adobe Advertising Cloud | Global | USD, EUR, GBP |
-| Google Authorized Buyers (formerly AdX) | x  | x | x | x | x |  |  | x | x | Yes | Adobe NA - 44912714<br>Adobe EU - 94893418<br>Adobe APAC - 89185975 | Global | USD, BRL |
+| AdX (now Google Authorized Buyers) | x  | x | x | x | x |  |  | x | x | Yes | Adobe NA - 44912714<br>Adobe EU - 94893418<br>Adobe APAC - 89185975 | Global | USD, BRL |
 | Aerserv (InMobi) |  | x |  |  | x |  |  |  |  | No | TubeMogul or Adobe Advertising Cloud | North America | USD |
 | Ambient |  | x |  | x |  |  |  | x | x | Yes | TubeMogul | SEA | USD |
 | AppNexus | x | x | x | x | x |  |  |  |  | No | Video Seat ID: 9094<br>Display Seat ID: 3939 | Global | USD |
@@ -35,7 +35,7 @@ A supply-side platform (SSP) is an advertising technology platform used to help 
 | Stroer | x | x |  | x | x |  |  |  |  | No | Adobe Advertising Cloud | EMEA | USD |
 | Taboola  | x | x |  |  |  |  |  |  |  | No | Adobe Advertising Cloud | US/CA | USD |
 | Teads | x | x |  | x | x |  |  |  |  | No | TubeMogul or Adobe Advertising Cloud | Outstream Video = Global<br>Display = NA + EMEA | USD |
-| Telaria (Tremor) | x | x | x |  |  |  |  |  |  | Yes | TubeMogul or Adobe Advertising Cloud | Global | AUD, USD |
+| Tremor (Magnite)<br>(now Telaria) | x | x | x |  |  |  |  |  |  | Yes | TubeMogul or Adobe Advertising Cloud | Global | AUD, USD |
 | TripleLift | x | x |  | x | x | x | x |  |  | No | TubeMogul or Adobe Advertising Cloud | Global | USD |
 | Triton  |  |  |  |  |  |  |  | x | x | No | Adobe Advertising Cloud | Global | USD |
 | UnRuly | x | x |  |  |  |  |  |  |  | No | Adobe Advertising Cloud | US + EMEA | USD |
