@@ -7,7 +7,7 @@ exl-id: c3f68457-92c6-472a-93f4-cce9aeaecc53
 
 *Last Updated: September 5, 2019*
 
-These Data Usage Guidelines (“Data Guidelines”) set forth the requirements for the use of certain data accessed via Adobe’s On-demand Services for Advertising Cloud (Services”). These Guidelines are incorporated by reference into the Agreement between Adobe and the Customer using the On-demand Services. Capitalized terms used in these Guidelines but not defined herein will have the meaning set forth in that Agreement.
+These Data Usage Guidelines (“Data Guidelines”) set forth the requirements for the use of certain data accessed via Adobe’s On-demand Services for Advertising Cloud ("Services”). These Guidelines are incorporated by reference into the Agreement between Adobe and the Customer using the On-demand Services. Capitalized terms used in these Guidelines but not defined herein will have the meaning set forth in that Agreement.
 
 Adobe reserves the right to determine, in its sole judgment, whether Customer’s use of data violates these Guidelines.
 
