@@ -1,4 +1,8 @@
 ---
+type: Documentation
+cloud: Experience Cloud
+solution: Advertising Cloud
+product: advertising cloud
 title: View the Status of Your On Demand Deal Requests and Subscriptions
 description: View the Status of Your On Demand Deal Requests and Subscriptions
 exl-id: 8dd6d922-c4a3-4ddb-bca9-f6f782da1320

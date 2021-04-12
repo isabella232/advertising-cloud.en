@@ -1,4 +1,8 @@
 ---
+type: Documentation
+cloud: Experience Cloud
+solution: Advertising Cloud
+product: advertising cloud
 title: About Audience Management in Advertising Cloud DSP
 description: About Audience Management in Advertising Cloud DSP
 exl-id: 624d2211-59a2-4791-b8f1-a9a5cecd0b8e

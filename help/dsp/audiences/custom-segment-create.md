@@ -1,4 +1,8 @@
 ---
+type: Documentation
+cloud: Experience Cloud
+solution: Advertising Cloud
+product: advertising cloud
 title: Create and Implement a Custom Segment
 description: Create and Implement a Custom Segment
 exl-id: 691903e2-773e-4205-837e-822f435f57a7

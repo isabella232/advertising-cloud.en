@@ -1,4 +1,8 @@
 ---
+type: Documentation
+cloud: Experience Cloud
+solution: Advertising Cloud
+product: advertising cloud
 title: Duplicate a Package
 description: Duplicate a Package
 exl-id: 4c37883f-5feb-4513-9573-ed4e32606132

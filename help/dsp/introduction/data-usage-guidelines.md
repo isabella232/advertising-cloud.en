@@ -1,4 +1,8 @@
 ---
+type: Documentation
+cloud: Experience Cloud
+solution: Advertising Cloud
+product: advertising cloud
 title: Adobe Advertising Cloud Data Usage Guidelines
 description: Adobe Advertising Cloud Data Usage Guidelines
 exl-id: c3f68457-92c6-472a-93f4-cce9aeaecc53

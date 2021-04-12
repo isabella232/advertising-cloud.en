@@ -1,4 +1,8 @@
 ---
+type: Documentation
+cloud: Experience Cloud
+solution: Advertising Cloud
+product: advertising cloud
 title: About In-Platform Reports
 description: About In-Platform Reports
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45

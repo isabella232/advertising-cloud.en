@@ -1,4 +1,8 @@
 ---
+type: Documentation
+cloud: Experience Cloud
+solution: Advertising Cloud
+product: advertising cloud
 title: Keyboard Shortcuts
 description: Keyboard Shortcuts
 exl-id: bef0406c-9c10-48ec-b069-b887ef8f66ae

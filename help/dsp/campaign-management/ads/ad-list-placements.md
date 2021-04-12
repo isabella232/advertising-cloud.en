@@ -1,4 +1,8 @@
 ---
+type: Documentation
+cloud: Experience Cloud
+solution: Advertising Cloud
+product: advertising cloud
 title: List the Placements Associated with an Ad
 description: List the Placements Associated with an Ad
 exl-id: 82c4f1b4-56fd-411f-a027-3f93ffb3867b

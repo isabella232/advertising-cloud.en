@@ -1,4 +1,8 @@
 ---
+type: Documentation
+cloud: Experience Cloud
+solution: Advertising Cloud
+product: advertising cloud
 title: Archive or Unarchive a Campaign
 description: Archive or Unarchive a Campaign
 exl-id: 9a6822c5-9d93-490a-9a2e-37afb1591028

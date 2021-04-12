@@ -1,4 +1,8 @@
 ---
+type: Documentation
+cloud: Experience Cloud
+solution: Advertising Cloud
+product: advertising cloud
 title: Optimization
 description: Optimization
 exl-id: 75c144d5-2790-415d-ade9-de2803ff9054

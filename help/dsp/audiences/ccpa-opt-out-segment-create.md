@@ -1,4 +1,8 @@
 ---
+type: Documentation
+cloud: Experience Cloud
+solution: Advertising Cloud
+product: advertising cloud
 title: Create and Implement a CCPA Opt-out-of-Sale Segment
 description: Create and Implement a CCPA Opt-out-of-Sale Segment
 exl-id: aebe0c5b-382f-4e4a-b145-c32f32d216ca

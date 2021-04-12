@@ -1,4 +1,8 @@
 ---
+type: Documentation
+cloud: Experience Cloud
+solution: Advertising Cloud
+product: advertising cloud
 title: About Campaign Management in Advertising Cloud DSP
 description: About Campaign Management in Advertising Cloud DSP
 exl-id: f9f3aba2-995c-45df-8e65-52999f9cc539

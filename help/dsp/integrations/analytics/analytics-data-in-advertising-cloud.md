@@ -1,4 +1,8 @@
 ---
+type: Documentation
+cloud: Experience Cloud
+solution: Advertising Cloud
+product: advertising cloud
 title: Analytics Data in Advertising Cloud
 description: Analytics Data in Advertising Cloud
 exl-id: 79fbc809-9965-41c1-971f-3652cc78fee3

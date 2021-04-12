@@ -1,4 +1,8 @@
 ---
+type: Documentation
+cloud: Experience Cloud
+solution: Advertising Cloud
+product: advertising cloud
 title: Duplicate Placements
 description: Duplicate Placements
 exl-id: d22a61a8-4f1b-41ee-b4fb-3124bec81a2f

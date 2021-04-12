@@ -1,4 +1,8 @@
 ---
+type: Documentation
+cloud: Experience Cloud
+solution: Advertising Cloud
+product: advertising cloud
 title: Tips for Negotiating a Programmatic Guaranteed Deal
 description: Tips for Negotiating a Programmatic Guaranteed Deal
 exl-id: b754f993-b52f-4527-a246-bf232038c7cd

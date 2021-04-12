@@ -1,4 +1,8 @@
 ---
+type: Documentation
+cloud: Experience Cloud
+solution: Advertising Cloud
+product: advertising cloud
 title: Placement Settings
 description: Placement Settings
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67

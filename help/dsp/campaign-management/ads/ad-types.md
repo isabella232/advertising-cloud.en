@@ -1,4 +1,8 @@
 ---
+type: Documentation
+cloud: Experience Cloud
+solution: Advertising Cloud
+product: advertising cloud
 title: Available Ad Types
 description: Available Ad Types
 exl-id: 27df3948-b645-4ddf-a5e0-ade72f15a969

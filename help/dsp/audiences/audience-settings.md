@@ -1,4 +1,8 @@
 ---
+type: Documentation
+cloud: Experience Cloud
+solution: Advertising Cloud
+product: advertising cloud
 title: Audience Settings
 description: Audience Settings
 exl-id: 959c1e04-cb09-42f0-a261-580ff98b86be

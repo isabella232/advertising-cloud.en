@@ -1,4 +1,8 @@
 ---
+type: Documentation
+cloud: Experience Cloud
+solution: Advertising Cloud
+product: advertising cloud
 title: Archive or Unarchive a Package
 description: Archive or Unarchive a Package
 exl-id: a8840f9e-e0ee-481d-80c2-66b56fc1882f

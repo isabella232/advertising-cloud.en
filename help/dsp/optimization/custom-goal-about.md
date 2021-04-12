@@ -1,4 +1,8 @@
 ---
+type: Documentation
+cloud: Experience Cloud
+solution: Advertising Cloud
+product: advertising cloud
 title: About Custom Goals
 description: About Custom Goals
 exl-id: 623cb1ef-85ab-4535-aa3a-8e6ec8ae15ee

@@ -1,4 +1,8 @@
 ---
+type: Documentation
+cloud: Experience Cloud
+solution: Advertising Cloud
+product: advertising cloud
 title: Edit a Package
 description: Edit a Package
 exl-id: 4067f8c8-d5a9-4fe6-9abe-78aa73bc00a1

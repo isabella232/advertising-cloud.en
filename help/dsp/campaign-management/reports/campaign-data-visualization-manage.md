@@ -1,4 +1,8 @@
 ---
+type: Documentation
+cloud: Experience Cloud
+solution: Advertising Cloud
+product: advertising cloud
 title: Manage Data Visualizations
 description: Manage Data Visualizations
 exl-id: f557ddfc-9a20-4cbc-8ad3-230ba5df32e3

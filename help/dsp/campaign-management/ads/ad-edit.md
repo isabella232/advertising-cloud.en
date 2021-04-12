@@ -1,4 +1,8 @@
 ---
+type: Documentation
+cloud: Experience Cloud
+solution: Advertising Cloud
+product: advertising cloud
 title: Edit an Ad
 description: Edit an Ad
 exl-id: ef140d61-f04e-4c1c-acdd-9985730dfb07

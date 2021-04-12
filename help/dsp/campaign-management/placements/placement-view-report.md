@@ -1,4 +1,8 @@
 ---
+type: Documentation
+cloud: Experience Cloud
+solution: Advertising Cloud
+product: advertising cloud
 title: View a Detailed Report for a Placement
 description: View a Detailed Report for a Placement
 exl-id: 90cd8030-73a6-4224-9a04-dcee91ce7d78

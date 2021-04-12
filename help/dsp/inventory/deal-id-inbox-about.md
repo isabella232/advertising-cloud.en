@@ -1,4 +1,8 @@
 ---
+type: Documentation
+cloud: Experience Cloud
+solution: Advertising Cloud
+product: advertising cloud
 title: About the Deal ID Inbox
 description: About the Deal ID Inbox
 exl-id: 959ad1d4-4671-4967-9f73-ec5b0464d0cd

@@ -1,4 +1,8 @@
 ---
+type: Documentation
+cloud: Experience Cloud
+solution: Advertising Cloud
+product: advertising cloud
 title: Prerequisites and Key Information for Implementing Analytics for Advertising Cloud
 description: Prerequisites and Key Information for Implementing Analytics for Advertising Cloud
 exl-id: 08e54e2b-ed9b-4489-8de5-ab1379b7133c

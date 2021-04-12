@@ -1,4 +1,8 @@
 ---
+type: Documentation
+cloud: Experience Cloud
+solution: Advertising Cloud
+product: advertising cloud
 title: Create an Ad
 description: Create an Ad
 exl-id: d93c6a66-a5cb-4117-97e8-424422200fce

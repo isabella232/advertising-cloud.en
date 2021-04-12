@@ -1,4 +1,8 @@
 ---
+type: Documentation
+cloud: Experience Cloud
+solution: Advertising Cloud
+product: advertising cloud
 title: Manually Create Deal ID Details
 description: Manually Create Deal ID Details
 exl-id: cd9763a7-99d4-4881-9df9-b4e24c55be0f

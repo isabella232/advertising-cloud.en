@@ -1,4 +1,8 @@
 ---
+type: Documentation
+cloud: Experience Cloud
+solution: Advertising Cloud
+product: advertising cloud
 title: View the Sites, Ads, and Frequency Details for a Placement
 description: View the Sites, Ads, and Frequency Details for a Placement
 exl-id: 99bb4a4e-dc52-4130-87c4-5458e25bbc1e

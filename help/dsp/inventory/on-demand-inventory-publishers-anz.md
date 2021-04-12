@@ -1,4 +1,8 @@
 ---
+type: Documentation
+cloud: Experience Cloud
+solution: Advertising Cloud
+product: advertising cloud
 title: On Demand Premium Inventory Publishers in Australia and New Zealand
 description: On Demand Premium Inventory Publishers in Australia and New Zealand
 exl-id: e46ec570-38a7-4ea6-8c4c-d173971c48b7

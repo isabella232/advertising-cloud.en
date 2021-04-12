@@ -1,4 +1,8 @@
 ---
+type: Documentation
+cloud: Experience Cloud
+solution: Advertising Cloud
+product: advertising cloud
 title: Duplicate an Ad
 description: Duplicate an Ad
 exl-id: 65c29be7-ca88-4608-bde2-5f1267d095ef

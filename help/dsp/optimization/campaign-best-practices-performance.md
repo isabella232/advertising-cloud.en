@@ -1,4 +1,8 @@
 ---
+type: Documentation
+cloud: Experience Cloud
+solution: Advertising Cloud
+product: advertising cloud
 title: Best Practices for Setting up Performance Campaigns
 description: Best Practices for Setting up Performance Campaigns
 exl-id: fc64680d-9d1c-4f74-a8b9-2e9b670c00eb

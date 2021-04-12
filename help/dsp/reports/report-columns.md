@@ -1,4 +1,8 @@
 ---
+type: Documentation
+cloud: Experience Cloud
+solution: Advertising Cloud
+product: advertising cloud
 title: Available Report Columns
 description: Available Report Columns
 exl-id: c96e46ae-2fb2-4364-9c51-f160c00693ba

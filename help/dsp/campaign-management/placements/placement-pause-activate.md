@@ -1,4 +1,8 @@
 ---
+type: Documentation
+cloud: Experience Cloud
+solution: Advertising Cloud
+product: advertising cloud
 title: Pause or Activate a Placement
 description: Pause or Activate a Placement
 exl-id: 9b7f1a2b-0ced-4e09-870b-172897e49b27

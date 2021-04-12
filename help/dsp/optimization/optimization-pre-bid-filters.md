@@ -1,4 +1,8 @@
 ---
+type: Documentation
+cloud: Experience Cloud
+solution: Advertising Cloud
+product: advertising cloud
 title: Placement-level Pre-Bid Filters and How to Use Them
 description: Placement-level Pre-Bid Filters and How to Use Them
 exl-id: c699e970-84ca-429b-8062-81804e6c9f21

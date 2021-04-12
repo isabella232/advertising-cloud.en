@@ -1,4 +1,8 @@
 ---
+type: Documentation
+cloud: Experience Cloud
+solution: Advertising Cloud
+product: advertising cloud
 title: Overview of Inventory Features in Advertising Cloud DSP
 description: Overview of Inventory Features in Advertising Cloud DSP
 exl-id: b3d0b96e-e638-4bd2-ba14-d348a8fc030b

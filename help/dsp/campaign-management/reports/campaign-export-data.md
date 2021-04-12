@@ -1,4 +1,8 @@
 ---
+type: Documentation
+cloud: Experience Cloud
+solution: Advertising Cloud
+product: advertising cloud
 title: Export Data from a Campaign Management View
 description: Export Data from a Campaign Management View
 exl-id: 393b0726-d26c-4d0b-8926-98fc27259286
