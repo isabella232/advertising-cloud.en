@@ -1,8 +1,4 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: Best Practices for Designing Overlays
 description: Best Practices for Designing Overlays
 exl-id: e0511391-bbfd-42de-be65-9bfd4f8702eb

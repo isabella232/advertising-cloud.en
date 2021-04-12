@@ -1,8 +1,4 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: Attach a Placement to a Package
 description: Attach a Placement to a Package
 exl-id: 443aa1a3-c8b9-4949-87be-5a37e67f00a8

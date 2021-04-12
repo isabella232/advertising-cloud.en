@@ -1,8 +1,4 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: Pre-roll Ad Settings
 description: Pre-roll Ad Settings
 exl-id: 638d5a3d-3dff-40b6-a3ba-7ab3f08282b9

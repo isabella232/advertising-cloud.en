@@ -1,8 +1,4 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: Adobe Advertising Cloud support for the California Consumer Privacy Act &#58; Consumer Opt-Out-of-Sale Support
 description: Support for capturing consumer opt-out-of-sale requests
 exl-id: 2c0cd4f5-798f-479a-99cd-f555cd676766

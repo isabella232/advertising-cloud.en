@@ -1,8 +1,4 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: Syntax for Audience Segment Logic
 description: Syntax for Audience Segment Logic
 exl-id: 3a51b1b5-1eef-453b-9be5-0694e27491a8

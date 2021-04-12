@@ -1,8 +1,4 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: Troubleshooting Performance
 description: Troubleshooting Performance
 exl-id: adb32257-dede-4623-9840-33221c218443

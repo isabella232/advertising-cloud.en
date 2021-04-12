@@ -1,8 +1,4 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: About Placement Management in Advertising Cloud DSP
 description: About Placement Management in Advertising Cloud DSP
 exl-id: 1d1382d9-b6c8-44bf-a708-8458769a39c6

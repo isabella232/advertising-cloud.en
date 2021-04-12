@@ -1,8 +1,4 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: Create a Reusable Audience
 description: Create a Reusable Audience
 exl-id: 48e3dc4c-6e2d-452c-8d69-7e6211d808e0

@@ -1,8 +1,4 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: Native Ad Settings
 description: Native Ad Settings
 exl-id: 3ae59e63-ae64-41b2-8734-3df2da020c7c

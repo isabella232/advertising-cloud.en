@@ -1,8 +1,4 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: Cross-Device Solutions
 description: Cross-Device Solutions
 exl-id: 29f8ec41-35a6-4a29-a638-82a2929a8fe6

@@ -1,8 +1,4 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: Create a Placement
 description: Create a Placement
 exl-id: 4e37b571-9af4-4897-bff2-035a5f2600a5

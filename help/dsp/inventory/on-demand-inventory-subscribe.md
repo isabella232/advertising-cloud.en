@@ -1,8 +1,4 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: Subscribe and Request Access to On Demand Premium Inventory Deals
 description: Subscribe and Request Access to On Demand Premium Inventory Deals
 exl-id: e66e5bad-526e-4b71-8072-332dd173f105

@@ -1,8 +1,4 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: Sort a Data Column
 description: Sort a Data Column
 exl-id: ed27246a-a31e-4ad2-bc30-446478fc58d1

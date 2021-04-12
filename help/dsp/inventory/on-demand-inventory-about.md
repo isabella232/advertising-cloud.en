@@ -1,8 +1,4 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: About On Demand Premium Inventory
 description: About On Demand Premium Inventory
 exl-id: d23d4e4e-f29f-4dba-afe3-7198ef4ee544

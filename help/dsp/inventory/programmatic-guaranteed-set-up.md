@@ -1,8 +1,4 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: Set up a Programmatic Guaranteed Deal
 description: Set up a Programmatic Guaranteed Deal
 exl-id: 9e371606-5428-4635-9653-7dc43449e489

@@ -1,8 +1,4 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: About CCPA Opt-out-of-Sale Segments and Reports
 description: About CCPA Opt-out-of-Sale Segments and Reports
 exl-id: 9256d34e-d0dd-4abf-bc96-2b599caf2a8e

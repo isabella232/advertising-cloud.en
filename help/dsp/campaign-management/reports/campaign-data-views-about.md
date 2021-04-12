@@ -1,8 +1,4 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: About the Campaign Data Views
 description: About the Campaign Data Views
 exl-id: acc312b9-2de4-4e2f-9b59-b91f23d82357

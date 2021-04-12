@@ -1,8 +1,4 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: Understanding Advertising Cloud DSP Macros
 description: Understanding Advertising Cloud DSP Macros
 exl-id: e31cc2e5-ad1f-4555-a87b-0e4c3731fe5f

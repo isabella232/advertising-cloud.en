@@ -1,8 +1,4 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: Retrieve Consumer Opt-Out-of-Sale Reports
 description: Retrieve Consumer Opt-Out-of-Sale Reports
 exl-id: 8ada787a-6dcf-455b-88f4-701743e68292

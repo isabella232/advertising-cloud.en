@@ -1,8 +1,4 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: Re-Request On Demand Premium Inventory Deals
 description: Re-Request On Demand Premium Inventory Deals
 exl-id: db5a5708-16e3-4304-8bd0-f1aa8ecd0e3c

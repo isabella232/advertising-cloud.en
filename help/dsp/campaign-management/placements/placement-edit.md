@@ -1,8 +1,4 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: Edit a Placement
 description: Edit a Placement
 exl-id: 135adad3-0bc0-4402-ac4a-a4fc71f78edf

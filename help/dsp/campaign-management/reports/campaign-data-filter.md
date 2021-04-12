@@ -1,8 +1,4 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: Filter Campaign Data
 description: Filter Campaign Data
 exl-id: 784f025c-a96b-45bb-8326-e2e5216197e3

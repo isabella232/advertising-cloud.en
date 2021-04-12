@@ -1,8 +1,4 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: Quickly Edit Key Placement Settings
 description: Quickly Key Placement Settings
 exl-id: 107ec263-a0f2-491b-8380-2cceaf51cae9

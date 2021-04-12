@@ -1,8 +1,4 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: Display Ad Settings
 description: Display Ad Settings
 exl-id: ae88dfab-0b0c-42ab-9135-422b20a4b6cd

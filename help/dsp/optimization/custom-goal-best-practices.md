@@ -1,8 +1,4 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: Best Practices for Building a Custom Goal
 description: Best Practices for Building a Custom Goal
 exl-id: 54b16325-4b72-48a3-a2e0-4e342229211c

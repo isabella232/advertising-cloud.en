@@ -1,8 +1,4 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: About Custom Reports
 description: About Custom Reports
 exl-id: 59fc1894-1c9d-451d-b644-5640dd311547

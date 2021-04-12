@@ -1,8 +1,4 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: Create Multiple Third-party Ads
 description: Create Multiple Third-party Ads
 exl-id: 83d35d27-1ab6-4fcf-877f-650a2dc6975a

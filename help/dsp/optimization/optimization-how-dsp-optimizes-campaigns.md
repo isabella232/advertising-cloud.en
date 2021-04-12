@@ -1,8 +1,4 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: How DSP Optimizes Your Campaigns
 description: How DSP Optimizes Your Campaigns
 exl-id: 054582ef-b677-4725-b25c-b82bf3e5b43e

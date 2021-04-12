@@ -1,8 +1,4 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: Brand Safety and Media Quality
 description: Brand Safety and Media Quality
 exl-id: df5be5d4-490e-479f-b76d-4fda4acd4201

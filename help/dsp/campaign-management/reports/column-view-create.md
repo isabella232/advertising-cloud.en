@@ -1,8 +1,4 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: Create a Custom Column View
 description: Create a Custom Column View
 exl-id: f39e6ce9-aa4e-4049-af16-eddb0ba30087

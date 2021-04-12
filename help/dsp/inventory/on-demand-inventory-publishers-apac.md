@@ -1,8 +1,4 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: On Demand Premium Inventory Publishers in Asia Pacific
 description: On Demand Premium Inventory Publishers in Asia Pacific
 exl-id: dda5f9fb-2efb-475b-9219-dfa6294f3e01

@@ -1,8 +1,4 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: What's New in Advertising Cloud DSP
 description: This page describes new and recently-changed features in Advertising Cloud DSP.
 index: yes

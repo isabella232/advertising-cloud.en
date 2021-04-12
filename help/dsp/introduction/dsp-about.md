@@ -1,8 +1,4 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: About Adobe Advertising Cloud DSP
 description: About Adobe Advertising Cloud DSP
 exl-id: def006b2-eb51-4942-b277-a2e673bccc7f

@@ -1,8 +1,4 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: About Package Management in Advertising Cloud DSP
 description: About Package Management in Advertising Cloud DSP
 exl-id: 06d77698-62ae-466b-8cf7-c9148907ba6d

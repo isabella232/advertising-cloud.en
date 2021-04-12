@@ -1,8 +1,4 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: Archive or Unarchive a Placement
 description: Archive or Unarchive a Placement
 exl-id: 3d342f83-1bcb-4f80-b31a-2009bcdde565

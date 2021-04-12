@@ -1,8 +1,4 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: View a Detailed Report for a Campaign
 description: View a Detailed Report for a Campaign
 exl-id: 88fd3cdc-18af-4d3c-a93e-88058d56aabc

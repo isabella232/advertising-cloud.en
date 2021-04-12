@@ -1,8 +1,4 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: FAQs About Campaign Management
 description: FAQs About Campaign Management
 exl-id: 9034ab2c-b8b0-4759-bc87-5f73857bb062

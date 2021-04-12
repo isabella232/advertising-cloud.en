@@ -1,8 +1,4 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: Advertising Cloud IDs Used by Analytics
 description: Advertising Cloud IDs Used by Analytics
 exl-id: ed1aab7b-9bd0-4d42-9bfb-9c6fa6db76bc

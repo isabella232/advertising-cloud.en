@@ -1,8 +1,4 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: Duplicate a Campaign
 description: Duplicate a Campaign
 exl-id: 2bb4030d-22b0-4a16-aeed-35f64a19df6a

@@ -1,8 +1,4 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: Edit the Ad Schedule for a Placement
 description: Edit the Ad Schedule for a Placement
 exl-id: 880522d3-efcd-4ff9-8cef-bf6be626869c

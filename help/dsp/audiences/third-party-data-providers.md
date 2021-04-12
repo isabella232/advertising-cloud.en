@@ -1,8 +1,4 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: Available Third-party Data Providers in Advertising Cloud DSP
 description: Available Third-party Data Providers in Advertising Cloud DSP
 exl-id: f67d81a0-bd31-48d8-9bcf-1888afd43894
