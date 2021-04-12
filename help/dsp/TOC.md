@@ -1,6 +1,7 @@
 ---
 type: Documentation
 cloud: Experience Cloud
+solution: Advertising Cloud
 product: advertising cloud
 user-guide-title: Advertising Cloud DSP Guide
 user-guide-description: This guide explains the major features, tasks, settings, and other resources required to manage, optimize, and report on your display ad strategies using Advertising Cloud DSP.
@@ -91,10 +92,6 @@ index: yes
       + [Filter Campaign Data](/help/dsp/campaign-management/reports/campaign-data-filter.md)
       + [Sort a Column](/help/dsp/campaign-management/reports/campaign-data-sort.md)
     + [Manage Data Visualizations](/help/dsp/campaign-management/reports/campaign-data-visualization-manage.md)
-<!--   + Correct Campaign Data Using Excel Files {qa} -->
-<!--    +  [About Correcting Campaign Data Using Excel Files](/help/dsp/campaign-management/qa/qa-about.md)  -->
-<!--    +  [Download Campaign Data in an Excel File](/help/dsp/campaign-management/qa/qa-sheet-download.md)  -->
-<!--    +  [Upload Campaign Data in an Excel File](/help/dsp/campaign-management/qa/qa-sheet-upload.md)  -->
   + [Understanding Advertising Cloud DSP Macros](/helpS/dsp/campaign-management/macros.md)
   + [Keyboard Shortcuts](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
   + [FAQs About Campaign Management](/help/dsp/campaign-management/campaign-management-faq.md)
