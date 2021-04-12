@@ -12,7 +12,6 @@ A supply-side platform (SSP) is an advertising technology platform used to help 
 |Adap.tv|Verizon Media Group|TubeMogul or Adobe Advertising Cloud|No|Global|USD|X|X|X|||||
 |AdColony (previously Opera)|Digital Turbine|TubeMogul|No|Global|USD||x||||||
 |AdsWizz|Sirius XM Pandora|Adobe Advertising Cloud|No|Global|USD, EUR, GBP|||||||x|
-|Aerserv (now InMobi)||TubeMogul or Adobe Advertising Cloud|No|North America|USD||x|||x|||
 |Ambient Digital|n/a|TubeMogul|Yes|SEA|USD||x||x|||x|
 |AppNexus|Xandr|Video Seat ID: 9094<br>Display Seat ID: 3939|No|Global|USD|x|x|x|x|x|||
 |DailyMotion|n/a|TubeMogul or Adobe Advertising Cloud|No|US + EMEA|USD, EUR|x|x|x|||||
