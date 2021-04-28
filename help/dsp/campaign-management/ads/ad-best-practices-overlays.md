@@ -22,5 +22,5 @@ exl-id: e0511391-bbfd-42de-be65-9bfd4f8702eb
 >[!MORELIKETHIS]
 >
 >* [Create an Ad](ad-create.md)
->* [Mobile Ad Settings](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
->* [Pre-roll Ad Settings](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
+>* [Mobile Ad Settings](ad-settings-mobile.md)
+>* [Pre-roll Ad Settings](ad-settings-pre-roll.md)

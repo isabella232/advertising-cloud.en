@@ -21,8 +21,8 @@ exl-id: ef140d61-f04e-4c1c-acdd-9985730dfb07
 >[!MORELIKETHIS]
 >
 >* [About Ad Management](ad-about.md)
->* [Create an Ad](/help/dsp/campaign-management/packages/package-create.md)
+>* [Create an Ad](ad-create.md)
 >* [Create Multiple Third-party Ads](ad-create-third-party.md)
 >* [Duplicate an Ad](ad-duplicate.md)
->* [List the Placements Associated with an Ad](/help/dsp/campaign-management/ads/ad-list-placements.md)
+>* [List the Placements Associated with an Ad](ad-list-placements.md)
 >* [Ad Specifications](/help/dsp/assets/ad-specs.pdf)

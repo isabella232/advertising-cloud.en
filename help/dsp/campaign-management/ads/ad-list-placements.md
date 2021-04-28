@@ -16,5 +16,5 @@ View a list of placements associated with an ad to see performance data by place
 >
 >* [About Ad Management](ad-about.md)
 >* [Edit an Ad](ad-edit.md)
->* [Edit a Placement](/help/dsp/campaign-management/placements/placement-edit.md
+>* [Edit a Placement](/help/dsp/campaign-management/placements/placement-edit.md)
 >* [View a Detailed Report for a Placement](/help/dsp/campaign-management/placements/placement-view-report.md)
