@@ -156,7 +156,7 @@ index: yes
     + [Advertising Cloud IDs Used by Analytics](/help/dsp/integrations/analytics/ids.md)
     + Planning Your Implementation {#planning}
         + [Prerequisites and Key Information for Implementing Analytics for Advertising Cloud](/help/dsp/integrations/analytics/prerequisites.md)
-        + [JavaScript Code for Analytics for Ad Cloud](/help/dsp/integrations/analytics/javascript.md)
+        + [JavaScript Code for Analytics for Advertising Cloud](/help/dsp/integrations/analytics/javascript.md)
     + Data Exchanged {#data}
         + [Advertising Cloud Metrics in Analysis Workspace](/help/dsp/integrations/analytics/advertising-cloud-metrics-in-analytics.md)
         + [Analytics Data in Advertising Cloud](/help/dsp/integrations/analytics/analytics-data-in-advertising-cloud.md)
