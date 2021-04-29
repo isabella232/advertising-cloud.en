@@ -102,7 +102,7 @@ To see how you can create an Advertising Cloud site entry report to monitor day-
 >* [Video: Introduction to Analytics for Advertising Cloud](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/intro-a4adc.html)
 >* [Prerequisites and Key Information for Implementing Analytics for Advertising Cloud](prerequisites.md)
 >* [Advertising Cloud IDs Used by Analytics](ids.md)
->* [JavaScript Code for Analytics for Ad Cloud](/help/dsp/integrations/analytics/javascript.md)
+>* [JavaScript Code for Analytics for Advertising Cloud](/help/dsp/integrations/analytics/javascript.md)
 >* [Expected Data Variances Between Analytics and Advertising Cloud](data-variances.md)
 >* [Advertising Cloud Metrics in Analysis Workspace](/help/dsp/integrations/analytics/advertising-cloud-metrics-in-analytics.md)
 >* [Analytics Data in Advertising Cloud](/help/dsp/integrations/analytics/analytics-data-in-advertising-cloud.md)

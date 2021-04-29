@@ -109,4 +109,4 @@ When you're troubleshooting in Analytics, be sure to confirm that the supplement
 >[!MORELIKETHIS]
 >
 >* [Overview of Analytics for Advertising Cloud](overview.md)
->* [JavaScript Code for Analytics for Ad Cloud](/help/dsp/integrations/analytics/javascript.md)
+>* [JavaScript Code for Analytics for Advertising Cloud](/help/dsp/integrations/analytics/javascript.md)
