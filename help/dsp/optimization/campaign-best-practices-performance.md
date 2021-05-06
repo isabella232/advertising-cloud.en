@@ -1,6 +1,7 @@
 ---
 title: Best Practices for Setting up Performance Campaigns
-description: Best Practices for Setting up Performance Campaigns
+description: Learn best practices for setting up your performance-focused campaigns, which include placements optimized for the lowest CPA or the highest ROAS.
+feature: optimization
 exl-id: fc64680d-9d1c-4f74-a8b9-2e9b670c00eb
 ---
 # Best Practices for Setting up Performance Campaigns

@@ -1,6 +1,7 @@
 ---
 title: Edit a Placement
-description: Edit a Placement
+description: Learn how to edit a placement.
+feature: campaign management, placements
 exl-id: 135adad3-0bc0-4402-ac4a-a4fc71f78edf
 ---
 # Edit a Placement

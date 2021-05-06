@@ -1,6 +1,7 @@
 ---
 title: Retrieve Consumer Opt-Out-of-Sale Reports
-description: Retrieve Consumer Opt-Out-of-Sale Reports
+description: Learn how to retrieve reports of IDs submitted for opt-out-of-sale requests.
+feature: audience management, CCPA opt-out-of-sale segments, CCPA
 exl-id: 8ada787a-6dcf-455b-88f4-701743e68292
 ---
 # Retrieve Consumer Opt-Out-of-Sale Reports

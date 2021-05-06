@@ -1,6 +1,7 @@
 ---
 title: On Demand Premium Inventory Publishers in North America
-description: On Demand Premium Inventory Publishers in North America
+description: See the available On Demand premium inventory publishers in North America.
+feature: inventory, On Demand inventory
 exl-id: 47136e55-aab9-4112-8317-1aafca0b1c49
 ---
 # On Demand Premium Inventory Publishers in North America

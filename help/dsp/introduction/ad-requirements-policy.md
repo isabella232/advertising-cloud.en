@@ -1,6 +1,7 @@
 ---
 title: Adobe Advertising Cloud Ad Requirements Policy
-description: Adobe Advertising Cloud Ad Requirements Policy
+description: See the policy for ad requirements.
+feature: policies
 exl-id: 49c990e7-05d7-4fde-a728-d9e8dfb86222
 ---
 # Adobe Advertising Cloud Ad Requirements Policy

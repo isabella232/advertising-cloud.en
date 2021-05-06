@@ -1,6 +1,7 @@
 ---
 title: Pause or Activate a Placement
-description: Pause or Activate a Placement
+description: Learn how to pause or activate a placement.
+feature: campaign management, placements
 exl-id: 9b7f1a2b-0ced-4e09-870b-172897e49b27
 ---
 # Pause or Activate a Placement

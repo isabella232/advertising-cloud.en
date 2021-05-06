@@ -1,6 +1,7 @@
 ---
 title: Mobile Ad Settings
-description: Mobile Ad Settings
+description: See descriptions of the available ad settings for mobile ads.
+feature: campaign management, ads
 exl-id: f67c4ba0-1011-4ad6-bd36-98c312b81b67
 ---
 # Mobile Ad Settings

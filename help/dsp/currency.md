@@ -1,7 +1,7 @@
 ---
-description: Currencies Supported in Adobe Advertising Cloud
-solution: Advertising Cloud
-subtopic: 
+title: Currencies Supported in Adobe Advertising Cloud
+description: See a list of the supported currencies.
+feature: custom reports, campaign management
 ---
 
 # Currencies Supported in Adobe Advertising Cloud

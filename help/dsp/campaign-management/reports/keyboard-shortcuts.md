@@ -1,6 +1,7 @@
 ---
 title: Keyboard Shortcuts
-description: Keyboard Shortcuts
+description: Reference the keyboard shortcuts available within placement settings.
+feature: campaign management, placements
 exl-id: bef0406c-9c10-48ec-b069-b887ef8f66ae
 ---
 # Keyboard Shortcuts

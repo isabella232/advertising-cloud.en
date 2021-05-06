@@ -1,6 +1,7 @@
 ---
 title: Audience Settings
-description: Audience Settings
+description: See descriptions of the available audience settings.
+feature: audience management
 exl-id: 959c1e04-cb09-42f0-a261-580ff98b86be
 ---
 # Audience Settings

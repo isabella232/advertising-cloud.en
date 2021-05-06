@@ -1,6 +1,7 @@
 ---
 title: About the Campaign Data Views
-description: About the Campaign Data Views
+description: Learn how you can customize the data views for campaigns, packages, placements, and ads.
+feature: campaign management, data views
 exl-id: acc312b9-2de4-4e2f-9b59-b91f23d82357
 ---
 # About the Campaign Data Views

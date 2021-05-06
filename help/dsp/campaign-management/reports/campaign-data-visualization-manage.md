@@ -1,6 +1,7 @@
 ---
 title: Manage Data Visualizations
-description: Manage Data Visualizations
+description: Learn how to change the metrics and display mode for data visualizations.
+feature: campaign management
 exl-id: f557ddfc-9a20-4cbc-8ad3-230ba5df32e3
 ---
 # Manage Data Visualizations

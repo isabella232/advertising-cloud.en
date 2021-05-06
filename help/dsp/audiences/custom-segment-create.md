@@ -1,6 +1,7 @@
 ---
 title: Create and Implement a Custom Segment
-description: Create and Implement a Custom Segment
+description: Learn how to create and implement a custom segment to track users exposed to ads or users who visit your webpages.
+feature: audience management, custom segments
 exl-id: 691903e2-773e-4205-837e-822f435f57a7
 ---
 # Create and Implement a Custom Segment

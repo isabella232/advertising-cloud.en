@@ -71,8 +71,8 @@ index: yes
         + [Native Ad Settings](/help/dsp/campaign-management/ads/ad-settings-native.md)
         + [Pre-roll Ad Settings](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
       + [Best Practices for Designing Overlays](/help/dsp/campaign-management/ads/ad-best-practices-overlays.md)
-    + Bulk Third-party Ads {#bulk-third-party}
-      + [Create Multiple Third-party Ads](/help/dsp/campaign-management/ads/ad-create-third-party.md)
+    + Bulk Third-Party Ads {#bulk-third-party}
+      + [Create Multiple Third-Party Ads](/help/dsp/campaign-management/ads/ad-create-third-party.md)
     + [Attach an Ad to a Placement](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/campaign-management/ads/ad-attach-to-placement.html)<!-- Dupe link to this file, so need to use an absolute link in one of the listings -->
     + [Edit an Ad](/help/dsp/campaign-management/ads/ad-edit.md)
     + [Duplicate an Ad](/help/dsp/campaign-management/ads/ad-duplicate.md)

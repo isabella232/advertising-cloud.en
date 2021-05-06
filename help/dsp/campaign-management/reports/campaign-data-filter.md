@@ -1,6 +1,7 @@
 ---
 title: Filter Campaign Data
-description: Filter Campaign Data
+description: Learn how to apply filters to narrow the campaign data that's displayed.
+feature: campaign management, data views
 exl-id: 784f025c-a96b-45bb-8326-e2e5216197e3
 ---
 # Filter Campaign Data

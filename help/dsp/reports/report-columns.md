@@ -1,6 +1,7 @@
 ---
 title: Available Report Columns
-description: Available Report Columns
+description: See descriptions of available columns in custom reports.
+feature: custom reports
 exl-id: c96e46ae-2fb2-4364-9c51-f160c00693ba
 ---
 # Available Report Columns

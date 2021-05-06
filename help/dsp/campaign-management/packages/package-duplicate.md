@@ -1,6 +1,7 @@
 ---
 title: Duplicate a Package
-description: Duplicate a Package
+description: Learn how to duplicate a package.
+feature: campaign management, packages
 exl-id: 4c37883f-5feb-4513-9573-ed4e32606132
 ---
 # Duplicate a Package

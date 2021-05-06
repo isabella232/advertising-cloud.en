@@ -1,6 +1,7 @@
 ---
 title: Create and Implement a CCPA Opt-out-of-Sale Segment
-description: Create and Implement a CCPA Opt-out-of-Sale Segment
+description: Learn how to create and implement a segment to track users IDs from consumer opt-out-of-sale requests.
+feature: audience management, CCPA opt-out-of-sale segments, CCPA
 exl-id: aebe0c5b-382f-4e4a-b145-c32f32d216ca
 ---
 # Create and Implement a CCPA Opt-out-of-Sale Segment

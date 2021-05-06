@@ -1,6 +1,7 @@
 ---
 title: Accept a Deal in the Deal ID Inbox
-description: Accept a Deal in the Deal ID Inbox
+description: Learn how to accept a private deal you've already negotiated with a publisher on Google Authorized Buyers, FreeWheel, or Rubicon using the Deal ID Inbox.
+feature: inventory, deal IDs, Deal ID Inbox
 exl-id: 55e8ca50-05f5-4f38-9fd5-afaed71315dc
 ---
 # Accept a Deal in the Deal ID Inbox

@@ -1,6 +1,7 @@
 ---
 title: Brand Safety and Media Quality
-description: Brand Safety and Media Quality
+description: Learn more about brand safety and media quality features.
+feature: brand safety, media quality
 exl-id: df5be5d4-490e-479f-b76d-4fda4acd4201
 ---
 # Brand Safety and Media Quality

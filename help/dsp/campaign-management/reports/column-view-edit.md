@@ -1,6 +1,7 @@
 ---
 title: Edit a Custom Column View
-description: Edit a Custom Column View
+description: Learn how to edit a custom column view.
+feature: campaign management, data views
 exl-id: 54ab4d03-39f6-40c8-b99f-aac449241923
 ---
 # Edit a Custom Column View

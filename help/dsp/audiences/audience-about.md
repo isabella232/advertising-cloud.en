@@ -1,6 +1,7 @@
 ---
 title: About Audience Management in Advertising Cloud DSP
-description: About Audience Management in Advertising Cloud DSP
+description: Learn about audience management features.
+feature: audience management
 exl-id: 624d2211-59a2-4791-b8f1-a9a5cecd0b8e
 ---
 # About Audience Management in Advertising Cloud DSP

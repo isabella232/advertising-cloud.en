@@ -1,6 +1,7 @@
 ---
 title: Placement Settings
-description: Placement Settings
+description: See descriptions of the available placement settings.
+feature: campaign management, placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
 ---
 # Placement Settings

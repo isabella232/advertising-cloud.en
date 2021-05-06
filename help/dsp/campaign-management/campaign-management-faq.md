@@ -1,6 +1,7 @@
 ---
 title: FAQs About Campaign Management
-description: FAQs About Campaign Management
+description: Learn more about campaign management, including the latency period for changes and what happens when you make budget changes during a flight.
+feature: campaign management, packages, placements
 exl-id: 9034ab2c-b8b0-4759-bc87-5f73857bb062
 ---
 # FAQs About Campaign Management

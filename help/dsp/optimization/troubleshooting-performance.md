@@ -1,6 +1,7 @@
 ---
 title: Troubleshooting Performance
-description: Troubleshooting Performance
+description: Reference common performance issues and see how to troubleshoot them.
+feature: optimization
 exl-id: adb32257-dede-4623-9840-33221c218443
 ---
 # Troubleshooting Performance

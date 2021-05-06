@@ -1,6 +1,7 @@
 ---
 title: About On Demand Premium Inventory
-description: About On Demand Premium Inventory
+description: Learn about the deals that DSP has pre-negotiated with premium publisher partners.
+feature: inventory, On Demand inventory
 exl-id: d23d4e4e-f29f-4dba-afe3-7198ef4ee544
 ---
 # About On Demand Premium Inventory

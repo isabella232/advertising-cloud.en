@@ -1,6 +1,7 @@
 ---
 title: About Adobe Advertising Cloud DSP
 description: About Adobe Advertising Cloud DSP
+feature: introduction, optimization, cross-device solutions, media quality, integration with Adobe Analytics, integration with Adobe Audience Manager, integration with Adobe Experience Platform, connected TV 
 exl-id: def006b2-eb51-4942-b277-a2e673bccc7f
 ---
 # About Adobe Advertising Cloud DSP

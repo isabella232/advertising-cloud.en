@@ -1,6 +1,7 @@
 ---
 title: Adobe Advertising Cloud Data Usage Guidelines
-description: Adobe Advertising Cloud Data Usage Guidelines
+description: See the guidelines for data usage.
+feature: policies
 exl-id: c3f68457-92c6-472a-93f4-cce9aeaecc53
 ---
 # Adobe Advertising Cloud Data Usage Guidelines

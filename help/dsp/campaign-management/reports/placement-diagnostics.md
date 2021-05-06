@@ -1,13 +1,14 @@
 ---
 title: View the Placement Diagnostic Reports
-description: View the Placement Diagnostic Reports
+description: Learn how to diagnose issues with placement setup and pacing.
+feature: campaign management, placements, diagnostics
 exl-id: d64406b6-83b5-4ae7-984c-98610fc1ee40
 ---
 # View the Placement Diagnostic Reports
 
 <!-- Does this really belong in the Campaign Management > Reports section or in the Placements section? -->
 
-The following tools can help you diagnose issues with placement setup or pacing once a campaign is live:
+The following tools can help you diagnose issues with placement setup and pacing once a campaign is live:
 
 * **Change Log:** Shows changes to key placement settings, such as the name, status, and maximum bid. Each entry includes the date and username of the person who made the change.
 * **Ad Approvals:** Shows whether ads were approved or rejected by the inventory providers. You can optionally change the status of any ad (for example, pause a rejected ad) or open the ad settings.

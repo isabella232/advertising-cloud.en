@@ -1,6 +1,7 @@
 ---
 title: Manual Deal ID Settings
-description: Manual Deal ID Settings
+description: See descriptions of the settings for manually-entered Deal IDs.
+feature: inventory, deal IDs
 exl-id: 0cd5e9e8-2b13-4b1e-a2e0-b8b492f75acf
 ---
 # Manual Deal ID Settings

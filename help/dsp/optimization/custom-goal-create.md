@@ -1,6 +1,7 @@
 ---
 title: Create a Custom Goal
 description: Create a Custom Goal
+feature: optimization
 exl-id: 440ded21-92d3-41ad-839f-ebc8376aa932
 ---
 # Create a Custom Goal

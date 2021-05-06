@@ -1,6 +1,7 @@
 ---
 title: Best Practices for Building a Custom Goal
-description: Best Practices for Building a Custom Goal
+description: Learn the best practices for building custom goals to define your success events.
+feature: optimization
 exl-id: 54b16325-4b72-48a3-a2e0-4e342229211c
 ---
 # Best Practices for Building a Custom Goal

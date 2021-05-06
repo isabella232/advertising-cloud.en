@@ -1,6 +1,7 @@
 ---
 title: Create a Placement
-description: Create a Placement
+description: Learn how to create a placement.
+feature: campaign management, placements
 exl-id: 4e37b571-9af4-4897-bff2-035a5f2600a5
 ---
 # Create a Placement

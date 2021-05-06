@@ -1,6 +1,7 @@
 ---
 title: Quickly Edit Key Placement Settings
-description: Quickly Key Placement Settings
+description: Learn how to quickly change key placement settings.
+feature: campaign management, placements
 exl-id: 107ec263-a0f2-491b-8380-2cceaf51cae9
 ---
 # Quickly Edit Key Placement Settings

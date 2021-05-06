@@ -1,6 +1,7 @@
 ---
 title: Custom Report Settings
-description: Custom Report Settings
+description: See descriptions of the custom report settings.
+feature: custom reports
 ---
 
 # Custom Report Settings

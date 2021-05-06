@@ -1,6 +1,7 @@
 ---
 title: Edit the Ad Schedule for a Placement
-description: Edit the Ad Schedule for a Placement
+description: Learn how to change the ad schedules for the ads attached to a placement.
+feature: campaign management, placements
 exl-id: 880522d3-efcd-4ff9-8cef-bf6be626869c
 ---
 # Edit the Ad Schedule for a Placement
