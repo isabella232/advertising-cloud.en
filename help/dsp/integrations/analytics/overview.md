@@ -95,7 +95,7 @@ To learn how you can track your Advertising Cloud data against your goals in Ana
 
 ### Using the Advertising Cloud ID for Site Entry Analysis
 
-To see how you can create an Advertising Cloud site entry report to monitor day-of-week, time-of-day, browser, and geographical influences, see the video "[Create Advertising Cloud Site Entry Reports](https://experienceleague.corp.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-site-entry-a4adc.html)."
+To see how you can create an Advertising Cloud site entry report to monitor day-of-week, time-of-day, browser, and geographical influences, see the video "[Create Advertising Cloud Site Entry Reports](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-site-entry-a4adc.html)."
 
 >[!MORELIKETHIS]
 >
