@@ -18,7 +18,7 @@ exl-id: b4d415d1-86a5-40bd-b645-1709b267c174
 >
 >Billable fees are reflected in the Net CPM metric.
 >
-* **CPM:** The cost per thousand impressions (CPM).
+* **CPM:** The cost per 1000 impressions (CPM).
 
 * **CPM Description:** A description of the CPM fee.
 
@@ -28,7 +28,7 @@ You can override the package-level setting at the [placement level](/help/dsp/ca
 
 **Pacing & Capping:** (Read-only for existing packages) At which level to pace and cap placements in the package:
 
-* **Package level pacing:** This pacing strategy operates by pacing and capping all included placements as a *group*. This ensures that all placements within a given package are optimized holistically, distributing spend based on performance and scale to selected key performance indicators (KPIs).
+* **Package level pacing:** This pacing strategy operates by pacing and capping all included placements as a *group*. This strategy ensures that all placements within a given package are optimized holistically, distributing spend based on performance and scale to selected key performance indicators (KPIs).
 
 * **Placement level pacing:**  This pacing strategy operates by pacing and capping all included placements *individually*. The best practice is to use this strategy only to execute guaranteed private marketplace deals.
 
@@ -59,7 +59,7 @@ For packages with custom flighting, the budget interval is always *All time*. Fo
 
 * *Other:* All other purposes.
 
-**Linked Package for Optimization Learnings Carryover:** (Packages with custom optimization goals only) Another package whose historic data will be used as input for optimizing the package.
+**Linked Package for Optimization Learnings Carryover:** (Packages with custom optimization goals only) Another package whose historic data is used as input for optimizing the package.
 
 **Target:** (Packages with package-level pacing only) The target goal, which is used to track performance.
 
@@ -67,15 +67,15 @@ For packages with custom flighting, the budget interval is always *All time*. Fo
 >
 >This field is only a benchmark and isn't used for decisioning.
 
-**Frequency Cap:** (Packages with package-level pacing only) The number of times a unique device or person (depending on the specified Cross Device Level) will be served ads from the package. Options include *Unlimited* or a specific amount per day, week, or month.
+**Frequency Cap:** (Packages with package-level pacing only) The number of times a unique device or person (depending on the specified Cross Device Level) can be served ads from the package. Options include *Unlimited* or a specific amount per day, week, or month.
 
 >[!NOTE]
 >
->* You can set frequency caps at the campaign, package, and placement levels. DSP will respect the strictest frequency cap in the campaign hierarchy.
+>* You can set frequency caps at the campaign, package, and placement levels. DSP respects the strictest frequency cap in the campaign hierarchy.
 >* The best practice is to set frequency caps for both prospecting and retargeting at the package level.
 > * Higher frequency caps result in higher spend and impressions but lower reach. Lower frequency caps result in lower spend and impressions but higher reach.
 
-**Pace on:** (Packages with package-level pacing only) What pacing will be based on:
+**Pace on:** (Packages with package-level pacing only) What pacing is based on:
 
 * **Budget:** (Default) This option delivers as many impressions as possible within the allocated package budget.
 
@@ -85,17 +85,17 @@ For packages with custom flighting, the budget interval is always *All time*. Fo
 
 * *Even:* Paces delivery uniformly throughout each flight, with a target of 50% of the delivery in the first half of the flight.
 
-* *Slightly Ahead:* (The default) Accelerate delivery to be 55-65% complete when halfway through the flight duration.
+* *Slightly Ahead:* (The default) Accelerates delivery so that it' 55-65% complete halfway through the flight duration.
 
-* *Frontload:* Accelerates delivery so that it is 65-75% complete halfway through the flight.
+* *Frontload:* Accelerates delivery so that it's 65-75% complete halfway through the flight.
 
-* *Aggressive Frontload:* Accelerates delivery so that it is 75-85% complete halfway through the flight.
+* *Aggressive Frontload:* Accelerates delivery so that it's 75-85% complete halfway through the flight.
 
 ## Flighting
 
 (Packages with package-level pacing and with "Activate Custom Flighting" enabled) Custom flight periods within the overall Flight Dates specified in the Goals & Budget section.
 
-For each flight, enter the start date, end date, and the target number of impressions. To add an additional flight, click **Add Flight**.
+For each flight, enter the start date, end date, and the target number of impressions. To add another flight, click **Add Flight**.
 
 >[!MORELIKETHIS]
 >
