@@ -85,7 +85,7 @@ For packages with custom flighting, the budget interval is always *All time*. Fo
 
 * *Even:* Paces delivery uniformly throughout each flight, with a target of 50% of the delivery in the first half of the flight.
 
-* *Slightly Ahead:* (The default) Accelerates delivery so that it' 55-65% complete halfway through the flight duration.
+* *Slightly Ahead:* (The default) Accelerates delivery so that it's 55-65% complete halfway through the flight duration.
 
 * *Frontload:* Accelerates delivery so that it's 65-75% complete halfway through the flight.
 
