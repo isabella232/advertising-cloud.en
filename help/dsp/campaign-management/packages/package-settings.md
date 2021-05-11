@@ -83,7 +83,9 @@ For packages with custom flighting, the budget interval is always *All time*. Fo
 
 **Pacing Fill Strategy:** (Packages with package-level pacing only) How to pace ad delivery:
 
-* *Even:* (The default) Paces delivery uniformly throughout each flight, with a target of 50% of the delivery in the first half of the flight.
+* *Even:* Paces delivery uniformly throughout each flight, with a target of 50% of the delivery in the first half of the flight.
+
+* *Slightly Ahead:* (The default) Accelerate delivery to be 55-65% complete when halfway through the flight duration.
 
 * *Frontload:* Accelerates delivery so that it is 65-75% complete halfway through the flight.
 
