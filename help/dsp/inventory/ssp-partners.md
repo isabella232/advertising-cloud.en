@@ -8,6 +8,10 @@ exl-id: 8487f4ce-0232-4145-ad8b-b0631fd0ab7f,None
 
 A supply-side platform (SSP) is an advertising technology platform used to help digital media owners and publishers sell digital ads in automated auctions. Digital media owners and publishers use SSPs to coordinate, manage, and monetize the supply and distribution of their ad inventory. Advertising Cloud DSP is integrated with all leading SSPs, allowing advertisers to easily access high-quality inventory for their advertising needs.
 
+>[!NOTE]
+>
+>All SSP partnerships are subject to change. This list reflects the current partnerships.
+
 |SSP Listed|Company|Seat ID|Programmatic Guaranteed Support|Region|Supported Currency|Video Desktop|Video Mobile|Video CTV|Display Desktop|Display Mobile|Native Display|Audio Desktop & Mobile|
 |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
 |Adap.tv|Verizon Media Group|TubeMogul or Adobe Advertising Cloud|No|Global|USD|X|X|X|||||
