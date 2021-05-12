@@ -90,4 +90,4 @@ A supply-side platform (SSP) is an advertising technology platform used to help 
 
 >[!MORELIKETHIS]
 >
->* [Overview of Inventory Features](ssp-partners.md)
+>* [Overview of Inventory Features](overview.md)
