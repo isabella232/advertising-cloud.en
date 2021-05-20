@@ -20,9 +20,10 @@ index: yes
     + [Brand Safety and Media Quality](/help/dsp/introduction/features/brand-safety-media-quality.md)
     + [Cross-Device Solutions](/help/dsp/introduction/features/cross-device-solutions.md)
   + Support for Consumer Privacy {#privacy}
-    + [Support for the General Data Protection Regulation](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ad-cloud-gdpr.html)
-    + [Support for the California Consumer Privacy Act: Consumer Data Access and Delete](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ad-cloud-ccpa-access-delete.html)
-    + [Support for the California Consumer Privacy Act: Consumer Opt-Out-of-Sale](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ad-cloud-ccpa-opt-out-of-sale.html)
+    + [Support for the General Data Protection Regulation](/help/privacy/ad-cloud-gdpr.html)
+    + Support for CCPA {#ccpa}
+      + [Support for the California Consumer Privacy Act: Consumer Data Access and Delete](/help/privacy/ad-cloud-ccpa-access-delete.html)
+      + [Support for the California Consumer Privacy Act: Consumer Opt-Out-of-Sale](help/privacy/ad-cloud-ccpa-opt-out-of-sale.html)
   + Policies and Guidelines {#policies}
     + [Advertising Cloud Ads Requirements Policy](/help/dsp/introduction/ad-requirements-policy.md)
     + [Advertising Cloud Data Usage Guidelines](/help/dsp/introduction/data-usage-guidelines.md)
