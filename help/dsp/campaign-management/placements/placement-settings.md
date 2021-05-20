@@ -181,6 +181,10 @@ To specify inventory targeting:
 >
 >If you subscribed to On Demand inventory but can't locate the publishers or deals to target, then check the status of the deals. For more information about statuses, see [About On Demand Premium Inventory](/help/dsp/inventory/on-demand-inventory-about.md).
 
+**Exclude out-stream:** (Video placements only) Excludes outstream traffic.
+
+Outstream ads usually appear over the content as a pop-up or stuffed into content (in the native experience), rather than as regular video ads in a video player.
+
 ## Site Targeting
 
 **Traffic type:** The types of traffic to target. Options include **Websites** and **Apps**.
@@ -239,6 +243,8 @@ To specify inventory targeting:
 **Site List Preview** (Read-only) All targeted and blocked sites for the placement.
 
 You can optionally export the list of targeted and blocked sites as a comma-separated values (CSV) file. To export the list, click **Export full site list*, and then open or save the file according to your browser's normal procedure.
+
+<!-- **Allow unscreened sites:** (XXX placements only) Allows you to XXXX.   Optional available for https://advertising.adobe.com/configurator/placement/edit/2432022 -->
 
 **Paste list of targeted sites:** Allows you to target specific sites only. When you enable this option, the other site targeting options are disabled.
 
