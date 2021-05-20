@@ -94,6 +94,11 @@ index: yes
       + [Filter Campaign Data](/help/dsp/campaign-management/reports/campaign-data-filter.md)
       + [Sort a Column](/help/dsp/campaign-management/reports/campaign-data-sort.md)
     + [Manage Data Visualizations](/help/dsp/campaign-management/reports/campaign-data-visualization-manage.md)
+    + Correct Placement Settings for a Campaign Using Spreadsheets {#qa-spreadsheet}
+        + [About Correcting Placement Settings for a Campaign Using Spreadsheets](/help/dsp/campaign-management/qa/qa-about.md)
+        + [Download Placement Settings for a Campaign](/help/dsp/campaign-management/qa/qa-sheet-download.md)
+        + [Upload Placement Settings for a Campaign](/help/dsp/campaign-management/qa/qa-sheet-upload.md)
+        + [Columns in Downloaded/Uploaded Spreadsheets](/help/dsp/campaign-management/qa/qa-sheet-columns.md)
   + [Understanding Advertising Cloud DSP Macros](/help/dsp/campaign-management/macros.md)
   + [Keyboard Shortcuts](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
   + [FAQs About Campaign Management](/help/dsp/campaign-management/campaign-management-faq.md)
