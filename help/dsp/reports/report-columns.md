@@ -158,4 +158,6 @@ exl-id: c96e46ae-2fb2-4364-9c51-f160c00693ba
 >
 >* [About Custom Reports](/help/dsp/reports/report-about.md)
 >* [Create a Custom Report](/help/dsp/reports/report-create.md)
+>* [Duplicate a Custom Report](/help/dsp/reports/report-copy.md)
+>* [Edit a Custom Report](/help/dsp/reports/report-edit.md)
 >* [Custom Report Settings](/help/dsp/reports/report-settings.md)
