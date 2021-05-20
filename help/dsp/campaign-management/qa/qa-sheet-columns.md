@@ -41,9 +41,9 @@ feature: QA sheets
 | Goals | Secondary Frequency Cap Interval | The type of interval for the secondary frequency cap: <i>Week</i>, <i>Day</i>, <i>Hour</i>, or <i>Minute</i>. The applicable number of weeks, days, hours, or minutes is indicated by the Secondary Frequency Cap Interval Value. | Yes |
 | Goals | Secondary Frequency Cap Interval Value | The number of weeks, days, hours, or minutes for which the Secondary Frequency Cap applies. For example, if the secondary cap is three impressions per six hours, then the value here would be <b>6</>.  | Yes |
 | Audience Location | Audience Location - Included # | The number of targeted geographical locations, <i>All</i>, or <i>None</i>. | &mdash; |
-| Audience Location | Audience Location - Included | The targeted geographical locations, separated by semi-colons (;),or <i>All Locations</i>. | &mdash; |
+| Audience Location | Audience Location - Included | The targeted geographical locations, separated by semi-colons,or <i>All Locations</i>. | &mdash; |
 | Audience Location | Audience Location - Excluded # | The number of excluded geographical locations or <i>None</i>. | &mdash; |
-| Audience Location | Audience Location - Excluded | The excluded geographical locations, separated by semi-colons (;),  or <i>None</i>. | &mdash; |
+| Audience Location | Audience Location - Excluded | The excluded geographical locations, separated by semi-colons,  or <i>None</i>. | &mdash; |
 | Inventory | Public Inventory - Included # | The number of targeted public inventory deals, if any are specified, <i>All</i>, or <i>None</i>. | &mdash; |
 | Inventory | Public Inventory - Excluded # | The number of excluded public inventory deals, if any are specified, or <i>None</i>. | &mdash; |
 | Inventory | Private Inventory - Included # | The number of targeted private inventory deals, if any are specified, <i>All</i>, or <i>None</i>. | &mdash; |
