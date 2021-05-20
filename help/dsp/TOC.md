@@ -149,6 +149,10 @@ index: yes
 + Custom Reports {#custom-reports}
   + [About Custom Reports](/help/dsp/reports/report-about.md)
   + [Create a Custom Report](/help/dsp/reports/report-create.md)
+  + [Edit a Custom Report](/help/dsp/reports/report-edit.md)
+  + [Duplicate a Custom Report](/help/dsp/reports/report-copy.md)
+  + [Run a Custom Report](/help/dsp/reports/report-run-now.md)
+  + [Delete a Custom Report](/help/dsp/reports/report-delete.md)
   + [Custom Report Settings](/help/dsp/reports/report-settings.md)
   + [Available Report Columns](/help/dsp/reports/report-columns.md)
 <!-- + [Integrations with Adobe Experience Cloud](/help/integrations/home.md) -->
