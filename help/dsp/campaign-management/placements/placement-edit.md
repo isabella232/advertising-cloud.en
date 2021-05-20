@@ -29,3 +29,4 @@ exl-id: 135adad3-0bc0-4402-ac4a-a4fc71f78edf
 >* [Pause or Activate a Placement](placement-pause-activate.md)
 >* [Keyboard Shortcuts](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
 >* [Placement Settings](placement-settings.md)
+>* [About Correcting Placement Settings for a Campaign Using Spreadsheets](/help/dsp/campaign-management/qa/qa-about.md)
