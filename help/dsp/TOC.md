@@ -23,7 +23,7 @@ index: yes
     + [Support for the General Data Protection Regulation](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ad-cloud-gdpr.html)
     + [Support for the California Consumer Privacy Act: Consumer Data Access and Delete](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ad-cloud-ccpa-access-delete.html)
     + [Support for the California Consumer Privacy Act: Consumer Opt-Out-of-Sale](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ad-cloud-ccpa-opt-out-of-sale.html)
-  + Policies {#policies}
+  + Policies and Guidelines {#policies}
     + [Advertising Cloud Ads Requirements Policy](/help/dsp/introduction/ad-requirements-policy.md)
     + [Advertising Cloud Data Usage Guidelines](/help/dsp/introduction/data-usage-guidelines.md)
   + [Available Advanced Measurement Services](/help/dsp/introduction/advanced-measurement-services.md)
@@ -150,6 +150,7 @@ index: yes
   + [Create a Custom Report](/help/dsp/reports/report-create.md)
   + [Custom Report Settings](/help/dsp/reports/report-settings.md)
   + [Available Report Columns](/help/dsp/reports/report-columns.md)
+<!-- + [Integrations with Adobe Experience Cloud](/help/integrations/home.md) -->
 + Integrations with Adobe Experience Cloud {#integrations}
   + Analytics for Advertising Cloud {#analytics}
     + [Overview of Analytics for Advertising Cloud](/help/dsp/integrations/analytics/overview.md)
