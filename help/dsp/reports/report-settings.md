@@ -111,9 +111,16 @@ Learn more about [cross-device solutions](/help/dsp/introduction/features/cross-
 
 **Send & Save:** When to send the report: *On Schedule* or *Run Now*. Scheduled reports will be delivered by 09:00 in the account's timezone.
 
+>[!NOTE]
+>
+>You can [run a custom report at any time](report-run-now.md) from the Reports view.
+
 >[!MORELIKETHIS]
 >
 >* [About Custom Reports](/help/dsp/reports/report-about.md)
 >* [Create a Custom Report](/help/dsp/reports/report-create.md)
+>* [Duplicate a Custom Report](/help/dsp/reports/report-copy.md)
+>* [Edit a Custom Report](/help/dsp/reports/report-edit.md)
+>* [Run a Custom Report](/help/dsp/reports/report-run-now.md)
 >* [Custom Report Settings](/help/dsp/reports/report-settings.md)
 * [Available Report Columns](/help/dsp/reports/report-columns.md)
