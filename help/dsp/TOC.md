@@ -23,7 +23,7 @@ index: yes
     + [Support for the General Data Protection Regulation](/help/privacy/ad-cloud-gdpr.md)
     + Support for CCPA {#ccpa}
       + [Support for the California Consumer Privacy Act: Consumer Data Access and Delete](/help/privacy/ad-cloud-ccpa-access-delete.md)
-      + [Support for the California Consumer Privacy Act: Consumer Opt-Out-of-Sale](help/privacy/ad-cloud-ccpa-opt-out-of-sale.md)
+      + [Support for the California Consumer Privacy Act: Consumer Opt-Out-of-Sale](/help/privacy/ad-cloud-ccpa-opt-out-of-sale.md)
   + Policies and Guidelines {#policies}
     + [Advertising Cloud Ads Requirements Policy](/help/dsp/introduction/ad-requirements-policy.md)
     + [Advertising Cloud Data Usage Guidelines](/help/dsp/introduction/data-usage-guidelines.md)
