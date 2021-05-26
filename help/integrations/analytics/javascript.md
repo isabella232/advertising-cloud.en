@@ -1,6 +1,7 @@
 ---
 title: JavaScript Code for Analytics for Advertising Cloud
 description: JavaScript Code for Analytics for Advertising Cloud
+feature: integration with Adobe Analytics
 exl-id: 184508ce-df8d-4fa0-b22b-ca0546a61d58
 ---
 # JavaScript Code for Analytics for Advertising Cloud
@@ -11,7 +12,7 @@ exl-id: 184508ce-df8d-4fa0-b22b-ca0546a61d58
 
 For Advertising Cloud DSP, the Analytics for Advertising Cloud integration tracks view-through and click-through site interactions. Click-through visits are tracked by the standard Adobe Analytics code on your webpages; the Analytics code captures the AMO ID and EF ID parameters in the landing page URL and tracks them in their respective reserved eVars. You can track view-through visits by deploying two lines of JavaScript code in your webpages.
 
-On the first page view of a visit to the site, the Advertising Cloud JavaScript code checks to see if the visitor has previously seen or clicked on an ad. If the user has previously entered the site via a click-through or hasn't seen an ad, then the visitor is ignored. If the visitor has seen an ad and hasn't entered the site via a click-through during the [click lookback window](/help/dsp/integrations/analytics/prerequisites.md#lookback-a4adc) set within Advertising Cloud, then the Advertising Cloud JavaScript code uses the [Experience Cloud ID Service](https://experienceleague.adobe.com/docs/id-service/using/home.html) to generate a supplemental ID (SDID), which is used to stitch data from Advertising Cloud to the visitor’s Adobe Analytics hit. Adobe Analytics then queries Advertising Cloud for the AMO ID and EF ID associated with the ad exposure. The AMO ID and EF IDs are then populated in their respective eVars. These values persist for a designated period (by default, 60 days).
+On the first page view of a visit to the site, the Advertising Cloud JavaScript code checks to see if the visitor has previously seen or clicked on an ad. If the user has previously entered the site via a click-through or hasn't seen an ad, then the visitor is ignored. If the visitor has seen an ad and hasn't entered the site via a click-through during the [click lookback window](/help/integrations/analytics/prerequisites.md#lookback-a4adc) set within Advertising Cloud, then the Advertising Cloud JavaScript code uses the [Experience Cloud ID Service](https://experienceleague.adobe.com/docs/id-service/using/home.html) to generate a supplemental ID (SDID), which is used to stitch data from Advertising Cloud to the visitor’s Adobe Analytics hit. Adobe Analytics then queries Advertising Cloud for the AMO ID and EF ID associated with the ad exposure. The AMO ID and EF IDs are then populated in their respective eVars. These values persist for a designated period (by default, 60 days).
 
 Analytics sends site traffic metrics (such as page views, visits, and time spent) and any Analytics custom or standard events to Advertising Cloud hourly, using the EF ID as the key. These Analytics metrics then run through the Advertising Cloud attribution system to connect the conversions to the click and exposure history.
 
@@ -31,7 +32,7 @@ If you don't already have the code, then contact the Advertising Cloud support t
 
 The Analytics for Advertising Cloud JavaScript function must come after the Experience Cloud ID Service but before your Analytics App Measurement code so that the supplemental ID (SDID) can be included in your Analytics call.
 
-![Code placement](/help/dsp/assets/a4adc-code-placement.png)
+![Code placement](/help/integrations/assets/a4adc-code-placement.png)
 
 ### Validating Code Deployment
 
@@ -43,7 +44,7 @@ You can perform validation using any packet sniffer type of tool (such as Charle
 1. Load a website page that contains the Analytics for Advertising Cloud JavaScript.
 1. Filter the Network tab by “last” and review two rows:
 
-     ![Filtering on last](/help/dsp/assets/a4adc-code-validation-filter-last.png)
+     ![Filtering on last](/help/integrations/assets/a4adc-code-validation-filter-last.png)
 
      * The first row is the call to the JavaScript library and is titled last-event-tag-latest.min.js.
      * The second row is the call sending the request to Advertising Cloud. It begins as follows: `_les_imsOrgId=[your_imsOrgId_here]&_les_url=[your_encoded_url]`
@@ -54,7 +55,7 @@ You can perform validation using any packet sniffer type of tool (such as Charle
           1. Delete the “ad cloud” cookie and refresh the page.
 1. Filter on “/b/ss” to see the Analytics hit.
 
-     ![Filtering on /b/ss](/help/dsp/assets/a4adc-code-validation-filter-bss.png)
+     ![Filtering on /b/ss](/help/integrations/assets/a4adc-code-validation-filter-bss.png)
 
 1. Compare the ID values between the two hits. All of the values will be in query string parameters except for the report suite ID in the Analytics hit, which is the URL path immediately after /b/ss/.
 
@@ -77,7 +78,7 @@ You can perform validation using any packet sniffer type of tool (such as Charle
      * Check to make sure the SDID parameter matches the Supplemental Data ID in the Adobe Analytics filter.
      * If the code isn't generating, then check to make sure the Advertising Cloud cookie has been removed in the Application tab. Once it's removed, refresh the page and repeat the process.
 
-     ![Auditing Analytics for Advertising Cloud JavaScript code in Experience Cloud Debugger](/help/dsp/assets/a4adc-js-audit-debugger.png)
+     ![Auditing Analytics for Advertising Cloud JavaScript code in Experience Cloud Debugger](/help/integrations/assets/a4adc-js-audit-debugger.png)
 
 >[!MORELIKETHIS]
 >

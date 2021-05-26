@@ -160,17 +160,6 @@ index: yes
   + [Run a Custom Report](/help/dsp/reports/report-run-now.md)
   + [Custom Report Settings](/help/dsp/reports/report-settings.md)
   + [Available Report Columns](/help/dsp/reports/report-columns.md)
-<!-- + [Integrations with Adobe Experience Cloud](/help/integrations/home.md) -->
-+ Integrations with Adobe Experience Cloud {#integrations}
-  + Analytics for Advertising Cloud {#analytics}
-    + [Overview of Analytics for Advertising Cloud](/help/dsp/integrations/analytics/overview.md)
-    + [Advertising Cloud IDs Used by Analytics](/help/dsp/integrations/analytics/ids.md)
-    + Planning Your Implementation {#planning}
-        + [Prerequisites and Key Information for Implementing Analytics for Advertising Cloud](/help/dsp/integrations/analytics/prerequisites.md)
-        + [JavaScript Code for Analytics for Advertising Cloud](/help/dsp/integrations/analytics/javascript.md)
-    + Data Exchanged {#data}
-        + [Advertising Cloud Metrics in Analysis Workspace](/help/dsp/integrations/analytics/advertising-cloud-metrics-in-analytics.md)
-        + [Analytics Data in Advertising Cloud](/help/dsp/integrations/analytics/analytics-data-in-advertising-cloud.md)
-        + [Expected Data Variances Between Analytics and Advertising Cloud](/help/dsp/integrations/analytics/data-variances.md)
+<!--+ [Integrations with Adobe Experience Cloud](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/home.html) Dupe link to this file, so need to use an absolute link in one of the listings -->
 + [Customer Support](https://helpx.adobe.com/contact/enterprise-support.ec.html)
 + [Adobe Experience Cloud Release Notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)

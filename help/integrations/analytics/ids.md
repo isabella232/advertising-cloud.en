@@ -1,6 +1,7 @@
 ---
 title: Advertising Cloud IDs Used by Analytics
 description: Advertising Cloud IDs Used by Analytics
+feature: integration with Adobe Analytics
 exl-id: ed1aab7b-9bd0-4d42-9bfb-9c6fa6db76bc
 ---
 # Advertising Cloud IDs Used by Analytics
@@ -22,11 +23,11 @@ Advertising Cloud distinguishes between a click-through or view-through entry to
     * The URL includes an EF ID and AMO ID as added to the landing page URL by Advertising Cloud.
     * The URL contains no tracking codes, but the Advertising Cloud JavaScript code detects a click within the last two minutes.
 
-![Advertising Cloud view-based Analytics integration](/help/dsp/assets/a4adc-view-through-process.png)
+![Advertising Cloud view-based Analytics integration](/help/integrations/assets/a4adc-view-through-process.png)
 
 *Figure 1: Advertising Cloud view-based Analytics integration*
 
-![Advertising Cloud click URL-based Analytics integration](/help/dsp/assets/a4adc-click-through-process.png)
+![Advertising Cloud click URL-based Analytics integration](/help/integrations/assets/a4adc-click-through-process.png)
 
 *Figure 2: Advertising Cloud click URL-based Analytics integration*
 

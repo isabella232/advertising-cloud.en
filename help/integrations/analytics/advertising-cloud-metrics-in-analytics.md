@@ -1,6 +1,7 @@
 ---
 title: Advertising Cloud Metrics in Analysis Workspace
 description: Advertising Cloud Metrics in Analysis Workspace
+feature: integration with Adobe Analytics
 exl-id: d740bd19-c643-4917-9cfd-f9cf0affd07e
 ---
 # Advertising Cloud Metrics in Analysis Workspace
@@ -89,4 +90,4 @@ Consider creating the following metrics for your Advertising Cloud data.
 >[!MORELIKETHIS]
 >
 >* [Overview of Analytics for Advertising Cloud](overview.md)
->* [Analytics Data in Advertising Cloud](/help/dsp/integrations/analytics/analytics-data-in-advertising-cloud.md)
+>* [Analytics Data in Advertising Cloud](/help/integrations/analytics/analytics-data-in-advertising-cloud.md)

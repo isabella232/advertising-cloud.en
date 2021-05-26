@@ -1,6 +1,7 @@
 ---
 title: Expected Data Variances Between Analytics and Advertising Cloud
 description: Expected Data Variances Between Analytics and Advertising Cloud
+feature: integration with Adobe Analytics
 exl-id: 34685e04-d4f9-4e27-b83e-b56164244b2b
 ---
 # Expected Data Variances Between Analytics and Advertising Cloud
@@ -27,13 +28,13 @@ If a reporting lookback window or attribution model is modified in one product a
 
      Suppose Advertising Cloud has a 60-day click lookback window and Analytics has a 30-day lookback window. And suppose that a user comes to the site through an Advertising Cloud-tracked ad, leaves, and then returns on day 45 and converts. Advertising Cloud will attribute the conversion to the initial visit because the conversion occurred within the 60-day lookback window. Analytics, however, can't attribute the conversion to the initial visit because the conversion occurred after the 30-day lookback window had expired. In this example, Advertising Cloud would report a higher number of conversions than Analytics would.
      
-     ![Example of a conversion attributed in Advertising Cloud but not Analytics](/help/dsp/assets/a4adc-lookback-example.png)
+     ![Example of a conversion attributed in Advertising Cloud but not Analytics](/help/integrations/assets/a4adc-lookback-example.png)
 
 * **Example of discrepancies caused by different attribution models:**
 
      Suppose a user interacts with three different Advertising Cloud ads before converting, with revenue as the conversion type. If an Advertising Cloud report uses an even distribution model for attribution, then it will attribute the revenue evenly across all ads. If Analytics uses the last touch attribution model, however, then it will attribute the revenue to the last ad. In the following example, Advertising Cloud attributes an even 10 USD of the 30 USD of revenue captured to each of the three ads, whereas Analytics attributes all 30 USD of revenue to the last ad seen by the user. When you compare reports from Advertising Cloud and Analytics, you can expect to see the impact of the difference in attribution.
      
-     ![Different revenue attributed to Advertising Cloud and Analytics based on different attribution models](/help/dsp/assets/a4adc-attribution-example.png)
+     ![Different revenue attributed to Advertising Cloud and Analytics based on different attribution models](/help/integrations/assets/a4adc-attribution-example.png)
 
 >[!IMPORTANT]
 >
@@ -49,7 +50,7 @@ Typically, the majority of view-through conversions occur quickly enough that bo
 
 In the following example, suppose a visitor was served an ad on Day 1, performed a view-through visit (that is, visited the ad's landing page without previously clicking the ad) on Day 2, and converted on Day 45. In this case, Advertising Cloud would track the user from Days 1–14 (using a 14-day lookback), Analytics would track the user from Days 2–61 (using a 60-day lookback), and the conversion on Day 45 would be attributed to the ad within Analytics but not within Advertising Cloud.
 
-![Example of a view-through conversion attributed in Analytics but not Advertising Cloud](/help/dsp/assets/a4adc-viewthrough-example.png)
+![Example of a view-through conversion attributed in Analytics but not Advertising Cloud](/help/integrations/assets/a4adc-viewthrough-example.png)
 
 A further cause of discrepancies is that, in Advertising Cloud, you can assign view-through conversions a custom *view-through weight* that is relative to the weight attributed to a click-based conversion. The default view-through weight is 40%, which means that a view-through conversion is counted as 40% of the value of a click-based conversion. Analytics provides no such weighting of view-through conversions. So, for example, a 100 USD revenue order captured in Analytics will be discounted to 40 USD in Advertising Cloud if you're using the default view-through weight &mdash; a difference of 60 USD.
 
@@ -88,7 +89,7 @@ https://enterprise-na.efrontier.com/CMDashboard/help/external/tracking/r_appendi
 
 In Advertising Cloud, you can report conversion data either by the associated click date/event date (the date of the click or impression event) or by the transaction date (conversion date). The concept of click/event date reporting doesn't exist in Analytics; all conversions tracked in Analytics are reported by transaction date. As a result, the same conversion may be reported with different dates in Advertising Cloud and Analytics. For example, consider a user who clicks an ad on January 1 and converts on January 5. If you're viewing the conversion data by event date in Advertising Cloud, then the conversion will be reported on January 1, when the click occurred. In Analytics, the same conversion would be reported on January 5.
 
-![Example of a conversion attributed to different dates](/help/dsp/assets/a4adc-conversions-based-on.png)
+![Example of a conversion attributed to different dates](/help/integrations/assets/a4adc-conversions-based-on.png)
 
 ## Attribution in Analytics Marketing Channels
 
@@ -112,9 +113,11 @@ Advertising Cloud reports capture only paid media trafficked through Advertising
 
 For example, paid search and natural search channels often have a symbiotic relationship, in which each channel assists the other. The Marketing Channels report will attribute some conversions to natural search that Advertising Cloud won't because it doesn't track natural search.
 
-Consider also a customer who views a display ad, clicks a paid search ad, clicks inside an email message, and then places a 30 USD order. Even if Advertising Cloud and Marketing Channels both use the last touch attribution model, the conversion would still be attributed differently to each. Advertising Cloud doesn't have access to the email channel, so it would credit paid search for the conversion. Marketing Channels, however, has access to all three channels, so it would credit email for the conversion.
+Consider also a customer who views a display ad, clicks a paid search ad, clicks inside an email message, and then places a 30 USD order. Even if Advertising Cloud and Marketing Channels both use the last touch attribution model, the conversion would still be attributed differently to each. Advertising Cloud doesn't have access to the Email channel, so it would credit paid search for the conversion. Marketing Channels, however, has access to all three channels, so it would credit email for the conversion.
 
-![Example of different conversion attribution in Advertising Cloud versus Analytics Marketing Channels](/help/dsp/assets/a4adc-channel-example.png)
+![Example of different conversion attribution in Advertising Cloud versus Analytics Marketing Channels](/help/integrations/assets/a4adc-channel-example.png)
+
+For more explanation of why the metrics may vary, see "[Why Channel Data Can Vary Between Advertising Cloud and Marketing Channels](marketing-channels/mc-data-variances.md)."
 
 ## Data Differences in Adobe Analytics Paid Search Detection
 
@@ -122,7 +125,7 @@ Consider also a customer who views a display ad, clicks a paid search ad, clicks
 
 The following is the interface for creating a Paid Search Detection rule set:
 
-![Example of a Paid Search Detection rule set in Analytics](/help/dsp/assets/a4adc-paid-search-detection.png)
+![Example of a Paid Search Detection rule set in Analytics](/help/integrations/assets/a4adc-paid-search-detection.png)
 
 The resulting Paid Search Detection reports include the Paid Search Engine, Paid Search Keywords, Natural Search Engine, and Natural Search Keywords reports.
 
@@ -158,7 +161,7 @@ For more information about the AMO ID and EF ID, see [Advertising Cloud IDs Used
 
 The following is an example of a workspace to track clicks to instances.
 
-![Example of a workspace to track clicks to instances](/help/dsp/assets/a4adc-clicks-to-instances-example.png)
+![Example of a workspace to track clicks to instances](/help/integrations/assets/a4adc-clicks-to-instances-example.png)
  
 ## Comparing Data Sets in Analytics for Advertising Cloud Versus in Advertising Cloud
 
@@ -194,7 +197,7 @@ By definition, a click can lead to multiple visits.
 
 Consider the following example: User 1 and User 2 both access a site by clicking an Advertising Cloud ad. User 1 views four pages and then leaves for the day, so the initial click results in one visit. User 2 views two pages, leaves for a 45-minute lunch, returns, views two more pages, and then leaves; in this case, the initial click results in two visits.
 
-![Example of the difference between clicks and visits](/help/dsp/assets/a4adc-visits-example.png)
+![Example of the difference between clicks and visits](/help/integrations/assets/a4adc-visits-example.png)
 
 ### The Difference Between Clicks and Click-Throughs
 
@@ -218,21 +221,22 @@ Advertising Cloud provides Analytics with [advertising-specific traffic metrics 
 
 For example, if you view the AMO Clicks and AMO Cost metrics by Account, which is an Advertising Cloud dimension, then you'll see the total AMO Clicks and AMO Cost by account.
 
-![Example of Advertising Cloud metrics in a report using an Advertising Cloud dimension](/help/dsp/assets/a4adc-traffic-supported-dimension.png)
+![Example of Advertising Cloud metrics in a report using an Advertising Cloud dimension](/help/integrations/assets/a4adc-traffic-supported-dimension.png)
 
 However, if you view the AMO Clicks and AMO Cost metrics by an on-page dimension (such as Page), for which which Advertising Cloud doesn't provide data, then the AMO Clicks and AMO Cost for each page will be zero (0).
 
-![Example of Advertising Cloud metrics in a report using an unsupported dimension](/help/dsp/assets/a4adc-traffic-unsupported-dimension.png)
+![Example of Advertising Cloud metrics in a report using an unsupported dimension](/help/integrations/assets/a4adc-traffic-unsupported-dimension.png)
 
 ### Using AMO ID Instances as a Substitute for Clicks with Non-Advertising Cloud Dimensions
 
 Since you can't use AMO Clicks with on-site dimensions, you may want to find an equivalent to clicks. You may be tempted to use Visits as a substitute, but they aren't the best option because each visitor may have multiple visits. (See "[The Difference Between Clicks and Visits](#clicks-vs-visits)." Instead, we recommend using AMO ID Instances, which is the number of times the AMO ID is captured. While AMO ID Instances won't match AMO Clicks exactly, they are the best option for measuring click traffic on the site. For more information, see "[Data Validation for Analytics for Advertising Cloud](#data-validation)."
 
-![Example of AMO ID Instances instead of AMO Clicks for an unsupported dimension](/help/dsp/assets/a4adc-amo-id-instances.png)
+![Example of AMO ID Instances instead of AMO Clicks for an unsupported dimension](/help/integrations/assets/a4adc-amo-id-instances.png)
 
 >[!MORELIKETHIS]
 >
 >* [Overview of Analytics for Advertising Cloud](overview.md)
->* [Advertising Cloud IDs Used by Analytics](/help/dsp/integrations/analytics/ids.md)
->* [Advertising Cloud Metrics in Analysis Workspace](/help/dsp/integrations/analytics/advertising-cloud-metrics-in-analytics.md)
->* [Analytics Data in Advertising Cloud](/help/dsp/integrations/analytics/analytics-data-in-advertising-cloud.md)
+>* [Advertising Cloud IDs Used by Analytics](/help/integrations/analytics/ids.md)
+>* [Advertising Cloud Metrics in Analysis Workspace](/help/integrations/analytics/advertising-cloud-metrics-in-analytics.md)
+>* [Analytics Data in Advertising Cloud](/help/integrations/analytics/analytics-data-in-advertising-cloud.md)
+>* [Why Data May Vary Between Advertising Cloud and Marketing Channels](/help/integrations/analytics/marketing-channels/mc-data-variances.md)

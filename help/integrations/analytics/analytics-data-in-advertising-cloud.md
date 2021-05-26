@@ -1,6 +1,7 @@
 ---
 title: Analytics Data in Advertising Cloud
 description: Analytics Data in Advertising Cloud
+feature: integration with Adobe Analytics
 exl-id: 79fbc809-9965-41c1-971f-3652cc78fee3
 ---
 # Analytics Data in Advertising Cloud
@@ -54,4 +55,4 @@ Analytics passes conversion metrics to Advertising Cloud daily.
 >[!MORELIKETHIS]
 >
 >* [Overview of Analytics for Advertising Cloud](overview.md)
->* [Advertising Cloud Metrics in Analysis Workspace](/help/dsp/integrations/analytics/advertising-cloud-metrics-in-analytics.md)
+>* [Advertising Cloud Metrics in Analysis Workspace](/help/integrations/analytics/advertising-cloud-metrics-in-analytics.md)

@@ -1,6 +1,7 @@
 ---
 title: Prerequisites and Key Information for Implementing Analytics for Advertising Cloud
 description: Prerequisites and Key Information for Implementing Analytics for Advertising Cloud
+feature: integration with Adobe Analytics
 exl-id: 08e54e2b-ed9b-4489-8de5-ab1379b7133c
 ---
 # Prerequisites and Key Information for Implementing Analytics for Advertising Cloud
@@ -33,13 +34,13 @@ Provide the Advertising Cloud implementation team with the following:
 
 You can find both of these IDs on the [Summary screen of the Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using/run-debugger.html).
 
-![Experience Cloud Debugger Summary screen](/help/dsp/assets/a4adc-debugger-summary.png)
+![Experience Cloud Debugger Summary screen](/help/integrations/assets/a4adc-debugger-summary.png)
 
 ## Analytics Data in Advertising Cloud {#lookback-a4adc}
 
 Because Analytics data is sent to Advertising Cloud for reporting and optimization, the data is subject to the attribution rules, including the impression and click lookback windows, that are configured for the advertiser in Advertising Cloud.
 
-![advertiser-level lookback window settings in Advertising Cloud](/help/dsp/assets/a4adc-lookbacks.png)
+![advertiser-level lookback window settings in Advertising Cloud](/help/integrations/assets/a4adc-lookbacks.png)
 
 * Advertising Cloud attribution click lookback window: The number of days after the first click occurs in which the click can be attributed to a conversion. By default, this value is 60 days; the maximum is 90 days  
 * Advertising Cloud attribution impression lookback window: The number of days after an ad impression occurs in which the impression can be attributed to a conversion. By default, this value is 14 days; the maximum is 30 days
@@ -109,4 +110,4 @@ When you're troubleshooting in Analytics, be sure to confirm that the supplement
 >[!MORELIKETHIS]
 >
 >* [Overview of Analytics for Advertising Cloud](overview.md)
->* [JavaScript Code for Analytics for Advertising Cloud](/help/dsp/integrations/analytics/javascript.md)
+>* [JavaScript Code for Analytics for Ad Cloud](/help/integrations/analytics/javascript.md)
