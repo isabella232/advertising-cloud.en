@@ -32,7 +32,7 @@ Other channels don't have trackable URL paths and need further logic for identif
 
 Adobe recommends working with your analytics team to build a comprehensive set of Marketing Channel processing rules to track all channels that are pertinent to your business. Doing so allows you to create powerful attribution reporting.
 
-To understand how Advertising Cloud can contribute to the signals necessary to create custom marketing channels, see "[Using Advertising IDs to Create Marketing Channel Rules](ids-in-mc-rules.md)."
+To understand how Advertising Cloud can contribute to the signals necessary to create custom marketing channels, see "[Using Advertising IDs to Create Marketing Channel Rules](mc-ids.md)."
 
 >[!MORELIKETHIS]
 >
