@@ -160,6 +160,6 @@ index: yes
   + [Run a Custom Report](/help/dsp/reports/report-run-now.md)
   + [Custom Report Settings](/help/dsp/reports/report-settings.md)
   + [Available Report Columns](/help/dsp/reports/report-columns.md)
-<!--+ [Integrations with Adobe Experience Cloud](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/home.html) Dupe link to this file, so need to use an absolute link in one of the listings -->
++ [Integrations with Adobe Experience Cloud](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/home.html) <!-- Dupe link to this file, so need to use an absolute link in one of the listings -->
 + [Customer Support](https://helpx.adobe.com/contact/enterprise-support.ec.html)
 + [Adobe Experience Cloud Release Notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)
