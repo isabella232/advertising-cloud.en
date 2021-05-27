@@ -1,5 +1,5 @@
 ---
-title: Currencies Supported in Adobe Advertising Cloud
+title: Currencies Supported
 description: See a list of the supported currencies.
 feature: custom reports, campaign management
 ---
@@ -15,7 +15,7 @@ Advertising Cloud supports the following currencies.
 ## DSP and Creative
 
 |  Code  | Currency Name  |
-|---|---|
+| ------ | -------------- |
 |  AUD  | Australia Dollar  |
 |  BRL  | Brazilian Real  |
 |  CAD  | Canada Dollar  |
@@ -35,6 +35,10 @@ Advertising Cloud supports the following currencies.
 |  THB  | Thai Baht  |
 |  TRY  | Turkish Lira  |
 |  USD  | United States Dollar  |
+
+>[!NOTE]
+>
+> DSP provides billing in only the following currencies: CAD, DKK, EUR, GBP, HKD, JPY, NZD, SGD, and USD.
 
 ## Search
 
