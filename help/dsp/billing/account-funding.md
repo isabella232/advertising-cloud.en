@@ -12,6 +12,6 @@ As clients spend against their credit or pre-payment, funds for media and servic
 
 Funding for client accounts is updated in near real time in DSP. To view your usable balance, which is shown as "Usable Funds" in your account's buying currency, go to Settings > Account. Only Advertising Cloud users with the General and Admin user roles can see the Usable Funds.
 
-![Usable Funds for an account](account-usable-funds.png)
+![Usable Funds for an account](/help/dsp/assets/account-usable-funds.png)
 
 Adobe reserves the right to block your account from spending on DSP for reasons that include violation of our [ad requirements policy](/help/dsp/introduction/ad-requirements-policy.md) or privacy terms. If Adobe blocks your account, you will see a blocked notice in your account settings. Work with your Advertising Cloud Client Services representative to determine the reason for the block and how you can correct the error.
