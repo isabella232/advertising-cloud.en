@@ -42,4 +42,4 @@ All of the following must be true:
 
 >[!MORELIKETHIS]
 >
->* [Advertising Cloud Ads Requirements Policy](/help/dsp/introduction/ad-requirements-policy.md)
+>* [Ads Requirements Policy](/help/dsp/introduction/ad-requirements-policy.md)
