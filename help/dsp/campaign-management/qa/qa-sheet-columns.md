@@ -34,7 +34,7 @@ feature: QA sheets
 | Goals | Max Bid | The maximum bid for the placement. | Yes |
 | Goals | Pacing Fill Strategy | The pacing fill strategy for the placement: <i>evenly</i>, <i>frontload</i>, or <i>aggressive frontload</i>. | Yes |
 | Goals | Pre-Bid Filters | Any pre-bid filter criteria to be applied. | &mdash; |
-| Goals | Bidding Rules | Whether bidding rules are <i>ON</i> or <i>OFF</i>. | &mdash; |
+| Goals | Bidding Rules | Whether bidding rules (deprecated) are <i>ON</i> or <i>OFF</i>. | &mdash; |
 | Goals | Frequency Cap | The primary frequency cap for the placement during the specified Frequency Cap Interval. | Yes |
 | Goals | Frequency Cap Interval | The interval for the primary frequency cap: <i>Day</i>, <i>Week</i>, or <i>Month</i>. | Yes |
 | Goals | Secondary Frequency Cap | The secondary frequency cap for the placement during the specified Secondary Frequency Cap Interval | Yes |
