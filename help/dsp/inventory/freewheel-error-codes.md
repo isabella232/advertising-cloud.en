@@ -55,4 +55,4 @@ The error messages for failed ad submissions can come from either Advertising Cl
 >* [Overview of Setting up Programmatic Guaranteed Deals in FreeWheel](/help/dsp/inventory/freewheel-overview.md)
 >* [Accept a Deal in the Deal ID Inbox](deal-id-inbox-accept.md)
 >* [Submit an Ad for a Programmatic Guaranteed Deal to FreeWheel](/help/dsp/inventory/freewheel-submit.md)
->* [Check the Status of Ads for a Freewheel Programmatic Guaranteed Deal](/help/dsp/inventory/freewheel-check-status.md)
+>* [Check the Status of Ads for Freewheel Programmatic Guaranteed Deals](/help/dsp/inventory/freewheel-check-status.md)

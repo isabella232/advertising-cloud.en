@@ -44,5 +44,5 @@ Once you [accept a programmatic guaranteed deal with a publisher on FreeWheel](#
 >
 >* [Overview of Setting up Programmatic Guaranteed Deals in FreeWheel](freewheel-overview.md)
 >* [Accept a Deal in the Deal ID Inbox](deal-id-inbox-accept.md)
->* [Check the Status of Ads for a Freewheel Programmatic Guaranteed Deal](freewheel-check-status.md)
+>* [Check the Status of Ads for Freewheel Programmatic Guaranteed Deals](freewheel-check-status.md)
 >* [Error Codes for FreeWheel Ad Submissions](freewheel-error-codes.md)

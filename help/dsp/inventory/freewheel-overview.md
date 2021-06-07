@@ -36,5 +36,5 @@ Setting up programmatic guaranteed deals with publishers on FreeWheel requires e
 >
 >* [Accept a Deal in the Deal ID Inbox](deal-id-inbox-accept.md)
 >* [Submit an Ad for a Programmatic Guaranteed Deal to FreeWheel](freewheel-submit.md)
->* [Check the Status of Ads for a Freewheel Programmatic Guaranteed Deal](freewheel-check-status.md)
+>* [Check the Status of Ads for Freewheel Programmatic Guaranteed Deals](freewheel-check-status.md)
 >* [Error Codes for FreeWheel Ad Submissions](freewheel-error-codes.md)

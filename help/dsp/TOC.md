@@ -155,7 +155,7 @@ index: yes
       + FreeWheel Programmatic Guaranteed Deals {#freewheel}
         + [Overview of Setting up Programmatic Guaranteed Deals in FreeWheel](/help/dsp/inventory/freewheel-overview.md)
         + [Submit an Ad for a Programmatic Guaranteed Deal to FreeWheel](/help/dsp/inventory/freewheel-submit.md)
-        + [Check the Status of Ads for a Freewheel Programmatic Guaranteed Deal](/help/dsp/inventory/freewheel-check-status.md)
+        + [Check the Status of Ads for Freewheel Programmatic Guaranteed Deals](/help/dsp/inventory/freewheel-check-status.md)
         + [Error Codes for FreeWheel Ad Submissions](/help/dsp/inventory/freewheel-error-codes.md)
 + Custom Reports {#custom-reports}
   + [About Custom Reports](/help/dsp/reports/report-about.md)
