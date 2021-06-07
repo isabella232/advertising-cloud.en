@@ -12,9 +12,9 @@ See if ads submissions to Freewheel were successful. You can resubmit any ad as 
 
 1. Do either of the following:
 
-  * Under the Deal ID Inbox, click **View Freewheel creative status**.
+   * Under the Deal ID Inbox, click **View Freewheel creative status**.
   
-  * In any deal row, click ![Options menu](/help/dsp/assets/options-menu.png) **> see Freewheel status**.
+   * In any deal row, click ![Options menu](/help/dsp/assets/options-menu.png) **> see Freewheel status**.
 
 1. (Optional) Filter the data to help you locate specific deals and ads.
 

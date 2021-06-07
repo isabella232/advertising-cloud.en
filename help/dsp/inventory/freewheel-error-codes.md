@@ -33,7 +33,7 @@ The error messages for failed ad submissions can come from either Advertising Cl
 |422|Unprocessable Entity|Invalid resource. This error happens when the request body is invalid or the created/updated resource is invalid (for example, if the Deal ID was not found). See [FreeWheel API 422 Errors](#freewheel-422-errors) for more information.|Contact your Adobe account manager.|
 |500|Internal Server Error|API system error.|Contact your Adobe account manager.|
 
-  ## FreeWheel API 422 Errors {#freewheel-422-errors}
+## FreeWheel API 422 Errors {#freewheel-422-errors}
 
 |Code|HTTP Code|Description|
 |--- |--- |--- |
