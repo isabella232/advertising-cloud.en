@@ -24,7 +24,7 @@ Setting up programmatic guaranteed deals with publishers on FreeWheel requires e
 
 1. [Accept the deal ID](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox) you've already negotiated with a publisher on FreeWheel using the Deal ID Inbox.
 
-   After you accept the deal, follow the prompts to 1) select the ad to use for the deal and 2) create a placement to serve the ad.
+   After you accept the deal, follow the prompts to 1) select the ad to use for the deal and 2) create a programmatic guaranteed default placement to serve the ad.
 
 1. [Submit the ad to FreeWheel](freewheel-submit.md)
 

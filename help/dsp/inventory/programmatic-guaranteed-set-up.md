@@ -22,9 +22,9 @@ This is the preferred method for FreeWheel, Google Authorized Buyers, and Rubico
 
 1. [Accept the deal](deal-id-inbox-accept.md).
 
-1. After you save the deal, select the ads that will be used for the deal and create a default placement, as prompted.
+1. After you save the deal, select the ads that will be used for the deal and create a programmatic guaranteed (PG) default placement, as prompted.
 
-   Creating a default placement for the deal is mandatory to deliver 100% of your buy. This type of placement has no targeting so DSP can return a bid to every bid request from the publisher.
+   Creating a default PG placement for the deal is mandatory to deliver 100% of your buy. This type of placement has no targeting so DSP can return a bid to every bid request from the publisher.
    
    * If you're accepting a single deal, you're automatically redirected to the PG default placement creation workflow.
 
@@ -40,9 +40,9 @@ Use this method for all other SSPs.
 
 1. [Manually set up the deal ID details](deal-id-create.md).
 
-1. After you save the deal, select the ads that will be used for the deal and create a default placement, as prompted.
+1. After you save the deal, select the ads that will be used for the deal and create a PG default placement, as prompted.
 
-   Creating a default placement for the deal is mandatory to deliver 100% of your buy. This type of placement has no targeting so DSP can return a bid to every bid request from the publisher.
+   Creating a PG default placement for the deal is mandatory to deliver 100% of your buy. This type of placement has no targeting so DSP can return a bid to every bid request from the publisher.
 
 1. (Optional) Target the PG deal in additional, non-PG placements.
 

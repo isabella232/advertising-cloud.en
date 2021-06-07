@@ -4,7 +4,7 @@ description: Learn how to find the status of ads for Freewheel programmatic guar
 feature: inventory, deal IDs
 exl-id: 
 ---
-# Check the Status of Ads for a Freewheel Programmatic Guaranteed Deal
+# Check the Status of Ads for Freewheel Programmatic Guaranteed Deals
 
 See if ads submissions to Freewheel were successful. You can resubmit any ad as needed.
 

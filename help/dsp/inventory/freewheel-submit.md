@@ -8,7 +8,7 @@ exl-id:
 
 *Accounts with the Freewheel Programmatic Guaranteed permission only*
 
-Once you [accept a programmatic guaranteed deal with a publisher on FreeWheel](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox), including selecting an ad and creating the default placement to use for the deal, you must submit the ad to FreeWheel for approval.
+Once you [accept a programmatic guaranteed deal with a publisher on FreeWheel](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox), including selecting an ad and creating the programmatic guaranteed default placement to use for the deal, you must submit the ad to FreeWheel for approval.
 
 >[!PREREQUISITES]
 >
@@ -22,7 +22,7 @@ Once you [accept a programmatic guaranteed deal with a publisher on FreeWheel](#
    
    1. Click  **... > Edit** next to the ad name.
    
-   1. Once the ad settings open, copy the numeric ad key in the URL that is displayed in the browser's address bar.
+   1. Once the ad settings open, copy the alphanumeric ad key in the URL that is displayed in the browser's address bar.
 
       For example, in the following URL, the ad key is `3NtNC5ZbaGZtqbei8jD3`
       
