@@ -58,5 +58,5 @@ After you create the deal, you can use the deal as an inventory target for multi
 >
 >* [Manual Deal ID Settings](deal-id-settings.md)
 >* [Set up a Programmatic Guaranteed Deal](programmatic-guaranteed-set-up.md)
+>* [Submit an Ad for a Programmatic Guaranteed Deal with Freewheel](freewheel-submit.md)
 >* [About Programmatic Guaranteed Deals](programmatic-guaranteed-about.md)
-<!-- >* [About Private Inventory](private-inventory-about.md) -->
