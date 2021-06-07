@@ -16,7 +16,7 @@ The error messages for failed ad submissions can come from either Advertising Cl
 |The submitted ad does not have a clock number assigned.|Freewheel doesn't accept UK ads without assigned clock numbers.|Assign a clock number to the ad, and then resubmit the ad.|
 |The ad you are attempting to submit has not yet finished transcoding. Please wait ten minutes then try again.|The transcoder hadn't finished transcoding the ad when you attempted to submit the ad.|Wait ten minutes, and then resubmit the ad.|
 |The deal id you input is not setup as a guaranteed feed. Please submit guaranteed deals only.|The submitted deal is not set up as a programmatic guaranteed deal. Freewheel accepts only guaranteed deals.|Set up the deal ID as a programmatic guaranteed deal. The ad is automatically submitted to Freewheel when you save the placement at the end of deal ID workflow.|
-|Invalid external_deal_id: \<deal_id\>|The submitted deal ID either doesn't exist or isn't active on the Adobe end.|Make sure the deal is active, and then resubmit the ad.|
+|Invalid external_deal_id: \<deal_id\>|The submitted deal ID either doesn't exist or isn't active on the Adobe end.|Make sure that the deal is active, and then resubmit the ad.|
 |\[public_id=\<deal\>] does not exist|The submitted deal id doesn't exist on the Freewheel end.|Contact your Freewheel representative to confirm the deal ID.|
 |Ad with identifier \<*ad name*\> was not found.|The submitted ad key either doesn't exist or isn't active on the Adobe end.|Find the correct ad key, and then resubmit the ad.|
 |Pending Submission|The submission is still pending.|Refresh the page.|

@@ -12,7 +12,7 @@ Once you [accept a programmatic guaranteed deal with a publisher on FreeWheel](#
 
 >[!PREREQUISITES]
 >
->Work with your Adobe account team to ensure your DSP account has permission to use the Freewheel programmatic guaranteed workflow.
+>Work with your Adobe account team to ensure that your DSP account has permission to use the Freewheel programmatic guaranteed workflow.
 
 1. Copy the ad key for the ad used with the FreeWheel deal:
 
@@ -36,7 +36,7 @@ Once you [accept a programmatic guaranteed deal with a publisher on FreeWheel](#
 
     1. Verify the deal ID, enter the **Ad Key** you copied in Step 1, and then click **Submit**.
 
-    The ad must be approved<!-- or just received? --> before it will run.
+    The ad must be submitted and approved before it runs.
 
 1. [Check the ad submission status](freewheel-check-status.md).
 

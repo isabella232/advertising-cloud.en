@@ -50,9 +50,8 @@ Use this method for all other SSPs.
 >
 >* [About Programmatic Guaranteed Deals](programmatic-guaranteed-about.md)
 >* [Tips for Negotiating a Programmatic Guaranteed Deal](/help/dsp/inventory/programmatic-guaranteed-tips.md)
+>* [Submit an Ad for a Programmatic Guaranteed Deal with Freewheel](freewheel-submit.md)
 >* [Accept a Deal in the Deal ID Inbox](deal-id-inbox-accept.md)
 >* [Manually Create Deal ID Details](deal-id-create.md)
 >* [SSP Partners](ssp-partners.md)
 >* [Overview of Inventory Features](inventory-overview.md)
-
-<!-- >* [Submit an Ad for a Programmatic Guaranteed Deal with Freewheel](freewheel-submit.md) -->

@@ -10,7 +10,7 @@ Setting up programmatic guaranteed deals with publishers on FreeWheel requires e
 
 >[!PREREQUISITES]
 >
->Work with your Adobe account team to ensure your DSP account has the following permissions.
+>Work with your Adobe account team to ensure that your DSP account has the following permissions.
 
 >1. Permission to use the Freewheel programmatic guaranteed workflow, which is required to submit an ad for a programmatic guaranteed deal to Freewheel.
 
@@ -20,7 +20,7 @@ Setting up programmatic guaranteed deals with publishers on FreeWheel requires e
 
 1. Create an ad with the media type specified in the deal.
 
-   For some UK publishers, you may need to include a Clearcast clock number with your ad.
+   For some UK publishers, you must include a Clearcast clock number with your ad.
 
 1. [Accept the deal ID](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox) you've already negotiated with a publisher on FreeWheel using the Deal ID Inbox.
 
@@ -28,7 +28,7 @@ Setting up programmatic guaranteed deals with publishers on FreeWheel requires e
 
 1. [Submit the ad to FreeWheel](freewheel-submit.md)
 
-    The ad must be approved before it will run.
+    The ad must be submitted and approved before it runs.
 
 1. [Check the ad submission status](freewheel-check-status.md).
 
