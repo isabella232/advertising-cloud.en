@@ -295,12 +295,12 @@ You can optionally export the list of targeted and blocked sites as a comma-sepa
    * To manually select an interval, click inside a cell and optionally drag to select the interval.
 1. Click **Save**.
  
-**Topic Targeting:** (Optional; available to advertisers configured with Comscore and Grapeshot segments) Specific site topics (keywords) from Comscore and Grapeshot to include and exclude as targets. Additional fees may apply for this feature. To activate this feature and set up topic segments, contact your Adobe account manager.
+**Topic Targeting:** (Optional; available to advertisers configured with Comscore and Grapeshot segments) Specific segment names or IDs from Comscore and Grapeshot to include as targets. Additional fees may apply for this feature. To activate this feature and set up topic segments, contact your Adobe account manager.
 
 To specify topic targeting:
 
 1. Click ![Edit](/help/dsp/assets/edit.png).
-1. Specify the topics to target and exclude:
+1. Specify the segments to target:
    1. In the left column, select the partner (*Comscore* or *Grapeshot*).
    1. In the input field, enter the segment names or segment IDs.
 1. (Optional) To download a CSV file with the topic information to your browser's Downloads location, click **Export**.
@@ -308,7 +308,9 @@ To specify topic targeting:
 
 >[!TIP]
 >
->Topic targeting limits the inventory on which the placement can bid, so use topic targeting for only a small percentage of your overall buy.
+>* Topic targeting limits the inventory on which the placement can bid, so use topic targeting for only a small percentage of your overall buy.
+>
+>* Set up any negative targeting within the segment on Comscore or Grapeshot.
 
 **Device Targeting:** (Optional) Specific device information, including device types, manufacturers, operating systems, browsers, and connectivity types, to include and exclude as targets. To specify device targeting:
 
