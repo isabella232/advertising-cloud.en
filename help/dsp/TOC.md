@@ -75,7 +75,7 @@ index: yes
       + [Best Practices for Designing Overlays](/help/dsp/campaign-management/ads/ad-best-practices-overlays.md)
     + Bulk Third-Party Ads {#bulk-third-party}
       + [Create Multiple Third-Party Ads](/help/dsp/campaign-management/ads/ad-create-third-party.md)
-    + [Attach an Ad to a Placement](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/campaign-management/placements/ad-attach-to-placement.html)<!-- Dupe link to this file, so need to use an absolute link in one of the listings -->
+    + [Attach an Ad to a Placement](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/campaign-management/placements/ad-attach-to-placement.html)<!-- Dupe link to this file (in Placements chapter), so need to use an absolute link in one of the listings -->
     + [Edit an Ad](/help/dsp/campaign-management/ads/ad-edit.md)
     + [Duplicate an Ad](/help/dsp/campaign-management/ads/ad-duplicate.md)
     + [List the Placements Associated with an Ad](/help/dsp/campaign-management/ads/ad-list-placements.md)
