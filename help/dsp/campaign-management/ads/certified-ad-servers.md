@@ -1,10 +1,10 @@
 ---
-title: Certified Ad Servers
-description: See which ad servers are certified.
+title: Certified Ad Serving Partners
+description: See all certified ad servers and ad units.
 feature: campaign management, ads
 exl-id: 
 ---
-# Certified Ad Servers
+# Certified Ad Serving Partners
 
 | Ad Server | Certified Units |
 |-----------|-----------------|
