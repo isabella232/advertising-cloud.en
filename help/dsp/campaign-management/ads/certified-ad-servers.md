@@ -8,9 +8,9 @@ exl-id:
 
 | Ad Server | Audio | Display | High Impact Display | Video | Special Requirements and Notes |
 | --- | --- | --- | --- | --- | --- |
-| A Million ads | X | | | | |
-| Ad Colony | | | | X | Only VAST mobile |
+| A Million Ads | X | | | | |
 | Adacado | | X | | | |
+| Ad Colony | | | | X | Only VAST mobile |
 | Adconion | | | | X | |
 | Adform | X | X | | X | |
 | ADITION Technologies | | | | | |
