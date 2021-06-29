@@ -13,7 +13,7 @@ exl-id:
 | Ad Colony | | | | X | Only VAST mobile |
 | Adconion | | | | X | |
 | Adform | X | X | | X | |
-| ADITION Technologies | | | | | |
+| ADITION Technologies | | X | | | |
 | ADman Media | X | | | | |
 | ADventori | | X | | | |
 | Artsai | | X | | X | |
@@ -34,7 +34,7 @@ exl-id:
 | IBM | | X | | X | |
 | Innovid | X | X | | X | |
 | InSkin | | | X | | High impact skins must be served out of a 180x150 display deal ID across the Inskin inventory network. |
-| Jivox | | | | | |
+| Jivox | | X | | | |
 | Kargo | | X | | | 320x50 Anchor, BYOC, Hover, Breakout, and Sidekick; 300x250 Outstream </br></br>Contact your Adobe account manager for assistance in setting up ad units. |
 | Linkstorm | | | X | | |
 | mCanvas | | | X | | |
@@ -50,7 +50,7 @@ exl-id:
 | SUBLIME | | | X | | |
 | SundaySky | | | | X | |
 | Trueffect | | X | | | |
-| Undertone | | | X | | Custom "Page Grabber" unit uploaded as 180x150 in Advertising Cloud DSP</br></br>When Index Exchange passes a 180x150 auction and DSP bids on the auction and serves an impression, the creative expands to a full-page display ad.</br></br>Initially certified for Page Grabber, Expandable Adhesion, and Screen Shift. This needs to be recertified, with steps marked for processes. |
+| Undertone | | | X | | Custom Page Grabber ad unit uploaded as 180x150 in Advertising Cloud DSP</br></br>When Index Exchange passes a 180x150 auction and DSP bids on the auction and serves an impression, the creative expands to a full-page display ad.</br></br>Initially certified for Page Grabber, Expandable Adhesion, and Screen Shift ad units. This needs to be recertified, with steps marked for processes. |
 | Vox *Athena unit | | | X | | |
 | Wunderkind | | X | | | |
 
