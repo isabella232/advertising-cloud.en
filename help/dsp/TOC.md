@@ -76,6 +76,7 @@ index: yes
     + Bulk Third-Party Ads {#bulk-third-party}
       + [Create Multiple Third-Party Ads](/help/dsp/campaign-management/ads/ad-create-third-party.md)
       + [Create Ads with Flashtalking](/help/dsp/campaign-management/ads/ad-create-flashtalking.md)
+      + [Certified Ad Serving Partners](/help/dsp/campaign-management/ads/certified-ad-servers.md)
     + [Attach an Ad to a Placement](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/campaign-management/placements/ad-attach-to-placement.html)<!-- Dupe link to this file (in Placements chapter), so need to use an absolute link in one of the listings -->
     + [Edit an Ad](/help/dsp/campaign-management/ads/ad-edit.md)
     + [Duplicate an Ad](/help/dsp/campaign-management/ads/ad-duplicate.md)
