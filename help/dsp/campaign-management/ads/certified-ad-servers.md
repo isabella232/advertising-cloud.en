@@ -44,7 +44,7 @@ exl-id:
 | Pubmatic | | | | X | VAST Only |
 | RevJet | | | | X | VAST Only |
 | Seedtag | | X | | | |
-| Sizmek | | X | | | To make the tags render in the UI, wrap the tag with <a> tags (at the beginning and the end). See sample tag below:</br></br>```<a><script src="https://bs.serving-sys.com/Serving/adServer.bs?c=28&cn=display&pli=1074570064&w=900&h=550&ord=[timestamp]&ifrm=-1&z=0"></script> <noscript> <a href="https://bs.serving-sys.com/Serving/adServer.bs?cn=brd&pli=1074570064&Page=&Pos=-602368150" target="_blank"> <img src="https://bs.serving-sys.com/Serving/adServer.bs?c=8&cn=display&pli=1074570064&Page=&Pos=-602368150" border=0 width=900 height=550></a> </noscript><a>``` |
+| Sizmek | | X | | | To make the tags render in the UI, wrap the tag with `<a>` tags (at the beginning and the end). See sample tag below:</br></br>```<a><script src="https://bs.serving-sys.com/Serving/adServer.bs?c=28&cn=display&pli=1074570064&w=900&h=550&ord=[timestamp]&ifrm=-1&z=0"></script> <noscript> <a href="https://bs.serving-sys.com/Serving/adServer.bs?cn=brd&pli=1074570064&Page=&Pos=-602368150" target="_blank"> <img src="https://bs.serving-sys.com/Serving/adServer.bs?c=8&cn=display&pli=1074570064&Page=&Pos=-602368150" border=0 width=900 height=550></a> </noscript><a>``` |
 | Spaceback | | X | | | |
 | Spirable | | X | | | |
 | SUBLIME | | | X | | |
@@ -54,3 +54,4 @@ exl-id:
 | Vox *Athena unit | | | X | | |
 | Wunderkind | | X | | | |
 
+{style="table-layout:auto"}
