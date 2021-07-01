@@ -1,7 +1,7 @@
 ---
 title: Why Channel Data Can Vary Between Advertising Cloud and Marketing Channels
 description: Learn why channel data tracked by the AMO ID can vary from channel data tracked by Analytics Marketing Channels.
-feature: integration with Adobe Analytics, Marketing Channels
+feature: Integration with Adobe Analytics
 exl-id: 
 ---
 # Why Channel Data Can Vary Between Advertising Cloud and Marketing Channels

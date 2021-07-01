@@ -1,7 +1,7 @@
 ---
 title: Optimization Goals and How to Use Them
 description: Reference the available optimization goals and see when to use them.
-feature: optimization
+feature: Optimization, Reference
 exl-id: 9bca09b5-9aa7-4009-a576-9b30cfddfd55
 ---
 # Optimization Goals and How to Use Them

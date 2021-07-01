@@ -1,7 +1,7 @@
 ---
 title: Overview of Campaign Management in Advertising Cloud DSP
 description: Learn about the campaign management hierarchy and components.
-feature: campaign management, campaigns, packages, placements, ads, creatives
+feature: Packages, Placements, Ads, Creatives
 exl-id: c94e08d0-0dd5-4cf9-8df2-9eb4c591375c
 ---
 # Overview of Campaign Management in Advertising Cloud DSP

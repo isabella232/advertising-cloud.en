@@ -1,7 +1,7 @@
 ---
 title: Sort a Data Column
 description: Learn how to sort the data columns in any campaign management view.
-feature: campaign management, data views
+feature: Campaign Data Views
 exl-id: ed27246a-a31e-4ad2-bc30-446478fc58d1
 ---
 # Sort a Data Column

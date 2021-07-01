@@ -1,7 +1,7 @@
 ---
 title: Cross-Device Solutions
 description: Learn more about cross-device features.
-feature: cross-device solutions
+feature: Introduction
 exl-id: 29f8ec41-35a6-4a29-a638-82a2929a8fe6
 ---
 # Cross-Device Solutions

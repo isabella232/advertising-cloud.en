@@ -1,7 +1,7 @@
 ---
 title: About Campaign Management in Advertising Cloud DSP
 description: Learn about campaign management.
-feature: campaign management, campaigns
+feature: Campaigns
 exl-id: f9f3aba2-995c-45df-8e65-52999f9cc539
 ---
 # About Campaign Management in Advertising Cloud DSP

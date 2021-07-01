@@ -1,7 +1,7 @@
 ---
 title: List the Placements Associated with an Ad
 description: Learn how to see the placements associated with an ad.
-feature: campaign management, ads
+feature: Ads
 exl-id: 82c4f1b4-56fd-411f-a027-3f93ffb3867b
 ---
 # List the Placements Associated with an Ad

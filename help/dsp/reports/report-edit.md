@@ -1,7 +1,7 @@
 ---
 title: Edit a Custom Report
 description: Learn how to edit custom report settings.
-feature: custom reports
+feature: Custom Reports
 exl-id: 
 ---
 

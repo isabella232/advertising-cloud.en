@@ -1,7 +1,7 @@
 ---
 title: Attach a Placement to a Package
 description: Learn how to attach a placement to a package.
-feature: campaign management, packages
+feature: Packages
 exl-id: 443aa1a3-c8b9-4949-87be-5a37e67f00a8
 ---
 # Attach a Placement to a Package

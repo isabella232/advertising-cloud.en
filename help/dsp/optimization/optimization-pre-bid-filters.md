@@ -1,7 +1,7 @@
 ---
 title: Placement-level Pre-Bid Filters and How to Use Them
 description: Reference the available placement-level pre-bid filters and see how to use them.
-feature: optimization
+feature: Optimization, Reference
 exl-id: c699e970-84ca-429b-8062-81804e6c9f21
 ---
 # Placement-level Pre-Bid Filters and How to Use Them

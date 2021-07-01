@@ -1,12 +1,12 @@
 ---
 title: Duplicate Placements
 description: Learn how to duplicate one or more placements.
-feature: campaign management, placements
+feature: Placements
 exl-id: d22a61a8-4f1b-41ee-b4fb-3124bec81a2f
 ---
 # Duplicate Placements
 
-<!-- Some placements don't have this option. Clarify which placement types aren't eligible -- is it PG and simple ad serving placements, or all placements using private inventory? And anything else? -->
+<!-- Some placements don't have this option. Clarify which placement types aren't eligible -- is it PG placements, or all placements using private inventory? And anything else? -->
 
 Duplicate one or more placements to create placements with similar settings. You can:
 

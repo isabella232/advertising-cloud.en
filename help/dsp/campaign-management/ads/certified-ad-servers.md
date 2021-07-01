@@ -1,7 +1,7 @@
 ---
 title: Certified Ad Serving Partners
 description: See all certified ad servers and ad units.
-feature: campaign management, ads
+feature: Ads, Reference
 exl-id: 
 ---
 # Certified Ad Serving Partners

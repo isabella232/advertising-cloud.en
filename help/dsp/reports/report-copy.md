@@ -1,7 +1,7 @@
 ---
 title: Duplicate a Custom Report
 description: Learn how to create a custom report by duplicating an existing report.
-feature: custom reports
+feature: Custom Reports
 exl-id: 
 ---
 

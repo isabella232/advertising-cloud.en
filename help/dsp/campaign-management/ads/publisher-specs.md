@@ -1,14 +1,14 @@
 ---
 title: Publisher-Specific Ad Specifications
 description: Reference the ad specifications for supported publishers.
-feature: campaign management, ads
+feature: Ads, Reference
 exl-id: 
 ---
 # Publisher-Specific Ad Specifications
 
 Some publishers have stricter ad specifications than Advertising Cloud's [general ad specifications](/help/dsp/assets/ad-specs.pdf).  When the publisher specifications are stricter that Advertising Cloud's, make sure to follow the publisher specifications.
 
-The following links take you to the ad specifications for publishers with stricter requirements.
+The following links take you to the ad specifications for some of the publishers with stricter requirements.
 
 * Channel 10 (Viacom; AU only): https://www.10viacomcbs.com.au/wp-content/uploads/2020/10/Network-10-Digita-Ad-Specs.pdf
 * CBS Interactive Advanced Media: https://cbsinteractive.com/advertising/ad-specs/list/cbs-interactive-advanced-media

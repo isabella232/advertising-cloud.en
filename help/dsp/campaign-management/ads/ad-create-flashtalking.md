@@ -1,7 +1,7 @@
 ---
 title: Create Ads with Flashtalking
 description: Learn about DSP's fee-based ad serving partnership with Flashtalking.
-feature: campaign management, ads
+feature: Ads
 exl-id: 
 ---
 # Create Ads with Flashtalking

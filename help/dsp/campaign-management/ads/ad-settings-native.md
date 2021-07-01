@@ -1,7 +1,7 @@
 ---
 title: Native Ad Settings
 description: See descriptions of the available ad settings for native ads.
-feature: campaign management, ads
+feature: Ads, Reference
 exl-id: 3ae59e63-ae64-41b2-8734-3df2da020c7c
 ---
 # Native Ad Settings

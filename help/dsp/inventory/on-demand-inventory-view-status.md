@@ -1,7 +1,7 @@
 ---
 title: View the Status of Your On Demand Deal Requests and Subscriptions
 description: Learn how to see the status of your On Demand deal requests and subscriptions.
-feature: inventory, On Demand inventory
+feature: On Demand Inventory
 exl-id: 8dd6d922-c4a3-4ddb-bca9-f6f782da1320
 ---
 # View the Status of Your On Demand Deal Requests and Subscriptions

@@ -1,7 +1,7 @@
 ---
 title: Using Marketing Channels with Advertising Cloud Data
 description: Learn how to use Advertising Cloud data in Analytics Marketing Channels.
-feature: integration with Adobe Analytics, Marketing Channels
+feature: Integration with Adobe Analytics
 exl-id: 
 ---
 # Using Adobe Analytics Marketing Channels with Advertising Cloud Data

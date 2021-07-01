@@ -1,7 +1,7 @@
 ---
 title: Archive or Unarchive a Campaign
 description: Learn how to archive or unarchive a campaign.
-feature: campaign management, campaigns
+feature: Campaigns
 exl-id: 9a6822c5-9d93-490a-9a2e-37afb1591028
 ---
 # Archive or Unarchive a Campaign

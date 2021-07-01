@@ -1,12 +1,12 @@
 ---
 title: Create a Reusable Audience
 description: Learn how to create a reusable audiences that consist of audience segments and other saved audiences.
-feature: audience management, reusable audiences
+feature: Reusable Audiences
 exl-id: 48e3dc4c-6e2d-452c-8d69-7e6211d808e0
 ---
 # Create a Reusable Audience
 
-<!-- "Saved audience" is used in UI, but "saved" is a state, not a type. "Reusable audience" sounds better in a description. "Audience template" isn't perfect, either, since it implies you can edit it on the fly to create a new, different audience. Some other term? -->
+<!-- "Saved audience" is used in UI (where?), but "saved" is a state, not a type. "Reusable audience" sounds better in a description. "Audience template" isn't right, either, since it implies you can edit it on the fly to create a new, different audience. Some other term? -->
 
 You can save and manage reusable audiences, which are groups of audience segments and even other saved audiences, which you can use as targets or exclusions for multiple placements.
 

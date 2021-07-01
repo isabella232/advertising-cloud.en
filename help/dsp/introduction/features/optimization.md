@@ -1,7 +1,7 @@
 ---
 title: Optimization
 description: Learn more about optimization features.
-feature: optimization
+feature: Introduction, Optimization
 exl-id: 75c144d5-2790-415d-ade9-de2803ff9054
 ---
 # Optimization

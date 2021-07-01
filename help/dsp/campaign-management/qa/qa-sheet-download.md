@@ -1,7 +1,7 @@
 ---
 title: Download Placement Settings for a Campaign
 description: Learn how to download the placement settings for a campaign using Excel QA spreadsheets.
-feature: QA sheets
+feature: Placements
 ---
 
 # Download Placement Settings for a Campaign

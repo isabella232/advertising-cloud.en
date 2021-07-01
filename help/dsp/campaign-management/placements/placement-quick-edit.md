@@ -1,12 +1,12 @@
 ---
 title: Quickly Edit Key Placement Settings
 description: Learn how to quickly change key placement settings.
-feature: campaign management, placements
+feature: Placements
 exl-id: 107ec263-a0f2-491b-8380-2cceaf51cae9
 ---
 # Quickly Edit Key Placement Settings
 
-<!-- Some placements don't have this option. Clarify which placement types aren't eligible -- is it PG and simple ad serving placements, or all placements using private inventory? And anything else? -->
+<!-- Some placements don't have this option. Clarify which placement types aren't eligible -- is it PG placements, or all placements using private inventory? And anything else? -->
 
 You can edit the placement name, status, maximum bid, and budget without opening the complete placement settings.
 

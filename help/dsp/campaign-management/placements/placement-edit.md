@@ -1,12 +1,12 @@
 ---
 title: Edit a Placement
 description: Learn how to edit a placement.
-feature: campaign management, placements
+feature: Placements
 exl-id: 135adad3-0bc0-4402-ac4a-a4fc71f78edf
 ---
 # Edit a Placement
 
-<!-- Some placements don't have this option. Clarify which placement types aren't eligible -- is it PG and simple ad serving placements, or all placements using private inventory? And anything else? -->
+<!-- Some placements don't have this option. Clarify which placement types aren't eligible -- is it PG placements, or all placements using private inventory? And anything else? -->
 
 >[!TIP]
 >

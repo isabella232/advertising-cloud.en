@@ -1,7 +1,7 @@
 ---
 title: Prerequisites and Key Information for Implementing Analytics for Advertising Cloud
 description: Prerequisites and Key Information for Implementing Analytics for Advertising Cloud
-feature: integration with Adobe Analytics
+feature: Integration with Adobe Analytics
 exl-id: 08e54e2b-ed9b-4489-8de5-ab1379b7133c
 ---
 # Prerequisites and Key Information for Implementing Analytics for Advertising Cloud

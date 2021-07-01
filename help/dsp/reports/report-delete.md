@@ -1,7 +1,7 @@
 ---
 title: Delete a Custom Report
 description: Learn how to delete a custom report.
-feature: custom reports
+feature: Custom Reports
 exl-id: 
 ---
 

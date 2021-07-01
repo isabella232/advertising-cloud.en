@@ -1,7 +1,7 @@
 ---
 title: Columns in Downloaded/Uploaded Spreadsheets
 description: Reference the columns in downloaded and uploaded Excel QA spreadsheets.
-feature: QA sheets
+feature: Placements, Reference
 ---
 
 # Columns in Downloaded/Uploaded Spreadsheets

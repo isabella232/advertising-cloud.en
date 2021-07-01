@@ -1,7 +1,7 @@
 ---
 title: Edit a Campaign
 description: Learn how to edit a campaign.
-feature: campaign management, campaigns
+feature: Campaigns
 exl-id: 5647029b-f861-4396-8501-2a06a7f4d910
 ---
 # Edit a Campaign

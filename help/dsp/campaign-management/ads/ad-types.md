@@ -1,7 +1,7 @@
 ---
 title: Available Ad Types
 description: Learn about the ad types that are available.
-feature: campaign management, ads
+feature: Ads
 exl-id: 27df3948-b645-4ddf-a5e0-ade72f15a969
 ---
 # Available Ad Types

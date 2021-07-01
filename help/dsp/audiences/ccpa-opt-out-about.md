@@ -1,7 +1,7 @@
 ---
 title: About CCPA Opt-out-of-Sale Segments and Reports
 description: Learn about creating segments to track IDs from CCPA opt-out-of-sale requests and how to retrieve reports of the IDs.
-feature: audience management, CCPA opt-out-of-sale segments, CCPA
+feature: CCPA, CCPA Opt-out-of-sale Segments
 exl-id: 9256d34e-d0dd-4abf-bc96-2b599caf2a8e
 ---
 # About CCPA Opt-out-of-Sale Segments and Reports

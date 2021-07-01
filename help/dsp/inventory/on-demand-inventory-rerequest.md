@@ -1,7 +1,7 @@
 ---
 title: Re-Request On Demand Premium Inventory Deals
 description: Learn how to re-request On Demand deals that were previously denied.
-feature: inventory, On Demand inventory
+feature: On Demand Inventory
 exl-id: db5a5708-16e3-4304-8bd0-f1aa8ecd0e3c
 ---
 # Re-Request On Demand Premium Inventory Deals

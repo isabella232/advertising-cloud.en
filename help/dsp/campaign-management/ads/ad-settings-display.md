@@ -1,7 +1,7 @@
 ---
 title: Display Ad Settings
 description: See descriptions of the available ad settings for display ads.
-feature: campaign management, ads
+feature: Ads, Reference
 exl-id: ae88dfab-0b0c-42ab-9135-422b20a4b6cd
 ---
 # Display Ad Settings

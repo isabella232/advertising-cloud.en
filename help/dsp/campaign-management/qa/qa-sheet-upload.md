@@ -1,7 +1,7 @@
 ---
 title: Upload Placement Settings for a Campaign
 description: Learn how to upload changes to key placement settings for a campaign using Excel QA spreadsheets.
-feature: QA sheets
+feature: Placements
 ---
 
 # Upload Placement Settings for a Campaign

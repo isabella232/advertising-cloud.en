@@ -1,7 +1,7 @@
 ---
 title: Export Data from a Campaign Management View
 description: Learn how to export the data from a any type of campaign management view to a spreadsheet file.
-feature: campaign management, data views
+feature: Campaign Data Views
 exl-id: 393b0726-d26c-4d0b-8926-98fc27259286
 ---
 # Export Data from a Campaign Management View

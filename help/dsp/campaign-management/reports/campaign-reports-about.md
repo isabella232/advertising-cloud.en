@@ -1,7 +1,7 @@
 ---
 title: About In-Platform Reports
 description: Learn about the report data included in the campaign management views.
-feature: campaign management
+feature: Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
 ---
 # About In-Platform Reports

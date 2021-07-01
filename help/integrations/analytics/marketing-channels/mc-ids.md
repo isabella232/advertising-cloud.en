@@ -1,7 +1,7 @@
 ---
 title: Using Advertising Cloud IDs to Create Marketing Channel Rules
 description: Learn how to use Advertising Cloud IDs to create processing rules for Adobe Analytics Marketing Channels.
-feature: integration with Adobe Analytics, Marketing Channels
+feature: Integration with Adobe Analytics
 exl-id: 
 ---
 # Using Advertising Cloud IDs to Create Marketing Channel Processing Rules

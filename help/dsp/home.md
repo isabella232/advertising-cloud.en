@@ -1,7 +1,6 @@
 ---
 title: What's New in Advertising Cloud DSP
 description: This page describes new and recently-changed features in Advertising Cloud DSP.
-feature: new features
 index: yes
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
 ---

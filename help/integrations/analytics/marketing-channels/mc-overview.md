@@ -1,7 +1,7 @@
 ---
 title: Fundamentals of Adobe Analytics Marketing Channels
 description: Learn key information about Adobe Analytics Marketing Channels that Analytics for Advertising Cloud users should understand.
-feature: integration with Adobe Analytics, Marketing Channels
+feature: Integration with Adobe Analytics
 exl-id: 
 ---
 # Fundamentals of Adobe Analytics Marketing Channels

@@ -1,7 +1,7 @@
 ---
 title: Using Roku Inventory
 description: Learn about DSP's partnership with Roku, including inventory options, approved third-party tracking vendors, and best practices for Roku-specific placements. 
-feature: inventory, connected TV
+feature: On Demand Inventory, Private Inventory
 exl-id: 0cd42782-f006-4aa8-b879-322f86cfac4b
 ---
 # Using Roku Inventory

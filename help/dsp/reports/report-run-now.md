@@ -1,7 +1,7 @@
 ---
 title: Run a Custom Report
 description: Learn how to run a custom report immediately.
-feature: custom reports
+feature: Custom Reports
 exl-id: 
 ---
 

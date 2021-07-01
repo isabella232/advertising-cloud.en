@@ -1,7 +1,7 @@
 ---
 title: About Adobe Advertising Cloud DSP
 description: About Adobe Advertising Cloud DSP
-feature: introduction, optimization, cross-device solutions, media quality, integration with Adobe Analytics, integration with Adobe Audience Manager, integration with Adobe Experience Platform, connected TV 
+feature: Introduction
 exl-id: def006b2-eb51-4942-b277-a2e673bccc7f
 ---
 # About Adobe Advertising Cloud DSP
@@ -16,6 +16,6 @@ Adobe Advertising Cloud DSP elevates advertisers’ media strategies through adv
 
 * [**Media Quality Suite**](features/brand-safety-media-quality.md): Advertising Cloud DSP takes a proactive approach to issues that may impact your brand and advertising investments. The DSP media quality suite is 100% transparent and takes a multi-faceted approach to ensure advertiser’s investments are protected. This includes brand safety, viewability, fraud protection, and Ads.Txt.
 
-* **Integrations with Adobe Analytics, Adobe Audience Manager, and Adobe Experience Platform**: Integrations with your existing Adobe products allow you to maximize your first-party data and put advertising on the same level as the rest of the business insights.  
+* **Integrations with [Adobe Analytics](/help/integrations/analytics/overview.md), Adobe Audience Manager, and Adobe Experience Platform**: Integrations with your existing Adobe products allow you to maximize your first-party data and put advertising on the same level as the rest of the business insights.  
 
 * [**Premiere connected TV experience with Roku**](/help/dsp/inventory/roku-inventory.md): Roku and Advertising Cloud DSP have a unique partnership that empowers you to activate your first-party and third-party data across Roku’s inventory to efficiently reach audiences across the big screen, at scale. By leveraging the only platform with the ability to sync with Roku IDs, marketers can take advantage of deterministic 1:1 targeting with precision and accuracy, as well as access Roku inventory and unique measurement insights.

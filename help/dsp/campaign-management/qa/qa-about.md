@@ -1,7 +1,7 @@
 ---
 title: About Correcting Placement Settings for a Campaign Using Spreadsheets
 description: Learn how to review and edit key placement settings for a campaign using Excel QA spreadsheets.
-feature: QA sheets
+feature: Placements
 ---
 
 # About Correcting Placement Settings for a Campaign Using Spreadsheets
