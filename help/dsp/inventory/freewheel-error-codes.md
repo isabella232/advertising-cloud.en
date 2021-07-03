@@ -1,7 +1,7 @@
 ---
 title: Error Codes for FreeWheel Ad Submissions
 description: Reference the error codes that are returned for ad submissions to FreeWheel.
-feature: Deal IDs, Reference
+feature: Private Inventory, Deal IDs
 exl-id: 
 ---
 # Error Codes for FreeWheel Ad Submissions

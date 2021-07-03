@@ -1,7 +1,7 @@
 ---
 title: About the Deal ID Inbox
 description: Learn about the Deal ID Inbox feature, which allows you to accept private deals you've already negotiated with publishers on Google Authorized Buyers, FreeWheel, and Rubicon.
-feature: Deal IDs
+feature: Private Inventory, Deal IDs
 exl-id: 959ad1d4-4671-4967-9f73-ec5b0464d0cd
 ---
 # About the Deal ID Inbox

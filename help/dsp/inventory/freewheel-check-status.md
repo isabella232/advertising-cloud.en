@@ -1,7 +1,7 @@
 ---
 title: Check the Status of Ads for a Freewheel PG Deal
 description: Learn how to find the status of ads for Freewheel programmatic guaranteed deals.
-feature: Deal IDs
+feature: Private Inventory, Deal IDs
 exl-id: 
 ---
 # Check the Status of Ads for Freewheel Programmatic Guaranteed Deals

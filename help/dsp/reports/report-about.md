@@ -6,7 +6,7 @@ exl-id: 59fc1894-1c9d-451d-b644-5640dd311547
 ---
 # About Custom Reports
 
-Custom reports (formerly called email reports) allow you to customize the content and delivery of your report data using the campaign dimensions (such as the advertiser, placement, sites, or geos) and the metrics that matter most to you. You can either:
+Custom reports allow you to customize the content and delivery of your report data using the campaign dimensions (such as the advertiser, placement, sites, or geos) and the metrics that matter most to you. You can either:
 
 * Completely configure campaign performance reports at a granular level.
 * Choose from pre-configured report templates, and optionally customize them further.
@@ -23,7 +23,7 @@ You can generate reports once, or schedule them to be generated daily, weekly, o
 
 * Pre-configured Report Templates
 
-    * **Custom:** This is a blank template you can use to create your own custom report using most dimensions and metrics. Conversion, Device, Geo, and Site reports are variations of this template with pre-selected columns and dimensions for their respective use cases.
+    * **Custom:** This report is a blank template you can use to create your own custom report using most dimensions and metrics. Conversion, Device, Geo, and Site reports are variations of this template with pre-selected columns and dimensions for their respective use cases.
     
     * **Billing:** Use this report to understand key billing metrics like spend metrics for media billing by campaign.
     
@@ -31,7 +31,7 @@ You can generate reports once, or schedule them to be generated daily, weekly, o
        >
        >This report includes data about the billing segment. If a user or device is served an impression that belongs to multiple segments, only one billable segment is credited with the impression.
 
-    * **Conversion:** Use this report to understand how your campaigns are performing based on conversion metrics captured using Advertising Cloud conversion tracking. This includes multi-touch attribution.
+    * **Conversion:** Use this report to understand how your campaigns are performing based on conversion metrics captured using Advertising Cloud conversion tracking. This report includes multi-touch attribution.
 
     * **Device:** Use this pre-populated template to see key metrics by device-related dimensions.
 
@@ -58,7 +58,7 @@ You can generate reports once, or schedule them to be generated daily, weekly, o
 
        >[!NOTE]
        >
-       >* This report is intended to show how different targeted segments perform. It uses segment membership data. When an impression is served to a person or device belonging to two or more targeted segments, this report will include one row for each segment. For this reason, totals in this report may not match actual delivery.
+       >* This report is intended to show how different targeted segments perform. It uses segment membership data. When an impression is served to a person or device belonging to two or more targeted segments, this report includes one row for each segment. For this reason, totals in this report may not match actual delivery.
        >* Conversion metrics and custom goal data for segments is available after August 2, 2019. All other data for segments is available beginning after June 1, 2018.
      
     * **Site:** By default, includes standard metrics, total media net spend, and total billable net spend by site.

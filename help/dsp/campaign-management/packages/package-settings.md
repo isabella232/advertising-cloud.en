@@ -1,7 +1,7 @@
 ---
 title: Package Settings
 description: See descriptions of the available package settings.
-feature: Packages, Reference
+feature: Packages
 exl-id: b4d415d1-86a5-40bd-b645-1709b267c174
 ---
 # Package Settings

@@ -1,7 +1,7 @@
 ---
 title: Manual Deal ID Settings
 description: See descriptions of the settings for manually-entered Deal IDs.
-feature: Deal IDs, Reference
+feature: Private Inventory, Deal IDs
 exl-id: 0cd5e9e8-2b13-4b1e-a2e0-b8b492f75acf
 ---
 # Manual Deal ID Settings

@@ -1,7 +1,7 @@
 ---
 title: Connected TV Ad Settings
 description: See descriptions of the available ad settings for connected TV ads.
-feature: Ads, Reference
+feature: Ads
 exl-id: 4daae9e4-27eb-4496-9186-f33aebd8daae
 ---
 # Connected TV Ad Settings

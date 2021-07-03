@@ -1,7 +1,7 @@
 ---
 title: Currencies Supported
 description: See a list of the supported currencies.
-feature: Custom Reports, Campaign Data Views, Reference
+feature: Custom Reports, Campaign Data Views
 ---
 
 # Currencies Supported in Adobe Advertising Cloud

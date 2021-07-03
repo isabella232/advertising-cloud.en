@@ -1,7 +1,7 @@
 ---
 title: Available Third-party Data Providers in Advertising Cloud DSP
 description: See a list of all available third-party data providers.
-feature: Reusable Audiences
+feature: Audiences
 exl-id: f67d81a0-bd31-48d8-9bcf-1888afd43894
 ---
 <!-- feature: audiences -->

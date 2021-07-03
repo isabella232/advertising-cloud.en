@@ -1,7 +1,7 @@
 ---
 title: On Demand Premium Inventory Publishers in Australia and New Zealand
 description: See the available On Demand premium inventory publishers in Australia and New Zealand.
-feature: On Demand Inventory, Reference
+feature: On Demand Inventory
 exl-id: e46ec570-38a7-4ea6-8c4c-d173971c48b7
 ---
 # On Demand Premium Inventory Publishers in Australia and New Zealand{#on-demand-inventory-publishers-anz}

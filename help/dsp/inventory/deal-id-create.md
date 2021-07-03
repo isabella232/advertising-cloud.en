@@ -1,7 +1,7 @@
 ---
 title: Manually Create Deal ID Details
 description: Learn how to manually enter details for a Deal ID.
-feature: Deal IDs
+feature: Private Inventory, Deal IDs
 exl-id: cd9763a7-99d4-4881-9df9-b4e24c55be0f
 ---
 # Manually Create Deal ID Details
