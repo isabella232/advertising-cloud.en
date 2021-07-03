@@ -6,11 +6,11 @@ exl-id: 49c990e7-05d7-4fde-a728-d9e8dfb86222
 ---
 # Adobe Advertising Cloud Ad Requirements Policy
 
-*Last updated: August 30, 2020*
+*Last updated: July 1, 2020*
 
-This Ads Requirements Policy (“Policy”) sets forth the requirements for Ads distributed via Adobe’s On-demand Services for Advertising Cloud (“Services”). This Policy is incorporated by reference into the Agreement between Adobe and the customer using the On-demand Services. Capitalized terms used in this Policy but not defined herein will have the meaning set forth in that Agreement.
+This Ads Requirements Policy (“Policy”) sets forth the requirements for Ads distributed via Adobe’s On-demand Services for Advertising Cloud (“Services”). This Policy is incorporated by reference into the Agreement between Adobe and the Customer (“you”) using the On-demand Services. Capitalized terms used in this Policy but not defined herein will have the meaning set forth in that Agreement.
 
-Adobe reserves the right to determine, in its sole  judgment, whether Ads violate the requirements of this Policy, in which event it may reject such Ads and/or terminate access to the Services on that basis.
+Adobe reserves the right to determine, in its sole  judgment, whether an Ad, or the website(s) to which the Ad re-directs or links, violates the requirements of this Policy, in which event Adobe may reject such Ad and/or terminate or suspend access to the Services on that basis.
 
 In addition to the requirements set forth below and in the Agreement, you must comply with the requirements imposed by each media source on which you place your Ads as well as those imposed by any supply side platform (SSP) or other platform used to deliver any of your Ads. It is your responsibility to understand and comply with the policies of the publishers and platforms through which you deliver Ads.
 
@@ -22,12 +22,11 @@ All Ads transmitted, stored, displayed, distributed, or otherwise made available
 
 ### Prohibited Ads
 
-Customer must ensure that its Ads do not contain or promote any of the following:
+You must ensure that your Ads and the website(s) to which an Ad links or re-directs do not contain or promote any of the following:
 
-* **Illegal content**. Ads may not contain illegal content or promote, encourage, or facilitate illegal activities, products, or services. This includes, but is not limited to, content, products, activities or services that involve use of illicit drugs or drug paraphernalia
-(whether illegal at state or federal level) or violate securities laws. For purposes of this Policy, Ads regarding content, products, activities or services that relate to marijuana or hemp or derivatives of these substances, such as cannabidiol (CBD) are prohibited in the U.S., with a sole exception for hemp-derived CBD products (but no other CBD or THC products) in the U.S. and Canada, subject to previously entering into the applicable Adobe Rider, and as permitted by Media Suppliers and applicable laws.
+* **Illegal content**. Ads may not contain illegal content or promote, encourage, or facilitate illegal activities, products, or services. This includes, but is not limited to, content, products, activities or services that involve use of illicit drugs or drug paraphernalia (whether illegal at state or federal level) or violate securities laws. For purposes of this Policy, Ads regarding content, products, activities, or services that relate to marijuana or hemp or derivatives of these substances, such as cannabidiol (CBD), are prohibited, with the following sole exceptions: (1) hemp-derived CBD products (but no other CBD or THC products) in the U.S.; and (2) cannabis products in the Permitted Canadian Provinces, both subject to (a) previously entering into the applicable Adobe Rider, (b) compliance with Adobe due diligence requirements, and (c) as permitted by Media Suppliers and applicable laws. “Permitted Canadian Provinces” means the provinces of Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, and Saskatchewan.
 
-* **Infringement upon of the rights or contracts of another**. Ads may not violate or infringe the rights or contract of another or promote any product or service that engages in those activities. This includes infringement of intellectual property rights and violations of privacy, publicity, or other personal or proprietary rights, including the promotion of filesharing services that are used primarily to infringe copyrights.
+* **Infringement upon of the rights or contracts of another**. Ads may not violate or infringe the rights or contract of another or promote any product or service that engages in those activities. This includes infringement of intellectual property rights and violations of privacy, publicity, or other personal or proprietary rights, including the promotion of file-sharing services that are used primarily to infringe copyrights.
 
 * **Violence or dangerous activities**. Ads may not promote or depict violent or dangerous activities or materials, including content that is shocking, sensational, gory, obscene, or that promotes or depicts physical injury, harm or abuse, weapons (including weapon
 modification or accessories), ammunition, fireworks or other explosive materials.
@@ -70,7 +69,9 @@ Ads containing content in the below categories are permitted with specific restr
 
 * **Pharmaceutical Ads**. Ads promoting prescription and over-the-counter drugs must comply with applicable federal and local laws, regulations, and guidelines.
 
-* **Financial Products and Services**. Ads that promote financial products or services to consumers, including cryptocurrency-related products or services, must comply with applicable federal and local laws, regulations, and guidelines and must disclose all applicable fees. Ads may not promote payday loans, loans that require repayment in full in 60 days or less from the date the loan is issued, title loans, or pawn shops. Ads for mortgages, car loans, student loans, and revolving lines of credit are permitted provided destination URLs prominently disclose key terms such as minimum and maximum period for repayment, annual percentage rate, and representative example of total cost of loan, including any fees.
+* **Financial Products and Services**. Ads that promote financial products or services to consumers must comply with applicable federal and local laws, regulations, and guidelines and must disclose all applicable fees. Ads may not promote payday loans, loans that require repayment in full in 60 days or less from the date the loan is issued, title loans, or pawn shops. Ads for mortgages, car loans, student loans, and revolving lines of credit are permitted provided destination URLs prominently disclose key terms such as minimum and maximum period for repayment, annual percentage rate, and representative example of total cost of loan, including any fees.
+
+* **Cryptocurrency and Blockchain Services**. Ads that promote cryptocurrency or other blockchain related products or services must comply with applicable federal and local laws, regulations, and guidelines, and must not promote products or services related to unregistered securities offerings, non-fungible tokens, or the sale or issuance of any particular cryptographic token. Ads for cryptocurrency exchange platforms and wallet services are permitted provided that all applicable fees are conspicuously disclosed, and also provided that the advertised service provider is a federally-registered money service business. Ads for blockchain analytics service providers that support transaction monitoring and other compliance functions are permitted.
 
 * **Ads Related to Weight Loss**. Ads that promote weight loss or appetite suppressant pills and supplements are not permitted, including products that contain human chorionic gonadotropin (hCG). Ads may not promote unlikely or dangerous weight loss claims or present deceptive before-and-after weight loss imagery.
 
@@ -90,7 +91,7 @@ Ads may not use personal data to intentionally target users under the age of 16.
 
 ## Targeted Ads
 
-The Services may not be used to target ads to users, including to retarget users based on visits to your websites or other online services, in a way that implies that you are aware of potentially sensitive information about them.
+The Services may not be used to target ads to users or exclude users from being targeted, including to retarget users based on visits to your websites or other online services, in a way that implies that you are aware of potentially sensitive information about them.
 
 * **Prohibited Targeting**. Ads may not be targeted to or directed at an audience based on any of the following factors, whether known or inferred:
 
