@@ -1,6 +1,6 @@
 ---
 type: Documentation
-role: Business Practitioner, Administrator
+role: User, Admin
 cloud: Experience Cloud
 solution: Advertising Cloud
 product: advertising cloud
