@@ -6,7 +6,11 @@ exl-id: 49c990e7-05d7-4fde-a728-d9e8dfb86222
 ---
 # Adobe Advertising Cloud Ad Requirements Policy
 
+<<<<<<< Updated upstream
 *Last updated: July 1, 2020*
+=======
+*Last updated: July 12, 2021*
+>>>>>>> Stashed changes
 
 This Ads Requirements Policy (“Policy”) sets forth the requirements for Ads distributed via Adobe’s On-demand Services for Advertising Cloud (“Services”). This Policy is incorporated by reference into the Agreement between Adobe and the Customer (“you”) using the On-demand Services. Capitalized terms used in this Policy but not defined herein will have the meaning set forth in that Agreement.
 
