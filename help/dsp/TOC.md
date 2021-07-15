@@ -25,10 +25,11 @@ index: yes
     + Support for CCPA {#ccpa}
       + [Support for the California Consumer Privacy Act: Consumer Data Access and Delete](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ad-cloud-ccpa-access-delete.html)
       + [Support for the California Consumer Privacy Act: Consumer Opt-Out-of-Sale](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ad-cloud-ccpa-opt-out-of-sale.html)
-  + Policies and Guidelines {#policies}
+<!--  + Policies and Guidelines {#policies}
     + [Ads Requirements Policy](/help/policies/ad-requirements-policy.md)
     + [Acceptable Health Segment Guidelines](/help/policies/health-segment-guidelines.md)
     + [DSP Data Usage Guidelines](/help/policies/data-usage-guidelines.md)
+    -->
   + [Available Advanced Measurement Services](/help/dsp/introduction/advanced-measurement-services.md)
 + Campaign Management {#campaign-management}
   + [Overview of Campaign Management Structure](/help/dsp/campaign-management/campaign-management-overview.md)
