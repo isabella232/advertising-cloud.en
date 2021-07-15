@@ -8,6 +8,8 @@ exl-id: 49c990e7-05d7-4fde-a728-d9e8dfb86222
 
 *Last updated: July 12, 2021*
 
+*For Adobe Advertising Cloud DSP and Adobe Advertising Cloud Search*
+
 This Ads Requirements Policy (“Policy”) sets forth the requirements for Ads distributed via Adobe’s On-demand Services for Advertising Cloud (“Services”). This Policy is incorporated by reference into the Agreement between Adobe and the Customer (“you”) using the On-demand Services. Capitalized terms used in this Policy but not defined herein will have the meaning set forth in that Agreement.
 
 Adobe reserves the right to determine, in its sole  judgment, whether an Ad, or the website(s) to which the Ad re-directs or links, violates the requirements of this Policy, in which event Adobe may reject such Ad and/or terminate or suspend access to the Services on that basis.

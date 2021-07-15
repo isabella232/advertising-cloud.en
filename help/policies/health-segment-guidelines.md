@@ -6,6 +6,8 @@ exl-id: c3f68457-92c6-472a-93f4-cce9aeaecc53
 ---
 # Adobe Advertising Cloud Acceptable Health Segment Guidelines
 
+*For Adobe Advertising Cloud DSP and Adobe Advertising Cloud Search*
+
 The following guidelines outline unacceptable and acceptable health-related audience segments. They also recommend tactics to use as alternatives to targeting health-related audience segments.
 
 These guidelines are summarized from the Network Advertising Alliance (NAI).
