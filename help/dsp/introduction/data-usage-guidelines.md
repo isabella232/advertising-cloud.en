@@ -1,12 +1,14 @@
 ---
-title: Adobe Advertising Cloud Data Usage Guidelines
+title: Adobe Advertising Cloud DSP Data Usage Guidelines
 description: See the guidelines for data usage.
 feature: Policies
 exl-id: c3f68457-92c6-472a-93f4-cce9aeaecc53
 ---
-# Adobe Advertising Cloud Data Usage Guidelines
+# Adobe Advertising Cloud DSP Data Usage Guidelines
 
 *Last Updated: September 5, 2019*
+
+*For Adobe Advertising Cloud Demand Side Platform*
 
 These Data Usage Guidelines (“Data Guidelines”) set forth the requirements for the use of certain data accessed via Adobe’s On-demand Services for Advertising Cloud ("Services”). These Guidelines are incorporated by reference into the Agreement between Adobe and the Customer using the On-demand Services. Capitalized terms used in these Guidelines but not defined herein will have the meaning set forth in that Agreement.
 

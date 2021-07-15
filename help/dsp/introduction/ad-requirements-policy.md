@@ -120,4 +120,4 @@ You may not use the Services to engage in discrimination in violation of law, in
 
 >[!MORELIKETHIS]
 >
->* [Acceptable Health Segment Guidelines](/help/dsp/introduction/health-segment-guidelines.md)
+>* [Acceptable Health Segment Guidelines](/help/policies/health-segment-guidelines.md)

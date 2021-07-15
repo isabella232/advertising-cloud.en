@@ -5,7 +5,7 @@ cloud: Experience Cloud
 solution: Advertising Cloud
 product: advertising cloud
 user-guide-title: Advertising Cloud DSP Guide
-user-guide-description: This guide explains the major features, tasks, settings, and other resources required to manage, optimize, and report on your display ad strategies using Advertising Cloud DSP.
+user-guide-description: Learn about the major features, tasks, settings, and other resources required to manage, optimize, and report on your display ad strategies using Advertising Cloud DSP.
 breadcrumb-title: DSP Guide
 index: yes
 ---
@@ -19,15 +19,16 @@ index: yes
     + [Optimization](/help/dsp/introduction/features/optimization.md)
     + [Brand Safety and Media Quality](/help/dsp/introduction/features/brand-safety-media-quality.md)
     + [Cross-Device Solutions](/help/dsp/introduction/features/cross-device-solutions.md)
+  + [Account Funding](/help/dsp/introduction/billing/account-funding.md)
   + Support for Consumer Privacy {#privacy}
     + [Support for the General Data Protection Regulation](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ad-cloud-gdpr.html)
     + Support for CCPA {#ccpa}
       + [Support for the California Consumer Privacy Act: Consumer Data Access and Delete](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ad-cloud-ccpa-access-delete.html)
       + [Support for the California Consumer Privacy Act: Consumer Opt-Out-of-Sale](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ad-cloud-ccpa-opt-out-of-sale.html)
   + Policies and Guidelines {#policies}
-    + [Ads Requirements Policy](/help/dsp/introduction/ad-requirements-policy.md)
-    + [Acceptable Health Segment Guidelines](/help/dsp/introduction/health-segment-guidelines.md)
-    + [Data Usage Guidelines](/help/dsp/introduction/data-usage-guidelines.md)
+    + [Ads Requirements Policy](/help/policies/ad-requirements-policy.md)
+    + [Acceptable Health Segment Guidelines](/help/policies/health-segment-guidelines.md)
+    + [DSP Data Usage Guidelines](/help/policies/data-usage-guidelines.md)
   + [Available Advanced Measurement Services](/help/dsp/introduction/advanced-measurement-services.md)
 + Campaign Management {#campaign-management}
   + [Overview of Campaign Management Structure](/help/dsp/campaign-management/campaign-management-overview.md)
