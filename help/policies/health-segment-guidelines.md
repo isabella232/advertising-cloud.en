@@ -10,7 +10,7 @@ The following guidelines outline unacceptable and acceptable health-related audi
 
 These guidelines are summarized from the Network Advertising Alliance (NAI).
 
-See also [Advertising Cloud Ads Requirements Policy](/help/dsp/introduction/ad-requirements-policy.md) to determine whether a health-related audience segment is usable per Adobe Advertising Cloud’s targeting policy.
+See also [Advertising Cloud Ads Requirements Policy](/help/policies/ad-requirements-policy.md) to determine whether a health-related audience segment is usable per Adobe Advertising Cloud’s targeting policy.
 
 ## Health Segments That Should Not Be Used
 
@@ -42,4 +42,4 @@ All of the following must be true:
 
 >[!MORELIKETHIS]
 >
->* [Ads Requirements Policy](/help/dsp/introduction/ad-requirements-policy.md)
+>* [Ads Requirements Policy](/help/policies/ad-requirements-policy.md)
