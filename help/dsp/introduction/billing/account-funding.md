@@ -1,8 +1,6 @@
 ---
 title: Account Funding
 description: Learn about account funding for DSP.
-feature:
-exl-id: 
 ---
 # Advertising Cloud DSP Account Funding
 
