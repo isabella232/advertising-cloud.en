@@ -10,7 +10,7 @@ exl-id:
 
 This page explains key information about Adobe Analytics Marketing Channels that Analytics for Advertising Cloud users need to understand.
 
-For full documentation on Marketing Channels, see "[Get Started with Marketing Channels](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/c-getting-started-mchannel.html).
+For full documentation on Marketing Channels, see "[Get Started with Marketing Channels](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/c-getting-started-mchannel.html)."
 
 ## Overview of Marketing Channels
 
