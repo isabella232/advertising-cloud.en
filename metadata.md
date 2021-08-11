@@ -2,6 +2,7 @@
 type: Documentation
 cloud: Experience Cloud
 solution: Advertising Cloud
+feature-set: Advertising Cloud
 product: advertising cloud
 git-repo: https://github.com/AdobeDocs/advertising-cloud.en
 ---
