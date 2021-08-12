@@ -98,7 +98,7 @@ For more information on functionality, contact your preferred vendor directly, o
 
 ![Comscore logo](/help/dsp/assets/comscore-logo.png) ![DoubleVerify logo](/help/dsp/assets/doubleverify-logo.png) ![Integral Ad Science logo](/help/dsp/assets/ias-logo.png) ![Peer39 logo](/help/dsp/assets/peer39-logo.png)
 
-### Pre-Bid Viewability
+### Pre-Bid Viewability {#pre-bid-viewability}
 
 Pre-bid viewability filters powered by our industry-leading partners DoubleVerify, Oracle Advertising (Moat), and Integral Ad Science allow advertisers to ensure their campaigns meet their desired viewability performance goals across video and display inventory.
 
