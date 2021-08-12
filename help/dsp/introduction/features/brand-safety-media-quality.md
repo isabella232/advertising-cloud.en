@@ -100,11 +100,11 @@ For more information on functionality, contact your preferred vendor directly, o
 
 ### Pre-Bid Viewability
 
-Pre-bid viewability filters powered by our industry-leading partners DoubleVerify and Integral Ad Science allow advertisers to ensure their campaigns meet their desired viewability performance goals across video and display inventory.
+Pre-bid viewability filters powered by our industry-leading partners DoubleVerify, Oracle Advertising (Moat), and Integral Ad Science allow advertisers to ensure their campaigns meet their desired viewability performance goals across video and display inventory.
 
 You can set default viewability filters for each advertiser<!-- [default pre-viewability filters for each advertiser](/help/dsp/admin/advertiser-settings.md) -->, and then optionally [customize the settings for each placement](/help/dsp/campaign-management/placements/placement-settings.md). Additional fees may apply when you use this feature.
 
-![DoubleVerify logo](/help/dsp/assets/doubleverify-logo.png) ![Integral Ad Science logo](/help/dsp/assets/ias-logo.png)
+![DoubleVerify logo](/help/dsp/assets/doubleverify-logo.png) ![Oracle Advertising logo](/help/dsp/assets/oracle-advertising-logo.png) ![Integral Ad Science logo](/help/dsp/assets/ias-logo.png)
 
 ### Topic Targeting
 
