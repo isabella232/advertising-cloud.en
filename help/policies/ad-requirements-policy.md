@@ -30,8 +30,7 @@ You must ensure that your Ads and the website(s) to which an Ad links or re-dire
 
 * **Infringement upon of the rights or contracts of another**. Ads may not violate or infringe the rights or contract of another or promote any product or service that engages in those activities. This includes infringement of intellectual property rights and violations of privacy, publicity, or other personal or proprietary rights, including the promotion of file-sharing services that are used primarily to infringe copyrights.
 
-* **Violence or dangerous activities**. Ads may not promote or depict violent or dangerous activities or materials, including content that is shocking, sensational, gory, obscene, or that promotes or depicts physical injury, harm or abuse, weapons (including weapon
-modification or accessories), ammunition, fireworks or other explosive materials.
+* **Violence or dangerous activities**. Ads may not promote or depict violent or dangerous activities or materials, including content that is shocking, sensational, gory, obscene, or that promotes or depicts physical injury, harm or abuse, weapons (including weapon modification or accessories), ammunition, fireworks or other explosive materials.
 
 * **False or misleading ads**. Ads may not contain content that is false, misleading, or deceptive. This includes Ads setting unrealistic expectations for users, hiding the true destination that users will be directed to after clicking on an Ad, redirecting or linking to a site that misrepresents itself as another service,  mimicking system alerts or warnings (such as from any operating system or mobile application), or appearing confusingly similar to another product or application. Any offers of “free” or discounted products or services must contain clear and accurate disclosures of any terms, conditions, or other requirements to claim such offers consistent with requirements under law. Any claims made must be accurate and truthful.
 
