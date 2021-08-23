@@ -10,7 +10,7 @@ exl-id: c3f68457-92c6-472a-93f4-cce9aeaecc53
 
 The following guidelines outline unacceptable and acceptable health-related audience segments. They also recommend tactics to use as alternatives to targeting health-related audience segments.
 
-These guidelines are summarized from the Network Advertising Alliance (NAI).
+These guidelines are summarized from the [!DNL Network Advertising Alliance (NAI)].
 
 See also [Advertising Cloud Ads Requirements Policy](/help/policies/ad-requirements-policy.md) to determine whether a health-related audience segment is usable per Adobe Advertising Cloud’s targeting policy.
 
@@ -18,7 +18,7 @@ See also [Advertising Cloud Ads Requirements Policy](/help/policies/ad-requireme
 
 * Segments that rely on protected health information (PHI)\*, user-level medical records, pharmaceutical prescriptions, or similar health or medical sources that provide actual knowledge of that user’s condition or treatment.
 
-    \* Adobe Advertising Cloud is not a HIPAA-ready solution.
+    \* Adobe Advertising Cloud is not a [!DNL HIPAA]-ready solution.
 
 * Segments that target health conditions (or related treatments), such as any form of cancer, mental health, drug addiction, sexually transmitted diseases, conditions predominantly affecting children, or other sensitive health conditions that cannot be treated with over-the-counter medications (for example, diabetes, psoriasis, rheumatoid arthritis, or diseases fibromyalgia).
 
