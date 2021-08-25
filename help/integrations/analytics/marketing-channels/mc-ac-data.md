@@ -1,34 +1,34 @@
 ---
 title: Using Marketing Channels with Advertising Cloud Data
-description: Learn how to use Advertising Cloud data in Analytics Marketing Channels.
+description: Learn how to use Advertising Cloud data in [!DNL Analytics Marketing Channels].
 feature: Integration with Adobe Analytics
 exl-id: 
 ---
-# Using Adobe Analytics Marketing Channels with Advertising Cloud Data
+# Using [!DNL Analytics Marketing Channels] with Advertising Cloud Data
 
 *Advertisers with an Advertising Cloud-Adobe Analytics Integration Only*
 
-By using both the Advertising Cloud and Marketing Channels reports, you can gain valuable insight into how your digital media influences site activity.
+By using both the Advertising Cloud and [!DNL Marketing Channels] reports, you can gain valuable insight into how your digital media influences site activity.
 
 <!-- from video: By using Marketing Channels with your Advertising Cloud data, you can get a more holistic view of how your advertising efforts are affecting site behavior. In particular, you can see the value of your view-through and click-through data, and how your advertising assists or is assisted by other channels. -->
 
-The following illustration shows how Advertising Cloud and Marketing Channels track the individual visits that comprise one visitor's journey. Advertising Cloud reports in Analytics are limited to only paid display and search advertising trafficked through Advertising Cloud, using the AMO ID. However, Marketing Channels tracks all channels configured in the Marketing Channels Processing Rules.
+The following illustration shows how Advertising Cloud and [!DNL Marketing Channels] track the individual visits that comprise one visitor's journey. Advertising Cloud reports in [!DNL Analytics] are limited to only paid display and search advertising trafficked through Advertising Cloud, using the AMO ID. However, [!DNL Marketing Channels] tracks all channels configured in the [!DNL Marketing Channels] Processing Rules.
 
-![How Advertising Cloud and Marketing Channels track the individual visits in a visitor's journey](/help/integrations/assets/a4adc-mc-sample-journey2.png)
+![How Advertising Cloud and [!DNL Marketing Channels] track the individual visits in a visitor's journey](/help/integrations/assets/a4adc-mc-sample-journey2.png)
 
-In the first visit, the user entered the website through an email campaign, executed ten page views, and then left. In the second visit, the user entered the site via a display ad, executed ten page views, and then left. In the third visit, the user entered the site via natural search, executed five page views, executed a $250 conversion, and the left. Notice the difference in tracking between Marketing Channels and Advertising Cloud. The only channel that Advertising Cloud tracks in this journey is Display. Advertising Cloud tracks the Display channel visit and attributes the subsequent engagement data (such as page views) and conversions back to that advertisement's influence. Marketing Channels, on the other hand, gives a full view of all channels.
+In the first visit, the user entered the website through an email campaign, executed ten page views, and then left. In the second visit, the user entered the site via a display ad, executed ten page views, and then left. In the third visit, the user entered the site via natural search, executed five page views, executed a $250 conversion, and the left. Notice the difference in tracking between [!DNL Marketing Channels] and Advertising Cloud. The only channel that Advertising Cloud tracks in this journey is [!UICONTROL Display]. Advertising Cloud tracks the [!UICONTROL Display] channel visit and attributes the subsequent engagement data (such as page views) and conversions back to that advertisement's influence. [!DNL Marketing Channels], on the other hand, gives a full view of all channels.
 
 Because the AMO ID persists through the visitor’s journey, you can use the AMO ID data to see how Advertising Cloud influences other marketing channels. The AMO ID [persists for 60 days by default](/help/integrations/analytics/overview.md), but you can configure the persistence as needed.
 
 ## How to Combine Advertising Cloud and Marketing Channels Data to Analyze Media Performance
 
-Within Analytics, you can combine Advertising Cloud's persisting paid advertising data and Marketing Channels' comprehensive visit data to better analyze your media performance so you can better influence the customer journey.
+Within [!DNL Analytics], you can combine the Advertising Cloud persisting paid advertising data and the [!DNL Marketing Channels] comprehensive visit data to better analyze your media performance so you can better influence the customer journey.
 
 The following analysis uses the Advertising Cloud data to show different versions of how a display advertisement impacts site conversion. All three columns use the same conversion metrics, but each column tells a different story:
 
-* Column 1 looks at the AMO ID data that's persistent across the visitor’s journey. Column 1 indicates that 641 Applications Starts were, at one point, linked with an Advertising Cloud ad, either through a view-through or a click-through event. This view doesn't take any other Marketing Channel attribution into consideration.
+* Column 1 looks at the AMO ID data that's persistent across the visitor’s journey. Column 1 indicates that 641 Applications Starts were, at one point, linked with an Advertising Cloud ad, either through a view-through or a click-through event. This view doesn't take any other [!DNL Marketing Channels] attribution into consideration.
 
-* In the Marketing Channel data set, however, the 641 Applications Starts are attributed to other marketing channels. The last two columns take the 641 Applications Starts and limit the data to the Display Click-Through and Display View-Through channels, showing the conversions that occur in a last touch attribution model.
+* In the [!DNL Marketing Channels] data set, however, the 641 Applications Starts are attributed to other marketing channels. The last two columns take the 641 Applications Starts and limit the data to the [!UICONTROL Display Click-Through] and [!UICONTROL Display View-Through] channels, showing the conversions that occur in a last touch attribution model.
 
 ![example of how a display ad impacts site conversion](/help/integrations/assets/a4adc-mc-display-impact.png)
 
@@ -46,8 +46,8 @@ You can improve the analysis further by using a Stack Graph set to "100% stacked
 
 >[!MORELIKETHIS]
 >
->* [Fundamentals of Adobe Analytics Marketing Channels](mc-overview.md)
->* [Using Advertising Cloud IDs to Create Marketing Channel Processing Rules](mc-ids.md)
->* [Why Channel Data Can Vary Between Advertising Cloud and Marketing Channels](mc-data-variances.md)
->* [Video: Reporting with Advertising Cloud Marketing Channels](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-reporting-a4adc.html)
->* [Overview of Analytics for Advertising Cloud](/help/integrations/analytics/overview.md)
+>* [Fundamentals of [!DNL Analytics Marketing Channels]](mc-overview.md)
+>* [Using Advertising Cloud IDs to Create [!DNL Marketing Channels] Processing Rules](mc-ids.md)
+>* [Why Channel Data Can Vary Between Advertising Cloud and [!DNL Marketing Channels]](mc-data-variances.md)
+>* [Video: Reporting with Advertising Cloud [!DNL Marketing Channels]](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-reporting-a4adc.html)
+>* [Overview of [!DNL Analytics for Advertising Cloud]](/help/integrations/analytics/overview.md)

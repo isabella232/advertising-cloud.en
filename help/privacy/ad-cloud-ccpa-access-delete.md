@@ -28,8 +28,8 @@ For more information about the Adobe Privacy services for CCPA, see the [Adobe P
 
 Adobe Experience Platform provides the ability for businesses to complete the following tasks:
 
-* Access a consumer's cookie-level data or device ID-level data (for ads in mobile apps) within [!DNL Search][!DNL , Creative], [!DNL DSP], or [!DNL DCO].
-* Delete cookie-level data stored within [!DNL Search][!DNL , Creative], [!DNL DSP], or [!DNL DCO] for consumers using a browser; or delete ID-level data stored within DSP for consumers using apps on mobile devices.
+* Access a consumer's cookie-level data or device ID-level data (for ads in mobile apps) within [!DNL Search], [!DNL Creative], [!DNL DSP], or [!DNL DCO].
+* Delete cookie-level data stored within [!DNL Search], [!DNL Creative], [!DNL DSP], or [!DNL DCO] for consumers using a browser; or delete ID-level data stored within [!DNL DSP] for consumers using apps on mobile devices.
 * Check the status of one or all existing requests.
 
 ## Required Setup to Send Requests for Advertising Cloud
@@ -52,7 +52,7 @@ To make requests to access and delete consumer personal information from Adverti
 
 1. Identify your IMS Org ID and make sure it is linked to your Advertising Cloud accounts.
 
-   An IMS Org ID is a 24-character alphanumeric string appended with @AdobeOrg. Most Adobe Experience Cloud customers have been assigned an IMS Org ID. If your marketing team or internal Adobe system administrator doesn't know your organization's IMS Org ID, or isn't sure if it's been provisioned, contact Adobe Customer Care at gdprsupport@adobe.com. You'll need the IMS Org ID to submit requests to the Privacy API.
+   An IMS Org ID is a 24-character alphanumeric string appended with "@AdobeOrg." Most Adobe Experience Cloud customers have been assigned an IMS Org ID. If your marketing team or internal Adobe system administrator doesn't know your organization's IMS Org ID, or isn't sure if it's been provisioned, contact Adobe Customer Care at gdprsupport@adobe.com. You'll need the IMS Org ID to submit requests to the Privacy API.
 
    >[!IMPORTANT]
    >
@@ -60,7 +60,7 @@ To make requests to access and delete consumer personal information from Adverti
 
 1. Use either the [Adobe Experience Platform Privacy Service API](https://experienceleague.adobe.com/docs/experience-platform/privacy/api/privacy-jobs.html) (for automated requests) or the [Privacy Service UI](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html) (for ad-hoc requests) to submit requests to access and delete personal information to Advertising Cloud on behalf of consumers, and to check the status of existing requests.
 
-   For advertisers who have a mobile app to interact with customers and launch campaigns with [!DNL DSP], you'll need to download the Privacy-ready Mobile SDKs for Experience Cloud. The Mobile SDKs allow businesses to set opt-out status flags, retrieve the consumer's device ID (namespace ID: deviceID), and submit requests to the Privacy Service API. Your mobile app will require an SDK Version 4.15.0 or greater.
+   For advertisers who have a mobile app to interact with customers and launch campaigns with [!DNL DSP], you'll need to download the Privacy-ready Mobile SDKs for Experience Cloud. The Mobile SDKs allow businesses to set opt-out status flags, retrieve the consumer's device ID (namespace ID: `deviceID`), and submit requests to the Privacy Service API. Your mobile app will require an SDK Version 4.15.0 or greater.
 
    When you submit a consumer access request, the Privacy Service API returns a consumer's information based on the specified cookie or device ID, which you then must return to the consumer.
 
@@ -89,7 +89,7 @@ All of these steps are necessary to receive support from Advertising Cloud. For 
 
     * `"namespace": **411**` (which indicates the adcloud cookie space)
 
-    * `"value":` <*the actual customer’s cookie ID value as retrieved from AdobePrivacy.js*>
+    * `"value":` <*the actual customer’s cookie ID value as retrieved from `AdobePrivacy.js`*>
 
 * `"include": **adCloud**` (which is the Adobe product that applies to the request)
 

@@ -4,6 +4,6 @@ description: Learn about DSP's fee-based ad serving partnership with Flashtalkin
 feature: Ads
 exl-id: 
 ---
-# Create Ads with Flashtalking
+# Create Ads with [!DNL Flashtalking]
  
-If you’d like to learn more about Advertising Cloud DSP's fee-based ad serving partnership with Flashtalking, contact adcloud-support@adobe.com for more information.
+If you’d like to learn more about Advertising Cloud DSP's fee-based ad serving partnership with [!DNL Flashtalking], contact [!DNL adcloud-support@adobe.com] for more information.

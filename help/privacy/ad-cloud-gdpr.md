@@ -24,27 +24,27 @@ For more information about what GDPR means for your business, see [GDPR and Your
 
 Adobe Experience Platform provides the ability for businesses to complete the following tasks:
 
-* Access a data subject's cookie-level data or device ID-level data (for ads in mobile apps) within Search, Creative, DSP, or DCO.
-* Delete cookie-level data stored within Search, Creative, DSP, or DCO for data subjects using a browser; or delete ID-level data stored within DSP for data subjects using apps on mobile devices.
+* Access a data subject's cookie-level data or device ID-level data (for ads in mobile apps) within [!DNL Search], [!DNL Creative], [!DNL DSP], or [!DNL DCO].
+* Delete cookie-level data stored within [!DNL Search], [!DNL Creative], [!DNL DSP], or [!DNL DCO] for data subjects using a browser; or delete ID-level data stored within [!DNL DSP] for data subjects using apps on mobile devices.
 * Check the status of one or all existing requests.
 
 ## Required Setup to Send Requests for Advertising Cloud
 
 To make requests to access and delete data for Advertising Cloud, you'll need to:
 
-1. Deploy a JavaScript library to retrieve and remove your data subject cookies. The same library, AdobePrivacy.js, is used for all Adobe Experience Cloud solutions.
+1. Deploy a JavaScript library to retrieve and remove your data subject cookies. The same library, `AdobePrivacy.js`, is used for all Adobe Experience Cloud solutions.
 
    >[!IMPORTANT]
    >
    >Requests to some Adobe Experience Cloud solutions don't require the JavaScript library, but requests to Advertising Cloud require it.
 
-   You should deploy the library on the web page from which your data subject s can submit access and delete requests, such as your company's privacy portal. The library helps you retrieve Adobe cookies (namespace ID: gsurferID) so that you can submit these identities as part of access and delete requests via the Adobe Experience Platform Privacy Service API.
+   You should deploy the library on the web page from which your data subject s can submit access and delete requests, such as your company's privacy portal. The library helps you retrieve Adobe cookies (namespace ID: `gsurferID`) so that you can submit these identities as part of access and delete requests via the Adobe Experience Platform Privacy Service API.
 
    When the data subject asks to delete personal data, the library also deletes the data subject's cookie from the data subject's browser.
 
    >[!NOTE]
    >
-   >Deleting personal data is different than Opt-Out, which stops the targeting of an end user with audience segments. However, when a data subject asks to delete personal data from Creative, DSP, or DCO, the library also sends a request to Advertising Cloud to opt out the data subject from segment targeting. For advertisers with Search, we recommend that you provide the data subjects a link to [https://www.adobe.com/privacy/opt-out.html](https://www.adobe.com/privacy/opt-out.html), which explains how to opt out of audience segment targeting.
+   >Deleting personal data is different than Opt-Out, which stops the targeting of an end user with audience segments. However, when a data subject asks to delete personal data from [!DNL Creative], [!DNL DSP], or [!DNL DCO], the library also sends a request to Advertising Cloud to opt out the data subject from segment targeting. For advertisers with [!DNL Search], we recommend that you provide the data subjects a link to [https://www.adobe.com/privacy/opt-out.html](https://www.adobe.com/privacy/opt-out.html), which explains how to opt out of audience segment targeting.
 
 1. Identify your IMS Org ID and make sure it's linked to your Advertising Cloud accounts.
 
@@ -52,7 +52,7 @@ To make requests to access and delete data for Advertising Cloud, you'll need to
 
    >[!IMPORTANT]
    >
-   >Contact your company’s Advertising Cloud representative to confirm that all of your organization's Advertising Cloud accounts &mdash; including DSP accounts or advertisers, Search accounts, and Creative or DCO accounts &mdash; are linked to your IMS Org ID.
+   >Contact your company’s Advertising Cloud representative to confirm that all of your organization's Advertising Cloud accounts &mdash; including [!DNL DSP] accounts or advertisers, [!DNL Search] accounts, and [!DNL Creative] or [!DNL DCO] accounts &mdash; are linked to your IMS Org ID.
 
 1. Use either the [Adobe Experience Platform Privacy Service API](https://experienceleague.adobe.com/docs/experience-platform/privacy/api/privacy-jobs.html) (for automated requests) or the [Privacy Service UI](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html) (for ad-hoc requests) to submit access and delete requests to Advertising Cloud on behalf of the data subjects, and to check the status of existing requests.
 
@@ -64,34 +64,34 @@ To make requests to access and delete data for Advertising Cloud, you'll need to
 
    >[!NOTE]
    >
-   >If your company has multiple Adobe Experience Cloud Identity Management Service Organization IDs (IMS Org IDs), then you must send separate API requests for each. You can, however make one API request to multiple Advertising Cloud sub-solutions (Search, Creative, DSP, and DCO), with one account per sub-solution.
+   >If your company has multiple Adobe Experience Cloud Identity Management Service Organization IDs (IMS Org IDs), then you must send separate API requests for each. You can, however make one API request to multiple Advertising Cloud sub-solutions ([!DNL Search], [!DNL Creative], [!DNL DSP], and [!DNL DCO]), with one account per sub-solution.
 
 All of these steps are necessary for Advertising Cloud. For more information about these and other related tasks you need to perform using the Adobe Experience Platform Privacy Service, and where to find the items you'll need, see [www.adobe.io/apis/cloudplatform/gdpr.html](https://www.adobe.io/apis/experienceplatform/gdpr.html).
 
 ## Required Field Values in Advertising Cloud JSON Requests
 
-"company context": 
+``"company context": 
 
-* "namespace": **imsOrgID**
-* "value": <*your IMS Org ID value*>
+* `"namespace": **imsOrgID**`
+* `"value":` <*your IMS Org ID value*>
 
-"users": 
+`"users":`
 
-* "key": <*usually the name of the data subject*> 
+* `"key":` <*usually the name of the data subject*> 
 
-* "action": either **access** or **delete**
+* `"action":` either `**access**` or `**delete**`
 
-* "user IDs":
+* `"user IDs":`
 
-    * "namespace": **411** (which indicates the adcloud cookie space)
+    * `"namespace": **411**` (which indicates the [!DNL adcloud] cookie space)
 
-    * "value": <*the actual data subject’s cookie ID value as retrieved from AdobePrivacy.js*>
+    * `"value":` <*the actual data subject’s cookie ID value as retrieved from `AdobePrivacy.js`*>
 
-* "include": **adCloud** (which is the Adobe product that applies to the request)
+* `"include": **adCloud**` (which is the Adobe product that applies to the request)
 
-* "regulation": **gdpr** (which is the privacy regulation that applies to the request)
+* `"regulation": **gdpr**` (which is the privacy regulation that applies to the request)
 
-## Example of Request Submitted by Data Subject Using an Advertising Cloud User ID Retrieved from AdobePrivacy.js
+## Example of Request Submitted by Data Subject Using an Advertising Cloud User ID Retrieved from `AdobePrivacy.js`
 
 ```
 {

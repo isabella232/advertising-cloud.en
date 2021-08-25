@@ -12,7 +12,7 @@ Once you [accept a programmatic guaranteed deal with a publisher on FreeWheel](#
 
 >[!PREREQUISITES]
 >
->Work with your Adobe account team to ensure that your DSP account has permission to use the Freewheel programmatic guaranteed workflow.
+>Work with your Adobe account team to ensure that your [!DNL DSP] account has permission to use the Freewheel programmatic guaranteed workflow.
 
 1. Copy the ad key for the ad used with the FreeWheel deal:
 

@@ -121,7 +121,7 @@ To get started, contact your preferred vendor or your Adobe account manager.
 
 DSP has partnered with DoubleVerify to offer its Authentic Brand Safety targeting solution, which allows you to create a centralized set of brand safety requirements to target across all of your buying platforms for consistency.
 
-Once you have built a DoubleVerify brand safety segment with the necessary targeting, you can use it within DSP to replicate your post-bid block rules with pre-bid across web environments.
+Once you have built a DoubleVerify brand safety segment with the necessary targeting, you can use it within [!DNL DSP] to replicate your post-bid block rules with pre-bid across web environments.
 
 You can specify a DoubleVerify segment ID for each advertiser<!-- [specify a DoubleVerify segment ID for each advertiser](/help/dsp/admin/advertiser-settings.md) -->, and then optionally [enable or disable Authentic Brand Safety for each placement](/help/dsp/campaign-management/placements/placement-settings.md). DSP bills your account for usage for the segment ID.
 

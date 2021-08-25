@@ -8,7 +8,7 @@ exl-id: 9e371606-5428-4635-9653-7dc43449e489
 
 *[Supported supply side platforms only](programmatic-guaranteed-about.md)*
 
-After you negotiate a programmatic guaranteed (PG) deal with a supported publisher, you can set up the deal within DSP either by using the deal ID inbox or by manually entering the deal details.
+After you negotiate a programmatic guaranteed (PG) deal with a supported publisher, you can set up the deal within [!DNL DSP] either by using the deal ID inbox or by manually entering the deal details.
 
 >[!NOTE]
 >

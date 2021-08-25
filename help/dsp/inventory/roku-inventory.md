@@ -10,7 +10,7 @@ Advertising Cloud DSP provides unique features for advertising on Roku.
 
 ## The Advertising Cloud DSP and Roku Partnership
 
-Roku and Advertising Cloud DSP have a unique partnership that matches your DSP audiences to Roku IDs for 1:1 deterministic audience targeting on Roku inventory.
+Roku and Advertising Cloud DSP have a unique partnership that matches your [!DNL DSP] audiences to Roku IDs for 1:1 deterministic audience targeting on Roku inventory.
 
 Outside of Roku’s own DSP (OneView), Advertising Cloud DSP has sole access to these targeting capabilities. Advertising Cloud DSP is also the only DSP with permission to measure Roku supply next to all other connected TV (CTV) inventory. Because Roku doesn't share all of the standard RTB and impression pixel signals, no other DSP can target or measure across Roku-sold CTV supply.
 
@@ -22,7 +22,7 @@ You can either a) set up private deal IDs directly with Roku and then enter the 
 >
 >Roku inventory isn't available in open marketplaces and exchanges.
 
-* For your private deals, you'll [set up information about the deal IDs in DSP](/help/dsp/inventory/deal-id-create.md) and then target “Roku Network – Audience” and “The Roku Channel – Audience” within Roku placements.<!-- Or do you target the deal ID?? I see those strings for Roku On Demand inventory. Clarify if all Roku private deals will show up as one or the other of these in Roku Private inventory in Roku placement settings. -->
+* For your private deals, you'll [set up information about the deal IDs in [!DNL DSP]](/help/dsp/inventory/deal-id-create.md) and then target “Roku Network – Audience” and “The Roku Channel – Audience” within Roku placements.<!-- Or do you target the deal ID?? I see those strings for Roku On Demand inventory. Clarify if all Roku private deals will show up as one or the other of these in Roku Private inventory in Roku placement settings. -->
 
 * You can [subscribe to the following Roku inventory within the On Demand Gallery](/help/dsp/inventory/on-demand-inventory-subscribe.md), and then target any of the approved deals within Roku placements:
 

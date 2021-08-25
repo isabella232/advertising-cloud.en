@@ -6,7 +6,7 @@ exl-id: 55e8ca50-05f5-4f38-9fd5-afaed71315dc
 ---
 # Accept a Deal in the Deal ID Inbox
 
-*Users in DSP Accounts that Are Mapped to SSP Accounts Only*
+*Users in [!DNL DSP] Accounts that Are Mapped to SSP Accounts Only*
 
 Use the Deal ID Inbox to quickly accept a private deal you've already negotiated with a publisher on Google Authorized Buyers, FreeWheel.
 

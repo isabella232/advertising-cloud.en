@@ -11,9 +11,9 @@ Adobe Advertising Cloud DSP funds client accounts for the purchase of media and 
 
 All clients are evaluated and assigned credit at contract execution by the Adobe Credit Team. DSP defaults to funding client accounts to the assigned credit level unless pre-payment has been delivered. Accounts are funded within 24 hours after account creation.
 
-As clients spend against their credit or pre-payment, funds for media and services decrease in accordance with spend until a zero balance is reached. Credit is adjusted as invoices are paid. Any outstanding Adobe invoices can impact your DSP funding. You are responsible for timely payment of all Adobe invoices. If you need funding above your usable balance, work with your Advertising Cloud Client Services team.
+As clients spend against their credit or pre-payment, funds for media and services decrease in accordance with spend until a zero balance is reached. Credit is adjusted as invoices are paid. Any outstanding Adobe invoices can impact your [!DNL DSP] funding. You are responsible for timely payment of all Adobe invoices. If you need funding above your usable balance, work with your Advertising Cloud Client Services team.
 
-Funding for client accounts is updated in near real time in DSP. To view your usable balance, which is shown as "Usable Funds" in your account's buying currency, go to Settings > Account. Only Advertising Cloud users with the General and Admin user roles can see the Usable Funds.
+Funding for client accounts is updated in near real time in [!DNL DSP]. To view your usable balance, which is shown as "Usable Funds" in your account's buying currency, go to Settings > Account. Only Advertising Cloud users with the General and Admin user roles can see the Usable Funds.
 
 ![Usable Funds for an account](/help/dsp/assets/account-usable-funds.png)
 

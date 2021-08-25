@@ -1,16 +1,16 @@
 ---
-title: Analytics Data in Advertising Cloud
-description: Analytics Data in Advertising Cloud
+title: [!DNL Analytics] Data in Advertising Cloud
+description: [!DNL Analytics] Data in Advertising Cloud
 feature: Integration with Adobe Analytics
 exl-id: 79fbc809-9965-41c1-971f-3652cc78fee3
 ---
-# Analytics Data in Advertising Cloud
+# [!DNL Analytics] Data in Advertising Cloud
 
 *Advertisers with an Advertising Cloud-Adobe Analytics Integration Only*
 
 ## Analytics Segments
 
-All segments created in Analytics and published to Experience Cloud.
+All segments created in [!DNL Analytics] and published to Experience Cloud.
 
 New segments take 24-48 hours to appear in Advertising Cloud. Updates to existing segments are synchronized within about eight hours.
 
@@ -18,8 +18,8 @@ New segments take 24-48 hours to appear in Advertising Cloud. Updates to existin
 
 >[!NOTE]
 >
->* Analytics passes events for the EF ID eVar into Advertising Cloud.  The default integration doesn't support sending calculated metrics or other dimensions (eVars) into Advertising Cloud. If the calculated metric can be wholly captured in a custom event, however,then Advertising Cloud can ingest the custom event.
->* Analytics passes data to Advertising Cloud hourly.
+>* [!DNL Analytics] passes events for the EF ID eVar into Advertising Cloud.  The default integration doesn't support sending calculated metrics or other dimensions (eVars) into Advertising Cloud. If the calculated metric can be wholly captured in a custom event, however,then Advertising Cloud can ingest the custom event.
+>* [!DNL Analytics] passes data to Advertising Cloud hourly.
 
 * Timespent_secs_1stvisit: The number of seconds spent on the site during the visitor's first visit.
 * Timespent_secs_total: The total number of seconds spent on the site across all visits within the click lookback window.
@@ -27,7 +27,7 @@ New segments take 24-48 hours to appear in Advertising Cloud. Updates to existin
 * Pageviews_total: The total number of page views on the site across all visits within the click lookback window.
 * [Bounces](https://experienceleague.adobe.com/docs/analytics/components/metrics/bounces.html?lang=en#metrics)
 * [Visits](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=en#metrics)
-* ef_id_instances: The number of times that Analytics collected an EF ID.
+* ef_id_instances: The number of times that Analytics collected an [!UICONTROL EF ID].
 
 ## Conversion Metrics
 
@@ -54,5 +54,5 @@ Analytics passes conversion metrics to Advertising Cloud daily.
 
 >[!MORELIKETHIS]
 >
->* [Overview of Analytics for Advertising Cloud](overview.md)
+>* [Overview of [!DNL Analytics for Advertising Cloud]](overview.md)
 >* [Advertising Cloud Metrics in Analysis Workspace](/help/integrations/analytics/advertising-cloud-metrics-in-analytics.md)

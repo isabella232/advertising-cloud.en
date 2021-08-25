@@ -74,7 +74,7 @@ exl-id: 0cd5e9e8-2b13-4b1e-a2e0-b8b492f75acf
        <td><p>&#160;</p></td>
        <td><p>[Currency]</p></td>
        <td><p>The currency for the deal.</p>
-       <p>All SSPs accept deals in USD. When the SSP accepts the currency for your DSP account, that currency is also available.</p></td>
+       <p>All SSPs accept deals in USD. When the SSP accepts the currency for your [!DNL DSP] account, that currency is also available.</p></td>
        <td><p>Yes</p></td>
        <td><p>No</p></td>
     </tr>

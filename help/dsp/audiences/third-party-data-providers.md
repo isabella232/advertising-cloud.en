@@ -8,7 +8,7 @@ exl-id: f67d81a0-bd31-48d8-9bcf-1888afd43894
 
 # Available Third-party Data Providers in Advertising Cloud DSP
 
-Data categories and segments for the following third-party data providers are available as placement targets in DSP. These segments are available for primarily U.S. audiences.
+Data categories and segments for the following third-party data providers are available as placement targets in [!DNL DSP]. These segments are available for primarily U.S. audiences.
 
 The fee for using each segment is shown next to the segment name in placement settings and saved audience settings.
 

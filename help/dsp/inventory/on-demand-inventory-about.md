@@ -14,7 +14,7 @@ The Advertising Cloud DSP premium marketplace allows you to:
 
 * Quickly and easily activate new inventory for improved scale and efficiency
 
-   Studies have shown that activating private marketplace deals within DSP platforms saves time and is more efficient.
+   Studies have shown that activating private marketplace deals within [!DNL DSP] platforms saves time and is more efficient.
 
 * Explore new publishers and formats
 * Discover new audiences and strategies

@@ -151,11 +151,11 @@ To specify locations:
 
     You can view the list by source or by feed. When you view the list by feed, you can search by feed name, feed key, or a selected characteristic tag.
 
-* Private | Roku Private: Your existing private deals (or existing private Roku deals for Roku placements) with publishers that you've set up in DSP. You can include, but not exclude, public inventory.
+* Private | Roku Private: Your existing private deals (or existing private Roku deals for Roku placements) with publishers that you've set up in [!DNL DSP]. You can include, but not exclude, public inventory.
 
     You can search the list by keyword, key, deal ID, or custom tag.
 
-* On Demand | Roku On Demand: All premium, non-guaranteed [On Demand Inventory](/help/dsp/inventory/on-demand-inventory-about.md) (or On Demand Roku deals for Roku placements) to which you've subscribed in DSP. You can include and exclude On Demand inventory.
+* On Demand | Roku On Demand: All premium, non-guaranteed [On Demand Inventory](/help/dsp/inventory/on-demand-inventory-about.md) (or On Demand Roku deals for Roku placements) to which you've subscribed in [!DNL DSP]. You can include and exclude On Demand inventory.
 
     You can view the list by source or by feed. When you view the list by feed, you can search by feed name, feed key, or a selected publisher region, category tag, or characteristic tag.
 

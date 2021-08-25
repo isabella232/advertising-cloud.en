@@ -25,7 +25,7 @@ feature: Placements
 | Basic | Package Name | The name of the parent package, when applicable. | &mdash; |
 | Goals | Start Date | The start date of the placement. | &mdash; |
 | Goals | End Date | The end date of the placement. | &mdash; |
-| Goals | Day parting | Whether dayparting is <i>ON</i> or <i>OFF</i>.<br><b>Note:</b> To check the actual dayparting schedule, open the placement settings in DSP. | &mdash; |
+| Goals | Day parting | Whether dayparting is <i>ON</i> or <i>OFF</i>.<br><b>Note:</b> To check the actual dayparting schedule, open the placement settings in [!DNL DSP]. | &mdash; |
 | Goals | Budget | The placement budget, if there is one | Yes |
 | Goals | Budget Interval | The budget interval: <i>Daily</i>, <i>Weekly</i>, <i>Monthly</i>, or <i>All Time</i>. | Yes |
 | Goals | Optimization Goal | The objective of the package. | &mdash; |
