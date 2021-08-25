@@ -62,7 +62,7 @@ Although the EF ID dimension isn't used directly in [!DNL Analytics] reporting, 
 
 | EF ID Suffix | Channel |
 |-------|---------|
-| :s | [!UICONTROL Paid Search |
+| :s | [!UICONTROL Paid Search] |
 | :d | [!UICONTROL Display Click-through] |
 | :i | [!UICONTROL Display View-through] |
 

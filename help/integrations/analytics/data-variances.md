@@ -61,7 +61,7 @@ Consider these differences when comparing view-through conversions between Adver
 | Advertising Cloud Attribution | [!DNL Analytics] Attribution | eVar/rVar Allocation |
 |--- |--- |--- |
 | [!UICONTROL Last Event] | [!UICONTROL Last Touch] | [!UICONTROL Most Recent] |
-| [!UICONTROL First Event | [!UICONTROL First Touch] | [!UICONTROL Original Value] |
+| [!UICONTROL First Event] | [!UICONTROL First Touch] | [!UICONTROL Original Value] |
 | [!UICONTROL Weight First Event More] | n/a | n/a |
 | [!UICONTROL Even Distribution] | [!UICONTROL Linear] | [!UICONTROL Linear]<br><br>Don't Use* |
 | [!UICONTROL Weight Last Event More] | n/a | n/a |
@@ -101,7 +101,7 @@ In Advertising Cloud, you can report conversion data either by the associated cl
 
 ### Potentially Different Attribution Models in [!DNL Marketing Channels]
 
-Most [!DNL Marketing Channels] reports are configured with [UICONTROL Last Touch] attribution, for which the last marketing channel detected is assigned 100% of the conversion value. Using different attribution models for the [!DNL Marketing Channels] reports and Advertising Cloud reports will lead to discrepancies in attributed conversions.
+Most [!DNL Marketing Channels] reports are configured with [!UICONTROL Last Touch] attribution, for which the last marketing channel detected is assigned 100% of the conversion value. Using different attribution models for the [!DNL Marketing Channels] reports and Advertising Cloud reports will lead to discrepancies in attributed conversions.
 
 ### A Potentially Different Lookback Window in [!DNL Marketing Channels]
 

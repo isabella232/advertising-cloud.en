@@ -31,7 +31,7 @@ Advertising Cloud distinguishes between a click-through or view-through entry to
 
 *Figure 2: Advertising Cloud click URL-based [!DNL Analytics] integration*
 
-## Advertising Cloud `EF IDs'
+## Advertising Cloud EF IDs
 
 The EF ID is a unique token that Advertising Cloud uses to associate activity with an online click or ad exposure. The EF ID is stored in an [!DNL Analytics] [eVar](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) or rVar (reserved eVar) dimension (Advertising Cloud EF ID) and tracks each ad click or exposure at the individual browser or device level. EF IDs act primarily as keys for sending [!DNL Analytics] data to Advertising Cloud for reporting and bid optimization within Advertising Cloud.
 
@@ -59,19 +59,19 @@ Example `EF `ID: WcmibgAAAHJK1RyY:1551968087687:d
 >
 >EF IDs are case-sensitive. If an [!DNL Analytics] implementation forces URL tracking to lowercase, then Advertising Cloud will not recognize the EF ID. This will impact Advertising Cloud bidding and reporting but has no impact on Advertising Cloud reporting within [!DNL Analytics].
 
-### The `EF ID' Dimension in [!DNL Analytics]
+### The EF ID Dimension in [!DNL Analytics]
 
-In [!DNL Analytics] reports, you can find `EF ID' data by searching for the [!UICONTROL EF ID] dimension and using the [!UICONTROL EF ID Instance] metric.
+In [!DNL Analytics] reports, you can find EF ID data by searching for the [!UICONTROL EF ID] dimension and using the [!UICONTROL EF ID Instance] metric.
 
 `EF IDs' are subject to the 500k unique identifier limit in Analysis Workspace. Once the 500k value is reached, all new tracking codes are reported under the one-line-item title “Low Traffic.” Because of the possibility of missing reporting fidelity, the `EF IDs' are not classified, and you should not use them for segments or reporting in [!DNL Analytics].
 
-## Advertising Cloud `AMO IDs'
+## Advertising Cloud AMO IDs
 
-The `AMO ID' tracks each unique ad combination at a less granular level and is used for [!DNL Analytics] data classification and ingestion of advertising metrics (such as impressions, clicks, and cost) from Advertising Cloud. The `AMO ID' is stored in an [!DNL Analytics] [eVar](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) or rVar dimension (`AMO ID') and is used exclusively for reporting in [!DNL Analytics].
+The AMO ID tracks each unique ad combination at a less granular level and is used for [!DNL Analytics] data classification and ingestion of advertising metrics (such as impressions, clicks, and cost) from Advertising Cloud. The AMO ID is stored in an [!DNL Analytics] [eVar](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) or rVar dimension (AMO ID) and is used exclusively for reporting in [!DNL Analytics].
 
-The `AMO ID' is also called the `s_kwcid`, which is sometimes referred to as "the squid."
+The AMO ID is also called the `s_kwcid`, which is sometimes referred to as "the squid."
 
-### `AMO ID' Format for [!DNL DSP]
+### AMO ID Format for [!DNL DSP]
 
 ```<Channel ID>!<Ad ID>!<Placement ID>```
 
@@ -100,11 +100,11 @@ where:
 * <*Placement ID*> is an Advertising Cloud-generated unique identifier for an placement. It serves as a key for translating Advertising Cloud entity metadata into readable [!DNL Analytics] dimensions.
  -->
 
-Example `AMO ID': AC!iIMvXqlOa6Nia2lDvtgw!GrVv6o2oV2qQLjQiXLC7
+Example AMO ID: AC!iIMvXqlOa6Nia2lDvtgw!GrVv6o2oV2qQLjQiXLC7
 
-### `AMO ID' Format for [!DNL Search]
+### AMO ID Format for [!DNL Search]
 
-`AMO IDs' for [!DNL Search] follow a distinct format for each search engine. The format for all search engines begins with the following:
+AMO IDs for [!DNL Search] follow a distinct format for each search engine. The format for all search engines begins with the following:
 
 ```AL!{ef_userid}!{ef_sid}```
 
@@ -114,9 +114,9 @@ where:
 * `{ef_userid}` is the unique numeric user ID that Advertising Cloud assigns to the advertiser.
 * `{ef_sid}` is the numeric ID that Advertising Cloud uses for the specified search engine, such as `3` for [!DNL Google Ads] or `10` for [!DNL Microsoft Advertising].
 
-The following are the full `AMO ID' formats for a couple of search engines. For `AMO ID' formats for other search engines, contact your Adobe account manager.
+The following are the full AMO ID formats for a couple of search engines. For AMO ID formats for other search engines, contact your Adobe account manager.
 
-`AMO ID' Format for [!DNL Google Ads]:
+AMO ID Format for [!DNL Google Ads]:
 
 ```AL!{ef_userid}!{ef_sid}!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}```
 
@@ -128,7 +128,7 @@ where:
 * `{network}` indicates the network from which the click occurred:  `g` for [!DNL Google] search (for keyword-targeted ads only), `s` for a search partner (for keyword-targeted ads only), or `d` for the Display Network (for either keyword-targeted or placement-targeted ads).
 * `{keyword}` is either the specific keyword that triggered your ad (on search sites) or the best-matching keyword (on content sites).
 
-`AMO ID' Format for [!DNL Microsoft Advertising]:
+AMO ID Format for [!DNL Microsoft Advertising]:
 
 ```AL!{ef_userid}!{ef_sid}!{AdId}!{OrderItemId}```
 
@@ -137,11 +137,11 @@ where:
 * `{AdId}` is the [!DNL Microsoft Advertising] unique numeric ID for the creative.
 * `{OrderItemId}` is the [!DNL Microsoft Advertising] numeric ID for the keyword.
 
-### `AMO ID' Dimension in [!DNL Analytics]
+### AMO ID Dimension in [!DNL Analytics]
 
-In Analytics reports, you can find `AMO ID' data by searching for the [!UICONTROL AMO ID] dimension and using the [!UICONTROL AMO ID Instance] metric. The [!UICONTROL AMO ID] dimension houses all `AMO ID' values captured, whereas the [!UICONTROL AMO ID Instance] metric indicates how often an `AMO ID' value was captured by the site. For example, if the same search ad was clicked four times but Analytics tracked seven site entries, then [!UICONTROL AMO ID Instance] would be seven (7) and [!UICONTROL Clicks] would be four (4).
+In Analytics reports, you can find AMO ID data by searching for the [!UICONTROL AMO ID] dimension and using the [!UICONTROL AMO ID Instance] metric. The [!UICONTROL AMO ID] dimension houses all AMO ID values captured, whereas the [!UICONTROL AMO ID Instance] metric indicates how often an AMO ID value was captured by the site. For example, if the same search ad was clicked four times but Analytics tracked seven site entries, then [!UICONTROL AMO ID Instance] would be seven (7) and [!UICONTROL Clicks] would be four (4).
 
-For any reporting or auditing within [!DNL Analytics], the best practice is to use the `AMO ID' along with its corresponding instance. For more information, see "[Data Validation for [!DNL Analytics for Advertising Cloud]](data-variances.md#data-validation)" in "Expected Data Variances Between [!DNL Analytics] and Advertising Cloud."
+For any reporting or auditing within [!DNL Analytics], the best practice is to use the AMO ID along with its corresponding instance. For more information, see "[Data Validation for [!DNL Analytics for Advertising Cloud]](data-variances.md#data-validation)" in "Expected Data Variances Between [!DNL Analytics] and Advertising Cloud."
 
 ## About Analytics Classifications
 
