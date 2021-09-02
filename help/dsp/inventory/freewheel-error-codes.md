@@ -1,25 +1,25 @@
 ---
-title: Error Codes for FreeWheel Ad Submissions
-description: Reference the error codes that are returned for ad submissions to FreeWheel.
+title: Error Codes for [!DNL FreeWheel] Ad Submissions
+description: Reference the error codes that are returned for ad submissions to [!DNL FreeWheel].
 feature: Private Inventory, Deal IDs
 exl-id: 
 ---
-# Error Codes for FreeWheel Ad Submissions
+# Error Codes for [!DNL FreeWheel] Ad Submissions
 
-The error messages for failed ad submissions can come from either Advertising Cloud DSP or from FreeWheel. Error messages are shown in the API Response column in the [Freewheel Status](freewheel-check-status.md) dialog.
+The error messages for failed ad submissions can come from either Advertising Cloud DSP or from [!DNL FreeWheel]. Error messages are shown in the [!UICONTROL API Response] column in the [[!UICONTROL Freewheel Status] dialog](freewheel-check-status.md).
 
 ## Advertising Cloud DSP Internal Errors
 
 |Error Message|Description|Next Steps|
 |--- |--- |--- |
-|Awaiting status response from Freewheel|Freewheel hasn't yet responded that the submission was successful or failed.|Check the status again in 10 minutes.|
-|The submitted ad does not have a clock number assigned.|Freewheel doesn't accept UK ads without assigned clock numbers.|Assign a clock number to the ad, and then resubmit the ad.|
-|The ad you are attempting to submit has not yet finished transcoding. Please wait ten minutes then try again.|The transcoder hadn't finished transcoding the ad when you attempted to submit the ad.|Wait ten minutes, and then resubmit the ad.|
-|The deal id you input is not setup as a guaranteed feed. Please submit guaranteed deals only.|The submitted deal is not set up as a programmatic guaranteed deal. Freewheel accepts only guaranteed deals.|Set up the deal ID as a programmatic guaranteed deal. The ad is automatically submitted to Freewheel when you save the programmatic guaranteed default placement at the end of deal ID workflow.|
-|Invalid external_deal_id: \<deal_id\>|The submitted deal ID either doesn't exist or isn't active on the Adobe end.|Make sure that the deal is active, and then resubmit the ad.|
-|\[public_id=\<deal\>] does not exist|The submitted deal id doesn't exist on the Freewheel end.|Contact your Freewheel representative to confirm the deal ID.|
-|Ad with identifier \<*ad name*\> was not found.|The submitted ad key either doesn't exist or isn't active on the Adobe end.|Find the correct ad key, and then resubmit the ad.|
-|Pending Submission|The submission is still pending.|Refresh the page.|
+|[!DNL Awaiting status response from [!DNL FreeWheel]]|[!DNL FreeWheel] hasn't yet responded that the submission was successful or failed.|Check the status again in 10 minutes.|
+|[!DNL The submitted ad does not have a clock number assigned.]|[!DNL FreeWheel] doesn't accept UK ads without assigned clock numbers.|Assign a clock number to the ad, and then resubmit the ad.|
+|[!DNL The ad you are attempting to submit has not yet finished transcoding. Please wait ten minutes then try again.]|The transcoder hadn't finished transcoding the ad when you attempted to submit the ad.|Wait ten minutes, and then resubmit the ad.|
+|[!DNL The deal id you input is not setup as a guaranteed feed. Please submit guaranteed deals only.]|The submitted deal is not set up as a programmatic guaranteed deal. [!DNL FreeWheel] accepts only guaranteed deals.|Set up the deal ID as a programmatic guaranteed deal. The ad is automatically submitted to [!DNL FreeWheel] when you save the programmatic guaranteed default placement at the end of deal ID workflow.|
+|[!DNL Invalid external_deal_id:] \<deal_id\>|The submitted deal ID either doesn't exist or isn't active on the Adobe end.|Make sure that the deal is active, and then resubmit the ad.|
+|[!DNL \[public_id=]\<deal\>] does not exist|The submitted deal id doesn't exist on the [!DNL FreeWheel] end.|Contact your [!DNL FreeWheel] representative to confirm the deal ID.|
+|[!DNL Ad with identifier] \<*ad name*\> [!DNL was not found.]|The submitted ad key either doesn't exist or isn't active on the Adobe end.|Find the correct ad key, and then resubmit the ad.|
+|[!DNL Pending Submission]|The submission is still pending.|Refresh the page.|
 
 ## FreeWheel API Errors
 
@@ -55,4 +55,4 @@ The error messages for failed ad submissions can come from either Advertising Cl
 >* [Overview of Setting up Programmatic Guaranteed Deals in FreeWheel](/help/dsp/inventory/freewheel-overview.md)
 >* [Accept a Deal in the Deal ID Inbox](deal-id-inbox-accept.md)
 >* [Submit an Ad for a Programmatic Guaranteed Deal to FreeWheel](/help/dsp/inventory/freewheel-submit.md)
->* [Check the Status of Ads for Freewheel Programmatic Guaranteed Deals](/help/dsp/inventory/freewheel-check-status.md)
+>* [Check the Status of Ads for [!DNL FreeWheel] Programmatic Guaranteed Deals](/help/dsp/inventory/freewheel-check-status.md)

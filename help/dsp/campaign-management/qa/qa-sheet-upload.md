@@ -12,19 +12,19 @@ To post changes to some types of placement settings for a campaign, you can uplo
 >
 >To make more extensive changes to placement settings, use the bulk edit feature.<!-- add link once we have help on it -->
 
-1. In the main menu, click **Campaigns**.
+1. In the main menu, click **[!UICONTROL Campaigns]**.
 
 1. Do either of the following:
 
-   * Next to the campaign name, click **... > Upload Excel QA sheet**.
+   * Next to the campaign name, click **[!UICONTROL ...] > [!UICONTROL Upload Excel QA sheet]**.
 
-   * Click the campaign name to view the campaign details. In the upper right, click **... > Upload Excel QA sheet**.
+   * Click the campaign name to view the campaign details. In the upper right, click **[!UICONTROL ...] > [!UICONTROL Upload Excel QA sheet]**.
 
-1. In the Edit in Excel dialog:
+1. In the [!UICONTROL Edit in Excel] dialog:
 
     1. Either drag and drop a file into the box, or click inside the box to select a file from your device or network.
 
-    1. Click **Upload**.
+    1. Click **[!UICONTROL Upload]**.
     
 1. (Optional) To verify that the updates were processed, click ![Jobs](/help/dsp/assets/downloads.png) in the right of the top menu bar.
 

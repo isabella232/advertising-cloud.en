@@ -6,7 +6,7 @@ exl-id: 624d2211-59a2-4791-b8f1-a9a5cecd0b8e
 ---
 # About Audience Management in Advertising Cloud DSP
 
-In Advertising Cloud, you can create and manage audience segments and audience sets, which you can use as targets for your placements:
+In Advertising Cloud DSP, you can create and manage audience segments and audience sets, which you can use as targets for your placements:
 
 * You can collect your own first-party audience data by creating and implementing segments. You can later retarget users in the segment with ads or prevent users in the segment from receiving ads. You can create the following types of segments:
 
@@ -24,9 +24,9 @@ Additional audience types are also available for placement targeting.
 
 ## Importing First-party and Third-party Data Segments
 
-Advertising Cloud can import your own first-party data segments from your data management platform (DMP) and provide them to any set of advertisers, as needed.
+Advertising Cloud DSP can import your own first-party data segments from your data management platform (DMP) and provide them to any set of advertisers, as needed.
 
-Advertising Cloud can also import custom third-party segments, including complex combinations of third-party segments. You can provide the segments to any set of advertisers, as needed.
+Advertising Cloud DSP can also import custom third-party segments, including complex combinations of third-party segments. You can provide the segments to any set of advertisers, as needed.
 
 Contact your Account Manager for more information.
 
@@ -34,9 +34,9 @@ Contact your Account Manager for more information.
 
 You can target your placements to all of the following types of audiences.
 
-* All user-created audience sets that were saved in Advertising Cloud DSP/TV.
+* All user-created audience sets that were saved in Advertising Cloud DSP.
 
-* All user-created audience segments that were created in Advertising Cloud DSP/TV:
+* All user-created audience segments that were created in Advertising Cloud DSP:
 
    * Custom segments for users who visited specific webpages and users exposed to impressions of specific ads.
    
@@ -46,13 +46,13 @@ You can target your placements to all of the following types of audiences.
 
 * All of your imported custom third-party data segments.
 
-* (Placements targeting the U.S. only) [All third-party data segments available to Advertising Cloud DSP customers from over 30 providers](/help/dsp/audiences/third-party-data-providers.md), including Acxiom, Datalogix, eXelate (Nielsen), Lotame, Oracle, Quantcast, and many more.
+* (Placements targeting the U.S. only) [All third-party data segments available to Advertising Cloud DSP customers from over 30 providers](/help/dsp/audiences/third-party-data-providers.md), including [!DNL Acxiom], [!DNL Datalogix], [!DNL eXelate] ([!DNL Nielsen]), [!DNL Lotame], [!DNL Oracle], [!DNL Quantcast], and many more.
 
    You can target specific segments, which target users based on audience data (for example, users with specific demographics, interests or intents, and/or behavioral profiles). You can browse by data provider and category, search for segments by name or segment ID, or filter the results by data provider, total segment size, web browser count, or devices count.
    
    Third-party segments incur additional fees, which are indicated next to each segment name.
 
-* (Advertisers with Adobe Experience Cloud, Adobe Audience Manager, or Adobe Analytics who use Advertising Cloud JavaScript conversion tags only) All of your available first-, second-, or third-party audience segments created in Adobe Experience Cloud, created in Audience Manager, or published to Adobe Experience Cloud from Audience Manager or Analytics.
+* (Advertisers with Adobe Experience Cloud, Adobe Audience Manager, or Adobe Analytics who use Advertising Cloud JavaScript conversion tags only) All of your available first-, second-, or third-party audience segments created in Adobe Experience Cloud, created in Audience Manager, or published to Adobe Experience Cloud from Audience Manager or [!DNL Analytics].
 
    Pricing for the use of the segments is pre-negotiated and isn't visible in Advertising Cloud.  <!-- Verify -->
    
@@ -78,15 +78,15 @@ Within saved audience settings and placement settings, you can see detailed audi
 
 ### The All Audiences View
 
-In the All Audiences View, or Audience Library, you can save and manage reusable audiences, which include groups of audience segments and even other saved audiences. You can use audiences as targets for multiple placements. The number of placements in which each audience is used is indicated next to the placement name.
+In the [!UICONTROL All Audiences] view, or Audience Library, you can save and manage reusable audiences, which include groups of audience segments and even other saved audiences. You can use audiences as targets for multiple placements. The number of placements in which each audience is used is indicated next to the placement name.
 
 You can edit, clone, delete, export, or share any audience.
 
 ### The Segments View
 
-In the Segments view, all users can create additional custom segments.
+In the [!UICONTROL Segments] view, all users can create additional custom segments.
 
-The Segments view also lists the following segment types:
+The [!UICONTROL Segments] view also lists the following segment types:
 
 * All user-created custom segments available to the user.
 
@@ -108,6 +108,6 @@ The Segments view also lists the following segment types:
 >* [Audience Settings](audience-settings.md)
 >* [Syntax for Audience Segment Logic](audience-segment-logic-syntax.md)
 >* [Create and Implement a Custom Segment](custom-segment-create.md)
->* [Create and Implement a CCPA Opt-Out-of-Sale Segment](ccpa-opt-out-segment-create.md)
+>* [Create and Implement a [!UICONTROL CCPA Opt-Out-of-Sale] Segment](ccpa-opt-out-segment-create.md)
 >* [Available Third-party Data Providers](third-party-data-providers.md)
 >* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)

@@ -15,9 +15,9 @@ Duplicate a package to create a package with similar settings. You can:
 
 See "[What's Not Duplicated](#package-not-duplicated)" for a list of placement settings that aren't duplicated.
 
-1. In the main menu, click **Campaigns**.
-1. Click the name of the campaign to open the Packages view.
-1. Next to the package name, click  **... > Duplicate**.
+1. In the main menu, click **[!UICONTROL Campaigns]**.
+1. Click the name of the campaign to open the [!UICONTROL Packages] view.
+1. Next to the package name, click  **[!UICONTROL ...] > [!UICONTROL Duplicate]**.
 1. Specify the new package settings:
     1. Enter the new package name.
     1. (Optional) Change the default settings.
@@ -28,7 +28,7 @@ See "[What's Not Duplicated](#package-not-duplicated)" for a list of placement s
          * The new package becomes active on the current day.<!-- and the flight continues for NN  days. -->
          * Placements within the original package are copied to the new package.
          * The ads and the placement-level event pixels aren't copied to the new package.
-1. Click **Submit**.
+1. Click **[!UICONTROL Submit]**.
 
 ## What's Not Duplicated {#package-not-duplicated}
 
@@ -37,12 +37,12 @@ All settings from the original placements are duplicated except:
 * Experiment settings
 * (If you change the flight dates) Custom ad scheduling
 * (If you don't attach ads) Custom ad weighting and scheduling
-* Programmatic guaranteed (PG) default placements and Simple Ad Serving placements
+* Default placements for programmatic guaranteed (PG) deals and placements for [!UICONTROL Simple Ad Serving] deals
 * (If you copy placements to a different campaign):
     * Geo targets
     * Event pixels
     * Ads
-    * Placement-level DoubleVerify Authentic Brand Safety segments (which override the advertiser-level segments)
+    * Placement-level [!DNL DoubleVerify Authentic Brand Safety] segments (which override the advertiser-level segments)
 
 >[!MORELIKETHIS]
 >

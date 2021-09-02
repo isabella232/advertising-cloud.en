@@ -9,13 +9,13 @@ exl-id:
 
 Duplicate a custom report to create a new report with similar settings.
 
-1. In the main menu, click **Reports**.
-1. In the Options column for the report row, click **options > Copy**.
+1. In the main menu, click **[!UICONTROL Reports]**.
+1. In the Options column for the report row, click **[!UICONTROL options] > [!UICONTROL Copy]**.
 1. (Optional) Edit the [report settings](/help/dsp/reports/report-settings.md) as needed.
 
     The report name, by default, is "\<*existing report name*\> \#2" (or the next number in the sequence).
 
-1. Click **Copy Custom Report**
+1. Click **[!UICONTROL Copy Custom Report]**
 
 >[!MORELIKETHIS]
 >

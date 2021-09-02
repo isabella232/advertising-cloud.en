@@ -14,23 +14,23 @@ You can unarchive a placement to restore its previous status at any time.
 
 ## Archive a Placement
 
-1. In the main menu, click **Campaigns**.
+1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. Click the name of the campaign.
-1. In the submenu, click **Placements**.
-1. Next to the placement name, click  **... > Archive**.
-1. In the confirmation message, click **Archive**.
+1. In the submenu, click **[!UICONTROL Placements]**.
+1. Next to the placement name, click  **[!UICONTROL ...] > [!UICONTROL Archive]**.
+1. In the confirmation message, click **[!UICONTROL Archive]**.
 
 >[!NOTE]
 >
->To view archived placements, filter the Placements view: click ![Filter button](/help/dsp/assets/filter.png), click **Placement status** and select **Archived**, and then click **Apply.**
+>To view archived placements, filter the [!UICONTROL Placements] view: click ![Filter button](/help/dsp/assets/filter.png), click **[!UICONTROL Placement status]** and select **[!UICONTROL Archived]**, and then click **[!UICONTROL Apply].**
 
 ## Unarchive a Placement
 
-1. In the main menu, click **Campaigns**.
+1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. Click the name of the campaign.
-1. In the submenu, click **Placements**.
-1. Next to the placement name, click  **... > Unarchive**.
-1. In the confirmation message, click **Unarchive**.
+1. In the submenu, click **[!UICONTROL Placements]**.
+1. Next to the placement name, click  **[!UICONTROL ...] > [!UICONTROL Unarchive]**.
+1. In the confirmation message, click **[!UICONTROL Unarchive]**.
 
 >[!MORELIKETHIS]
 >

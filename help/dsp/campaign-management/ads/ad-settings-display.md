@@ -8,61 +8,61 @@ exl-id: ae88dfab-0b0c-42ab-9135-422b20a4b6cd
 
 The following settings are for standard display ads. You can also serve click-to-play video ads for display ads, but we don't recommend doing so because not many publishers support them.
 
-## Ad Options
+## [!UICONTROL Ad Options]
 
 ### Basic
 
-**Ad Type:** (Read-only) The ad type you're creating, which corresponds to the placement type to which the ad can be attached. It defaults to *Display*.
+**[!UICONTROL Ad Type]:** (Read-only) The ad type you're creating, which corresponds to the placement type to which the ad can be attached. It defaults to *[!UICONTROL Display]*.
 
-**Ad Name:** The ad name. The asset title is used by default, but you can change the name.
+**[!UICONTROL Ad Name]:** The ad name. The asset title is used by default, but you can change the name.
 
 >[!TIP]
 >
-> Use a name that will be easy to find when you attach the ad to a placement, in the Ads view, and in reports. For example, describe the unit type and some key attributes (such as Holiday Product Preview: 300x250 Gamer”).
+> Use a name that will be easy to find when you attach the ad to a placement, in the [!UICONTROL Ads] view, and in reports. For example, describe the unit type and some key attributes (such as Holiday Product Preview: 300x250 Gamer”).
 
-**\[Ad Source\]**: Whether Advertising Cloud DSP is serving the ad (*Adobe served*) or you're using a third-party ad server (*3rd party*).
+**\[Ad Source\]**: Whether Advertising Cloud DSP is serving the ad (*[!UICONTROL Adobe served]*) or you're using a third-party ad server (*[!UICONTROL 3rd party]*).
 
-**This is an expandable Banner:** (Third-party ads only) Indicates the ad is an expandable banner ad. The related expansion settings determine which inventory to buy, so make sure they reflect the ad behavior.
+**[!UICONTROL This is an expandable Banner]:** (Third-party ads only) Indicates the ad is an expandable banner ad. The related expansion settings determine which inventory to buy, so make sure they reflect the ad behavior.
 
-**Expansion Method:** (Third-party expandable banner ads only) Whether the banner expands upon *Click* or *Rollover*.
+**[!UICONTROL Expansion Method]:** (Third-party expandable banner ads only) Whether the banner expands upon *[!UICONTROL Click]* or *[!UICONTROL Rollover]*.
 
-**Expansion Directions:** (Third-party expandable banner ads only) The direction in which the ad expands: *Up*, *Down*, *Left*, or *Right*.
+**[!UICONTROL Expansion Directions]:** (Third-party expandable banner ads only) The direction in which the ad expands: *[!UICONTROL Up]*, *[!UICONTROL Down]*, *[!UICONTROL Left]*, or *[!UICONTROL Right]*.
 
-**Certified Vendors:** (Third-party expandable banner ads only) The certified vendor for which the ad is available: *DCM* (Google DoubleClick for Advertisers), *Flashtalking*, *Sizmek*, or *Jivox*.
+**[!UICONTROL Certified Vendors]:** (Third-party expandable banner ads only) The certified vendor for which the ad is available: *[!UICONTROL DCM]* ([!DNL Google DoubleClick for Advertisers]), *[!UICONTROL Flashtalking]*, *[!UICONTROL Sizmek]*, or *[!UICONTROL Jivox]*.
 
-**Display Code:** (Third-party ads only) The URL of the third-party creative asset. Any [timestamp] and [[timestamp]] parameters will be replaced with actual values.
+**[!UICONTROL Display Code]:** (Third-party ads only) The URL of the third-party creative asset. Any [timestamp] and [[timestamp]] parameters will be replaced with actual values.
 
-**Final Display Code:** (Third-party ads only) The URL for the third-party creative asset, with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
+**[!UICONTROL Final Display Code]:** (Third-party ads only) The URL for the third-party creative asset, with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
 
-**Creative type:** (Adobe-served ads only) Whether the asset is an *Image* or an *HTML5* asset.
+**[!UICONTROL Creative type]:** (Adobe-served ads only) Whether the asset is an *[!UICONTROL Image]* or an *[!UICONTROL HTML5]* asset.
 
-**Asset | HTML5 Asset:** (Adobe-served ads only) An image file or zipped HTML5 asset to upload, depending on the creative type. Click **Browse** and locate the file on your device or network, and then click **Upload** or **Upload Image**.
+**[!UICONTROL Asset] | [!UICONTROL HTML5 Asset]:** (Adobe-served ads only) An image file or zipped HTML5 asset to upload, depending on the creative type. Click **[!UICONTROL Browse]** and locate the file on your device or network, and then click **[!UICONTROL Upload]** or **[!UICONTROL Upload Image]**.
 
-**Ad Size:** The width and height of the ad. It must be a [supported standard display ad size](/help/dsp/assets/ad-specs.pdf). You can manually enter the ad size before you upload the ad or enter a Display Code. If you don't enter the ad size, the dimensions of the uploaded ad or ad tag are automatically entered as read-only. Note that the Display ad will not save if the dimensions are not within Standard Display as sizes - e.g. 301x250 instead of 300x250 ad size.
+**[!UICONTROL Ad Size]:** The width and height of the ad. It must be a [supported standard display ad size](/help/dsp/assets/ad-specs.pdf). You can manually enter the ad size before you upload the ad or enter a [!UICONTROL Display Code]. If you don't enter the ad size, the dimensions of the uploaded ad or ad tag are automatically entered as read-only. Note that the Display ad will not save if the dimensions are not within Standard Display as sizes - e.g. 301x250 instead of 300x250 ad size.
 
 >[!IMPORTANT]
 >
 > The ad size declared in the width and height fields will be matched with incoming bid requests. You may experience delivery issues if the ad's dimensions don't match the declared ad size.
 
-**Click URL:** (Adobe-served ads only) The URL on which the viewer will land when they click the ad.
+**[!UICONTROL Click URL]:** (Adobe-served ads only) The URL on which the viewer will land when they click the ad.
 
-**Final Click URL:** (Adobe-served ads only; read-only) The Click URL with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
+**[!UICONTROL Final Click URL]:** (Adobe-served ads only; read-only) The [!UICONTROL Click URL] with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
 
-### Pixel
+### [!UICONTROL Pixel]
 
 All existing event tracking pixels for the placement are automatically attached. You can detach existing pixels and create new pixels as needed, based on your tracking needs.
 
 The following settings apply to each pixel that you create or edit.
 
-**Integration Event:** The event that triggers the pixel to fire. For this ad type, use pixels that fires on the *Impression* or *Click-through*.
+**[!UICONTROL Integration Event]:** The event that triggers the pixel to fire. For this ad type, use pixels that fires on the *[!UICONTROL Impression]* or *[!UICONTROL Click-through]*.
 
-**Pixel Type:** Whether the pixel is an *IMG URL* (1x1 pixel image file), *HTML*, or *JavaScript URL*.
+**[!UICONTROL Pixel Type]:** Whether the pixel is an *[!UICONTROL IMG URL]* (1x1 pixel image file), *[!UICONTROL HTML]*, or *[!UICONTROL JavaScript URL]*.
 
-**Pixel URL or Code:** The URL of the pixel image, in the appropriate format for the specified Pixel Type.
+**[!UICONTROL Pixel URL or Code]:** The URL of the pixel image, in the appropriate format for the specified [!UICONTROL Pixel Type].
 
-**Pixel Name:** The pixel name. Use a name that will help you easily identify the pixel.
+**[!UICONTROL Pixel Name]:** The pixel name. Use a name that will help you easily identify the pixel.
 
-**Pixel Provider:** The pixel provider: *None*, *Nielsen*, or *Comscore*.
+**[!UICONTROL Pixel Provider]:** The pixel provider: *[!UICONTROL None]*, *[!UICONTROL Nielsen]*, or *[!UICONTROL Comscore]*.
 
 >[!MORELIKETHIS]
 >

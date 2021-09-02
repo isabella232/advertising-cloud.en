@@ -12,9 +12,9 @@ A common question from users learning about the integration of the Advertising C
 
 The two data sets have different primary use cases:
 
-* [!DNL Marketing Channels]: The primary use case for [!DNL Marketing Channels] is to compare data across multiple channels with a common attribution model. Analysts can use the Marketing Channel dimension to gain increased insights into how channels are interacting with each other. This insight can help fuel macro-level decisions on how to invest in each channel and can lead to insights on how visitors from each channel interact with the website.
+* [!DNL Marketing Channels]: The primary use case for [!DNL Marketing Channels] is to compare data across multiple channels with a common attribution model. Analysts can use the [!UICONTROL Marketing Channel] dimension to gain increased insights into how channels are interacting with each other. This insight can help fuel macro-level decisions on how to invest in each channel and can lead to insights on how visitors from each channel interact with the website.
 
-     The [!DNL Analytics] Marketing Channel dimension, therefore, is configured to capture and track all channels. [!DNL Marketing Channels] can also be configured to capture Advertising Cloud DSP view-throughs and click-throughs, and it does so in relation to the other marketing channels.
+     The [!DNL Analytics] [!UICONTROL Marketing Channel] dimension, therefore, is configured to capture and track all channels. [!DNL Marketing Channels] can also be configured to capture Advertising Cloud DSP view-throughs and click-throughs, and it does so in relation to the other marketing channels.
 
 * Advertising Cloud AMO ID: The primary use case of the Advertising Cloud AMO ID data is to feed Advertising Cloud’s advanced [!DNL Adobe Sensei]-powered bidding algorithms. The algorithms automatically make thousands of micro-level bid decisions made daily to maximize advertising spend and to achieve the goals of the [!DNL DSP] campaign or [!DNL Search] portfolio. The more conversion data the algorithms can connect campaigns to, the better the algorithms can make these bidding decisions.
 

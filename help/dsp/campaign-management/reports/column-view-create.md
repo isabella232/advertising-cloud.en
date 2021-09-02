@@ -6,7 +6,7 @@ exl-id: f39e6ce9-aa4e-4049-af16-eddb0ba30087
 ---
 # Create a Custom Column View
 
-1. In the View selector, click ![down arrow](/help/dsp/assets/chevron-down.png), and then click **Create View**.
+1. In the View selector, click ![down arrow](/help/dsp/assets/chevron-down.png), and then click **[!UICONTROL Create View]**.
 
 1. Specify the metrics to include in the view:
     1. In the list of available metrics, select the check box next to each metric to include.
@@ -16,8 +16,8 @@ exl-id: f39e6ce9-aa4e-4049-af16-eddb0ba30087
 
 1. Apply or save the settings:
 
-    * To apply the settings temporarily without saving them to the view, click **Apply.**
-    * To save the settings to a new, custom column view, click **Save As**. In the Save View window, enter the name of the new view, and then click **Save**.
+    * To apply the settings temporarily without saving them to the view, click **[!UICONTROL Apply].**
+    * To save the settings to a new, custom column view, click **[!UICONTROL Save As]**. In the [!UICONTROL Save View] window, enter the name of the new view, and then click **[!UICONTROL Save]**.
 
 >[!MORELIKETHIS]
 >

@@ -25,4 +25,4 @@ The following measurement solution packages are available to validate the succes
 * Panel-Based Surveys
 * Exposure File Passing
 
-To learn more about leveraging advanced measurement services to create a custom learning agenda for your campaign, contact your Adobe Client Services team.
+To learn more about leveraging advanced measurement services to create a custom learning agenda for your campaign, contact your Adobe [!DNL Client Services] team.

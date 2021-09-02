@@ -1,5 +1,5 @@
 ---
-title: Using Marketing Channels with Advertising Cloud Data
+title: Using [!DNL Marketing Channels] with Advertising Cloud Data
 description: Learn how to use Advertising Cloud data in [!DNL Analytics Marketing Channels].
 feature: Integration with Adobe Analytics
 exl-id: 

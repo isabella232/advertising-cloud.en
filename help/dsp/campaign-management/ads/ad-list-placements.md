@@ -8,10 +8,10 @@ exl-id: 82c4f1b4-56fd-411f-a027-3f93ffb3867b
 
 View a list of placements associated with an ad to see performance data by placement and edit the placement settings if needed.
 
-1. In the main menu, click **Campaigns**.
+1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. Click the name of the campaign.
-1. In the submenu, click **Ads**.
-1. Next to the ad name, click  **... > See placements**.
+1. In the submenu, click **[!UICONTROL Ads]**.
+1. Next to the ad name, click  **... > [!UICONTROL See placements]**.
 
 >[!MORELIKETHIS]
 >

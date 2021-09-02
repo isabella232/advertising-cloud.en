@@ -10,11 +10,11 @@ exl-id: 009b65b4-0686-46ca-9f47-01ad4c6a4683
 >
 >The best practice is to separate your packages based on targeting tactics, ad types, and performance goals.
 
-1. In the main menu, click **Campaigns**.
+1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. Click the name of the campaign in which you want to create the package.
-1. On the Packages tab, click **Create > Package**.
+1. On the Packages tab, click **[!UICONTROL Create] > [!UICONTROL Package]**.
 1. Enter the [package settings](package-settings.md).
-1. Click **Save and Close**.
+1. Click **[!UICONTROL Save and Close]**.
 
 Once you create a package, you can assign placements to it.
 

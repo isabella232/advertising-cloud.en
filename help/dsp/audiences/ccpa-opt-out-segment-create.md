@@ -19,25 +19,25 @@ Once the segment pixel tag is implemented, Advertising Cloud will begin to colle
 
     1. In the main menu, click **Audiences > Segments**.
 
-    1. Above the data table, click **Create**.
+    1. Above the data table, click **[!UICONTROL Create]**.
 
-    1. Enter a unique **Segment Name**.
+    1. Enter a unique **[!UICONTROL Segment Name]**.
 
        Recommended segment name: “<*Your Advertiser Name*> – CCPA Opt Out of Sale” (such as "Acme - CCPA Opt Out of Sale")
 
-    1. For the **Segment Type**, select **CCPA opt out of sale**.
+    1. For the [!UICONTROL Segment Type], select **[!UICONTROL CCPA Opt-out of sale]**.
 
-    1. Click **Save**.
+    1. Click **[!UICONTROL Save]**.
 
 1. Copy and implement a pixel tag to track the segment:
 
-    1. Return to **Audiences > Segments**.
+    1. Return to **[!UICONTROL Audiences] > [!UICONTROL Segments]**.
 
-    1. In the segment row, hold the cursor over the new segment and click **Get pixel**.
+    1. In the segment row, hold the cursor over the new segment and click **[!UICONTROL Get pixel]**.
 
     1. Copy the image pixel (beginning with `<img src="https://rtd-tm.everesttech.net"`) to collect user IDs of desktop and mobile visitors to a webpage.
 
-    1. Provide the tag to the advertiser or website contact for deployment using the mechanism that the company uses to track CCPA opt-out of sale requests (such as using a Consent Management Platform).
+    1. Provide the tag to the advertiser or website contact for deployment using the mechanism that the company uses to track CCPA opt-out-of-sale requests (such as using a Consent Management Platform).
 
         The advertiser's IT department or other group may need to schedule, or be informed about, the tag deployment.
 
@@ -50,12 +50,12 @@ Once the segment pixel tag is implemented, Advertising Cloud will begin to colle
         1. The consumer is presented with a list of service providers with which the advertiser works.
         1. The consumer checks the box to opt out of selling data to Adobe Advertising Cloud.
 
-           This action triggers the pixel to fire and to collect the consumer’s cookie ID within the specified “CCPA – Opt out of sale” segment.
+           This action triggers the pixel to fire and to collect the consumer’s cookie ID within the specified “[!UICONTROL CCPA Opt-out of sale]” segment.
 
 >[!MORELIKETHIS]
 >
 >* [Adobe Advertising Cloud Support for the California Consumer Privacy Act: Consumer Opt-out Support](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ad-cloud-ccpa-opt-out-of-sale.html)
->* [About CCPA Opt-out-of-Sale Segments and Reports](ccpa-opt-out-about.md)
+>* [About [!UICONTROL CCPA Opt-out-of-Sale] Segments and Reports](ccpa-opt-out-about.md)
 >* [Retrieve Consumer Opt-Out-of-Sale Reports](ccpa-opt-out-segment-report-retrieve.md)
 >* [Create and Implement a Custom Segment](custom-segment-create.md)
 >* [About Audience Management](audience-about.md)

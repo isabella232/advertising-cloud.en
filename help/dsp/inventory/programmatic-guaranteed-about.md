@@ -20,15 +20,15 @@ A programmatic guaranteed (PG) deal is a guaranteed buy directly with a publishe
 
 PG deals require a PG default placement and ads so DSP can return a request to each bid request and fulfill delivery SLAs with the SSPs. Once you set up the mandatory PG default placement, you can also target the PG deal in other placements.
 
-## SSPs Certified for PG Deals in [!DNL DSP]
+## SSPs Certified for PG Deals in DSP
 
-* Ambient Digital
-* FreeWheel
-* Google Authorized Buyers
-* OpenX
-* Rubicon
-* SpotX
-* Telaria
+* [!DNL Ambient Digital]
+* [!DNL FreeWheel]
+* [!DNL Google Authorized Buyers]
+* [!DNL OpenX]
+* [!DNL Rubicon]
+* [!DNL SpotX]
+* [!DNL Telaria]
 
 >[!MORELIKETHIS]
 >

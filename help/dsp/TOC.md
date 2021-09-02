@@ -121,7 +121,7 @@ index: yes
   + Manage Segments {#segments}
     + [Create and Implement a Custom Segment](/help/dsp/audiences/custom-segment-create.md)
     + CCPA Opt-out-of-Sale Segments {#ccpa-opt-out-of-sale-segments}
-      + [About CCPA Opt-out-of-Sale Segments](/help/dsp/audiences/ccpa-opt-out-about.md)
+      + [About [!UICONTROL CCPA Opt-out-of-Sale] Segments](/help/dsp/audiences/ccpa-opt-out-about.md)
       + [Create and Implement a CCPA Opt-out-of-Sale Segment](/help/dsp/audiences/ccpa-opt-out-segment-create.md)
       + [Retrieve Consumer Opt-Out-of-Sale Reports](/help/dsp/audiences/ccpa-opt-out-segment-report-retrieve.md)
   + Manage Audiences {#reusable-audiences}
@@ -134,15 +134,15 @@ index: yes
   + [Using Roku Inventory](/help/dsp/inventory/roku-inventory.md)
   + [SSP Partners](/help/dsp/inventory/ssp-partners.md)
   + On Demand Inventory {#on-demand}
-    + [About On Demand Premium Inventory](/help/dsp/inventory/on-demand-inventory-about.md)
+    + [About [!DNL On Demand] Premium Inventory](/help/dsp/inventory/on-demand-inventory-about.md)
     + Available On-demand Premium Inventory Publishers {#publishers}
-      + [On Demand Premium Inventory Publishers in Asia Pacific](/help/dsp/inventory/on-demand-inventory-publishers-apac.md)
-      + [On Demand Premium Inventory Publishers in Australia and New Zealand](/help/dsp/inventory/on-demand-inventory-publishers-anz.md)
-      + [On Demand Premium Inventory Publishers in Europe, the Middle East, and Africa](/help/dsp/inventory/on-demand-inventory-publishers-emea.md)
-      + [On Demand Premium Inventory Publishers in North America](/help/dsp/inventory/on-demand-inventory-publishers-na.md)
-    + [Subscribe and Request Access to On Demand Premium Inventory Deals](/help/dsp/inventory/on-demand-inventory-subscribe.md)
+      + [[!DNL On Demand] Premium Inventory Publishers in Asia Pacific](/help/dsp/inventory/on-demand-inventory-publishers-apac.md)
+      + [[!DNL On Demand] Premium Inventory Publishers in Australia and New Zealand](/help/dsp/inventory/on-demand-inventory-publishers-anz.md)
+      + [[!DNL On Demand] Premium Inventory Publishers in Europe, the Middle East, and Africa](/help/dsp/inventory/on-demand-inventory-publishers-emea.md)
+      + [[!DNL On Demand] Premium Inventory Publishers in North America](/help/dsp/inventory/on-demand-inventory-publishers-na.md)
+    + [Subscribe and Request Access to [!DNL On Demand] Premium Inventory Deals](/help/dsp/inventory/on-demand-inventory-subscribe.md)
     + [Re-request On Demand Premium Inventory Deals](/help/dsp/inventory/on-demand-inventory-rerequest.md)
-    + [View the Status of Your On Demand Deal Requests and Subscriptions](/help/dsp/inventory/on-demand-inventory-view-status.md)
+    + [View the Status of Your [!DNL On Demand] Deal Requests and Subscriptions](/help/dsp/inventory/on-demand-inventory-view-status.md)
   + Private Inventory {#private-inventory}
     + Deal IDs {#deal-ids}
       + Deal ID Inbox {#inbox}
@@ -158,7 +158,7 @@ index: yes
       + FreeWheel Programmatic Guaranteed Deals {#freewheel}
         + [Overview of Setting up Programmatic Guaranteed Deals in FreeWheel](/help/dsp/inventory/freewheel-overview.md)
         + [Submit an Ad for a Programmatic Guaranteed Deal to FreeWheel](/help/dsp/inventory/freewheel-submit.md)
-        + [Check the Status of Ads for Freewheel Programmatic Guaranteed Deals](/help/dsp/inventory/freewheel-check-status.md)
+        + [Check the Status of Ads for [!DNL FreeWheel] Programmatic Guaranteed Deals](/help/dsp/inventory/freewheel-check-status.md)
         + [Error Codes for FreeWheel Ad Submissions](/help/dsp/inventory/freewheel-error-codes.md)
 + Custom Reports {#custom-reports}
   + [About Custom Reports](/help/dsp/reports/report-about.md)

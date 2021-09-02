@@ -6,6 +6,8 @@ exl-id: 0cd5e9e8-2b13-4b1e-a2e0-b8b492f75acf
 ---
 # Manual Deal ID Settings
 
+<!-- Can't use !UICONTROL and !DNL tags in HTML table -- cheange to Markdown and add the tags. -->
+
 <table>
     <tr>
        <td><p><b>Section</b></p></td>

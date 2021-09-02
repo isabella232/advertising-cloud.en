@@ -1,28 +1,28 @@
 ---
-title: Check the Status of Ads for a Freewheel PG Deal
-description: Learn how to find the status of ads for Freewheel programmatic guaranteed deals.
+title: Check the Status of Ads for a [!DNL [!DNL FreeWheel]] PG Deal
+description: Learn how to find the status of ads for [!DNL Freewheel] programmatic guaranteed deals.
 feature: Private Inventory, Deal IDs
 exl-id: 
 ---
-# Check the Status of Ads for Freewheel Programmatic Guaranteed Deals
+# Check the Status of Ads for [!DNL Freewheel] Programmatic Guaranteed Deals
 
-See if ads submissions to Freewheel were successful. You can resubmit any ad as needed.
+See if ads submissions to [!DNL Freewheel] were successful. You can resubmit any ad as needed.
 
-1. In the main menu, click **Inventory > Deals.**
+1. In the main menu, click **[!UICONTROL Inventory] > [!UICONTROL Deals].**
 
 1. Do either of the following:
 
-   * Under the Deal ID Inbox, click **View Freewheel creative status**.
+   * Under the [!UICONTROL Deal ID inbox], click **[!UICONTROL View Freewheel creative status]**.
   
-   * In any deal row, click ![Options menu](/help/dsp/assets/options-menu.png) **> see Freewheel status**.
+   * In any deal row, click ![Options menu](/help/dsp/assets/options-menu.png) **> [!UICONTROL see Freewheel status]**.
 
 1. (Optional) Filter the data to help you locate specific deals and ads.
 
-   The Submission Status column indicates whether or not the ad was submitted and approved.
+   The [!UICONTROL Submission Status] column indicates whether or not the ad was submitted and approved.
    
-   For failed submissions, the API Response column indicates the error. For a full list of error codes for failed submissions, and next steps to correct them, see "[Error Codes for FreeWheel Ad Submissions](freewheel-error-codes.md)."
+   For failed submissions, the [!UICONTROL API] Response column indicates the error. For a full list of error codes for failed submissions, and next steps to correct them, see "[Error Codes for [!DNL FreeWheel] Ad Submissions](freewheel-error-codes.md)."
 
-1. (Optional) To resubmit an ad for approval, hold the cursor over the ad row, and then click **\*\*\* More > Resubmit**.
+1. (Optional) To resubmit an ad for approval, hold the cursor over the ad row, and then click **[!UICONTROL More] > [!UICONTROL Resubmit]**.
 
 For any additional questions or issues with resubmission, contact your Adobe account manager.
 

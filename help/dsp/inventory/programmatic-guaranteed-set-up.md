@@ -8,17 +8,17 @@ exl-id: 9e371606-5428-4635-9653-7dc43449e489
 
 *[Supported supply side platforms only](programmatic-guaranteed-about.md)*
 
-After you negotiate a programmatic guaranteed (PG) deal with a supported publisher, you can set up the deal within [!DNL DSP] either by using the deal ID inbox or by manually entering the deal details.
+After you negotiate a programmatic guaranteed (PG) deal with a supported publisher, you can set up the deal within DSP either by using the [!DNL Deal ID inbox] or by manually entering the deal details.
 
 >[!NOTE]
 >
 > For PG deals, the publisher handles all budget pacing, budget capping, and targeting. All SSPs that allow PG through DSP confirm that the publisher can set up budget capping.
 >
-> Setting up programmatic guaranteed deals with publishers on FreeWheel requires extra permissions and steps. See "[Overview of Setting up Programmatic Guaranteed Deals in FreeWheel](freewheel-overview.md)" for more information.
+> Setting up programmatic guaranteed deals with publishers on [!DNL FreeWheel] requires extra permissions and steps. See "[Overview of Setting up Programmatic Guaranteed Deals in [!DNL FreeWheel]](freewheel-overview.md)" for more information.
 
-## Set up a Programmatic Guaranteed Deal Using the Deal ID Inbox {#pg-setup-deal-id-inbox}
+## Set up a Programmatic Guaranteed Deal Using the [!DNL Deal ID Inbox] {#pg-setup-deal-id-inbox}
 
-This is the preferred method for FreeWheel, Google Authorized Buyers, and Rubicon.
+This is the preferred method for [!DNL FreeWheel], [!DNL Google Authorized Buyers], and [!DNL Rubicon].
 
 1. [Accept the deal](deal-id-inbox-accept.md).
 
@@ -28,7 +28,7 @@ This is the preferred method for FreeWheel, Google Authorized Buyers, and Rubico
    
    * If you're accepting a single deal, you're automatically redirected to the PG default placement creation workflow.
 
-     All Freewheel deals are proposed as a single deal.
+     All [!DNL FreeWheel] deals are proposed as a single deal.
    
    * If you're accepting a proposal with multiple PG deal IDs, then identify each PG default placement you need to create. Once you create all required placements, the continue button is enabled.
 
@@ -50,7 +50,7 @@ Use this method for all other SSPs.
 >
 >* [About Programmatic Guaranteed Deals](programmatic-guaranteed-about.md)
 >* [Tips for Negotiating a Programmatic Guaranteed Deal](/help/dsp/inventory/programmatic-guaranteed-tips.md)
->* [Submit an Ad for a Programmatic Guaranteed Deal with Freewheel](freewheel-submit.md)
+>* [Submit an Ad for a Programmatic Guaranteed Deal with [!DNL FreeWheel]](freewheel-submit.md)
 >* [Accept a Deal in the Deal ID Inbox](deal-id-inbox-accept.md)
 >* [Manually Create Deal ID Details](deal-id-create.md)
 >* [SSP Partners](ssp-partners.md)

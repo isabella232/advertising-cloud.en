@@ -9,9 +9,9 @@ exl-id: 3a51b1b5-1eef-453b-9be5-0694e27491a8
 When you create reusable audiences, you can manually define segment logic using alphanumeric segment IDs and the following syntax:
 
 * () to indicate a group
-* `||` for OR <!-- || escaped with backticks so Jenkins doesn't think it's a Markdown table -->
-* && for AND
-* ! for NOT (exclude)
+* `||` for [!DNL OR] <!-- || escaped with backticks so Jenkins doesn't think it's a Markdown table -->
+* && for [!DNL AND]
+* ! for [!DNL NOT] (exclude)
 
 >[!NOTE]
 >
@@ -26,7 +26,7 @@ For example, the following logic:
 means (in plain English)
 
 ```
-INCLUDE Segment ID X5vUk1cNvZxvBJ3jMjTt OR INCLUDE Segment ID sfvXrmQkk77PL5OtHpLH AND EXCLUDE (Segment ID SMWSjTZFiy9hR1bKm1vw AND Segment ID x08UReA0IcP9HAJdcGVe)
+[!DNL INCLUDE] Segment ID X5vUk1cNvZxvBJ3jMjTt [!DNL OR] INCLUDE Segment ID sfvXrmQkk77PL5OtHpLH [!DNL AND EXCLUDE] (Segment ID SMWSjTZFiy9hR1bKm1vw AND Segment ID x08UReA0IcP9HAJdcGVe)
 ```
 
 >[!NOTE]
