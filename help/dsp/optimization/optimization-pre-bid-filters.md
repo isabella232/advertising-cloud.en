@@ -16,6 +16,8 @@ exl-id: c699e970-84ca-429b-8062-81804e6c9f21
 | [!UICONTROL Viewability Moat] | Sets a required minimum viewability percentage, using historical data from [!DNL Moat]. You'll bid on an impression when the specified threshold is met. | This filter works best as more data is pulled in through a campaign-level [!DNL Moat] integration.<br><br>When the campaign is configured to use [!DNL Moat] data, the best practice is to use the package optimization goal "[!UICONTROL Lowest vCPM (Moat)]." If the integration isn't enabled, use this filter with the optimization goal "[!UICONTROL Lowest CPM]." |
 | [!UICONTROL Viewability Adobe (MRC or [!DNL GroupM])] | Sets a required minimum viewability percentage, using Advertising Cloud DSP viewability numbers and measurements. You'll bid on an impression when the specified threshold is met.<br><br><b>Notes:</b><ul><li>If the campaign's [!UICONTROL Viewability Sensitivity] setting is "[!UICONTROL Standard (50% of ad in view for 2 consecutive seconds)],” then the [!DNL Media Rating Council] (MRC) viewability measurement standard is used for the campaign. If the [!UICONTROL Viewability Sensitivity] setting is “[!UICONTROL Strict (100% of ad in view & audio on for 50% duration)],” then the [!DNL GroupM] viewability measurement standard is used for the campaign.</li><li>Adobe measurement definitions differ from third-party definitions, so there may be slight discrepancies with third-party data.</li></ul> | The best practice is to match the optimization goal and any pre-bid filter settings with the campaign's [!UICONTROL Viewability Sensitivity] setting. |
 
+{style="table-layout:auto"}
+
 >[!MORELIKETHIS]
 >
 >* [How DSP Optimizes Your Campaigns](optimization-how-dsp-optimizes-campaigns.md)

@@ -138,7 +138,9 @@ exl-id: 0cd5e9e8-2b13-4b1e-a2e0-b8b492f75acf
 | | [!UICONTROL Advertisers that can access this deal] | The specific advertisers in the account who can access this deal.<br><br><b>Note:</b> You can share the deal with advertisers in additional accounts from the [!UICONTROL Deals] view. In the deal row, click **[!UICONTROL #]**, click **[!UICONTROL share]**, and then share the deal with an email address. | Yes | Yes |
 | [!UICONTROL Tracking] | [!UICONTROL Flight Dates] | The start and end dates for traffic using this deal. These date are for tracking purposes only and don't impact ad delivery.<br><br><b>Tip:</b> In the [!UICONTROL Inventory] > [!UICONTROL Deals] view, the [!UICONTROL Pacing & Budget] column will show how the deal is pacing to the specified flight date and impression goal. If delivery is under- or over-pacing, contact your publisher to adjust how much volume it is sending through the deal. | Guaranteed deals: Yes<br>Non-guaranteed deals: No | Yes |
 | | [!UICONTROL Impressions] | (Optional for non-guaranteed deals) The estimated number of impressions you expect to run using this deal. This value is tracking purposes only; the publisher controls ad delivery. | Guaranteed deals: Yes<br>Non-guaranteed deals: No | Yes |
-                         
+
+{style="table-layout:auto"}
+
 >[!MORELIKETHIS]
 >
 >* [Manually Create Deal ID Details](deal-id-create.md)

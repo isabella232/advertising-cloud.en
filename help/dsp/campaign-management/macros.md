@@ -22,6 +22,8 @@ Use general tracking macros across all ad and tag types to pass back specific da
 | `${TM_SITE_URL_URLENC}` | The URL passed in the bid request; URL-encoded |
 | `${TM_SITE_DOMAIN_URLENC}` | The page subdomain parsed from the URL in the bid request; URL-encoded |
 
+{style="table-layout:auto"}
+
 ## Click Macros for Third-Party Display Ads
 
 To accurately track clicks for ads using third-party display tags, DSP requires a display click macro. Only one version of the macro is required; the relevant macro depends on the type of tag.
@@ -30,6 +32,8 @@ To accurately track clicks for ads using third-party display tags, DSP requires 
 | --------------- | ---------------------- |
 | `${TM_CLICK_URL}` | Redirect URL that enables ad servers to track and count ad clicks in the platform |
 | `${TM_CLICK_URL_URLENC}` | Redirect URL that enables ad servers that require URL encoding to track and count ad clicks in the platform |
+
+{style="table-layout:auto"}
 
 DSP automatically inserts display click macros in a display tag when you:
 
