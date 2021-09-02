@@ -12,7 +12,7 @@ exl-id:
 | [!DNL Adacado] | | X | | | |
 | [!DNL Ad Colony] | | | | X | Only VAST mobile |
 | [!DNL Adconion] | | | | X | |
-| [!DNL Adform]] | X | X | | X | |
+| [!DNL Adform] | X | X | | X | |
 | [!DNL ADITION Technologies] | | X | | | |
 | [!DNL ADman Media] | X | | | | |
 | [!DNL ADventori] | | X | | | |

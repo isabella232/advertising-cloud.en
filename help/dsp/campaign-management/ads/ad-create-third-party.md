@@ -26,7 +26,7 @@ To create a single third-party ad, see [Create an Ad](ad-create.md).
 
 1. ([!DNL DoubleClick] and [!DNL Flashtalking] ads) Select the tag type to use for each video asset and each display asset. The available options vary by ad server.
 
-1. (Ads on all ad servers except [!DNL DoubleClick and [!DNL Flashtalking]) Click **[!UICONTROL Download this template]** to download a template in [!DNL Microsoft Excel] spreadsheet (XLSX) format, which you can populate with ad data and save locally. The required columns include [!UICONTROL Ad Name], [!UICONTROL VAST/VPAID URL or Ad Tag], and [!UICONTROL Ad Types].
+1. (Ads on all ad servers except [!DNL DoubleClick] and [!DNL Flashtalking]) Click **[!UICONTROL Download this template]** to download a template in [!DNL Microsoft Excel] spreadsheet (XLSX) format, which you can populate with ad data and save locally. The required columns include [!UICONTROL Ad Name], [!UICONTROL VAST/VPAID URL or Ad Tag], and [!UICONTROL Ad Types].
 
 1. Click **[!UICONTROL Upload]** and select a file in .xlsx or .xls formats from your device or network.
 

@@ -78,7 +78,7 @@ exl-id: f67c4ba0-1011-4ad6-bd36-98c312b81b67
 >
 > Use a name that will be easy to find when you attach the ad to a placement, in the Ads view, and in reports. For example, describe the unit type and some key attributes (such as Holiday Product Preview: 30sec Phone Preroll”).
 
-**[!UICONTROL Width | [!UICONTROL Ad Unit Width]:** The width of the entire ad unit. This option may be locked depending on the type of ad unit you selected.
+**[!UICONTROL Width] | [!UICONTROL Ad Unit Width]:** The width of the entire ad unit. This option may be locked depending on the type of ad unit you selected.
 
 **[!UICONTROL Height] | [!UICONTROL Ad Unit Height]:** The height of the entire ad unit. This option may be locked depending on the type of ad unit you selected.
 

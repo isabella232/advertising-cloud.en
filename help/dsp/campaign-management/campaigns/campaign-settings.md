@@ -18,11 +18,11 @@ exl-id: ff2e22ff-8073-4532-884b-36e0c1f22641
 
 **[!UICONTROL Customer PO]:** (Optional) A customer purchase order for the insertion order/purchase order.
 
-**Campaign Dates]:** The campaign start and end dates.
+**[Campaign Dates]:** The campaign start and end dates.
 
 ## [!UICONTROL Campaign Goals]
 
-**[!UICONTROL Margin Management]:** Whether to manage margins for the campaign: *[!UICONTROL Yes]* or *No]* (the default).
+**[!UICONTROL Margin Management]:** Whether to manage margins for the campaign: *[!UICONTROL Yes]* or *[!UICONTROL No]* (the default).
 
 When you choose *[!UICONTROL Yes],* specify the margin type and amount:
 
@@ -55,7 +55,7 @@ To estimate taxes to withhold:
 1. Click **[!UICONTROL Update rates here]**.
 
 1. Specify the **[!UICONTROL Estimated tax rate]**, as a percentage.
-*
+
 1. Select the check box next to each fee type for which to withhold taxes. The fee types include:
 
    * *[!UICONTROL Include estimated tax - ads fee]:* Applies to all Advertising Cloud DSP media spend, including taxes on campaign management fees.

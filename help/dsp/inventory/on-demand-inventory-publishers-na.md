@@ -8,8 +8,8 @@ exl-id: 47136e55-aab9-4112-8317-1aafca0b1c49
 
 <!-- get from Amanda Cabrera <acabrera@adobe.com> -->
 
-| Publisher                            | Geo    |
-|------------------------------------------------------|--------|
+| Publisher                                   | Geo    |
+|---------------------------------------------|--------|
 | [!DNL AccuRadio]                            | Canada |
 | [!DNL BBC]                                  | Canada |
 | [!DNL Bell Media]                           | Canada |
@@ -24,7 +24,7 @@ exl-id: 47136e55-aab9-4112-8317-1aafca0b1c49
 | [!DNL Cue Digital Media]                    | Canada |
 | [!DNL DAX]                                  | Canada |
 | [!DNL DAZN] ([!DNL Perform Media])          | Canada |
-| [!DNL Dotdash] (formerly [!DNL About.com])] | Canada |
+| [!DNL Dotdash] (formerly [!DNL About.com])  | Canada |
 | [!DNL EA]                                   | Canada |
 | [!DNL evite]                                | Canada |
 | [!DNL Expedia]                              | Canada |
@@ -49,9 +49,9 @@ exl-id: 47136e55-aab9-4112-8317-1aafca0b1c49
 | [!DNL Targetspot]                           | Canada |
 | [!DNL Tele Quebec]                          | Canada |
 | [!DNL The Roku Channel]                     | Canada |
-| [!DNL The Weather Network                   | Canada |
+| [!DNL The Weather Network]                  | Canada |
 | [!DNL Time Inc]                             | Canada |
-| [!DNL Toronto Star                          | Canada |
+| [!DNL Toronto Star]                         | Canada |
 | [!DNL tubi TV]                              | Canada |
 | [!DNL TuneIn]                               | Canada |
 | [!DNL U.S. News]                            | Canada |
@@ -121,7 +121,7 @@ exl-id: 47136e55-aab9-4112-8317-1aafca0b1c49
 | [!DNL NHL]                                  | U.S.   |
 | [!DNL New York Times]                       | U.S.   |
 | [!DNL OWN]                                  | U.S.   |
-| [!DNL Penske Media Corporation[!DNL  (PMC)  | U.S.   |
+| [!DNL Penske Media Corporation]([!DNL PMC]) | U.S.   |
 | [!DNL Philo]                                | U.S.   |
 | [!DNL Pluto TV]                             | U.S.   |
 | [!DNL Realtor]                              | U.S.   |

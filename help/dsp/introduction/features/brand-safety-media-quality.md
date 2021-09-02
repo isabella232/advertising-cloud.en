@@ -18,7 +18,7 @@ In addition to providing central quality management, we believe in empowering ad
 
 ### Inventory Verification with [!DNL Ads.txt] Support
 
-[[!DNL Ads.txt] ([!DNL Authorized Digital Sellers])](https://iabtechlab.com/ads-txt) is an initiative launched by the [Interactive Advertising Bureau] ([!DNL IAB]) in June 2017 to facilitate the proper representation of inventory on the open market, thereby combatting illegitimate sources of traffic and domain spoofing. Participating publishers and distributors publicly declare the companies authorized to sell their digital inventory, and the nature of those relationships, by maintaining an `ads.txt page at the top level of the domain (such as `example.com/ads.txt`).
+[[!DNL Ads.txt], which stands for [!DNL Authorized Digital Sellers]](https://iabtechlab.com/ads-txt) is an initiative launched by the [!DNL Interactive Advertising Bureau] ([!DNL IAB]) in June 2017 to facilitate the proper representation of inventory on the open market, thereby combatting illegitimate sources of traffic and domain spoofing. Participating publishers and distributors publicly declare the companies authorized to sell their digital inventory, and the nature of those relationships, by maintaining an `ads.txt` page at the top level of the domain (such as `example.com/ads.txt`).
 
 DSP supports [!DNL ads.txt] by reading each publisher's `ads.txt` file and giving you the option to purchase only from verified [!DNL ads.txt] sellers. For example, by matching the sellers we see accessing `nytimes.com` to the New York Times' `ads.txt` file, we can identify which are legitimate and which are not, and we'll block the offenders if the placement is configured to purchase only from verified sellers. <!-- can we actually mention NY Times? -->
 

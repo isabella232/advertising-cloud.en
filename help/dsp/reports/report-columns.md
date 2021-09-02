@@ -83,8 +83,8 @@ exl-id: c96e46ae-2fb2-4364-9c51-f160c00693ba
 |[!UICONTROL Metric]||[!UICONTROL Performance]|[!UICONTROL Gross CPA]|The average gross cost per acquisition, calculated by [!UICONTROL Gross Spend] / [!UICONTROL Custom Goal].|
 |[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Gross CPC]|The average gross cost per ad click, calculated by [!UICONTROL Gross Spend] / [!UICONTROL Total Ad Clicks].|
 |[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Gross CPCV]|The average cost per completed video view, calculated by [!UICONTROL Gross Spend] / [!UICONTROL 100% Completions].|
-|[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Gross CPM]|The average cost per 1000 impressions, calculated by [!UICONTROL Gross Spend / [!UICONTROL Impressions] x 1000.|
-|[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Gross CPV|[!UICONTROL |The average cost per video view, calculated by [!UICONTROL Gross Spend] / [!UICONTROL Views].|
+|[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Gross CPM]|The average cost per 1000 impressions, calculated by [!UICONTROL Gross Spend] / [!UICONTROL Impressions] x 1000.|
+|[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Gross CPV]|The average cost per video view, calculated by [!UICONTROL Gross Spend] / [!UICONTROL Views].|
 |[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Gross vCPM]|The average cost per 1000 viewable impressions, calculated by [!UICONTROL Gross Spend] / [!UICONTROL Viewable Impressions] x 1000.|
 |[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Net CPC]|The average net cost per ad click, calculated by [!UICONTROL Net Spend] / [!UICONTROL Total Ad Clicks].|
 |[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Net CPCV]|The average net cost per completed video view, calculated by [!UICONTROL Net Spend] / [!UICONTROL 100% Completions]|

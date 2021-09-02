@@ -105,7 +105,7 @@ When you're troubleshooting in [!DNL Analytics], be sure to confirm that the sup
 
 >[!NOTE]
 >
-> This implementation works similarly to the [!DNL Analytics] for Target] integration.
+> This implementation works similarly to the [!DNL Analytics for Target] integration.
 
 >[!MORELIKETHIS]
 >

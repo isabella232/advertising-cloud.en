@@ -185,7 +185,7 @@ To specify inventory targeting:
 
 Outstream ads usually appear over the content as a pop-up or stuffed into content (in the native experience), rather than as regular video ads in a video player.
 
-## [!UICONTROL Site Targeting
+## [!UICONTROL Site Targeting]
 
 **[!UICONTROL Traffic type]:** The types of traffic to target. Options include **[!UICONTROL Websites]** and **[!UICONTROL Apps]**.
 
