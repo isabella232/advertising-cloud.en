@@ -121,7 +121,7 @@ exl-id: 47136e55-aab9-4112-8317-1aafca0b1c49
 | [!DNL NHL]                                  | U.S.   |
 | [!DNL New York Times]                       | U.S.   |
 | [!DNL OWN]                                  | U.S.   |
-| [!DNL Penske Media Corporation]([!DNL PMC]) | U.S.   |
+| [!DNL Penske Media Corporation (PMC)]       | U.S.   |
 | [!DNL Philo]                                | U.S.   |
 | [!DNL Pluto TV]                             | U.S.   |
 | [!DNL Realtor]                              | U.S.   |
