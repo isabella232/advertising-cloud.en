@@ -44,15 +44,15 @@ New segments take 24-48 hours to appear in Advertising Cloud. Updates to existin
 * [[!UICONTROL Cart Views] metric](https://experienceleague.adobe.com/docs/analytics/components/metrics/cart-views.html)
 * [[!UICONTROL Checkouts] metric](https://experienceleague.adobe.com/docs/analytics/components/metrics/checkouts.html)
 * [[!UICONTROL Cart Additions] metric](https://experienceleague.adobe.com/docs/analytics/components/metrics/cart-additions.html)
-* [[!UICONTROL Cart Removals]metric](https://experienceleague.adobe.com/docs/analytics/components/metrics/cart-removals.html)
+* [[!UICONTROL Cart Removals] metric](https://experienceleague.adobe.com/docs/analytics/components/metrics/cart-removals.html)
 
 ### Custom Conversion Metrics
 
-* These metrics are specific to the report suite, so the available metrics vary for each customer and report suite.
+These metrics are specific to the report suite, so the available metrics vary for each customer and report suite.
 
 ### Reserved Conversion Metrics
 
-* These metrics are specific to the report suite, so the available metrics vary for each customer and report suite.
+These metrics are specific to the report suite, so the available metrics vary for each customer and report suite.
 
 >[!MORELIKETHIS]
 >

@@ -63,7 +63,7 @@ Example `EF `ID: WcmibgAAAHJK1RyY:1551968087687:d
 
 In [!DNL Analytics] reports, you can find EF ID data by searching for the [!UICONTROL EF ID] dimension and using the [!UICONTROL EF ID Instance] metric.
 
-`EF IDs' are subject to the 500k unique identifier limit in Analysis Workspace. Once the 500k value is reached, all new tracking codes are reported under the one-line-item title “Low Traffic.” Because of the possibility of missing reporting fidelity, the `EF IDs' are not classified, and you should not use them for segments or reporting in [!DNL Analytics].
+`EF IDs` are subject to the 500k unique identifier limit in Analysis Workspace. Once the 500k value is reached, all new tracking codes are reported under the one-line-item title “[!UICONTROL Low Traffic].” Because of the possibility of missing reporting fidelity, the `EF IDs` are not classified, and you should not use them for segments or reporting in [!DNL Analytics].
 
 ## Advertising Cloud AMO IDs
 

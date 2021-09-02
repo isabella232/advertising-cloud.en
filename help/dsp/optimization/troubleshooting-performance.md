@@ -21,6 +21,8 @@ exl-id: adb32257-dede-4623-9840-33221c218443
 | | A low number of users are available. | Check that the specified audience targets include enough active users. If they don't, then expand the targets by adding more audiences.<br><br>Keep in mind that using multiple placement targets, such as pre-bid filters, geos, inventory, and audiences, may cumulatively limit bidding and spend. |
 | | The package includes a large number of active placements. | Either reduce the number of active placements within the package or increase the overall package budget.<br><br>If the package has many placements but not enough budget, DSP may not be able to allocate enough budget to each placement. Each placement should have an opportunity to spend at least 2 USD/day. For example, if your package has a budget of 10 USD/day, then it's best to include five or fewer placements. ​|
 
+{style="table-layout:auto"}
+
 >[!MORELIKETHIS]
 >
 >* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)

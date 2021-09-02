@@ -127,4 +127,4 @@ curl -X POST \
 where:
 
 * `"namespace": "AdCloud"` indicates the `AdCloud` cookie space, and the corresponding value is the customer’s cookie ID as retrieved from `AdobePrivacy.js`
-* `"include": \["AdCloud"\]` indicates that the request applies to Advertising Cloud
+* `"include": ["AdCloud"]` indicates that the request applies to Advertising Cloud

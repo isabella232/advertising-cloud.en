@@ -21,6 +21,8 @@ The error messages for failed ad submissions can come from either Advertising Cl
 |[!DNL Ad with identifier] \<*ad name*\> [!DNL was not found.]|The submitted ad key either doesn't exist or isn't active on the Adobe end.|Find the correct ad key, and then resubmit the ad.|
 |[!DNL Pending Submission]|The submission is still pending.|Refresh the page.|
 
+{style="table-layout:auto"}
+
 ## FreeWheel API Errors
 
 |Code|Meaning|Description|Next Steps|
@@ -32,6 +34,8 @@ The error messages for failed ad submissions can come from either Advertising Cl
 |408|Request Timeout|A timeout occurred while this request was processing. Timeouts are usually caused by concurrent requests of exclusive access to certain resources.|Resubmit the request when you receive this status. If the issue persists, contact your Adobe account manager.|
 |422|Unprocessable Entity|Invalid resource. This error happens when the request body is invalid or the created/updated resource is invalid (for example, if the Deal ID was not found). See [FreeWheel API 422 Errors](#freewheel-422-errors) for more information.|Contact your Adobe account manager.|
 |500|Internal Server Error|API system error.|Contact your Adobe account manager.|
+
+{style="table-layout:auto"}
 
 ## FreeWheel API 422 Errors {#freewheel-422-errors}
 
@@ -49,6 +53,8 @@ The error messages for failed ad submissions can come from either Advertising Cl
 |DATA_CREATIVE_DELETE_FAILURE|422|The creative wasn't deleted.|
 |DATA_CREATIVE_DETECTION_FAILURE|422|The URL wasn't detected.|
 |DATA_ENTITY_NOT_FOUND|422|The creative doesn't exist.|
+
+{style="table-layout:auto"}
 
 >[!MORELIKETHIS]
 >

@@ -29,6 +29,8 @@ exl-id: 9bca09b5-9aa7-4009-a576-9b30cfddfd55
 | [!UICONTROL Lowest vCPM (Moat - GroupM)] | With package-level optimization, budget allocation will prioritize placements with the lowest vCPMs.<br><br>Auction appraisals will prioritize vCPM. If spend goals are being met, then DSP will attempt to balance lowering the CPMs with raising viewability. | Campaign Type: Branding<br><br>Benchmark: Efficient CPM & Highest vCPM<br><br>Ad types: Pre-roll, Display<br><br><b>Note:</b> Use this goal to achieve the best possible vCPM.<br><br>To guarantee a maximum CPM, use it as the Max Bid for the placement.<br><br>This setting works best when third-party data from [!DNL Moat] is informing the algorithm. Use this goal only when you've enabled the [!DNL Moat] integration for the campaign. |
 | [!UICONTROL Lowest vCPM (Moat - MRC)] | With package-level optimization, budget allocation will prioritize placements with the lowest vCPMs.<br><br>Auction appraisals will prioritize vCPM. If spend goals are being met, then DSP will attempt to balance lowering the CPMs with raising viewability. | Campaign Type: Branding<br><br>Benchmark: Efficient CPM & Highest vCPM<br><br>Ad types: Pre-roll, Display<br><br><b>Note:</b> Use this goal to achieve the best possible vCPM.<br><br>To guarantee a maximum CPM, use it as the Max Bid for the placement.<br><br>This setting works best when third-party data from [!DNL Moat] is informing the algorithm. Use this goal only when you've enabled the [!DNL Moat] integration for the campaign. |
 
+{style="table-layout:auto"}
+
 >[!MORELIKETHIS]
 >
 >* [Best Practices for Setting up Performance Campaigns](/help/dsp/optimization/campaign-best-practices-performance.md)

@@ -19,6 +19,8 @@ Within placement settings, use keyboard shortcuts to quickly navigate<!-- and to
 | Placement settings | t | Moves you to the [!UICONTROL Tracking] settings |
 | Placement settings | l | Moves you to the [!UICONTROL Adobe Labs] settings |
 
+{style="table-layout:auto"}
+
 <!-- | Legacy placement settings | npv | Lets you create a new video placement | -->
 <!-- | Legacy placement settings | npd | Lets you create a new display placement | -->
 <!-- | Legacy placement settings | nav | Lets you create a new video ad | -->
