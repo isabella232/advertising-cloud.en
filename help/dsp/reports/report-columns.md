@@ -151,6 +151,8 @@ exl-id: c96e46ae-2fb2-4364-9c51-f160c00693ba
 |[!UICONTROL Conversion Metrics]|[Grouped by advertiser in report settings]|[Advertiser-specific conversion]| The total for a specified advertiser-specific conversion metric or Adobe Analytics event.|
 |[!UICONTROL Custom Goals]|[Grouped by advertiser in report settings]|[Advertiser-specific custom goal]|The weighted sum of all conversions that are included in the specified [custom goal](/help/dsp/optimization/custom-goal-about.md).|
 
+{style="table-layout:auto"}
+
 <!-- |Omitted|[!UICONTROL Performance]|Custom Goal CPA|The average cost per acquisition, calculated by Gross Spend / Custom Goal| -->
 <!-- |Omitted|[!UICONTROL Performance]|Custom Goal ROAS|The average return on ad spend, calculated by Custom goal / Gross spend|-->
 
