@@ -86,6 +86,8 @@ exl-id: e46ec570-38a7-4ea6-8c4c-d173971c48b7
 | [!DNL WWE]                          | Australia/New Zealand |
 | [!DNL Yahoo]                        | Australia/New Zealand |
 
+{style="table-layout:auto"}
+
 >[!MORELIKETHIS]
 >
 >* [About [!DNL On Demand] Premium Inventory](on-demand-inventory-about.md)

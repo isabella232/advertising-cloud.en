@@ -167,6 +167,8 @@ exl-id: 47136e55-aab9-4112-8317-1aafca0b1c49
 | [!DNL World Surf League]                    | U.S.   |
 | [!DNL Yahoo]                                | U.S.   |
 
+{style="table-layout:auto"}
+
 >[!MORELIKETHIS]
 >
 >* [About [!DNL On Demand] Premium Inventory](on-demand-inventory-about.md)

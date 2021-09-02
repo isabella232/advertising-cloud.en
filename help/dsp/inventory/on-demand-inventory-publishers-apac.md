@@ -361,6 +361,8 @@ exl-id: dda5f9fb-2efb-475b-9219-dfa6294f3e01
 | [!DNL Yan.vn]                      | Vietnam       |
 | [!DNL Zing.vn]                     | Vietnam       |
 
+{style="table-layout:auto"}
+
 >[!MORELIKETHIS]
 >
 >* [About [!DNL On Demand] Premium Inventory](on-demand-inventory-about.md)

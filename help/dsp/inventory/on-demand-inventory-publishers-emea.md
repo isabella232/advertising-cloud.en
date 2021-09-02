@@ -217,6 +217,8 @@ exl-id: e56fd637-fb01-4bc0-9125-aa6844eeccc4
 | [!DNL Vungle]                  | UK          |
 | [!DNL Yahoo]                   | UK          |
 
+{style="table-layout:auto"}
+
 >[!MORELIKETHIS]
 >
 >* [About [!DNL On Demand] Premium Inventory](on-demand-inventory-about.md)
