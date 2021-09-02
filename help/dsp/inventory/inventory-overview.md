@@ -6,7 +6,7 @@ exl-id: b3d0b96e-e638-4bd2-ba14-d348a8fc030b
 ---
 # Overview of Inventory Features in Advertising Cloud DSP
 
-Advertising Cloud DSP can support your inventory needs, whether you’re wanting to find scale with public inventory, find scale among premium publishers with On Demand, or set up a 1:1 private marketplace (PMP) deal with a publisher to activate against specific audiences or sites. Your campaign goals will help dictate which type of inventory best suits your campaign’s performance needs. Integrations with top supply side platforms (SSPs) allow seamless setup and activation of your PMPs.
+Advertising Cloud DSP can support your inventory needs, whether you’re wanting to find scale with public inventory, find scale among premium publishers with [!DNL On Demand], or set up a 1:1 private marketplace (PMP) deal with a publisher to activate against specific audiences or sites. Your campaign goals will help dictate which type of inventory best suits your campaign’s performance needs. Integrations with top supply side platforms (SSPs) allow seamless setup and activation of your PMPs.
 
 Once you access or identify your inventory deals in DSP, you can use them as placement targets for your campaigns.
 
@@ -22,7 +22,7 @@ Set up and manage private marketplace deals (PMPs), which are deals that you've 
 
 ### Simple Ad Serving
 
-Simple Ad Serving is streamlined technology for guaranteed, non-decisioned ad delivery and reporting. Use Simple Ad Serving when your publisher can't execute your deal via deal IDs. All targeting, budget pacing and capping, and frequency capping is handled by the publisher. Execute these deals via ad tags or event pixels.
+[!DNL Simple Ad Serving] is streamlined technology for guaranteed, non-decisioned ad delivery and reporting. Use [!DNL Simple Ad Serving] when your publisher can't execute your deal via deal IDs. All targeting, budget pacing and capping, and frequency capping is handled by the publisher. Execute these deals via ad tags or event pixels.
 
 >[!MORELIKETHIS]
 >

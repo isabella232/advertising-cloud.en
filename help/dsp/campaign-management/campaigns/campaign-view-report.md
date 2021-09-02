@@ -6,12 +6,12 @@ exl-id: 88fd3cdc-18af-4d3c-a93e-88058d56aabc
 ---
 # View a Detailed Report for a Campaign
 
-The legacy campaign-level report includes an overview and sections on Geography, Device, Viewability, and Audience Performance data.
+The legacy campaign-level report includes an overview and sections on [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability], and [!UICONTROL Audience Performance] data.
 
-1. In the main menu, click **Campaigns**.
+1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. Do either of the following:
-    * Click **... > View report** in the upper right toolbar.
-    * Next to the campaign name, click  **... > View report**.
+    * Click **... > [!UICONTROL View report]** in the upper right toolbar.
+    * Next to the campaign name, click  **... > [!UICONTROL View report]**.
 
 >[!MORELIKETHIS]
 >

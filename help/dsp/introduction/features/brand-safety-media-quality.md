@@ -10,19 +10,19 @@ exl-id: df5be5d4-490e-479f-b76d-4fda4acd4201
 
 Advertising Cloud DSP provides a suite of brand protection features to ensure that each of your campaigns reaches real users in a brand-safe environment.
 
-Our Fraud Surveillance team works closely with industry leading partners, such as the Interactive Advertising Bureau, Trust and Accountability Group, and WhiteOps, to carefully curate the inventory on our platform. Through proactive management of our supply, DSP ensures that all advertisers across the platform are protected from non-human traffic (bots, crawlers, datacenter traffic, and fraud) and deliver only in brand-safe contexts.
+Our Fraud Surveillance team works closely with industry leading partners, such as the [!DNL Interactive Advertising Bureau], [!DNL Trust and Accountability Group] [!DNL (TAG)], and [!DNL WhiteOps], to carefully curate the inventory on our platform. Through proactive management of our supply, DSP ensures that all advertisers across the platform are protected from non-human traffic (bots, crawlers, datacenter traffic, and fraud) and deliver only in brand-safe contexts.
 
-In addition to providing central quality management, we believe in empowering advertisers to design the controls that align with their brand. Adobe Advertising Cloud offers integrations with Comscore, DoubleVerify, Integral Ad Science, Oracle Data Cloud, and Peer39, ensuring that each advertiser can choose their desired level of fraud protection, contextual filtering, and keyword targeting.
+In addition to providing central quality management, we believe in empowering advertisers to design the controls that align with their brand. Adobe Advertising Cloud offers integrations with [!DNL Comscore], [!DNL DoubleVerify], [!DNL Integral Ad Science], [!DNL Oracle Data Cloud], and [!DNL Peer39], ensuring that each advertiser can choose their desired level of fraud protection, contextual filtering, and keyword targeting.
 
 ## Advertising Cloud DSP Quality Initiatives
 
-### Inventory Verification with Ads.txt Support
+### Inventory Verification with [!DNL Ads.txt] Support
 
-[Ads.txt](https://iabtechlab.com/ads-txt) (Authorized Digital Sellers) is an initiative launched by IAB in June 2017 to facilitate the proper representation of inventory on the open market, thereby combatting illegitimate sources of traffic and domain spoofing. Participating publishers and distributors publicly declare the companies authorized to sell their digital inventory, and the nature of those relationships, by maintaining an ads.txt page at the top level of the domain (such as example.com/ads.txt).
+[[!DNL Ads.txt], which stands for [!DNL Authorized Digital Sellers]](https://iabtechlab.com/ads-txt) is an initiative launched by the [!DNL Interactive Advertising Bureau] ([!DNL IAB]) in June 2017 to facilitate the proper representation of inventory on the open market, thereby combatting illegitimate sources of traffic and domain spoofing. Participating publishers and distributors publicly declare the companies authorized to sell their digital inventory, and the nature of those relationships, by maintaining an `ads.txt` page at the top level of the domain (such as `example.com/ads.txt`).
 
-DSP supports ads.txt by reading each publisher's ads.txt file and giving you the option to purchase only from verified ads.txt sellers. For example, by matching the sellers we see accessing nytimes.com to the New York Times' ads.txt file, we can identify which are legitimate and which are not, and we'll block the offenders if the placement is configured to purchase only from verified sellers. <!-- can we actually mention NY Times? -->
+DSP supports [!DNL ads.txt] by reading each publisher's `ads.txt` file and giving you the option to purchase only from verified [!DNL ads.txt] sellers. For example, by matching the sellers we see accessing `nytimes.com` to the New York Times' `ads.txt` file, we can identify which are legitimate and which are not, and we'll block the offenders if the placement is configured to purchase only from verified sellers. <!-- can we actually mention NY Times? -->
 
-You can set default ads.txt controls for each advertiser<!-- [default ads.txt controls for each advertiser](/help/dsp/admin/advertiser-settings.md) -->, and then optionally [customize the settings for each placement](/help/dsp/campaign-management/placements/placement-settings.md) to:
+You can set default [!DNL ads.txt] controls for each advertiser<!-- [default ads.txt controls for each advertiser](/help/dsp/admin/advertiser-settings.md) -->, and then optionally [customize the settings for each placement](/help/dsp/campaign-management/placements/placement-settings.md) to:
 
 * buy inventory from a domain's authorized direct sellers only
 
@@ -34,9 +34,9 @@ You can set default ads.txt controls for each advertiser<!-- [default ads.txt co
 
 ### Platform Fraud Surveillance
 
-DSP has built strong internal tools and systems to manage fraud across our platform, partnering with leading industry vendors such as Whiteops and Integral Ad Science.
+DSP has built strong internal tools and systems to manage fraud across our platform, partnering with leading industry vendors such as [!DNL Whiteops] and [!DNL Integral Ad Science].
 
-In addition, Adobe works closely with the Interactive Advertising Bureau (IAB) and the Trust and Accountability Group (TAG) to ensure robust, industry-standard fraud blocking to protect our advertisers, leveraging tools such as ads.txt (see the previous section), IAB's Bots and Spiders list, and TAG’s Datacenter IP list.
+In addition, Adobe works closely with [!DNL IAB] and [!DNL TAG] to ensure robust, industry-standard fraud blocking to protect our advertisers, leveraging tools such as [!DNL ads.txt] (see the previous section), the [!DNL IAB] Bots and Spiders list, and the [!DNL TAG] Datacenter IP list.
 
 Through our multi-dimensional approach to quality, our team monitors anomalies and invalid traffic patterns, ensuring less than 3% invalid traffic on protected inventory. Any inventory that is suspicious &mdash; including inventory on specific domains or from specific publishers or sellers &mdash; is immediately blocked across the platform.
 
@@ -54,11 +54,11 @@ Inventory mapping is the detailed review and on-boarding process required for al
 
 * **Tiering:** We holistically examine brand presence in the overall ecosystem to classify inventory across different tiers. You can [target your placements](/help/dsp/campaign-management/placements/placement-settings.md) to these tiers for the desired level of reach:
 
-   * **T1** – Brand-name, internationally-recognizable sites
+   * **[!UICONTROL T1]** – Brand-name, internationally-recognizable sites
 
-   * **T2** – Great-looking sites that are current, up-to-date, without user-generated content, and usually lacking in global recognition
+   * **[!UICONTROL T2]** – Great-looking sites that are current, up-to-date, without user-generated content, and usually lacking in global recognition
 
-   * **T3** – User-generated content and niche content
+   * **[!UICONTROL T3]** – User-generated content and niche content
 
 * **Site categorization:** To ensure easy content targeting and blocking, we tag each property with an Advertising Cloud-defined site category based on the property's content. You can [target or exclude these site categories for each placement](/help/dsp/campaign-management/placements/placement-settings.md) based on the placement goals.
 
@@ -82,7 +82,7 @@ Users can also maintain account-level and advertiser-level blocked sites lists<!
 
 ### Contextual Filtering
 
-Contextual filtering allows you to target or block ad opportunities based on the context of the page on which the ad would serve. Adobe provides contextual filtering via integrations with leading vendors in the industry: Comscore, DoubleVerify, Integral Ad Science, and Peer39. Examples of current filters include Adult Content, Natural Disasters, Legal Drinking Age, MANGA, Epidemics, and G-rated Sites.
+Contextual filtering allows you to target or block ad opportunities based on the context of the page on which the ad would serve. Adobe provides contextual filtering via integrations with leading vendors in the industry: [!DNL Comscore], [!DNL DoubleVerify], [!DNL Integral Ad Science], and [!DNL Peer39]. Examples of current filters include [!UICONTROL Adult Content], [!UICONTROL Natural Disasters], [!UICONTROL Legal Drinking Age], [!UICONTROL MANGA], [!UICONTROL Epidemics], and [!UICONTROL G-rated Sites].
 
 You can set default contextual filter controls for each advertiser<!-- [default contextual filter controls for each advertiser](/help/dsp/admin/advertiser-settings.md) -->, and then optionally [customize the settings for each placement](/help/dsp/campaign-management/placements/placement-settings.md). Additional fees may apply when you use this feature.
 
@@ -90,7 +90,7 @@ You can set default contextual filter controls for each advertiser<!-- [default 
 
 ### Pre-Bid Fraud Blocking
 
-Leverage our third-party integrations with Comscore, DoubleVerify, Integral Ad Science, and Peer39 to block non-human traffic from your campaigns. These integrations provide industry-leading pre-bid blocking capabilities to minimize both general and sophisticated invalid traffic (GIVT and SIVT) in your campaigns.
+Leverage our third-party integrations with [!DNL Comscore], [!DNL DoubleVerify], [!DNL Integral Ad Science], and [!DNL Peer39] to block non-human traffic from your campaigns. These integrations provide industry-leading pre-bid blocking capabilities to minimize both general and sophisticated invalid traffic (GIVT and SIVT) in your campaigns.
 
 You can set default pre-bid fraud blocking controls for each advertiser<!-- [default pre-bid fraud blocking controls for each advertiser](/help/dsp/admin/advertiser-settings.md) -->, and then optionally [customize the settings for each placement](/help/dsp/campaign-management/placements/placement-settings.md). Additional fees may apply when you use this feature.
 
@@ -100,7 +100,7 @@ For more information on functionality, contact your preferred vendor directly, o
 
 ### Pre-Bid Viewability {#pre-bid-viewability}
 
-Pre-bid viewability filters powered by our industry-leading partners DoubleVerify, Oracle Advertising (Moat), and Integral Ad Science allow advertisers to ensure their campaigns meet their desired viewability performance goals across video and display inventory.
+Pre-bid viewability filters powered by our industry-leading partners [!DNL DoubleVerify], [!DNL Oracle Advertising] ([!DNL Moat]), and [!DNL Integral Ad Science] allow advertisers to ensure their campaigns meet their desired viewability performance goals across video and display inventory.
 
 You can set default viewability filters for each advertiser<!-- [default pre-viewability filters for each advertiser](/help/dsp/admin/advertiser-settings.md) -->, and then optionally [customize the settings for each placement](/help/dsp/campaign-management/placements/placement-settings.md). Additional fees may apply when you use this feature.
 
@@ -108,24 +108,25 @@ You can set default viewability filters for each advertiser<!-- [default pre-vie
 
 ### Topic Targeting
 
-DSP topic targeting allows you to target or block keyword lists by leveraging our industry-leading contextual partners Comscore and Oracle Data Cloud (Grapeshot).
+DSP topic targeting allows you to target or block keyword lists by leveraging our industry-leading contextual partners [!DNL Comscore] and [!DNL Oracle Data Cloud] ([!DNL Grapeshot]).
+
 Topic targeting helps you to ensure your ads are always served in an environment that aligns with your brand, whether that includes blocking harmful content or ensuring spend in a context that ensures a greater outcome.
 
-Topic targeting requires you to create topic segments directly with Comscore or Grapeshot (using Oracle Data Cloud). Once these are created in the partner platform, you can [target or exclude a segment ID in the Audience Targeting section for each placement](/help/dsp/campaign-management/placements/placement-settings.md). Additional fees may apply for this feature.
+Topic targeting requires you to create topic segments directly with [!DNL Comscore] or [!DNL Grapeshot] (using [!DNL Oracle Data Cloud]). Once these are created in the partner platform, you can [target or exclude a segment ID in the[!UICONTROL  Audience Targeting] section for each placement](/help/dsp/campaign-management/placements/placement-settings.md). Additional fees may apply for this feature.
 
 To get started, contact your preferred vendor or your Adobe account manager.
 
 ![Comscore logo](/help/dsp/assets/comscore-logo.png) ![Grapeshot logo](/help/dsp/assets/oracle-grapeshot-logo.png)
 
-### DoubleVerify Authentic Brand Safety
+### [!DNL DoubleVerify Authentic Brand Safety]
 
-DSP has partnered with DoubleVerify to offer its Authentic Brand Safety targeting solution, which allows you to create a centralized set of brand safety requirements to target across all of your buying platforms for consistency.
+DSP has partnered with [!DNL DoubleVerify] to offer its [!DNL Authentic Brand Safety] targeting solution, which allows you to create a centralized set of brand safety requirements to target across all of your buying platforms for consistency.
 
-Once you have built a DoubleVerify brand safety segment with the necessary targeting, you can use it within DSP to replicate your post-bid block rules with pre-bid across web environments.
+Once you have built a [!DNL DoubleVerify] brand safety segment with the necessary targeting, you can use it within DSP to replicate your post-bid block rules with pre-bid across web environments.
 
-You can specify a DoubleVerify segment ID for each advertiser<!-- [specify a DoubleVerify segment ID for each advertiser](/help/dsp/admin/advertiser-settings.md) -->, and then optionally [enable or disable Authentic Brand Safety for each placement](/help/dsp/campaign-management/placements/placement-settings.md). DSP bills your account for usage for the segment ID.
+You can specify a [!DNL DoubleVerify] segment ID for each advertiser<!-- [specify a DoubleVerify segment ID for each advertiser](/help/dsp/admin/advertiser-settings.md) -->, and then optionally [enable or disable [!UICONTROL Authentic Brand Safety] for each placement](/help/dsp/campaign-management/placements/placement-settings.md). DSP bills your account for usage for the segment ID.
 
-For more information about functionality, contact DoubleVerify directly, or contact your Adobe account manager.
+For more information about functionality, contact [!DNL DoubleVerify] directly, or contact your Adobe account manager.
 
 ![DoubleVerify logo](/help/dsp/assets/doubleverify-logo.png)
 

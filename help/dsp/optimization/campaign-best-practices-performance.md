@@ -18,11 +18,11 @@ See the following best practices for performance campaigns:
 
 ## Step 1 - Define Your Goal
 
-It's important to understand whether the goal of the campaign is to achieve the highest possible ROAS or the lowest possible CPA. For each package in the campaign, you'll specify the objective goal accordingly as either *Highest ROAS - Custom Goal* or *Lowest CPA - Custom Goal*.
+It's important to understand whether the goal of the campaign is to achieve the highest possible ROAS or the lowest possible CPA. For each package in the campaign, you'll specify the objective goal accordingly as either *[!UICONTROL Highest ROAS - Custom Goal]* or *[!UICONTROL Lowest CPA - Custom Goal]*.
 
 ![optimization goal](/help/dsp/assets/optimization-goals.png)
 
-You also need to determine the success event(s) that will lead to the overall goal and create custom goals accordingly. For each package, you'll specify a custom goal to be used with the overall optimization goal for reporting and algorithmic optimization using Adobe Sensei. For more information about creating custom goals, see the [Best Practices for Building a Custom Goal](custom-goal-best-practices.md).
+You also need to determine the success event(s) that will lead to the overall goal and create custom goals accordingly. For each package, you'll specify a custom goal to be used with the overall optimization goal for reporting and algorithmic optimization using [!DNL Adobe Sensei]. For more information about creating custom goals, see the [Best Practices for Building a Custom Goal](custom-goal-best-practices.md).
 
 ![custom goals](/help/dsp/assets/objective-goals.png)
 
@@ -41,7 +41,7 @@ Upper funnel packages include placements with very broad targeting to reach net 
   * Contextual targeting.
   * Site/category targeting.
 
-* Use run of network (RON) targeting: It’s important to include a run of network placement without audience targeting and with broad inventory targeting. This allows the Adobe Sensei algorithm to find valuable users who may have newer cookies that haven't yet been categorized into an audience.
+* Use run of network (RON) targeting: It’s important to include a run of network placement without audience targeting and with broad inventory targeting. This allows the [!DNL Adobe Sensei] algorithm to find valuable users who may have newer cookies that haven't yet been categorized into an audience.
 
 ### Retargeting Strategies
 
@@ -65,27 +65,27 @@ Also, use the following settings.
 
 * **Pacing & Capping:** To select a CPA or ROAS optimization goal, the package must use package-level pacing. This ensures that all placements within the package are optimized to distribute spend based on performance and scale to the selected goals.
 
-* **Flight Dates:** (Prospecting packages) When your campaign runs for longer than 25 days, use the Activate Custom Flighting feature. First, set a custom flight for the first 10 days at approximately 75% of the necessary daily budget to reduce spending during the *learning phase*. Then set a second custom flight for the remainder of the budget.
+* **Flight Dates:** (Prospecting packages) When your campaign runs for longer than 25 days, use the [!UICONTROL Activate Custom Flighting] feature. First, set a custom flight for the first 10 days at approximately 75% of the necessary daily budget to reduce spending during the *learning phase*. Then set a second custom flight for the remainder of the budget.
 
   For example, if you have $100,000 to spend in 30 days, then set the budget for Flight 1 (Days 1-10) to $25,000 (75% x $100,000/30 days = $2,500 per day). Use the remaining budget of $75,000 for Flight 2 (Days 11–30).
   
 * **Budget:** DSP will always try to allocate 100% of the package budget evenly between all placements in a package. If a placement has low spend or no spend, we recommend budget capping the placement to allow more of the budget to allocate to placements with scale. Allow 24-48 hours for budget changes to calibrate.
 
-* **Optimization Goals:** Use one of the two performance optimization goals, *Highest ROAS* or *Lowest CPA*, depending on the package goal. These goals auto-optimize the package towards the Highest ROAS or Lowest CPA placements, respectively.
+* **Optimization Goals:** Use one of the two performance optimization goals, *[!UICONTROL Highest ROAS]* or *[!UICONTROL Lowest CPA]*, depending on the package goal. These goals auto-optimize the package towards the Highest ROAS or Lowest CPA placements, respectively.
 
 * **Custom Goals:**
   * If a new package has the same goal as an existing package, you can optionally link the existing package so that the algorithm can use the existing machine learning data.
-  * Enter the appropriate Target CPA or ROAS.
+  * Enter the appropriate [!UICONTROL Target CPA] or [!UICONTROL Target ROAS].
 
-* **Pacing Fill Strategy:** Select *Even* to maximize your performance goals by pacing uniformly throughout the entire flight date.
+* **Pacing Fill Strategy:** Select *[!UICONTROL Even]* to maximize your performance goals by pacing uniformly throughout the entire flight date.
 
-  Use *FrontLoad* and *Aggressive Front Load* pacing only when you are fully prioritizing delivery and spend over performance optimization because those strategies can negatively impact your desired performance KPIs.
+  Use *[!UICONTROL FrontLoad]* and *[!UICONTROL Aggressive Front Load]* pacing only when you are fully prioritizing delivery and spend over performance optimization because those strategies can negatively impact your desired performance KPIs.
 
 ## Step 4 - Create Placement Structure
 
 Less is more. If you can set up fewer than six placements per package, then the available budget can dynamically shift to the best performing placements most easily.
 
-Also, make sure to add each placement to a package with a package goal type of *Prospecting* or *Retargeting*, as appropriate.
+Also, make sure to add each placement to a package with a package goal type of *[!UICONTROL Prospecting]* or *[!UICONTROL Retargeting]*, as appropriate.
 
 The following are the recommended placement settings for performance campaigns.
 
@@ -107,16 +107,16 @@ See descriptions of when to use each pre-bid filter at [Placement-level Pre-Bid 
 
 ### Inventory
 
-To maximize scale, use Public (Open Exchange) and On Demand inventory.
+To maximize scale, use [!UICONTROL Public] (Open Exchange) and [!UICONTROL On Demand] inventory.
 
 ### Site Targeting
 
-* **Traffic Type**: Websites only
-* **Site Tier**: All sites
+* **[!UICONTROL Traffic Type]**: [!UICONTROL Websites] only
+* **[!UICONTROL Site Tier]**: [!UICONTROL All sites]
 
 ### Audience Targeting
 
-* **Included Audiences:**
+* **[!UICONTROL Included Audiences]:**
   * For prospecting placements, group similar audience categories and similar audience sizes into one placement. Then, based on performance, do one of the following:
     * Remove under-performing audiences from existing placements.
     * Move top-performing audiences into a separate placement to better control budgets.
@@ -128,18 +128,18 @@ To maximize scale, use Public (Open Exchange) and On Demand inventory.
 >
 > You can avoid overlapping audiences by creating your audiences in tiers so that you can suppress the higher, more inclusive tiers from placements as needed.
 
-* **Frequency Capping:**
+* **[!UICONTROL Frequency Capping]:**
   * For prospecting placements, use tight frequency caps (one impression per day).
   * For retargeting placements, set the primary placement cap to 6-10 impressions per day, and the secondary cap to one impression per hour.
 
-* **Device Targeting**:
-  * Include Computer, Mobile, and Tablet.
-  * Don't target Firefox and Safari because of targeting and measurement limitations. Contact your Adobe account manager for more details about Adobe support for Safari ITP.
-  * If you target mobile web traffic, then disable all mobile browsers except Chrome and Edge.
+* **[!UICONTROL Device Targeting]**:
+  * Include [!UICONTROL Computer], [!UICONTROL Mobile], and [!UICONTROL Tablet].
+  * Don't target [!UICONTROL Firefox] and [!UICONTROL Safari] because of targeting and measurement limitations. Contact your Adobe account manager for more details about [!DNL Adobe] support for [!DNL Safari ITP].
+  * If you target mobile web traffic, then disable all mobile browsers except [!UICONTROL Chrome] and [!UICONTROL Edge].
 
 ### Brand Safety and Media Quality
 
-Using contextual filtering, pre-bid fraud blocking, and/or Ads.txt filtering will limit the scale of your placements, but use them if needed.
+Using contextual filtering, pre-bid fraud blocking, and/or [!UICONTROL Ads.txt] filtering will limit the scale of your placements, but use them if needed.
 
 ## Step 5 - Use the Right Creative Assets
 

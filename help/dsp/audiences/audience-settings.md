@@ -33,5 +33,5 @@ exl-id: 959c1e04-cb09-42f0-a261-580ff98b86be
 >* [Available Third-party Data Providers](third-party-data-providers.md)
 >* [Syntax for Audience Segment Logic](audience-segment-logic-syntax.md)
 >* [Create and Implement a Custom Segment](custom-segment-create.md)
->* [Create and Implement a CCPA Opt-Out-of-Sale Segment](ccpa-opt-out-segment-create.md)
+>* [Create and Implement a [!UICONTROL CCPA Opt-Out-of-Sale] Segment](ccpa-opt-out-segment-create.md)
 >* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)

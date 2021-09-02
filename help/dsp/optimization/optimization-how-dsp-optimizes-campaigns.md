@@ -6,7 +6,7 @@ exl-id: 054582ef-b677-4725-b25c-b82bf3e5b43e
 ---
 # How DSP Optimizes Your Campaigns
 
-This page outlines how the Advertising Cloud DSP optimization engine, which is powered by Adobe Sensei, optimizes the packages in your campaigns. For tips and tricks on how to manually optimize your campaigns, contact your Adobe account manager. <!-- add link to trading playbook if we add it to help -->
+This page outlines how the Advertising Cloud DSP optimization engine, which is powered by [!DNL Adobe Sensei], optimizes the packages in your campaigns. For tips and tricks on how to manually optimize your campaigns, contact your Adobe account manager. <!-- add link to trading playbook if we add it to help -->
 
 Package optimization goals operate at two levels:
 
@@ -30,13 +30,13 @@ See [Optimization Goals and How to Use Them](optimization-goals.md) to determine
 
 ### Packages That Prioritize the Performance Rate
 
-For optimization goals that prioritize the performance rate, DSP predicts the performance of each auction and always bids at the Max Bid. Examples of applicable optimization goals include Highest Viewability Rate, Highest Clickthrough Rate, and so on.  
+For optimization goals that prioritize the performance rate, DSP predicts the performance of each auction and always bids at the Max Bid. Examples of applicable optimization goals include [!UICONTROL Highest Viewability Rate], [!UICONTROL Highest Clickthrough Rate], and so on.  
 
 This optimization mode works well if:
 
 * You already know the effective/acceptable CPM level (for example, a historical benchmark).
 
-* You're willing to manually adjust Max Bids if you experience challenges with scaling.  
+* You're willing to manually adjust the [!UICONTROL Max Bid] for each placement if you experience challenges with scaling.  
 
 * You're prioritizing scale over efficiency.
 
@@ -48,25 +48,23 @@ This optimization mode works well if:
 
 #### Clearing Price/Bid Shading {#clearing-price-performance}
 
-After it executes the pacing logic, DSP runs the proposed bid through a Clearing Price prediction model. If the prediction indicates that the bid can be lowered with minimal decrease to the win rate, then the bid is decremented per the prediction.
+After it executes the pacing logic, DSP runs the proposed bid through a clearing price prediction model. If the prediction indicates that the bid can be lowered with minimal decrease to the win rate, then the bid is decremented per the prediction.
 
 ### Packages That Prioritize Balancing Cost Efficiency with Performance Rate
 
-For some optimization goals, DSP predicts the performance of each auction and adjusts bid prices automatically, never exceeding the Max Bid. Examples of applicable optimization goals include Lowest CPM, Lowest CPA, Lowest Cost per View, Lowest Cost per Click, and so on.
+For some optimization goals, DSP predicts the performance of each auction and adjusts bid prices automatically, never exceeding a placement's [!UICONTROL Max Bid]. Examples of applicable optimization goals include [!UICONTROL Lowest CPM], [!UICONTROL Lowest CPA], [!UICONTROL Lowest Cost per View], [!UICONTROL Lowest Cost per Click], and so on.
 
 #### Pacing Logic {#pacing-logic-balanced}
 
-* If spending is on pace, the system will become more price sensitive - bidding lower amounts to tradeoff win rate with the pacing plan  
+* If spending is on pace, then DSP becomes more price sensitive, bidding lower amounts to trade off win rate with the pacing plan.
 
-* If a performance metric is also being balanced (all goals except Lowest CPM), the predicted KPI will be blended into the amount bid such that we bid higher for auctions predicted to be more performant on a “cost per” basis. 
+* If a performance metric is also being balanced (all goals except [!UICONTROL Lowest CPM]), then the predicted KPI is blended into the amount that is bid. You therefore bid higher for auctions that are predicted to be more performant on a “cost per” basis. 
 
-* If spending is behind pace, then DSP will become less price sensitive - bidding higher amounts, up to the set Max Bid, to tradeoff win rate with the pacing plan.  
-
-* If a performance metric is also being balanced (all goals except Lowest CPM), the predicted KPI will be blended into the amount bid such that we bid higher for auctions predicted to be more performant on a “cost per” basis.  
+* If spending is behind pace, then DSP becomes less price sensitive and bids higher amounts, up to the [!UICONTROL Max Bid], to trade off win rate with the pacing plan. 
 
 #### Clearing Price/Bid Shading {#clearing-price-balanced}
 
-After it executes the pacing logic, DSP runs the proposed bid through a Clearing Price prediction model. If the prediction indicates that the bid can be lowered with minimal decrease to the win rate, then the bid is decremented per the prediction.  
+After it executes the pacing logic, DSP runs the proposed bid through a clearing price prediction model. If the prediction indicates that the bid can be lowered with minimal decrease to the win rate, then the bid is decremented per the prediction.  
 
 ## Placement Optimization
 

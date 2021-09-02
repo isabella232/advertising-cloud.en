@@ -22,13 +22,13 @@ PG deals require a PG default placement and ads so DSP can return a request to e
 
 ## SSPs Certified for PG Deals in DSP
 
-* Ambient Digital
-* FreeWheel
-* Google Authorized Buyers
-* OpenX
-* Rubicon
-* SpotX
-* Telaria
+* [!DNL Ambient Digital]
+* [!DNL FreeWheel]
+* [!DNL Google Authorized Buyers]
+* [!DNL OpenX]
+* [!DNL Rubicon]
+* [!DNL SpotX]
+* [!DNL Telaria]
 
 >[!MORELIKETHIS]
 >

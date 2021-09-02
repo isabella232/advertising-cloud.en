@@ -11,9 +11,9 @@ exl-id:
 >
 >You can also run a custom report when you [create](report-create.md) or [edit](report-edit.md) it.
 
-1. In the main menu, click **Reports**.
-1. In the Options column for the report row, click **options > Run Now**.
-1. In the confirmation message, click **OK**.
+1. In the main menu, click **[!UICONTROL Reports]**.
+1. In the [!UICONTROL Options] column for the report row, click **[!UICONTROL options] > [!UICONTROL Run Now]**.
+1. In the confirmation message, click **[!UICONTROL OK]**.
 
     When the report is completed, it's sent to all email addresses specified in the report settings.
 

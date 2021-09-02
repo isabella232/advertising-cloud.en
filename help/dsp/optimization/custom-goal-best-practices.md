@@ -10,19 +10,19 @@ exl-id: 54b16325-4b72-48a3-a2e0-4e342229211c
 
 The following examples show how you might configure goals that target a single property (metric).
 
-### Example for a Campaign with the "Highest ROAS - Custom Goal" Optimization Goal
+### Example for a Campaign with the "[!UICONTROL Highest ROAS - Custom Goal]" Optimization Goal
 
-If your campaign goal is revenue (Highest ROAS - Custom Goal), then your custom goal (objective) will include the "Revenue" property with a weight of one (1).
+If your campaign goal is revenue ([!UICONTROL Highest ROAS - Custom Goal]), then your custom goal (objective) will include the "[!UICONTROL Revenue]" property with a weight of one (1).
 
 ![example of a ROAS custom goal with a single property](/help/dsp/assets/custom-goal-roas.png)
 
 >[!NOTE]
 >
-> A Property Weight of one equates to a value of one for each $1 of revenue that's tracked.
+> A [!UICONTROL Property Weight] of one equates to a value of one for each $1 of revenue that's tracked.
 >
-> For example, a $250 conversion with a weight of one is reported as $250. If the conversion metric is assigned a weight of 0.5, then the $250 conversion is reported as $125 in Advertising Cloud ($250 Conversion * 0.5 Property Weight = $125).
+> For example, a $250 conversion with a weight of one is reported as $250. If the conversion metric is assigned a weight of 0.5, then the $250 conversion is reported as $125 in Advertising Cloud ($250 Conversion * 0.5 [!UICONTROL Property Weight] = $125).
 
-### Example for a Campaign with the "Lowest CPA - Custom Goal" Optimization Goal
+### Example for a Campaign with the "[!UICONTROL Lowest CPA - Custom Goal]" Optimization Goal
 
 If your campaign goal is the lowest cost per acquisition (CPA) and it requires only one success event, then you'll include that one metric (in the following example, "Application Submit"). The best practice is to set the weight as one (1).
 
@@ -30,15 +30,15 @@ If your campaign goal is the lowest cost per acquisition (CPA) and it requires o
 
 >[!NOTE]
 >
-> A Property Weight of one equates to a value of one for each conversion that's tracked.
+> A [!UICONTROL Property Weight] of one equates to a value of one for each conversion that's tracked.
 >
-> For example, if 10 Application Submit conversions are tracked, then 10 Application Submit conversions are reported.  If the conversion metric is assigned a weight of 0.5, then the 10 conversions are reported as five (5) in Advertising Cloud (10 Conversions * 0.5 Property Weight = 5).
+> For example, if 10 Application Submit conversions are tracked, then 10 Application Submit conversions are reported.  If the conversion metric is assigned a weight of 0.5, then the 10 conversions are reported as five (5) in Advertising Cloud (10 Conversions * 0.5 [!UICONTROL Property Weight] = 5).
 
 ## Custom Goals with Multiple Properties
 
 There are two scenarios in which you would use multiple properties in a custom goal:
 
-* Your campaign goal has multiple success events. For example, maybe you’re advertising for more than one onsite action, and all are being attributed to your CPA goal. The following example objective includes three separate properties (PDF Download, Contact Us, and Email Sign up), each with a weight of one (1), which tells the Adobe Sensei algorithm that each of the properties has equal importance. If you include properties with varying costs or importance, then you can adjust their relative weights accordingly.
+* Your campaign goal has multiple success events. For example, maybe you’re advertising for more than one onsite action, and all are being attributed to your CPA goal. The following example objective includes three separate properties (PDF Download, Contact Us, and Email Sign up), each with a weight of one (1), which tells the [!DNL Adobe Sensei] algorithm that each of the properties has equal importance. If you include properties with varying costs or importance, then you can adjust their relative weights accordingly.
 
    ![example of a custom goal with multiple properties](/help/dsp/assets/custom-goal-multiple-properties.png)
 

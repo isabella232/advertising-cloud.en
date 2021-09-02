@@ -17,17 +17,17 @@ Duplicate one or more placements to create placements with similar settings. You
 
 See "[What's Not Duplicated](#placement-not-duplicated)" for a list of placement settings that aren't duplicated.
 
-1. In the main menu, click **Campaigns**.
+1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. Click the name of the campaign.
-1. In the submenu, click **Placements**.
+1. In the submenu, click **[!UICONTROL Placements]**.
 1. Do either of the following:
-    * To duplicate one placement, click  **... > Duplicate** next to the package name.
+    * To duplicate one placement, click  **[!UICONTROL ...] > [!UICONTROL Duplicate]** next to the package name.
     * To duplicate multiple placements:
         1. Select the check box next to each placement to duplicate.
-        1. In the bulk actions toolbar, click **Duplicate**.
+        1. In the bulk actions toolbar, click **[!UICONTROL Duplicate]**.
 1. Specify the new placement settings:
     1. (Single placements) Enter the new placement name.
-    1. In the **Choose Package (Required)** menu, select either the parent package or **No package*.
+    1. In the **[!UICONTROL Choose Package (Required)]** menu, select either the parent package or **[!UICONTROL No package]*.
     1. (Optional) Change the default settings.
     
     The settings apply to all selected placements.
@@ -36,7 +36,7 @@ See "[What's Not Duplicated](#placement-not-duplicated)" for a list of placement
 
     When you create multiple placements, the new placement names are appended with a number, in sequence, using the convention <*original_placement_name #N*>, such as "My Placement #2."
 
-1. Click **Submit**.
+1. Click **[!UICONTROL Submit]**.
 
 ## What's Not Duplicated {#placement-not-duplicated}
 
@@ -45,12 +45,12 @@ All settings from the original placements are duplicated except:
 * Experiment settings
 * (If you change the flight dates) Custom ad scheduling
 * (If you don't attach ads) Custom ad weighting and scheduling
-* Programmatic guaranteed (PG) default placements and Simple Ad Serving placements
+* Default placements for programmatic guaranteed (PG) deals and placements for [!UICONTROL Simple Ad Serving] deals
 * (If you copy placements to a different campaign):
     * Geo targets
     * Event pixels
     * Ads
-    * Placement-level DoubleVerify Authentic Brand Safety segments (which override the advertiser-level segments)
+    * Placement-level [!DNL DoubleVerify Authentic Brand Safety] segments (which override the advertiser-level segments)
     
 >[!MORELIKETHIS]
 >

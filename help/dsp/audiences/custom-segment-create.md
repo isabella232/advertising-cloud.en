@@ -14,29 +14,29 @@ You can collect your own first-party audience data by creating and implementing 
 
 1. Create the segment:
 
-    1. In the main menu, click **Audiences > Segments**.
+    1. In the main menu, click **[!UICONTROL Audiences] > [!UICONTROL Segments]**.
 
-    1. Above the data table, click **Create**.
+    1. Above the data table, click **[!UICONTROL Create]**.
 
-    1. Enter a unique **Segment Name**.
+    1. Enter a unique **[!UICONTROL Segment Name]**.
 
-    1. For the **Segment Type**, select **Custom**.
+    1. For the [!UICONTROL Segment Type], select **[!UICONTROL Custom]**.
 
     1. Enter the Segment Window, which is the number of days a user's cookie stays in the segment.
 
        The default window is 45 days. Enter a value from one (1) to 365.
 
-    1. Click **Save**.
+    1. Click **[!UICONTROL Save]**.
 
 1. Copy and implement tags to track the segment, as needed:
 
-    1. Return to **Audiences > Segments**.
+    1. Return to **[!UICONTROL Audiences] > [!UICONTROL Segments]**.
 
-    2. Hold the cursor over the segment row and click **Get pixel**.
+    2. Hold the cursor over the segment row and click **[!UICONTROL Get pixel]**.
 
         * To track desktop and mobile visitors to a webpage:
 
-            1. Copy the page view tracking tag, which is labeled "Desktop or mobile websites."
+            1. Copy the page view tracking tag, which is labeled "[!UICONTROL Desktop or mobile websites]."
 
             1. Provide the tag to the advertiser or website contact for deployment.
 
@@ -44,9 +44,9 @@ You can collect your own first-party audience data by creating and implementing 
 
         * To track users exposed to an ad unit on desktop, mobile, or CTV devices:
 
-            1. Copy the impression tracking tag, which is labeled "Desktop or mobile ads."
+            1. Copy the impression tracking tag, which is labeled "[!UICONTROL Desktop or mobile ads]."
 
-            1. Add the tag to the Pixel tab for any ad. <!-- I'll add cross-reference to ad settings later. -->
+            1. Add the tag to the [!UICONTROL Pixel] tab for any ad. <!-- I'll add cross-reference to ad settings later. -->
 
 Once a tracking tag is implemented, you can use the segment in the audience targets or exclusions for any placement.
 
@@ -57,7 +57,7 @@ Once a tracking tag is implemented, you can use the segment in the audience targ
 >[!MORELIKETHIS]
 >
 >* [About Audience Management](audience-about.md)
->* [Create and Implement a CCPA Opt-Out-of-Sale Segment](ccpa-opt-out-segment-create.md)
+>* [Create and Implement a [!UICONTROL CCPA Opt-Out-of-Sale] Segment](ccpa-opt-out-segment-create.md)
 >* [Create a Reusable Audience](reusable-audience-create.md)
 >* [Audience Settings](audience-settings.md)
 >* [Available Third-party Data Providers](third-party-data-providers.md)

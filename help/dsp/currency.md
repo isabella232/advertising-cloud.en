@@ -38,8 +38,8 @@ Advertising Cloud supports the following currencies.
 
 >[!NOTE]
 >
-> DSP provides billing in only the following currencies: CAD, DKK, EUR, GBP, HKD, JPY, NZD, SGD, and USD.
+> [!DNL DSP] provides billing in only the following currencies: CAD, DKK, EUR, GBP, HKD, JPY, NZD, SGD, and USD.
 
 ## Search
 
-All currencies supported by supported search engines. This is the same as [those supported by Google Ads](https://developers.google.com/adwords/api/docs/appendix/codes-formats#currency-codes).
+All currencies supported by supported search engines. This is the same as [those supported by [!DNL Google Ads]](https://developers.google.com/adwords/api/docs/appendix/codes-formats#currency-codes).

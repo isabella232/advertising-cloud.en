@@ -56,11 +56,11 @@ A teaser is an eye-catching image that entices the viewer to play an ad. Teasers
 
 When you create an ad, Advertising Cloud DSP reviews it for sensitive categories, click URL functionality, and preview rendering.
 
-Initially, you'll see a red dot in the Status column. The review process normally takes 24-48 hours. A broken ad, however, may have a pending status for longer than 48 hours so you have time to fix errors before the ad is rejected. Rejected ads include a reason for the rejection.
+Initially, you'll see a red dot in the [!UICONTROL Status] column. The review process normally takes 24-48 hours. A broken ad, however, may have a pending status for longer than 48 hours so you have time to fix errors before the ad is rejected. Rejected ads include a reason for the rejection.
 
 When DSP approves an ad, you'll see a green dot in the Status column.
 
-![approval indicator in Status column](/help/dsp/assets/ad-approval-status.png)
+![approval indicator in [!UICONTROL Status] column](/help/dsp/assets/ad-approval-status.png)
 
 >[!NOTE]
 >

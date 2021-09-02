@@ -12,19 +12,19 @@ You can unarchive a campaign to restore its previous status at any time.
 
 ## Archive a Campaign
 
-1. In the main menu, click **Campaigns**.
-1. Next to the campaign name, click  **... > Archive**.
-1. In the confirmation message, click **Archive**.
+1. In the main menu, click **[!UICONTROL Campaigns]**.
+1. Next to the campaign name, click  **... > [!UICONTROL Archive]**.
+1. In the confirmation message, click **[!UICONTROL Archive]**.
 
 >[!NOTE]
 >
->To view archived campaign, filter the Campaigns view: click ![Filter button](/help/dsp/assets/filter.png), click **Campaign status** and select **Archived**, and then click **Apply.**
+>To view archived campaign, filter the [!UICONTROL Campaigns] view: click ![Filter button](/help/dsp/assets/filter.png), click **[!UICONTROL Campaign status]** and select **[!UICONTROL Archived]**, and then click **[!UICONTROL Apply].**
 
 ## Unarchive a Campaign
 
-1. In the main menu, click **Campaigns**.
-1. Next to the campaign name, click  **... > Unarchive**.
-1. In the confirmation message, click **Unarchive**.
+1. In the main menu, click **[!UICONTROL Campaigns]**.
+1. Next to the campaign name, click  **... > [!UICONTROL Unarchive]**.
+1. In the confirmation message, click **[!UICONTROL Unarchive]**.
 
 >[!MORELIKETHIS]
 >

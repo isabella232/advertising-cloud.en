@@ -10,14 +10,14 @@ Within placement settings, use keyboard shortcuts to quickly navigate<!-- and to
 
 | Applicable Page(s) | Shortcut | Description |
 | ---------------| ----------- | ---------------------- |
-| Placement settings | o | Moves you to the Goals settings |
-| Placement settings | g | Moves you to the Geos settings |
-| Placement settings | i | Moves you to the Inventory settings |
-| Placement settings | s | Moves you to the Sites settings |
-| Placement settings | a | Moves you to the Audience settings |
-| Placement settings | b | Moves you to the Brand Safety settings |
-| Placement settings | t | Moves you to the Tracking settings |
-| Placement settings | l | Moves you to the Adobe Labs settings |
+| Placement settings | o | Moves you to the [!UICONTROL Goals] settings |
+| Placement settings | g | Moves you to the [!UICONTROL Geos] settings |
+| Placement settings | i | Moves you to the [!UICONTROL Inventory] settings |
+| Placement settings | s | Moves you to the [!UICONTROL Sites] settings |
+| Placement settings | a | Moves you to the [!UICONTROL Audience] settings |
+| Placement settings | b | Moves you to the [!UICONTROL Brand Safety] settings |
+| Placement settings | t | Moves you to the [!UICONTROL Tracking] settings |
+| Placement settings | l | Moves you to the [!UICONTROL Adobe Labs] settings |
 
 <!-- | Legacy placement settings | npv | Lets you create a new video placement | -->
 <!-- | Legacy placement settings | npd | Lets you create a new display placement | -->

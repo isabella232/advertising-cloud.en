@@ -10,10 +10,10 @@ Some publishers have stricter ad specifications than Advertising Cloud's [genera
 
 The following links take you to the ad specifications for some of the publishers with stricter requirements.
 
-* Channel 10 (Viacom; AU only): https://www.10viacomcbs.com.au/wp-content/uploads/2020/10/Network-10-Digita-Ad-Specs.pdf
-* CBS Interactive Advanced Media: https://cbsinteractive.com/advertising/ad-specs/list/cbs-interactive-advanced-media
-* Hulu: https://advertising.hulu.com/ad-products/video-commercial
-* NBCUniversal: https://together.nbcuni.com/nbcu-creative-guidelines
+* [!DNL Channel 10] ([!DNL Viacom]; AU only): https://www.10viacomcbs.com.au/wp-content/uploads/2020/10/Network-10-Digita-Ad-Specs.pdf
+* [!DNL CBS Interactive Advanced Media]: https://cbsinteractive.com/advertising/ad-specs/list/cbs-interactive-advanced-media
+* [!DNL Hulu]: https://advertising.hulu.com/ad-products/video-commercial
+* [!DNL NBCUniversal]: https://together.nbcuni.com/nbcu-creative-guidelines
 
 >[!MORELIKETHIS]
 >

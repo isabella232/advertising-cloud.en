@@ -19,23 +19,21 @@ You can generate reports once, or schedule them to be generated daily, weekly, o
 
 ## Available Report Types
 
-* Custom
+* **[!UICONTROL Custom]:** This report is a blank template you can use to create your own custom report using most dimensions and metrics. [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], and [!UICONTROL Site] reports are variations of this template with pre-selected columns and dimensions for their respective use cases.
 
 * Pre-configured Report Templates
-
-    * **Custom:** This report is a blank template you can use to create your own custom report using most dimensions and metrics. Conversion, Device, Geo, and Site reports are variations of this template with pre-selected columns and dimensions for their respective use cases.
-    
-    * **Billing:** Use this report to understand key billing metrics like spend metrics for media billing by campaign.
+ 
+    * **[!UICONTROL Billing]:** Use this report to understand key billing metrics like spend metrics for media billing by campaign.
     
        >[!NOTE]
        >
        >This report includes data about the billing segment. If a user or device is served an impression that belongs to multiple segments, only one billable segment is credited with the impression.
 
-    * **Conversion:** Use this report to understand how your campaigns are performing based on conversion metrics captured using Advertising Cloud conversion tracking. This report includes multi-touch attribution.
+    * **[!UICONTROL Conversion]:** Use this report to understand how your campaigns are performing based on conversion metrics captured using Advertising Cloud conversion tracking. This report includes multi-touch attribution.
 
-    * **Device:** Use this pre-populated template to see key metrics by device-related dimensions.
+    * **[!UICONTROL Device]:** Use this pre-populated template to see key metrics by device-related dimensions.
 
-    * **Frequency (by Impression):** Use this report to understand the distribution of impressions shown to unique viewers (for example, how many unique viewers saw one impression, two impressions, three impressions, and so on. Data is available by placement or campaign.
+    * **[!UICONTROL Frequency (by Impression)]:** Use this report to understand the distribution of impressions shown to unique viewers (for example, how many unique viewers saw one impression, two impressions, three impressions, and so on. Data is available by placement or campaign.
            
        >[!NOTE]
        >
@@ -43,33 +41,33 @@ You can generate reports once, or schedule them to be generated daily, weekly, o
        >* Frequency is estimated based on a sampling of data.
        >* For some inventory, publishers don't pass along a device identifier, which prevents frequency tracking. This report includes only impressions for which a device identifier was available.
       
-    * **Frequency (by App/Site):** Use this report to understand how many unique users were reached by app or by site. You can also see how many unique users were reached via only a particular app or site ("distinct unique users").
+    * **[!UICONTROL Frequency (by App/Site)]:** Use this report to understand how many unique users were reached by app or by site. You can also see how many unique users were reached via only a particular app or site ("distinct unique users").
 
        >[!NOTE]
        >
        >* Data is available after November 15, 2018.
        >* For some private inventory, publishers don't pass along a device identifier, which prevents frequency tracking.
 
-    * **Geo**: Use this pre-populated template to see key metrics by geographic dimensions.
+    * **[!UICONTROL Geo]**: Use this pre-populated template to see key metrics by geographic dimensions.
 
-    * **Margin:** Use this report to see key metrics like margin, profit, and other spend metrics by campaign or placement.
+    * **[!UICONTROL Margin]:** Use this report to see key metrics like margin, profit, and other spend metrics by campaign or placement.
 
-    * **Segment:** Use this pre-populated template to see key metrics by segment.
+    * **[!UICONTROL Segment]:** Use this pre-populated template to see key metrics by segment.
 
        >[!NOTE]
        >
        >* This report is intended to show how different targeted segments perform. It uses segment membership data. When an impression is served to a person or device belonging to two or more targeted segments, this report includes one row for each segment. For this reason, totals in this report may not match actual delivery.
        >* Conversion metrics and custom goal data for segments is available after August 2, 2019. All other data for segments is available beginning after June 1, 2018.
      
-    * **Site:** By default, includes standard metrics, total media net spend, and total billable net spend by site.
+    * **[!UICONTROL Site]:** By default, includes standard metrics, total media net spend, and total billable net spend by site.
 
 ## Cross-Account Reporting {#cross-account-reporting}
 
 Any organization with multiple DSP accounts can optionally enable cross-account data in custom reports, according to the organization's needs. For example, you can give Account A access to Account B's data, and give Account B access to Account C's (but not Account A's) data. To enable and configure this feature, contact your Account account manager.
 
-Once the feature is enabled for your organization, you can [filter](report-settings.md) any of the following report types by account:  Custom, Site, Segment, Geo, Device, Frequency by Impression, and Conversion.
+Once the feature is enabled for your organization, you can [filter](report-settings.md) any of the following report types by account:  [!UICONTROL Custom], [!UICONTROL Site], [!UICONTROL Segment], [!UICONTROL Geo], [!UICONTROL Device], [!UICONTROL Frequency (by Impression)], and [!UICONTROL Conversion].
 
-Your account settings at Settings > Account indicate a) the other accounts whose data is available to your account and b) the other accounts that can access your account's data.
+Your account settings at [!UICONTROL Settings] > [!UICONTROL Account] indicate a) the other accounts whose data is available to your account and b) the other accounts that can access your account's data.
 
 >[!MORELIKETHIS]
 >

@@ -10,9 +10,9 @@ Use packages to group placements for delivery to a set budget, performance goal,
 
 You can create packages manually or by duplicating existing packages. You can also edit and attach placements to any package.
 
-## The Packages Dashboard
+## The [!UICONTROL Packages] Dashboard
 
-The Packages dashboard centralizes performance and economic reporting across all of your package strategies, providing quick snapshots of how your packages have performed during a specified date range.
+The [!UICONTROL Packages] dashboard centralizes performance and economic reporting across all of your package strategies, providing quick snapshots of how your packages have performed during a specified date range.
 
 ![Packages dashboard](/help/dsp/assets/package-dashboard.png)
 

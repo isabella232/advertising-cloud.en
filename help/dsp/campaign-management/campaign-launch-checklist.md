@@ -8,7 +8,7 @@ exl-id: bf0147d0-0b58-435d-a2de-5b98e0d3488c
 
 ## Account Funding
 
-Make sure your account has enough credit to run the entire campaign. You can check and refill account funds in Settings > Account or by contacting your Adobe account manager.
+Make sure your account has enough credit to run the entire campaign. You can check and refill account funds in [!UICONTROL Settings] > [!UICONTROL Account] or by contacting your Adobe account manager.
 
 ## Campaign Status
   
@@ -16,7 +16,7 @@ Confirm that the campaign dates and budget are accurately set.
 
 ## Placement Status
 
-Make sure the placement status is "Active" or "Scheduled." Also, verify that the other placement parameters (such as the site list, budget, goal, flight dates, and frequency) are correct.
+Make sure the placement status is "[!UICONTROL Active]" or "[!UICONTROL Scheduled]." Also, verify that the other placement parameters (such as the site list, budget, goal, flight dates, and frequency) are correct.
 
 ## Ad Status
 

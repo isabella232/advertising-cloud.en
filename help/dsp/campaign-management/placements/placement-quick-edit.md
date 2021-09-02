@@ -14,12 +14,12 @@ You can edit the placement name, status, maximum bid, and budget without opening
 >
 > To edit any placement setting, see "[Edit a Placement](/help/dsp/campaign-management/placements/placement-edit.md)."
 
-1. In the main menu, click **Campaigns**.
+1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. Click the name of the campaign.
-1. In the submenu, click **Placements**.
-1. Next to the placement name, click  **... > Quick Edit**.
-1. Edit any of the available [placement settings](placement-settings.md):  **Placement Name**, **Status**, **Max Bid**, and **Budget**.
-1. Click **Apply**.
+1. In the submenu, click **[!UICONTROL Placements]**.
+1. Next to the placement name, click  **[!UICONTROL ...] > [!UICONTROL Quick Edit]**.
+1. Edit any of the available [placement settings](placement-settings.md):  **[!UICONTROL Placement Name]**, **[!UICONTROL Status]**, **[!UICONTROL Max Bid]**, and **[!UICONTROL Budget]**.
+1. Click **[!UICONTROL Apply]**.
 
 >[!MORELIKETHIS]
 >

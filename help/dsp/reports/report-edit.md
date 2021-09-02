@@ -7,12 +7,12 @@ exl-id:
 
 # Edit a Custom Report
 
-1. In the main menu, click **Reports**.
+1. In the main menu, click **[!UICONTROL Reports]**.
 1. Do either of the following:
    * Click the report name.
-   * In the Options column for the report row, click **options > Edit**.
+   * In the [!UICONTROL Options] column for the report row, click **[!UICONTROL options] > [!UICONTROL Edit]**.
 1. Edit the [report settings](/help/dsp/reports/report-settings.md).
-1. Click **Edit Custom Report**.
+1. Click **[!UICONTROL Edit Custom Report]**.
 
 >[!MORELIKETHIS]
 >

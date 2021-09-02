@@ -34,7 +34,7 @@ exl-id: 9034ab2c-b8b0-4759-bc87-5f73857bb062
 
 * How does package pacing change on the last day of a flight?
 
-    On the last day of a flight, the day is shortened from 24 hours to 23 hours so that the package budget isn't exceeded. Also, the package's pacing fill strategy automatically changes to "Frontload," even if it's set to "even." This means 65% of the daily budget should deliver by 11:30 a.m. EST.
+    On the last day of a flight, the day is shortened from 24 hours to 23 hours so that the package budget isn't exceeded. Also, the package's pacing fill strategy automatically changes to "[!UICONTROL Frontload]," even if it's set to "[!UICONTROL even]." This means 65% of the daily budget should deliver by 11:30 a.m. EST.
 
 >[!MORELIKETHIS]
 >

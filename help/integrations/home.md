@@ -12,8 +12,8 @@ The following features are new or recently changed.
 
 | Date | Feature | Description | For More Information |
 | ---- | ------- | ----------- | -------------------- |
-| 26 May 2021 | Help | The chapter "Analytics for Advertising Cloud" now includes a subchapter on "Working in Adobe Analytics Marketing Channels." | See: "[Fundamentals of Marketing Channels](/help/integrations/analytics/marketing-channels/mc-overview.md)," "[Using Advertising Cloud IDs to Create Marketing Channel Processing Rules](/help/integrations/analytics/marketing-channels/mc-ids.md)," "[Using Marketing Channels with Advertising Cloud Data](/help/integrations/analytics/marketing-channels/mc-ac-data.md)," and "[Why Channel Data Can Vary Between Advertising Cloud and Marketing Channels](/help/integrations/analytics/marketing-channels/mc-data-variances.md)." |
-| 26 May 2021 | Help | A link to all video tutorials about Analytics for Advertising Cloud was added. | [Video tutorials about Advertising Cloud integrations](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/overview.html) |
+| 26 May 2021 | Help | The chapter "[!DNL Analytics for Advertising Cloud]" now includes a subchapter on "Working in [!DNL Analytics Marketing Channels]." | See: "[Fundamentals of Marketing Channels](/help/integrations/analytics/marketing-channels/mc-overview.md)," "[Using Advertising Cloud IDs to Create [!DNL Analytics Marketing Channels] Processing Rules](/help/integrations/analytics/marketing-channels/mc-ids.md)," "[Using [!DNL Analytics Marketing Channels] with Advertising Cloud Data](/help/integrations/analytics/marketing-channels/mc-ac-data.md)," and "[Why Channel Data Can Vary Between Advertising Cloud and [!DNL Analytics Marketing Channels]](/help/integrations/analytics/marketing-channels/mc-data-variances.md)." |
+| 26 May 2021 | Help | A link to all video tutorials about [!DNL Analytics for Advertising Cloud] was added. | [Video tutorials about Advertising Cloud integrations](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/overview.html) |
 
 <!-- At some point, just make this an overview page instead?
 

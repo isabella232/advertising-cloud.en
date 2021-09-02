@@ -6,85 +6,85 @@ exl-id: 4daae9e4-27eb-4496-9186-f33aebd8daae
 ---
 # Connected TV Ad Settings
 
-## Upload or Select Creative
+## [!UICONTROL Upload or Select Creative]
 
 *New ads only*
 
-**Upload Audio:** To upload a raw asset to DSP. When you select this, do the following:
+**[!UICONTROL Upload Audio]:** To upload a raw asset to DSP. When you select this, do the following:
 
-1. Click **Choose File** and locate the file on your device or network.
-1. Enter a title for the file, which will be used in the Ads view and reports.
-1. Click **Upload**.
+1. Click **[!UICONTROL Choose File]** and locate the file on your device or network.
+1. Enter a title for the file, which will be used in the [!UICONTROL Ads] view and reports.
+1. Click **[!UICONTROL Upload]**.
 
-**Use Existing Audio:** To select any previously-uploaded creative in the correct format within the account.
+**[!UICONTROL Use Existing Audio]:** To select any previously-uploaded creative in the correct format within the account.
 
-**Advanced: VAST Tag URL:** (Some ad types) To enter a third-party VAST tag that contains creative assets and tracking pixels:
+**[!UICONTROL Advanced: VAST Tag URL]:** (Some ad types) To enter a third-party VAST tag that contains creative assets and tracking pixels:
 
-1. Click ![arrow](/help/dsp/assets/compressed.png) next to **Advanced: VAST Tag URL**.
-1. In the **URL** field, enter the VAST tag URL.
-1. Enter a **Title** for the file, which will be used in the Ads view and reports.
-
->[!TIP]
->
-> To check the validity of a VAST tag, paste it into a browser and hit the **Enter** key. If the tag is valid, you will see an XML file that includes `<VAST>` near the top.
-
-## Ad Options
-
-### Basic
-
-**Ad Type:** (Read-only) The ad type you're creating, which corresponds to the placement type to which the ad can be attached.
-
-**Ad Name:** The ad name. The asset title is used by default, but you can change the name.
+1. Click ![arrow](/help/dsp/assets/compressed.png) next to **[!UICONTROL Advanced: VAST Tag URL]**.
+1. In the **[!UICONTROL URL]** field, enter the VAST tag URL.
+1. Enter a **[!UICONTROL Title]** for the file, which will be used in the Ads view and reports.
 
 >[!TIP]
 >
-> Use a name that will be easy to find when you attach the ad to a placement, in the Ads view, and in reports. For example, describe the unit type and some key attributes (such as Holiday Product Preview: 30sec CTV”).
+> To check the validity of a VAST tag, paste it into a browser and hit the **[!UICONTROL Enter]** key. If the tag is valid, you will see an XML file that includes `<VAST>` near the top.
 
-**Width | Ad Unit Width:** The width of the entire ad unit. This option may be locked depending on the type of ad unit you selected.
+## [!UICONTROL Ad Options]
 
-**Height | Ad Unit Height:** The height of the entire ad unit. This option may be locked depending on the type of ad unit you selected.
+### [!UICONTROL Basic]
 
-**Player X:** The X coordinate for the ad unit. Keep the default setting.
+**[!UICONTROL Ad Type]:** (Read-only) The ad type you're creating, which corresponds to the placement type to which the ad can be attached.
 
-**Player Y:** The Y coordinate for the ad unit. Keep the default setting.
+**[!UICONTROL Ad Name]:** The ad name. The asset title is used by default, but you can change the name.
 
-**Player Width:** The width of the entire ad unit. This option may be locked depending on the type of ad unit you selected.
+>[!TIP]
+>
+> Use a name that will be easy to find when you attach the ad to a placement, in the [!UICONTROL Ads] view, and in reports. For example, describe the unit type and some key attributes (such as Holiday Product Preview: 30sec CTV”).
 
-This is the same as the **Width** field.
+**[!UICONTROL Width | Ad Unit Width]:** The width of the entire ad unit. This option may be locked depending on the type of ad unit you selected.
 
-**Player Height:** The height of the entire ad unit. This option may be locked depending on the type of ad unit you selected.
+**[!UICONTROL Height | Ad Unit Height]:** The height of the entire ad unit. This option may be locked depending on the type of ad unit you selected.
 
-This is the same as the **Height** field.
+**[!UICONTROL Player X]:** The X coordinate for the ad unit. Keep the default setting.
 
-**Show Controls:** Where to include video controls for the ad: *Under*, *Over*, *Bottom*, or *None* (the default).
+**[!UICONTROL Player Y]:** The Y coordinate for the ad unit. Keep the default setting.
 
-**Preserve Aspect Ratio:** Whether to to keep the video's width and height proportions (*Yes*) or to stretch the video to fill available space (*No*).
+**[!UICONTROL Player Width]:** The width of the entire ad unit. This option may be locked depending on the type of ad unit you selected.
 
-**Click URL:** (Adobe-served ads only) The URL on which the viewer will land when they click the ad.
+This is the same as the **[!UICONTROL Width]** field.
 
-**Final Click URL:** (Adobe-served ads only; read-only) The Click URL with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
+**[!UICONTROL Player Height]:** The height of the entire ad unit. This option may be locked depending on the type of ad unit you selected.
 
-**VAST Tag:** (Ads using VAST tags only; read-only) The third-party VAST tag you entered as the ad source.
+This is the same as the **[!UICONTROL Height]** field.
 
-**Final VAST Tag:** (Ads using VAST tags only; read-only) The third-party VAST tag you entered as the ad source with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
+**[!UICONTROL Show Controls]:** Where to include video controls for the ad: *[!UICONTROL Under]*, *[!UICONTROL Over]*, *[!UICONTROL Bottom]*, or *[!UICONTROL None]* (the default).
 
-**Clock Number**: (Used only in the United Kingdom; available only to users with permission) A unique identifier used to ensure that the right ad is broadcast. If this setting isn't applicable, leave it blank.
+**[!UICONTROL Preserve Aspect Ratio]:** Whether to to keep the video's width and height proportions (*[!UICONTROL Yes]*) or to stretch the video to fill available space (*[!UICONTROL No]*).
 
-### Pixel
+**[!UICONTROL Click URL]:** (Adobe-served ads only) The URL on which the viewer will land when they click the ad.
+
+**[!UICONTROL Final Click URL]:** (Adobe-served ads only; read-only) The [!UICONTROL Click URL] with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
+
+**[!UICONTROL VAST Tag]:** (Ads using VAST tags only; read-only) The third-party VAST tag you entered as the ad source.
+
+**[!UICONTROL Final VAST Tag]:** (Ads using VAST tags only; read-only) The third-party VAST tag you entered as the ad source with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
+
+**[!UICONTROL Clock Number]**: (Used only in the United Kingdom; available only to users with permission) A unique identifier used to ensure that the right ad is broadcast. If this setting isn't applicable, leave it blank.
+
+### [!UICONTROL Pixel]
 
 All existing event tracking pixels for the placement are automatically attached. You can detach existing pixels and create new pixels as needed, based on your tracking needs.
 
 The following settings apply to each pixel that you create or edit.
 
-**Integration Event:** The event that triggers the pixel to fire. For this ad type, use pixels that fires on the *Impression* or *Click-through*.
+**[!UICONTROL Integration Event]:** The event that triggers the pixel to fire. For this ad type, use pixels that fires on the *[!UICONTROL Impression]* or *[!UICONTROL Click-through]*.
 
-**Pixel Type:** Whether the pixel is an *IMG URL* (1x1 pixel image file), *HTML*, or *JavaScript URL*.
+**[!UICONTROL Pixel Type]:** Whether the pixel is an *[!UICONTROL IMG URL]* (1x1 pixel image file), *[!UICONTROL HTML]*, or *[!UICONTROL JavaScript URL]*.
 
-**Pixel URL or Code:** The URL of the pixel image, in the appropriate format for the specified Pixel Type.
+**[!UICONTROL Pixel URL or Code]:** The URL of the pixel image, in the appropriate format for the specified Pixel Type.
 
-**Pixel Name:** The pixel name. Use a name that will help you easily identify the pixel.
+**[!UICONTROL Pixel Name]:** The pixel name. Use a name that will help you easily identify the pixel.
 
-**Pixel Provider:** The pixel provider: *None*, *Nielsen*, or *Comscore*.
+**[!UICONTROL Pixel Provider]:** The pixel provider: *[!UICONTROL None]*, *[!UICONTROL Nielsen]*, or *[!UICONTROL Comscore]*.
 
 >[!MORELIKETHIS]
 >

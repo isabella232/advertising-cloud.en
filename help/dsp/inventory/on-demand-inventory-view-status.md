@@ -1,21 +1,21 @@
 ---
-title: View the Status of Your On Demand Deal Requests and Subscriptions
-description: Learn how to see the status of your On Demand deal requests and subscriptions.
+title: View the Status of Your [!DNL On Demand] Deal Requests and Subscriptions
+description: Learn how to see the status of your [!DNL On Demand] deal requests and subscriptions.
 feature: On Demand Inventory
 exl-id: 8dd6d922-c4a3-4ddb-bca9-f6f782da1320
 ---
-# View the Status of Your On Demand Deal Requests and Subscriptions
+# View the Status of Your [!DNL On Demand] Deal Requests and Subscriptions
 
 After you request an individual deal or subscribe to all of a publisher's deals, see if the publisher has approved or rejected each deal for each advertiser in your account.
 
-1. In the main menu, click **Inventory > On Demand**.
-1. Filter the available deals to include deals you've requested or subscribed to (**Currently subscribed to**)**.
+1. In the main menu, click **[!UICONTROL Inventory] > [!UICONTROL On Demand]**.
+1. Filter the available deals to include deals you've requested or subscribed to (**[!UICONTROL Currently subscribed to]**)**.
 1. Do either of the following:
-   * To view the deals in the Deal view, click **Deal view**.
-   * To view the deals in the Subscription view:
-      1. Click **Subscription view**.
-      1. Hold the cursor over the publisher logo, and then click **See Deals**.
-1. Locate the Status column to see the approval status.
+   * To view the deals in the [!UICONTROL Deal] view, click **[!UICONTROL Deal view]**.
+   * To view the deals in the [!UICONTROL Subscription] view:
+      1. Click **[!UICONTROL Subscription view]**.
+      1. Hold the cursor over the publisher logo, and then click **[!UICONTROL See Deals]**.
+1. Locate the [!UICONTROL Status] column to see the approval status.
 
 ## Deal Status
 
@@ -35,9 +35,9 @@ If you have any questions about the approval process, contact your Adobe account
 
 >[!MORELIKETHIS]
 >
->* [Subscribe and Request Access to On Demand Premium Inventory Deals](on-demand-inventory-subscribe.md)
+>* [Subscribe and Request Access to [!DNL On Demand] Premium Inventory Deals](on-demand-inventory-subscribe.md)
 >* [Re-Request On Demand Premium Inventory Deals](on-demand-inventory-rerequest.md)
->* [On Demand Premium Inventory Publishers in Asia Pacific](on-demand-inventory-publishers-apac.md)
->* [On Demand Premium Inventory Publishers in Australia and New Zealand](on-demand-inventory-publishers-anz.md)
->* [On Demand Premium Inventory Publishers in Europe, the Middle East, and Africa](on-demand-inventory-publishers-emea.md)
->* [On Demand Premium Inventory Publishers in North America](on-demand-inventory-publishers-na.md)
+>* [[!DNL On Demand] Premium Inventory Publishers in Asia Pacific](on-demand-inventory-publishers-apac.md)
+>* [[!DNL On Demand] Premium Inventory Publishers in Australia and New Zealand](on-demand-inventory-publishers-anz.md)
+>* [[!DNL On Demand] Premium Inventory Publishers in Europe, the Middle East, and Africa](on-demand-inventory-publishers-emea.md)
+>* [[!DNL On Demand] Premium Inventory Publishers in North America](on-demand-inventory-publishers-na.md)
