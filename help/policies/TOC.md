@@ -14,4 +14,4 @@ index: yes
 
 + [Ads Requirements Policy](/help/policies/ad-requirements-policy.md)
 + [Acceptable Health Segment Guidelines](/help/policies/health-segment-guidelines.md)
-+ [DSP Data Usage Guidelines](/help/policies/data-usage-guidelines.md)
++ [[!DNL DSP] Data Usage Guidelines](/help/policies/data-usage-guidelines.md)
