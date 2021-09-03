@@ -28,8 +28,8 @@ index: yes
   + Policies and Guidelines {#policies}
     + [Ads Requirements Policy](https://experienceleague.adobe.com/docs/advertising-cloud/policies/ad-requirements-policy.html)
     + [Acceptable Health Segment Guidelines](https://experienceleague.adobe.com/docs/advertising-cloud/policies/health-segment-guidelines.html)
-    + [DSP Data Usage Guidelines](https://experienceleague.adobe.com/docs/advertising-cloud/policies/data-usage-guidelines.html)
-  + [Available Advanced Measurement Services](/help/dsp/introduction/advanced-measurement-services.md)
+    + [[!DNL DSP] Data Usage Guidelines](https://experienceleague.adobe.com/docs/advertising-cloud/policies/data-usage-guidelines.html)
+  + [Available [!DNL Advanced Measurement Services]](/help/dsp/introduction/advanced-measurement-services.md)
 + Campaign Management {#campaign-management}
   + [Overview of Campaign Management Structure](/help/dsp/campaign-management/campaign-management-overview.md)
   + Campaigns {#campaigns}
@@ -76,7 +76,7 @@ index: yes
       + [Best Practices for Designing Overlays](/help/dsp/campaign-management/ads/ad-best-practices-overlays.md)
     + Bulk Third-Party Ads {#bulk-third-party}
       + [Create Multiple Third-Party Ads](/help/dsp/campaign-management/ads/ad-create-third-party.md)
-      + [Create Ads with Flashtalking](/help/dsp/campaign-management/ads/ad-create-flashtalking.md)
+      + [Create Ads with [!DNL Flashtalking]](/help/dsp/campaign-management/ads/ad-create-flashtalking.md)
       + [Certified Ad Serving Partners](/help/dsp/campaign-management/ads/certified-ad-servers.md)
     + [Attach an Ad to a Placement](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/campaign-management/placements/ad-attach-to-placement.html)<!-- Dupe link to this file (in Placements chapter), so need to use an absolute link in one of the listings -->
     + [Edit an Ad](/help/dsp/campaign-management/ads/ad-edit.md)
@@ -107,7 +107,7 @@ index: yes
   + [Keyboard Shortcuts](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
   + [FAQs About Campaign Management](/help/dsp/campaign-management/campaign-management-faq.md)
 + Optimization {#optimization}
-  + [How DSP Optimizes Your Campaigns](/help/dsp/optimization/optimization-how-dsp-optimizes-campaigns.md)
+  + [How [!DNL DSP] Optimizes Your Campaigns](/help/dsp/optimization/optimization-how-dsp-optimizes-campaigns.md)
   + [Optimization Goals and How to Use Them](/help/dsp/optimization/optimization-goals.md)
   + [Placement-level Pre-bid Filters and How to Use Them](/help/dsp/optimization/optimization-pre-bid-filters.md)
   + Custom Goals {#custom-goals}
@@ -120,10 +120,10 @@ index: yes
   + [About Audience Management](/help/dsp/audiences/audience-about.md)
   + Manage Segments {#segments}
     + [Create and Implement a Custom Segment](/help/dsp/audiences/custom-segment-create.md)
-    + CCPA Opt-out-of-Sale Segments {#ccpa-opt-out-of-sale-segments}
+    + [!UICONTROL CCPA Opt-out-of-Sale] Segments {#ccpa-opt-out-of-sale-segments}
       + [About [!UICONTROL CCPA Opt-out-of-Sale] Segments](/help/dsp/audiences/ccpa-opt-out-about.md)
-      + [Create and Implement a CCPA Opt-out-of-Sale Segment](/help/dsp/audiences/ccpa-opt-out-segment-create.md)
-      + [Retrieve Consumer Opt-Out-of-Sale Reports](/help/dsp/audiences/ccpa-opt-out-segment-report-retrieve.md)
+      + [Create and Implement a [!UICONTROL CCPA Opt-out-of-Sale] Segment](/help/dsp/audiences/ccpa-opt-out-segment-create.md)
+      + [Retrieve [!UICONTROL Consumer Opt-Out-of-Sale] Reports](/help/dsp/audiences/ccpa-opt-out-segment-report-retrieve.md)
   + Manage Audiences {#reusable-audiences}
     + [Create a Reusable Audience](/help/dsp/audiences/reusable-audience-create.md)
     + [Audience Settings](/help/dsp/audiences/audience-settings.md)
@@ -131,33 +131,33 @@ index: yes
   + [Available Third-party Data Providers](/help/dsp/audiences/third-party-data-providers.md)
 + Inventory {#inventory}
   + [Overview of Inventory Features](/help/dsp/inventory/inventory-overview.md)
-  + [Using Roku Inventory](/help/dsp/inventory/roku-inventory.md)
+  + [Using [!DNL Roku Inventory]](/help/dsp/inventory/roku-inventory.md)
   + [SSP Partners](/help/dsp/inventory/ssp-partners.md)
-  + On Demand Inventory {#on-demand}
+  + [!DNL On Demand] Inventory {#on-demand}
     + [About [!DNL On Demand] Premium Inventory](/help/dsp/inventory/on-demand-inventory-about.md)
-    + Available On-demand Premium Inventory Publishers {#publishers}
+    + Available [!DNL On Demand] Premium Inventory Publishers {#publishers}
       + [[!DNL On Demand] Premium Inventory Publishers in Asia Pacific](/help/dsp/inventory/on-demand-inventory-publishers-apac.md)
       + [[!DNL On Demand] Premium Inventory Publishers in Australia and New Zealand](/help/dsp/inventory/on-demand-inventory-publishers-anz.md)
       + [[!DNL On Demand] Premium Inventory Publishers in Europe, the Middle East, and Africa](/help/dsp/inventory/on-demand-inventory-publishers-emea.md)
       + [[!DNL On Demand] Premium Inventory Publishers in North America](/help/dsp/inventory/on-demand-inventory-publishers-na.md)
     + [Subscribe and Request Access to [!DNL On Demand] Premium Inventory Deals](/help/dsp/inventory/on-demand-inventory-subscribe.md)
-    + [Re-request On Demand Premium Inventory Deals](/help/dsp/inventory/on-demand-inventory-rerequest.md)
+    + [Re-request [!DNL On Demand] Premium Inventory Deals](/help/dsp/inventory/on-demand-inventory-rerequest.md)
     + [View the Status of Your [!DNL On Demand] Deal Requests and Subscriptions](/help/dsp/inventory/on-demand-inventory-view-status.md)
   + Private Inventory {#private-inventory}
     + Deal IDs {#deal-ids}
-      + Deal ID Inbox {#inbox}
-        + [About the Deal ID Inbox](/help/dsp/inventory/deal-id-inbox-about.md)
-        + [Accept a Deal in the Deal ID Inbox](/help/dsp/inventory/deal-id-inbox-accept.md)
+      + [!UICONTROL Deal ID Inbox] {#inbox}
+        + [About the [!UICONTROL Deal ID Inbox]](/help/dsp/inventory/deal-id-inbox-about.md)
+        + [Accept a Deal in the [!UICONTROL Deal ID Inbox]](/help/dsp/inventory/deal-id-inbox-accept.md)
       + Manually-entered Deal IDs {#manual}
-        + [Manually Create Deal ID Details](/help/dsp/inventory/deal-id-create.md)
-        + [Manual Deal ID Settings](/help/dsp/inventory/deal-id-settings.md)
+        + [Manually Create [!UICONTROL Deal ID] Details](/help/dsp/inventory/deal-id-create.md)
+        + [Manual [!UICONTROL Deal ID] Settings](/help/dsp/inventory/deal-id-settings.md)
     + Programmatic Guaranteed Deals {#programmatic-guaranteed-deal}
       + [Overview of Programmatic Guaranteed Deals](/help/dsp/inventory/programmatic-guaranteed-about.md)
       + [Tips for Negotiating a Programmatic Guaranteed Deal](/help/dsp/inventory/programmatic-guaranteed-tips.md)
       + [Set up a Programmatic Guaranteed Deal](/help/dsp/inventory/programmatic-guaranteed-set-up.md)
-      + FreeWheel Programmatic Guaranteed Deals {#freewheel}
-        + [Overview of Setting up Programmatic Guaranteed Deals in FreeWheel](/help/dsp/inventory/freewheel-overview.md)
-        + [Submit an Ad for a Programmatic Guaranteed Deal to FreeWheel](/help/dsp/inventory/freewheel-submit.md)
+      + [!DNL FreeWheel] Programmatic Guaranteed Deals {#freewheel}
+        + [Overview of Setting up Programmatic Guaranteed Deals in [!DNL FreeWheel]](/help/dsp/inventory/freewheel-overview.md)
+        + [Submit an Ad for a Programmatic Guaranteed Deal to [!DNL FreeWheel]](/help/dsp/inventory/freewheel-submit.md)
         + [Check the Status of Ads for [!DNL FreeWheel] Programmatic Guaranteed Deals](/help/dsp/inventory/freewheel-check-status.md)
         + [Error Codes for FreeWheel Ad Submissions](/help/dsp/inventory/freewheel-error-codes.md)
 + Custom Reports {#custom-reports}

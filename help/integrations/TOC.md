@@ -11,7 +11,7 @@ index: yes
 + [What's New](/help/integrations/home.md)
 + [!DNL Analytics for Advertising Cloud] {#analytics}
     + [Overview of [!DNL Analytics for Advertising Cloud]](/help/integrations/analytics/overview.md)
-    + [Advertising Cloud IDs Used by Analytics](/help/integrations/analytics/ids.md)
+    + [Advertising Cloud IDs Used by [!DNL Analytics]](/help/integrations/analytics/ids.md)
     + Planning Your Implementation {#planning}
         + [Prerequisites and Key Information for Implementing [!DNL Analytics for Advertising Cloud]](/help/integrations/analytics/prerequisites.md)
         + [JavaScript Code for [!DNL Analytics for Advertising Cloud]](/help/integrations/analytics/javascript.md)
@@ -19,9 +19,9 @@ index: yes
         + [Advertising Cloud Metrics in Analysis Workspace](/help/integrations/analytics/advertising-cloud-metrics-in-analytics.md)
         + [[!DNL Analytics] Data in Advertising Cloud](/help/integrations/analytics/analytics-data-in-advertising-cloud.md)
         + [Expected Data Variances Between [!DNL Analytics] and Advertising Cloud](/help/integrations/analytics/data-variances.md)
-    + Working in [!DNL Analytics Marketing Channels] {#mc}
-        + [Fundamentals of Marketing Channels](/help/integrations/analytics/marketing-channels/mc-overview.md)
-        + [Using Advertising Cloud IDs to Create Marketing Channels Processing Rules](/help/integrations/analytics/marketing-channels/mc-ids.md)
-        + [Using Marketing Channels with Advertising Cloud Data](/help/integrations/analytics/marketing-channels/mc-ac-data.md)
-        + [Why Channel Data Can Vary Between Advertising Cloud and Marketing Channels](/help/integrations/analytics/marketing-channels/mc-data-variances.md)
+    + Working in [!DNL Analytics Marketing Channels]] {#mc}
+        + [Fundamentals of [!DNL Marketing Channels](/help/integrations/analytics/marketing-channels/mc-overview.md)
+        + [Using Advertising Cloud IDs to Create [!DNL Marketing Channels] Processing Rules](/help/integrations/analytics/marketing-channels/mc-ids.md)
+        + [Using [!DNL Marketing Channels] with Advertising Cloud Data](/help/integrations/analytics/marketing-channels/mc-ac-data.md)
+        + [Why Channel Data Can Vary Between Advertising Cloud and [!DNL Marketing Channels]](/help/integrations/analytics/marketing-channels/mc-data-variances.md)
 + [Videos Tutorials About Advertising Cloud Integrations](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/overview.html)<!-- rename if the tutorials TOC structure changes -->
