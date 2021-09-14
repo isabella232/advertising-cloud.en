@@ -2,8 +2,8 @@
 title: Upload Placement Settings for a Campaign
 description: Learn how to upload changes to key placement settings for a campaign using Excel QA spreadsheets.
 feature: Placements
+exl-id: 0f5fdc7e-3a90-4b4b-a23c-75bed7703100
 ---
-
 # Upload Placement Settings for a Campaign
 
 To post changes to some types of placement settings for a campaign, you can upload a spreadsheet that you previously [downloaded](qa-sheet-download.md) and have edited. Changes are allowed only in the [editable columns](qa-sheet-columns.md).

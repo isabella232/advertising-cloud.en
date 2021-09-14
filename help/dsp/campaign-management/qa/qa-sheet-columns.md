@@ -2,8 +2,8 @@
 title: Columns in Downloaded/Uploaded Spreadsheets
 description: Reference the columns in downloaded and uploaded Excel QA spreadsheets.
 feature: Placements
+exl-id: 8a8dceed-f77d-4b6b-a842-f57528125c92
 ---
-
 # Columns in Downloaded/Uploaded Spreadsheets
 
 <!-- rename -- not specific enough - I think you can download Excel files of other things too -->
