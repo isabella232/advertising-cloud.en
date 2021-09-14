@@ -45,8 +45,8 @@ If a click macro is missing when you build a display ad, DSP displays a warning 
 >[!MORELIKETHIS]
 >
 >* [Audio Ad Settings](/help/dsp/campaign-management/ads/ad-settings-audio.md)
->* [Audio Ad Settings](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
->* [Audio Ad Settings](/help/dsp/campaign-management/ads/ad-settings-display.md)
->* [Audio Ad Settings](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
->* [Audio Ad Settings](/help/dsp/campaign-management/ads/ad-settings-native.md)
->* [Audio Ad Settings](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
+>* [Connected TV Ad Settings](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
+>* [Display Ad Settings](/help/dsp/campaign-management/ads/ad-settings-display.md)
+>* [Mobile Ad Settings](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
+>* [Native Ad Settings](/help/dsp/campaign-management/ads/ad-settings-native.md)
+>* [Pre-roll Ad Settings](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
