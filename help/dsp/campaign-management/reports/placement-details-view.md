@@ -4,9 +4,9 @@ description: Learn how to view the targeted sites, ads, and frequency data for a
 feature: Placements
 exl-id: 99bb4a4e-dc52-4130-87c4-5458e25bbc1e
 ---
-# View the Sites, Ads, and Frequency Details for a Placement
+# View the Sites, Ads, Frequency and Inventory Details for a Placement
 
-The Placement [!UICONTROL Inspector] lists all targeted sites and all ads in a placement. It also includes frequency data for the placement.
+The Placement [!UICONTROL Inspector] lists all targeted sites, ads and deals in a placement. It also includes frequency data for the placement.
 
 1. Open the placements view for the parent campaign or package:
 
@@ -25,6 +25,7 @@ The Placement [!UICONTROL Inspector] lists all targeted sites and all ads in a p
     * To view all sites that the placement targets, click **[!UICONTROL Sites]**.
     * To view all ads in the placement, click **[!UICONTROL Ads]**.
     * To view frequency data for the placement, click **[!UICONTROL Frequency]**.
+    * To view all deals that the placement targets, click **[!UICONTROL Inventory]**.
 
 1. (Optional) [Change the column view](column-view-change.md) as needed to view the required metrics.
 
