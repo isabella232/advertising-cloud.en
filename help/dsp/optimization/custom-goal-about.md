@@ -1,7 +1,7 @@
 ---
 title: About Custom Goals
 description: Learn about custom goals to define your success events in packages optimized for the lowest CPA or the highest ROAS.
-feature: Optimization
+feature: DSP Optimization
 exl-id: 623cb1ef-85ab-4535-aa3a-8e6ec8ae15ee
 ---
 # About Custom Goals

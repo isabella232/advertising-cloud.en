@@ -1,7 +1,7 @@
 ---
 title: Duplicate an Ad
 description: Learn how to duplicate an ad.
-feature: Ads
+feature: DSP Ads
 exl-id: 65c29be7-ca88-4608-bde2-5f1267d095ef
 ---
 # Duplicate an Ad

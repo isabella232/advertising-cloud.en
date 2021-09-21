@@ -1,7 +1,7 @@
 ---
 title: Campaign Launch Checklist
 description: Learn what you need to do before you launch a campaign.
-feature: Placements, Ads
+feature: DSP Placements, DSP Ads
 exl-id: bf0147d0-0b58-435d-a2de-5b98e0d3488c
 ---
 # Campaign Launch Checklist

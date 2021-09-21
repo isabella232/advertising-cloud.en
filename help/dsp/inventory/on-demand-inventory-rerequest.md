@@ -1,7 +1,7 @@
 ---
 title: Re-Request [!DNL On Demand] Premium Inventory Deals
 description: Learn how to re-request [!DNL On Demand] deals that were previously denied.
-feature: On Demand Inventory
+feature: DSP On Demand Inventory
 exl-id: db5a5708-16e3-4304-8bd0-f1aa8ecd0e3c
 ---
 # Re-Request [!DNL On Demand] Premium Inventory Deals

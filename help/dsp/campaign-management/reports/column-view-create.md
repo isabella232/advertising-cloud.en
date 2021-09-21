@@ -1,7 +1,7 @@
 ---
 title: Create a Custom Column View
 description: Learn how to create a custom column view.
-feature: Campaign Data Views
+feature: DSP Campaign Data Views
 exl-id: f39e6ce9-aa4e-4049-af16-eddb0ba30087
 ---
 # Create a Custom Column View

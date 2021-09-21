@@ -1,7 +1,7 @@
 ---
 title: SSP Partners
 description: See a list of available supply-side platform (SSP) and open exchange partners.
-feature: Private Inventory
+feature: DSP Private Inventory
 exl-id: 8487f4ce-0232-4145-ad8b-b0631fd0ab7f,None
 ---
 # SSP Partners

@@ -1,7 +1,7 @@
 ---
 title: Create a Package
 description: Learn how to create a package.
-feature: Packages
+feature: DSP Packages
 exl-id: 009b65b4-0686-46ca-9f47-01ad4c6a4683
 ---
 # Create a Package

@@ -1,7 +1,7 @@
 ---
 title: Accept a Deal in the [!UICONTROL Deal ID Inbox]
 description: Learn how to accept a private deal you've already negotiated with a publisher on [!DNL Google Authorized Buyers], [!DNL FreeWheel], or [!DNL Rubicon] using the Deal ID Inbox.
-feature: Private Inventory, Deal IDs
+feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 55e8ca50-05f5-4f38-9fd5-afaed71315dc
 ---
 # Accept a Deal in the [!UICONTROL Deal ID Inbox]

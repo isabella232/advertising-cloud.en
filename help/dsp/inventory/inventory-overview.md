@@ -1,7 +1,7 @@
 ---
 title: Overview of Inventory Features in Advertising Cloud DSP
 description: Learn about available inventory features.
-feature: On Demand Inventory, Private Inventory, Deal IDs
+feature: DSP On Demand Inventory, DSP Private Inventory, DSP Deal IDs
 exl-id: b3d0b96e-e638-4bd2-ba14-d348a8fc030b
 ---
 # Overview of Inventory Features in Advertising Cloud DSP

@@ -1,7 +1,7 @@
 ---
 title: Edit a Package
 description: Learn how to edit a package.
-feature: Packages
+feature: DSP Packages
 exl-id: 4067f8c8-d5a9-4fe6-9abe-78aa73bc00a1
 ---
 # Edit a Package

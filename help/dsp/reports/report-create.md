@@ -1,7 +1,7 @@
 ---
 title: Create a Custom Report
 description: Learn how to create a custom report.
-feature: Custom Reports
+feature: DSP Custom Reports
 exl-id: 07ab797f-4c9e-4241-a9a5-fd7d006b5e5a
 ---
 # Create a Custom Report

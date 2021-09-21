@@ -1,7 +1,7 @@
 ---
 title: Attach an Ad to a Placement
 description: Learn how to attach an ad to a placement.
-feature: Ads
+feature: DSP Ads
 exl-id: 4d85b89b-217f-46eb-a8b2-27da4c220be7
 ---
 # Attach an Ad to a Placement

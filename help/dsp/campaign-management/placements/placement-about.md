@@ -1,7 +1,7 @@
 ---
 title: About Placement Management in Advertising Cloud DSP
 description: Learn about placement management.
-feature: Placements
+feature: DSP Placements
 exl-id: 1d1382d9-b6c8-44bf-a708-8458769a39c6
 ---
 # About Placement Management in Advertising Cloud DSP

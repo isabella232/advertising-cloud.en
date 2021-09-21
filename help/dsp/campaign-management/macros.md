@@ -1,7 +1,7 @@
 ---
 title: Advertising Cloud DSP Macros
 description: Reference the available macros for general tracking and to track clicks on third-party display ads.
-feature: Ads
+feature: DSP Ads
 exl-id: e31cc2e5-ad1f-4555-a87b-0e4c3731fe5f
 ---
 # Advertising Cloud DSP Macros

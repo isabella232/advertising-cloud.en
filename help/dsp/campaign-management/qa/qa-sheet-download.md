@@ -1,7 +1,7 @@
 ---
 title: Download Placement Settings for a Campaign
 description: Learn how to download the placement settings for a campaign using Excel QA spreadsheets.
-feature: Placements
+feature: DSP Placements
 exl-id: c3b0cbf2-7095-4608-977a-9a5dd0bbd585
 ---
 # Download Placement Settings for a Campaign

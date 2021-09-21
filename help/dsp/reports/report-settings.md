@@ -1,7 +1,7 @@
 ---
 title: Custom Report Settings
 description: See descriptions of the custom report settings.
-feature: Custom Reports
+feature: DSP Custom Reports
 ---
 
 # Custom Report Settings

@@ -1,7 +1,7 @@
 ---
 title: Subscribe and Request Access to [!DNL On Demand] Premium Inventory Deals
 description: Lean how to subscribe to, and request access to,[!DNL On Demand] deals.
-feature: On Demand Inventory
+feature: DSP On Demand Inventory
 exl-id: e66e5bad-526e-4b71-8072-332dd173f105
 ---
 # Subscribe and Request Access to [!DNL On Demand] Premium Inventory Deals

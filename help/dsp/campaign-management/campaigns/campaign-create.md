@@ -1,7 +1,7 @@
 ---
 title: Create a Campaign
 description: Learn how to create a campaign.
-feature: Campaigns
+feature: DSP Campaigns
 exl-id: c8f553c1-de52-4121-bed4-7b4ce2ecd847
 ---
 # Create a Campaign

@@ -1,7 +1,7 @@
 ---
 title: About Ad Management in Advertising Cloud DSP
 description: Learn about ad management.
-feature: Ads
+feature: DSP Ads
 exl-id: 72c8bbef-d09c-4cf4-994d-99578d043d39
 ---
 # About Ad Management in Advertising Cloud DSP

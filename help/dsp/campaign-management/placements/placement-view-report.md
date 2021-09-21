@@ -1,7 +1,7 @@
 ---
 title: View a Detailed Report for a Placement
 description: Learn how to open a placement-level report with sections on [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability], [!UICONTROL Audience Performance], [!UICONTROL Notifications], and [!UICONTROL Ads] data.
-feature: Placements, Campaign Data Views
+feature: DSP Placements, DSP Campaign Data Views
 exl-id: 90cd8030-73a6-4224-9a04-dcee91ce7d78
 ---
 # View a Detailed Report for a Placement

@@ -1,7 +1,7 @@
 ---
 title: Create Multiple Third-Party Ads
 description: Learn how to create multiple third-party ads at one time.
-feature: Ads
+feature: DSP Ads
 exl-id: 83d35d27-1ab6-4fcf-877f-650a2dc6975a
 ---
 # Create Multiple Third-Party Ads

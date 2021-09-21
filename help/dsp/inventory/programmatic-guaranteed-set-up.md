@@ -1,7 +1,7 @@
 ---
 title: Set up a Programmatic Guaranteed Deal
 description: Learn how to set up a programmatic guaranteed (PG) deal you've negotiated with a publisher.
-feature: Private Inventory, Deal IDs, Programmatic Guaranteed Deals
+feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: 9e371606-5428-4635-9653-7dc43449e489
 ---
 # Set up a Programmatic Guaranteed Deal

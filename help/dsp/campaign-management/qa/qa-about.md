@@ -1,7 +1,7 @@
 ---
 title: About Correcting Placement Settings for a Campaign Using Spreadsheets
 description: Learn how to review and edit key placement settings for a campaign using Excel QA spreadsheets.
-feature: Placements
+feature: DSP Placements
 exl-id: 9e90488f-157d-4569-8011-da51c5b05c1d
 ---
 # About Correcting Placement Settings for a Campaign Using Spreadsheets

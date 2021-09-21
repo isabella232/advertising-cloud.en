@@ -1,7 +1,7 @@
 ---
 title: Create a Reusable Audience
 description: Learn how to create a reusable audiences that consist of audience segments and other saved audiences.
-feature: Audiences
+feature: DSP Audiences
 exl-id: 48e3dc4c-6e2d-452c-8d69-7e6211d808e0
 ---
 # Create a Reusable Audience

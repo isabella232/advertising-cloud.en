@@ -1,7 +1,7 @@
 ---
 title: About [!UICONTROL CCPA Opt-out-of-Sale] Segments and Reports
 description: Learn about creating segments to track IDs from CCPA opt-out-of-sale requests and how to retrieve reports of the IDs.
-feature: CCPA, Segments
+feature: CCPA, DSP Segments
 exl-id: 9256d34e-d0dd-4abf-bc96-2b599caf2a8e
 ---
 # About [!UICONTROL CCPA Opt-out-of-Sale] Segments and Reports

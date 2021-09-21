@@ -1,7 +1,7 @@
 ---
 title: Manage Data Visualizations
 description: Learn how to change the metrics and display mode for data visualizations.
-feature: Campaign Management
+feature: DSP Campaign Data Views
 exl-id: f557ddfc-9a20-4cbc-8ad3-230ba5df32e3
 ---
 # Manage Data Visualizations

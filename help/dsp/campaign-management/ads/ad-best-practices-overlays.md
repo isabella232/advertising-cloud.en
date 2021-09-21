@@ -1,7 +1,7 @@
 ---
 title: Best Practices for Designing Overlays
 description: Learn about the best practices for designing overlays on your ads.
-feature: Ads, Best Practices
+feature: DSP Ads, DSP Best Practices
 exl-id: e0511391-bbfd-42de-be65-9bfd4f8702eb
 ---
 # Best Practices for Designing Overlays

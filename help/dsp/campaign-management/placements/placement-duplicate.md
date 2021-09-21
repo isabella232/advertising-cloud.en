@@ -1,7 +1,7 @@
 ---
 title: Duplicate Placements
 description: Learn how to duplicate one or more placements.
-feature: Placements
+feature: DSP Placements
 exl-id: d22a61a8-4f1b-41ee-b4fb-3124bec81a2f
 ---
 # Duplicate Placements

@@ -1,7 +1,7 @@
 ---
 title: About Adobe Advertising Cloud DSP
 description: About Adobe Advertising Cloud DSP
-feature: Introduction
+feature: DSP Introduction
 exl-id: def006b2-eb51-4942-b277-a2e673bccc7f
 ---
 # About Adobe Advertising Cloud DSP
