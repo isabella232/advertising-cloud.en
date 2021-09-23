@@ -2,6 +2,8 @@
 title: Advertising Cloud Policies and Guidelines
 description: Learn about policies and guidelines for Advertising Cloud DSP and Advertising Cloud Search.
 index: yes
+cloud: Experience Cloud
+product: advertising cloud
 exl-id: 
 ---
 # Advertising Cloud Policies and Guidelines
