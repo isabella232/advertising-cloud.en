@@ -57,6 +57,24 @@ For each placement, you can [open a (detail view [!UICONTROL Inspector])](placem
     * the estimated number of impressions at the specified frequency level
     * the estimated average frequency for the specified frequency level. This value is equal to (Estimated Impressions)/(Estimated Uniques).
 
+* **[!UICONTROL Inventory]:** Information about all deals targeted by the placement in a single view.
+
+    The [!UICONTROL Inventory] tab includes search and filter features, the same standard and custom column view options that are available on the main page, and quick action buttons in each row, such as [!UICONTROL Edit] and [!UICONTROL View Report]. The [!UICONTROL Inventory] tab enables quick troubleshooting by showing performance statistics, such as [!UICONTROL Auctions], [!UICONTROL Bids], and [!UICONTROL Win Rate]. 
+
+#### Troubleshooting Inventory
+
+| Issue | Possible Cause  | Actions to Take |
+| -----------| ---------- | ---------- |
+| [!UICONTROL Zero Auctions] | The publisher hasn't started sending bid requests. | Contact the publisher to activate the deal. |
+| | The deal was set up incorrectly, such as by entering an incorrect external deal ID. | Confirm the deal details and edit the deal. |
+| [!UICONTROL Non-zero Auctions but no Bids] | The placement targeting doesn't match the incoming bid requests for the deal. <br><br> For example, a placement might be targeting a geography that isn't eligible for the deal. | Edit the placement targets as needed to avoid targeting mismatches. |
+| | The placement doesn't have an active ad with the required media type for the deal. | Create and attach an ad with the correct media type to the placement. |
+| | The placement doesn't have adequate budget. | Increase the placement budget to allow bidding on incoming requests. |
+| | The placement flight dates don't overlap with the impression delivery dates for the deal. | Edit the placement's flight dates as needed. |
+| [!UICONTROL Low Win Rate] | The placement's maximum bid (floor or fixed) is below the minimum required by the deal. | Increase the placement's [!UICONTROL Max Bid] as needed. |
+| | The placement uses pre-bid filters that limit bidding. | Lower the thresholds of the pre-bid filters to allow more bidding. |
+| | Audience targeting for the placement is too restrictive. | Check if the specified audience targets have enough active users, and expand the audience if possible. |
+
 ![placement Inspector](/help/dsp/assets/placement-inspector-sites.png)
 
 You can export the data on the [!UICONTROL Sites], [!UICONTROL Ads], or [!UICONTROL Frequency] tab to your browser's default download folder as a report in XLSM format.
