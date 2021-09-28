@@ -38,6 +38,13 @@ The following filters are available for your [!UICONTROL Campaigns], [!UICONTROL
     * [!UICONTROL Placement type]
     * [!UICONTROL Placement sub-type]
     * [!UICONTROL Start date]
+    * [!UICONTROL Creation date]
+* [!UICONTROL Ads] view filters:
+    * [!UICONTROL Adobe ad approval status]
+    * [!UICONTROL Ad ID]
+    * [!UICONTROL Ad name]
+    * [!UICONTROL Ad type]   
+    * [!UICONTROL Creation date]
 
 >[!MORELIKETHIS]
 >
