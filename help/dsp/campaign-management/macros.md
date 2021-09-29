@@ -6,9 +6,11 @@ exl-id: e31cc2e5-ad1f-4555-a87b-0e4c3731fe5f
 ---
 # Advertising Cloud DSP Macros
 
-A macro is a short command or shorthand for an instruction and usually follows the format `${MACRO_NAME}`. The Advertising Cloud DSP ad server executes macros when the ad is served or clicked.
+A macro is a short command or shorthand for an instruction and usually follows the format `${MACRO_NAME}`. Macros included in creative code or click-through URLs expand into a longer code string that the ad server can understand. The Advertising Cloud DSP ad server executes macros when the ad is served or clicked.
 
-Macros are most commonly used during trafficking of third-party and custom creative code or metadata (such as third-party pixels).
+Ad server macros are useful for passing important information to DSP or to third-party ad servers. Macros are most commonly used during trafficking of third-party and custom creative code or metadata (such as third-party pixels).
+
+You can manually insert a macro anywhere, such as in a VAST tag, in any URL, or in a DSP or third-party event pixel. However, each DSP client and partner has a different ad tag format, and the macros should be inserted in different spots in the tag accordingly. Each time you work with a new client or partner, ask them for documentation on where to insert the macros in their ad tags that DSP traffics.
 
 ## General Tracking Macros
 
