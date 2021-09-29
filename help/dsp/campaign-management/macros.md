@@ -16,13 +16,45 @@ You can manually insert a macro anywhere, such as in a VAST tag, in any URL, or 
 
 Use general tracking macros across all ad and tag types to pass back specific data, as required.
 
-| Macro | Description |
-| --------------- | ---------------------- |
-| `${USER_ID}` | User identifier for all device types. |
-| `${TM_RANDOM}` | Cachebuster: a random number between 1 and 1000000 |
-| `${TM_PLACEMENT_ID_NUM}` | The placement ID |
-| `${TM_SITE_URL_URLENC}` | The URL passed in the bid request; URL-encoded |
-| `${TM_SITE_DOMAIN_URLENC}` | The page subdomain parsed from the URL in the bid request; URL-encoded |
+| Macro | Replacement Description | Type |
+| ----- | ----------------------- | ---- |
+| `${TM_ACCOUNT_ID}` | The account ID. | integer |
+| `${TM_AD_ID}` | The ad key (adKey). **(The ad ID isn't the dbase key for ads?)** | string |
+| `${TM_AD_ID_NUM}` | The ad ID. | integer |
+| `${TM_ADVERTISER_ID}` | The advertiser ID. | integer |
+| `${TM_CAMPAIGN_ID}` | <!-- verify -->**Not included, but is there a macro for this?**  | string |
+| `${TM_CAMPAIGN_ID_NUM}` | The campaign ID. | integer |
+|` ${TM_CLICK_URL}` | The redirect URL, which enables ad servers to track and count ad clicks. When the ad is served, if the user clicks it, the macro is activated and the click is recorded and counted for reporting purposes. | string |
+|` ${TM_CLICK_URL_URLENC}` | The encoded redirect URL, which enables ad servers to track and count ad clicks. When the ad is served, if the user clicks it, the macro is activated and the click is recorded and counted for reporting purposes. Don't use this macro unless you are creating third-party ads and your vendor requires URL encoding. | string |
+| `${TM_FEED_ID}` | The key for the media placement (feedKey). | string |
+| `${TM_FEED_ID_NUM}` | The ID for the media placement. | integer |
+|` ${TM_MACRO_PLACEMENT_SITE_KEY` | The site key for the placement. Required for [!DNL AppsFlyer] click trackers for mobile app install ads | **key (I don't think that's a valid data type?)**<!-- is that a valid type? --> |
+|` ${TM_MACRO_PROMOTED_AD_KEY}` | The promoted ad key for the placement. Required for [!DNL AppsFlyer] click trackers for mobile app install ads | **key (I don't think that's a valid data type?)**<!-- is that a valid type? --> |
+| `${TM_PLACEMENT_ID}` | The placement key (cpKey). <!--?? what's this? --> | string |
+| `${TM_PLACEMENT_ID_NUM}` | The placement ID. | integer |
+| `${TM_RANDOM}` | Cachebuster: a random number between 1 and 1000000 | <!-- verify -->**integer?** |
+| `${TM_SESSION_ID}` | The ID of the session, which corresponds to a single retrieval of the ad tag. | string |
+| `${TM_SITE_DOMAIN_URLENC}` | The page subdomain parsed from the URL in the bid request; URL-encoded. Not supported for in-banner, click-to-play ads. | string |
+|` ${TM_SITE_NAME}` | The site name for the placement. | string|
+| `${TM_SITE_URL_URLENC}` | The URL passed in the bid request; URL-encoded. Not supported for in-banner, click-to-play ads. | string |
+| `${TM_SITE_ID_NUM}` | The site ID for the placement. | integer |
+| `${TM_TIMESTAMP}` | The Unix timestamp indicating the number of seconds elapsed since midnight (00:00 UTC) on 1 January 1970. | <!-- verify -->**bigint???**  |
+|` ${TM_VIDEO_DURATION}` | The duration of the ad video **in seconds?** <!-- in seconds or min:sec? --> | <!-- verify -->**???** |
+
+{style="table-layout:auto"}
+
+## Mobile-Specific Macros
+
+| Macro | Replacement Description | Type |
+| ----- | ----------------------- | ---- |
+| `${CS_PLATFORM_ID}` | ([!DNL ComScore]) The platform ID, which corresponds to the device's operating system:<ul><li>`ios` = [!DNL Apple iOS]</li><li>`android` = [!DNL Google Android]</li><li>`windows` = [!DNL Windows Mobile]</li><li>`blackberry` = [!DNL Blackberry]</li> <li>`other` when the platform is none of the above</li>`</ul> | varchar(50) |
+| `${CS_DEVICE_MODEL}` | ([!DNL ComScore]) The device model name, URL-encoded. | **????** |		
+| `${CS_IMPLEMENTATION_TYPE}` | ([!DNL ComScore]) The environment in which the ad was served:<ul><li>`a` = mobile application</li><li>`b` = mobile website</li></ul> | **????** | 
+| `${NS_PLATFORM_ID}` | ([!DNL Nielsen]) The platform ID, which corresponds to the device's operating system:<ul><li>`ios`= [!DNL Apple iOS]</li><li>`android` = [!DNL Google Android]</li><li>`windows` = [!DNL Windows Mobile]</li><li>`blackberry` = [!DNL Blackberry]</li> <li>`other` when the platform is none of the above</li>`</ul> | varchar(50) **???** <!--verify --> |
+| `${NS_DEVICE_GROUPING}` | ([!DNL Nielsen]) The  the device type on which the ad was viewer:<ul><li>`TAB` = tablet</li><li>`PHN` = mobile</li><li>`computer` = computer</li></ul> | **???** |	
+| `${UOO}` | ([!DNL Nielsen]) Whether or not the user has opted out of ad tracking:<ul><li>`1` (DNT flag = 1) = the user has opted out of ad tracking</li><ul><li>`0` (DNT flag = 0) = the user has opted in to ad tracking</li></ul> | **???** |	
+| `${TM_BUNDLE}` | The [!DNL iOS] or [!DNL Android] app store bundle ID. Examples: com.zynga.wwf2.free or id804379658 | **string???** |
+| `gdpr=${GDPR_ENFORCED}&gdpr_consent=${GDPR_CONSENT}` | `gdpr=${GDPR_ENFORCED}` indicates if the bidder determines that the bid request comes from the European Union origin and requires GDPR enforcement:<ul><li>`1` = GDPR should be enforced</li><li>`0` = GDPR should not be enforced</li></ul>`gdpr_consent=${GDPR_CONSENT}` is the consent value passed from the supply partner in the inbound bid request:<ul><li>In most cases, this is a base64url-encoded consent string, or daisybit (example: BN5lERiOMYEdiAKAWXEND1HoSBE6CAFAApAMgBkIDIgM0AgOJxAnQA)</li><li>`0` = no consent</li><li>`1` = consent</li></ul> | daisybit or integer |
 
 {style="table-layout:auto"}
 
@@ -30,19 +62,28 @@ Use general tracking macros across all ad and tag types to pass back specific da
 
 To accurately track clicks for ads using third-party display tags, DSP requires a display click macro. Only one version of the macro is required; the relevant macro depends on the type of tag.
 
-| Macro | Description |
-| --------------- | ---------------------- |
-| `${TM_CLICK_URL}` | Redirect URL that enables ad servers to track and count ad clicks in the platform |
-| `${TM_CLICK_URL_URLENC}` | Redirect URL that enables ad servers that require URL encoding to track and count ad clicks in the platform |
+| Macro | Replacement Description | Type |
+| ----- | ----------------------- | ---- |
+| `${TM_CLICK_URL}` | The redirect URL that enables ad servers to track and count ad clicks in the platform. | string |
+| `${TM_CLICK_URL_URLENC}` | The redirect URL that enables ad servers that require URL encoding to track and count ad clicks in the platform. | string |
 
 {style="table-layout:auto"}
 
-DSP automatically inserts display click macros in a display tag when you:
+DSP automatically inserts display click macros in a third-party display tag when you:
 
 * Export ad tags from an Advertising Cloud ad server partner <!-- [Needs PM confirmation.] -->
 * Bulk upload [!DNL Flashtalking] or [!DNL Google DoubleClick for Advertisers] ad tags directly in DSP
 
 If a click macro is missing when you build a display ad, DSP displays a warning message, which prompts you to manually insert the appropriate display click macro in the correct area of the tag.
+
+## Troubleshooting Macro Errors
+
+When you add macros to your code, make sure you use the exact syntax of the macro. When validating the macros, DSP checks that the macro exactly matches one of the valid macros.
+
+Errors are generated if characters are missing from the beginning or end of the macro name. For example, you will see an error message if:
+
+* You forget one or more of the characters at the beginning of the macro name, such as `${`. If you don’t include the full syntax, the entry isn’t recognized as a valid macro.
+* The macro doesn’t end with a valid set of characters, such as `}`.
 
 >[!MORELIKETHIS]
 >
