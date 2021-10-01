@@ -72,4 +72,4 @@ The following measurement solution packages are available to validate the succes
 
 ## More Information
 
-To learn more about leveraging advanced measurement services to create a custom learning agenda for your campaign, including regional restrictions and pricing, contact the [!DNL Adobe Strategic Advertising Consultants] team at [!DNL asg@adobe.com].
+To learn more about leveraging advanced measurement solutions to create a custom learning agenda for your campaign, including the measurable formats, regional restrictions, and pricing for each package, contact the [!DNL Adobe Strategic Advertising Consultants] team at [!DNL asg@adobe.com].
