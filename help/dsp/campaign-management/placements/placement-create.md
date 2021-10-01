@@ -23,6 +23,7 @@ exl-id: 4e37b571-9af4-4897-bff2-035a5f2600a5
     1. Specify the [!UICONTROL Basics] settings.
 
     1. In the [!UICONTROL Goals] section, specify the [!UICONTROL Gross Budget] and, optionally, specify additional placement goals.
+    
        Some fields have default values that you can override.
 
        If the package to which the placement is assigned has package-level pacing, then your goals and pacing settings will reflect the package settings.
