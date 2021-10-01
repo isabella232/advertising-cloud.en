@@ -26,7 +26,7 @@ exl-id: cd9763a7-99d4-4881-9df9-b4e24c55be0f
 
     1. In the [!UICONTROL Ad & Campaign Selection] settings, select the ads that will be used for the deal:
 
-       1. Select the advertiser, campaign, and ad type.
+       1. Select the advertiser, campaign, and ad type. Optionally select an ad status by which to filter the ads.
         
        1. From the list of available ads, select the check box next to each ad that will be used for the deal.
 
@@ -60,3 +60,4 @@ After you create the deal, you can use the deal as an inventory target for multi
 >* [Set up a Programmatic Guaranteed Deal](programmatic-guaranteed-set-up.md)
 >* [Submit an Ad for a Programmatic Guaranteed Deal with [!DNL FreeWheel]](freewheel-submit.md)
 >* [About Programmatic Guaranteed Deals](programmatic-guaranteed-about.md)
+<!-- >* [Specify Placements and Ads for a Private Deal](private-deal-attach-placements.md)-->
