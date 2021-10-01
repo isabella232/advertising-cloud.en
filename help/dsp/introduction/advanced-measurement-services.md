@@ -29,7 +29,7 @@ The following measurement solution packages are available to validate the succes
 * People-Based Reach
      Understand how audiences and tactics overlap at a person level, including exposures across multiple digital environments, such as desktop, mobile, native, and audio.
 
-* •	[!DNL Dynata] Panel-Based Surveys
+* [!DNL Dynata] Panel-Based Surveys
      Conduct control/exposed surveys to determine the effect of ad exposure on metrics such as awareness, familiarity, and intent.
 
 * Foot Traffic
@@ -49,6 +49,7 @@ The following measurement solution packages are available to validate the succes
 ## Finding the Perfect Measurement Fit: Solutions by Vertical
 
 ### Any Vertical
+
 * Experiment Designer (Placebo and A/B Testing)
 * People-Based Reach
      Any organization looking to measure across multiple digital tactics; organizations looking to showcase the value of audio
@@ -60,10 +61,12 @@ The following measurement solution packages are available to validate the succes
      Any client looking to measure brand awareness and perception across multiple screens; best suited for niche audiences
 
 ### QSR, Retail (Brick and Mortar)
+
 * Transaction Measurement
 * Foot Traffic Measurement
 
 ### QSR, Retail, Travel
+
 * Transaction Insights
      Any client looking to reach a particular type of shopper to drive in-store and online sales
 
