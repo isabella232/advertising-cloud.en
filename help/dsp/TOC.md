@@ -20,6 +20,7 @@ index: yes
     + [Brand Safety and Media Quality](/help/dsp/introduction/features/brand-safety-media-quality.md)
     + [Cross-Device Solutions](/help/dsp/introduction/features/cross-device-solutions.md)
   + [Account Funding](/help/dsp/introduction/billing/account-funding.md)
+  + [Currencies Supported](/help/dsp/currency.md)
   + Support for Consumer Privacy {#privacy}
     + [Support for the General Data Protection Regulation](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ad-cloud-gdpr.html)
     + Support for CCPA {#ccpa}
