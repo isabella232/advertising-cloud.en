@@ -1,12 +1,12 @@
 ---
 title: About the [!UICONTROL Deal ID Inbox]
-description: Learn about the [!UICONTROL Deal ID inbox] feature, which allows you to accept private deals you've already negotiated with publishers on [!DNL Google Authorized Buyers], [!DNL FreeWheel], and [!DNL Rubicon].
+description: Learn about the [!UICONTROL Deal ID inbox] feature, which allows you to accept private deals you've already negotiated with publishers on [!DNL FreeWheel], [!DNL Google Authorized Buyers] (formerly known as [!DNL AdX]), and [!DNL Magnite DV+] (formerly [!DNL Rubicon]).
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 959ad1d4-4671-4967-9f73-ec5b0464d0cd
 ---
 # About the [!UICONTROL Deal ID Inbox]
 
-DSP's [!UICONTROL Deal ID inbox] allows you to quickly set up deals that Advertising Cloud DSP has imported from publishers through supply side platforms (SSPs) so you don't have to set up each deal manually. You can accept the guaranteed and non-guaranteed private inventory deals you've already negotiated with publishers on [!DNL Google Authorized Buyers] (formerly known as [!DNL AdX]), [!DNL FreeWheel], and [!DNL Rubicon], from the [!UICONTROL Deal ID inbox].
+DSP's [!UICONTROL Deal ID inbox] allows you to quickly set up deals that Advertising Cloud DSP has imported from publishers through supply side platforms (SSPs) so you don't have to set up each deal manually. You can accept the guaranteed and non-guaranteed private inventory deals you've already negotiated with publishers on [!DNL FreeWheel], [!DNL Google Authorized Buyers] (formerly known as [!DNL AdX]), and [!DNL Magnite DV+] (formerly [!DNL Rubicon]) from the [!UICONTROL Deal ID inbox].
 
 >[!NOTE]
 >
@@ -14,7 +14,7 @@ DSP's [!UICONTROL Deal ID inbox] allows you to quickly set up deals that Adverti
 
 In the [!UICONTROL Deal ID inbox], you can see the details of the deal as your publisher sees them, speed up your deal setup, and avoid manual entry errors.
 
-DSP automatically refreshes all deal details daily at 4:30 a.m. EST. It also refreshes all [!DNL FreeWheel] deals and updates existing deals from [!DNL Google] and [!DNL Rubicon] hourly. You can also manually refresh the deal details to populate new deals at any time.
+DSP automatically refreshes all deal details daily at 4:30 a.m. EST. It also refreshes all [!DNL FreeWheel] deals and updates existing deals from [!DNL Google] and [!DNL Magnite DV+] hourly. You can also manually refresh the deal details to populate new deals at any time.
 
 <!-- MC: I'm not sure where I got the following. Is this currently true? -->
 >[!NOTE]
@@ -45,13 +45,13 @@ You can't accept the following types of deals:
 
 * [!DNL Google] deals that aren't in USD.
 
-* [!DNL Rubicon] deals that aren't in USD
+* [!DNL Magnite DV+] deals that aren't in USD
 
 * [!DNL FreeWheel] deals that aren't in your account currency.
 
 * Deals that have an end date before today.
 
-* Old [!DNL Rubicon] deals that were labeled as "multiple media types."
+* Old [!DNL Magnite DV+] deals that were labeled as "multiple media types."
 
 The deal details include the reason the deal isn't available to accept.
 

@@ -30,7 +30,7 @@ A supply-side platform (SSP) is an advertising technology platform used to help 
 |[!DNL MoPub]|[!DNL Twitter]|[!DNL TubeMogul]|No|Global|USD||x||||||
 |[!DNL OpenX]|[!DNL OpenX]|[!DNL TubeMogul] or Adobe Advertising Cloud|Yes|Global|USD|x|||x|x|||
 |[!DNL PubMatic New ortb2.2]|[!DNL Pubmatic]|[!DNL TubeMogul] or Adobe Advertising Cloud|No|Global|USD|x|x|x|x|x|||
-|[!DNL Rubicon]|[!DNL Magnite]|[!DNL TubeMogul] or Adobe Advertising Cloud|Yes|Global|USD|x|x|x|x|x||x|
+|[!DNL Rubicon]|[!DNL Magnite DV+]|[!DNL TubeMogul] or Adobe Advertising Cloud|Yes|Global|USD|x|x|x|x|x||x|
 |[!DNL ShareThrough]||[!DNL TubeMogul] or Adobe Advertising Cloud|No|Global|USD|x|x||x|x|x||
 |[!DNL Smart Ad Server]||[!DNL TubeMogul] or Adobe Advertising Cloud|No|Global|USD, EUR|x|x||x|x|||
 |[!DNL SmartClip]||Adobe Advertising Cloud|No|EMEA|All Currencies|x|x|x|x|x|||
@@ -41,7 +41,7 @@ A supply-side platform (SSP) is an advertising technology platform used to help 
 |[!DNL Stroer]||Adobe Advertising Cloud|No|EMEA|USD|x|x||x|x|||
 |[!DNL Taboola]||Adobe Advertising Cloud|No|US/CA|USD|x|x||||||
 |[!DNL Teads]||[!DNL TubeMogul] or Adobe Advertising Cloud|No|Outstream Video = Global<br>Display = NA + EMEA|USD|x|x||x|x|||
-|[!DNL Tremor]|[!DNL Magnite] ([!DNL Telaria])|[!DNL TubeMogul] or Adobe Advertising Cloud|Yes|Global|AUD, USD|x|x|x|||||
+|[!DNL Tremor]|[!DNL Magnite CTV] (formerly [!DNL Telaria])|[!DNL TubeMogul] or Adobe Advertising Cloud|Yes|Global|AUD, USD|x|x|x|||||
 |[!DNL TripleLift]||[!DNL TubeMogul] or Adobe Advertising Cloud|No|Global|USD||||||x||
 |[!DNL TripleLift Display & Outstream]||[!DNL TubeMogul] or Adobe Advertising Cloud|No|Global|USD|x|x||x|x|||
 |[!DNL Triton]||Adobe Advertising Cloud|No|Global|USD|||||||x|
