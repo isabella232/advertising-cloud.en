@@ -25,8 +25,8 @@ PG deals require a PG default placement and ads so DSP can return a request to e
 * [!DNL Ambient Digital]
 * [!DNL FreeWheel]
 * [!DNL Google Authorized Buyers]
-* [!DNL Magnite CTV](formerly [!DNL Telaria])
-* [!DNL Magnite DV+] (formerly [!DNL Rubicon]
+* [!DNL Magnite CTV] (formerly [!DNL Telaria])
+* [!DNL Magnite DV+] (formerly [!DNL Rubicon])
 * [!DNL OpenX]
 * [!DNL SpotX]
 
