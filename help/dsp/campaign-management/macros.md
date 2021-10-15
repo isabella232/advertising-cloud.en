@@ -16,13 +16,14 @@ You can manually insert a macro anywhere, such as in a VAST tag, in any URL, or 
 
 Use general tracking macros across all ad and tag types to pass back specific data, as required.
 
+<!-- Not included, but is there a macro for this, like there is for the other entities: | `${TM_CAMPAIGN_ID}` | The campaign key. | string | -->
+
 | Macro | Replacement Description | Type |
 | ----- | ----------------------- | ---- |
 | `${TM_ACCOUNT_ID}` | The account ID. | integer |
-| `${TM_AD_ID}` | The ad key (adKey). **(The ad ID isn't the dbase key for ads?)** | string |
+| `${TM_AD_ID}` | The ad key (adKey). | string |
 | `${TM_AD_ID_NUM}` | The ad ID. | integer |
 | `${TM_ADVERTISER_ID}` | The advertiser ID. | integer |
-| `${TM_CAMPAIGN_ID}` | <!-- verify -->**Not included, but is there a macro for this?**  | string |
 | `${TM_CAMPAIGN_ID_NUM}` | The campaign ID. | integer |
 |` ${TM_CLICK_URL}` | The redirect URL, which enables ad servers to track and count ad clicks. When the ad is served, if the user clicks it, the macro is activated and the click is recorded and counted for reporting purposes. | string |
 |` ${TM_CLICK_URL_URLENC}` | The encoded redirect URL, which enables ad servers to track and count ad clicks. When the ad is served, if the user clicks it, the macro is activated and the click is recorded and counted for reporting purposes. Don't use this macro unless you are creating third-party ads and your vendor requires URL encoding. | string |
@@ -30,9 +31,9 @@ Use general tracking macros across all ad and tag types to pass back specific da
 | `${TM_FEED_ID_NUM}` | The ID for the media placement. | integer |
 |` ${TM_MACRO_PLACEMENT_SITE_KEY` | The site key for the placement. Required for [!DNL AppsFlyer] click trackers for mobile app install ads | **key (I don't think that's a valid data type?)**<!-- is that a valid type? --> |
 |` ${TM_MACRO_PROMOTED_AD_KEY}` | The promoted ad key for the placement. Required for [!DNL AppsFlyer] click trackers for mobile app install ads | **key (I don't think that's a valid data type?)**<!-- is that a valid type? --> |
-| `${TM_PLACEMENT_ID}` | The placement key (cpKey). <!--?? what's this? --> | string |
+| `${TM_PLACEMENT_ID}` | The placement key (cpKey). | string |
 | `${TM_PLACEMENT_ID_NUM}` | The placement ID. | integer |
-| `${TM_RANDOM}` | Cachebuster: a random number between 1 and 1000000 | <!-- verify -->**integer?** |
+| `${TM_RANDOM}` | Cachebuster: a random number between 1 and 1000000 | <integer |
 | `${TM_SESSION_ID}` | The ID of the session, which corresponds to a single retrieval of the ad tag. | string |
 | `${TM_SITE_DOMAIN_URLENC}` | The page subdomain parsed from the URL in the bid request; URL-encoded. Not supported for in-banner, click-to-play ads. | string |
 |` ${TM_SITE_NAME}` | The site name for the placement. | string|
