@@ -53,7 +53,7 @@ The following measurement solution packages are available to validate the succes
 
 ## Finding the Perfect Measurement Fit: Solutions by Vertical
 
-* Any Vertical
+* **Any Vertical:**
 
   * Experiment Designer (Placebo and A/B Testing)
 
@@ -73,13 +73,13 @@ The following measurement solution packages are available to validate the succes
 
       Any client looking to measure brand awareness and perception across multiple screens; best suited for niche audiences
 
-* QSR, Retail (Brick and Mortar)
+* **QSR, Retail (Brick and Mortar):**
 
   * Transaction Measurement
 
   * Foot Traffic Measurement
 
-* QSR, Retail, Travel
+* **QSR, Retail, Travel:**
 
   * Transaction Insights
 
