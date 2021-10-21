@@ -30,7 +30,7 @@ index: yes
     + [Ads Requirements Policy](https://experienceleague.adobe.com/docs/advertising-cloud/policies/ad-requirements-policy.html)
     + [Acceptable Health Segment Guidelines](https://experienceleague.adobe.com/docs/advertising-cloud/policies/health-segment-guidelines.html)
     + [[!DNL DSP] Data Usage Guidelines](https://experienceleague.adobe.com/docs/advertising-cloud/policies/data-usage-guidelines.html)
-  + [Available [!DNL Advanced Measurement Solutions]](/help/dsp/introduction/advanced-measurement-services.md)
+  + [Advanced Measurement Solutions](/help/dsp/introduction/advanced-measurement-services.md)
 + Campaign Management {#campaign-management}
   + [Overview of Campaign Management Structure](/help/dsp/campaign-management/campaign-management-overview.md)
   + Campaigns {#campaigns}
