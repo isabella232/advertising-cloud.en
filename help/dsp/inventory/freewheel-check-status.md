@@ -24,7 +24,7 @@ See if ads submissions to [!DNL Freewheel] were successful. You can resubmit any
 
 1. (Optional) To resubmit an ad for approval, hold the cursor over the ad row, and then click **[!UICONTROL More] > [!UICONTROL Resubmit]**.
 
-For any additional questions or issues with resubmission, contact your Adobe account manager.
+For any additional questions or issues with resubmission, contact your [!DNL Adobe] account manager.
 
 >[!MORELIKETHIS]
 >

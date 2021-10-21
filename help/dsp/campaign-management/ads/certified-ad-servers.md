@@ -35,7 +35,7 @@ exl-id:
 | [!DNL Innovid] | X | X | | X | |
 | [!DNL InSkin] | | | X | | High impact skins must be served out of a 180x150 display deal ID across the Inskin inventory network. |
 | [!DNL Jivox] | | X | | | |
-| [!DNL Kargo] | | X | | | 320x50 Anchor, BYOC, Hover, Breakout, and Sidekick; 300x250 Outstream </br></br>Contact your Adobe account manager for assistance in setting up ad units. |
+| [!DNL Kargo] | | X | | | 320x50 Anchor, BYOC, Hover, Breakout, and Sidekick; 300x250 Outstream </br></br>Contact your [!DNL Adobe] account manager for assistance in setting up ad units. |
 | [!DNL Linkstorm] | | | X | | |
 | [!DNL mCanvas] | | | X | | |
 | [!DNL Medialets] | | X | | | |
