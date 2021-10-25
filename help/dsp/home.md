@@ -10,6 +10,8 @@ exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
 
 The following features are new or recently changed.
 
+<!-- | 19  October 2021 | The [!UICONTROL Deal ID] settings and other places in the user interface reflect new branding for [!DNL Magnite] SSP:<ul><li>The SSP "[!DNL Tremor]" ([!DNL Telaria]) is now "[!DNL Magnite CTV]."</li><li>[!DNL Rubicon]" is now "[!DNL Magnite DV+]," where [!DNL DV+] stands for display, video, and other formats such as audio.</li></ul> | See "[SSP Partners](/help/dsp/inventory/ssp-partners.md)." | -->
+
 | Date | Feature | Description | For More Information |
 | ---- | ------- | ----------- | -------------------- |
 | 7 October 2021 | Help | All [DSP and other Advertising CLoud documentation](https://experienceleague.adobe.com/docs/advertising-cloud.html) on [!DNL Experience League] is now machine translated into all available languages. To change the displayed language, use the “Change Language” menu at the bottom left of any page.<br>![Change language](/help/dsp/assets/change-language.png) |
