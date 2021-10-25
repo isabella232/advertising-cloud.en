@@ -41,11 +41,11 @@ A supply-side platform (SSP) is an advertising technology platform used to help 
 |[!DNL Stroer]||Adobe Advertising Cloud|No|EMEA|USD|x|x||x|x|||
 |[!DNL Taboola]||Adobe Advertising Cloud|No|US/CA|USD|x|x||||||
 |[!DNL Teads]||[!DNL TubeMogul] or Adobe Advertising Cloud|No|Outstream Video = Global<br>Display = NA + EMEA|USD|x|x||x|x|||
-|[!DNL Magnite CTV]|[!DNL Magnite CTV] (formerly [!DNL Telaria] and [!DNL Tremor])|[!DNL TubeMogul] or Adobe Advertising Cloud|Yes|Global|AUD, USD|x|x|x|||||
+|[!DNL Magnite CTV]|[!DNL Magnite] (formerly [!DNL Telaria] and [!DNL Tremor])|[!DNL TubeMogul] or Adobe Advertising Cloud|Yes|Global|AUD, USD|x|x|x|||||
+|[!DNL Tremor]|[!DNL Rhythm One]|Adobe Advertising Cloud|No|US + EMEA|USD|x|x||||||
 |[!DNL TripleLift]||[!DNL TubeMogul] or Adobe Advertising Cloud|No|Global|USD||||||x||
 |[!DNL TripleLift Display & Outstream]||[!DNL TubeMogul] or Adobe Advertising Cloud|No|Global|USD|x|x||x|x|||
 |[!DNL Triton]||Adobe Advertising Cloud|No|Global|USD|||||||x|
-|[!DNL UnRuly]|[!DNL Rhythm One]|Adobe Advertising Cloud|No|US + EMEA|USD|x|x||||||
 |[!DNL Yahoo]|[!DNL Verizon Media Group]|[!DNL TubeMogul] or Adobe Advertising Cloud|No|Global|USD||||x|x|||
 
 {style="table-layout:auto"}
