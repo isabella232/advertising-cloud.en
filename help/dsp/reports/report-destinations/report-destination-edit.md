@@ -17,7 +17,7 @@ Changes to a report destination affect the delivery of all linked custom reports
 
 1. Edit the [report destination settings](/help/dsp/reports/reports-destinations/report-destination-settings.md).
 
-4. Click **[!UICONTROL Save]**.
+1. Click **[!UICONTROL Save]**.
 
 >[!MORELIKETHIS]
 >

@@ -12,7 +12,7 @@ The details required for non-email report destinations vary by destination type.
 
 **[!UICONTROL Name]:** A name to help you identify the destination.
 
-**[!UICONTROL S3 Bucket URL]:** The full path to the folder on the [!DNL Amazon Simple Storage Service] ([!S3]) bucket to which the report will be uploaded. Example: `s3://adcloud_account/reports`
+**[!UICONTROL S3 Bucket URL]:** The full path to the folder on the [!DNL Amazon Simple Storage Service] (S3) bucket to which the report will be uploaded. Example: `s3://adcloud_account/reports`
 
 **[!UICONTROL Access Key ID]:** The Access Key ID to the ([!DNL Amazon S3]) bucket (provided by [!DNL Amazon]).
 
@@ -32,7 +32,7 @@ The details required for non-email report destinations vary by destination type.
 
 **[!UICONTROL Path (Optional)]:** The server path to which the files will be uploaded.
 
-# [!UICONTROL sFTP]
+## [!UICONTROL sFTP]
 
 **[!UICONTROL Name]:** A name to help you identify the destination.
 

@@ -13,7 +13,7 @@ exl-id:
 
 1. Specify the [report destination settings](/help/dsp/reports/reports-destinations/report-destination-settings.md), which vary by destination type.
 
-4. Click **[!UICONTROL Save]**.
+1. Click **[!UICONTROL Save]**.
 
 
 >[!MORELIKETHIS]
