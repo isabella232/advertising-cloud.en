@@ -11,7 +11,12 @@ Custom reports allow you to customize the content and delivery of your report da
 * Completely configure campaign performance reports at a granular level.
 * Choose from pre-configured report templates, and optionally customize them further.
 
-You can generate reports once, or schedule them to be generated daily, weekly, or monthly at 03:00 in the specified time zone. Once a report is generated, a notification is sent to each specified email recipient, with a link from which to download the file.
+You can generate reports once, or schedule them to be generated daily, weekly, or monthly at 03:00 in the specified time zone. Once a report is generated, it's delivered to each specified email recipient or to a linked [report destination](help/dsp/reports/reports-destinations/report-destinations-about.md), which can be one of the following types:
+
+* S3
+* FTP
+* SFTP
+* FTP SSL
 
 >[!NOTE]
 >
