@@ -11,7 +11,7 @@ exl-id:
 
 1. Click **[!UICONTROL Add Destination]**.
 
-1. Specify the [report destination settings](/help/dsp/reports/reports-destinations/report-destination-settings.md), which vary by destination type.
+1. Specify the [report destination settings](/help/dsp/reports/report-destinations/report-destination-settings.md), which vary by destination type.
 
 1. Click **[!UICONTROL Save]**.
 
