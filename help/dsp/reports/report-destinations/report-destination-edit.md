@@ -7,7 +7,7 @@ exl-id:
 
 # Edit a Report Destination
 
-Changes to a report destination affect the delivery of all linked custom reports. Make sure that the provided credentials are correct to prevent interruptions to report delivery.
+Changes to a report destination affect the delivery of all linked custom reports. Make sure that the provided credentials are valid to prevent interruptions to report delivery.
 
 1. In the main menu, click **[!UICONTROL Reports]** > **[!UICONTROL Report Destinations]**.
 

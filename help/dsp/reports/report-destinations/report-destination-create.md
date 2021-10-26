@@ -15,7 +15,6 @@ exl-id:
 
 1. Click **[!UICONTROL Save]**.
 
-
 >[!MORELIKETHIS]
 >
 >* [About [!UICONTROL Report Destinations]](/help/dsp/reports/report-destinations/report-destination-about.md)

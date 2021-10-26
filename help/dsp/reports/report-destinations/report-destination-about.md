@@ -6,7 +6,7 @@ feature: DSP Custom Reports
 
 # About [!UICONTROL Report Destinations]
 
-You can create and manage delivery locations, or [!UICONTROL report destinations], for your custom reports. Once you've set up destinations, you can set up each of your custom reports to be delivered to one or more locations of a single destination type.
+You can create and manage delivery locations, called *[!DNL report destinations]*, for your custom reports. Once you configure report destinations, you can set up each of your custom reports to be delivered to one or more locations of a single destination type. Once you save a report, you can't change the destination type.
 
 ## Available [!UICONTROL Destination Types]
 
@@ -21,13 +21,13 @@ You can create and manage delivery locations, or [!UICONTROL report destinations
 
 ## The [!UICONTROL Report Destinations] View
 
-The [!UICONTROL Report Destinations] view shows all of your previously created destinations and the number of reports linked to each. You can filter the list by destination type. 
+The [!UICONTROL Report Destinations] view shows all of your existing destinations and the number of reports linked to each. You can filter the list by destination type. 
 
 You can create new destinations, and edit and delete existing destinations, from this view.
 
 >[!NOTE]
 >
->Updates to existing report destinations with valid credentials don't impact report delivery and will continue without interruptions.
+>Updating the credentials for your existing report destinations won't interrupt report delivery, as long as the credentials are valid.
 
 ![Report Destinations](/help/dsp/assets/report-destinations.png)
 

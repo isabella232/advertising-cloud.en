@@ -7,6 +7,8 @@ exl-id:
 
 # Delete a Report Destination
 
+Deleting a report destination affects the delivery of all linked custom reports.
+
 1. In the main menu, click **[!UICONTROL Reports] > [!UICONTROL Report Destinations]**.
 
 1. Hold the cursor over the report destination row, and then click **[!UICONTROL More] > [!UICONTROL Delete]**.

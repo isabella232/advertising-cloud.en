@@ -6,7 +6,11 @@ feature: DSP Custom Reports
 
 # Report Destination Settings
 
-The details required for non-email report destinations vary by destination type. 
+The details required for non-email report destinations vary by destination type.
+
+>[!NOTE]
+>
+> You can also deliver your custom reports to email recipients, which don't require a saved report destination. You can specify email recipients, instead of saved destinations, within the report settings.
 
 ## [!UICONTROL S3]
 
