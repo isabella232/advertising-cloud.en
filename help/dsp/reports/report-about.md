@@ -11,9 +11,9 @@ Custom reports allow you to customize the content and delivery of your report da
 * Completely configure campaign performance reports at a granular level.
 * Choose from pre-configured report templates, and optionally customize them further.
 
-You can generate reports once, or schedule them to be generated daily, weekly, or monthly at 03:00 in the specified time zone. Once a report is generated, it's delivered to each specified email recipient or to a linked [report destination](help/dsp/reports/reports-destinations/report-destinations-about.md), which can be one of the following types:
+You can generate reports once, or schedule them to be generated daily, weekly, or monthly at 03:00 in the specified time zone. Once a report is generated, it's delivered to each specified email recipient or to linked [report destinations](help/dsp/reports/reports-destinations/report-destinations-about.md) of the following types:
 
-* S3
+* [!DNL Amazon Simple Storage Service] ([!DNL S3])
 * FTP
 * SFTP
 * FTP SSL
@@ -80,3 +80,4 @@ Your account settings at [!UICONTROL Settings] > [!UICONTROL Account] indicate a
 >* [Custom Report Settings](/help/dsp/reports/report-settings.md)
 >* [About In-Platform Reports](/help/dsp/campaign-management/reports/campaign-reports-about.md)
 >* [Available Report Columns](/help/dsp/reports/report-columns.md)
+>* [About [!UICONTROL Report Destinations]](/help/dsp/reports/report-destinations/report-destination-about.md)

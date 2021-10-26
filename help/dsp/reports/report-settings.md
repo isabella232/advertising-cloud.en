@@ -106,7 +106,7 @@ Learn more about [cross-device solutions](/help/dsp/introduction/features/cross-
 **[!UICONTROL Destination Type]:** Choose one of the following destination types:
 
 * *[!UICONTROL Email]:* To specify email address(es) to which to send completed reports or notifications if the report is canceled because of errors. To specify multiple addresses, separate them with commas or spaces.
-* *[!UICONTROL S3]:* To send the report to one or more S3 locations, which you'll specify in the **[!UICONTROL Destination Name]** field.
+* *[!UICONTROL S3]:* To send the report to one or more [!DNL Amazon Simple Storage Service] ([!DNL Amazon S3]) locations, which you'll specify in the **[!UICONTROL Destination Name]** field.
 * *[!UICONTROL FTP]:* To send the report to one or more FTP locations, which you'll specify in the **[!UICONTROL Destination Name]** field.
 * *[!UICONTROL sFTP]:* To send the report to one or more sFTP locations, which you'll specify in the **[!UICONTROL Destination Name]** field.
 * *[!UICONTROL FTP SSL] (Currently in Beta):* To send the report to one or more FTP SSL locations, which you'll specify in the **[!UICONTROL Destination Name]** field.
@@ -115,17 +115,19 @@ Learn more about [cross-device solutions](/help/dsp/introduction/features/cross-
 >
 >You can't change the destination type once you save the report. 
 
-**[!UICONTROL Destination Name]:** (S3, sFTP, FTP, and FTP SSL destination types only) The name(s) of the report destination to which the custom report will be sent. 
+**[!UICONTROL Destination Name]:** (S3, FTP, sFTP, and FTP SSL destination types only) The names of the report destinations to which the custom report will be sent.
 
-For destination types apart from email (S3, sFTP, FTP, or FTP SSL), multiple locations of the same type can be added to which to send completed reports by one of the following two ways: 
+* To specify an existing destination, select a destination name from the list. You can select multiple destination names separately.
 
-1. Adding pre-created Report Destinations: 
-   Based on the selected destination type, report destinations previously created will be seen in the dropdown and available for selection. For more information, please refer Report Destinations.
-1. Adding new Report Destinations: 
-* Click on 'Add New Destination' (original browser tab)
-* A new tab will open with a form to create a new destination. Fill in the required details.
-* Navigate back to the original browser tab. Click on 'Refresh Destination Names'
-* The newly added destination can now be seen in the dropdown and available for selection
+* To create a new destination:
+ 
+  1. Click **Add New Destination**.
+
+  1. Enter the [report destination settings](/help/dsp/reports/report-destinations/report-destination-settings.md), and click **Save**.
+
+  1. Back in the report settings, click **Refresh Destination Names.**
+
+      The new destination is now available from the list of existing destinations, and you can optionally add it to the report.
 
 **[!UICONTROL Frequency]:** How often to send the report: *[!UICONTROL Once]*, *[!UICONTROL Daily]*, *[!UICONTROL Weekly]*, or *[!UICONTROL Monthly]*.
 
@@ -145,4 +147,5 @@ For destination types apart from email (S3, sFTP, FTP, or FTP SSL), multiple loc
 >* [Edit a Custom Report](/help/dsp/reports/report-edit.md)
 >* [Run a Custom Report](/help/dsp/reports/report-run-now.md)
 >* [Custom Report Settings](/help/dsp/reports/report-settings.md)
+>* [About Report Destinations](/help/dsp/reports/report-destinations/report-destination-about.md)
 * [Available Report Columns](/help/dsp/reports/report-columns.md)
