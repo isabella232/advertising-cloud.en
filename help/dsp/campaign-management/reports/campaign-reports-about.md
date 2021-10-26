@@ -39,7 +39,7 @@ You also can optionally overlay the three metrics for easy detection of anomalie
 
 You can [customize the trend charts](campaign-data-visualization-manage.md) by campaign, and the same metrics are persisted across all trend charts for the campaign.
 
-### Placement Inspector
+### Placement Inspector {#placement-inspector}
 
 For each placement, you can [open a (detail view [!UICONTROL Inspector])](placement-details-view.md), which includes the following in-depth data:
 
