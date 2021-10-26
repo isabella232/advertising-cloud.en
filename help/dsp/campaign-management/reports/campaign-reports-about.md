@@ -57,7 +57,7 @@ For each placement, you can [open a (detail view [!UICONTROL Inspector])](placem
     * the estimated number of impressions at the specified frequency level
     * the estimated average frequency for the specified frequency level. This value is equal to (Estimated Impressions)/(Estimated Uniques).
 
-* **[!UICONTROL Inventory]:** Information about all deals targeted by the placement in a single view.
+* **[!UICONTROL Inventory]:** Information about all deals targeted by the placement.
 
     The [!UICONTROL Inventory] tab includes search and filter features, the same standard and custom column view options that are available on the main page, and quick action buttons in each row, such as [!UICONTROL Edit] and [!UICONTROL View Report]. The [!UICONTROL Inventory] tab enables quick troubleshooting by showing performance statistics, such as [!UICONTROL Auctions], [!UICONTROL Bids], and [!UICONTROL Win Rate]. 
 
