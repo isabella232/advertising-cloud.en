@@ -105,17 +105,15 @@ Learn more about [cross-device solutions](/help/dsp/introduction/features/cross-
 
 **[!UICONTROL Destination Type]:** Choose one of the following destination types:
 
-* *[!UICONTROL Email]:* To specify email address(es) to which to send completed reports or notifications if the report is canceled because of errors. To specify multiple addresses, separate them with commas or spaces.
 * *[!UICONTROL S3]:* To send the completed report to one or more [!DNL Amazon Simple Storage Service] ([!DNL Amazon S3]) locations, which you'll specify in the **[!UICONTROL Destination Name]** field.
+* *[!UICONTROL sFTP]:* To send the completed report to one or more SFTP locations, which you'll specify in the **[!UICONTROL Destination Name]** field.
 * *[!UICONTROL FTP]:* To send the completed report to one or more FTP locations, which you'll specify in the **[!UICONTROL Destination Name]** field.
-* *[!UICONTROL sFTP]:* To send the completed report to one or more sFTP locations, which you'll specify in the **[!UICONTROL Destination Name]** field.
 * *[!UICONTROL FTP SSL] (Currently in Beta):* To send the completed report to one or more FTP SSL locations, which you'll specify in the **[!UICONTROL Destination Name]** field.
+* *[!UICONTROL Email]:* To specify email address(es) to which to send completed reports or notifications if the report is canceled because of errors. To specify multiple addresses, separate them with commas or spaces.
 
 >[!NOTE]
 >
->* You can't change the destination type once you save the report.
-> 
->* If the report is configured for delivery to an FTP or [!DNL Amazon S3] location, you won't receive notifications if the report is canceled because of errors. If you don't receive the reports that you expect, then contact your [!DNL Adobe] account manager to find out why. 
+> You can't change the destination type once you save the report. 
 
 **[!UICONTROL Destination Name]:** (S3, FTP, sFTP, and FTP SSL destination types only) The names of the report destinations to which the custom report will be sent.
 

@@ -36,7 +36,7 @@ The details required for non-email report destinations vary by destination type.
 
 **[!UICONTROL Path (Optional)]:** The server path to which the files will be uploaded.
 
-## [!UICONTROL sFTP]
+## [!UICONTROL SFTP]
 
 **[!UICONTROL Name]:** A name to help you identify the destination.
 

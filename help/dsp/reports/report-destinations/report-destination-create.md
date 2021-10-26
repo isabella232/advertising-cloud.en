@@ -15,6 +15,10 @@ exl-id:
 
 1. Click **[!UICONTROL Save]**.
 
+>[!NOTE]
+>
+> If the report is configured for delivery to any type of FTP or [!DNL Amazon S3] location, you won't receive notifications if the report is canceled because of errors. If you don't receive the reports that you expect, then contact your [!DNL Adobe] account manager to find out why. 
+
 >[!MORELIKETHIS]
 >
 >* [About [!UICONTROL Report Destinations]](/help/dsp/reports/report-destinations/report-destination-about.md)

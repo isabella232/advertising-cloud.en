@@ -12,8 +12,8 @@ You can create and manage delivery locations, called *[!DNL report destinations]
 
 * [!DNL Amazon Simple Storage Service] ([!DNL S3])
 * FTP
-* sFTP
-* FTP SSL
+* SFTP
+* FTP SSL (in beta)
 
 >[!NOTE]
 >

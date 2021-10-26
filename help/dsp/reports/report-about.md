@@ -16,7 +16,7 @@ You can generate reports once, or schedule them to be generated daily, weekly, o
 * [!DNL Amazon Simple Storage Service] ([!DNL S3])
 * FTP
 * SFTP
-* FTP SSL
+* FTP SSL (in beta)
 
 >[!NOTE]
 >
