@@ -101,9 +101,31 @@ Learn more about [cross-device solutions](/help/dsp/introduction/features/cross-
 
 * *[!UICONTROL Event Timestamp]:* Conversions will be reported based on the date of the impression or click that caused the conversion, as determined by the specified [!UICONTROL Attribution Rule Settings].
 
-## [!UICONTROL Add Email Recipients] Section
+## [!UICONTROL Add Report Destinations] Section
 
-**[!UICONTROL Email]:** Email address(es) to which to send completed reports or notifications if the report is canceled because of errors. To specify multiple addresses, separate them with commas or spaces.
+**[!UICONTROL Destination Type]:** Choose one of the following destination types:
+
+* *[!UICONTROL Email]:* To specify email address(es) to which to send completed reports or notifications if the report is canceled because of errors. To specify multiple addresses, separate them with commas or spaces.
+* *[!UICONTROL S3]:* To send the report to one or more S3 locations, which you'll specify in the **[!UICONTROL Destination Name]** field.
+* *[!UICONTROL FTP]:* To send the report to one or more FTP locations, which you'll specify in the **[!UICONTROL Destination Name]** field.
+* *[!UICONTROL sFTP]:* To send the report to one or more sFTP locations, which you'll specify in the **[!UICONTROL Destination Name]** field.
+* *[!UICONTROL FTP SSL] (Currently in Beta):* To send the report to one or more FTP SSL locations, which you'll specify in the **[!UICONTROL Destination Name]** field.
+
+>[!NOTE]
+>
+>You can't change the destination type once you save the report. 
+
+**[!UICONTROL Destination Name]:** (S3, sFTP, FTP, and FTP SSL destination types only) The name(s) of the report destination to which the custom report will be sent. 
+
+For destination types apart from email (S3, sFTP, FTP, or FTP SSL), multiple locations of the same type can be added to which to send completed reports by one of the following two ways: 
+
+1. Adding pre-created Report Destinations: 
+   Based on the selected destination type, report destinations previously created will be seen in the dropdown and available for selection. For more information, please refer Report Destinations.
+1. Adding new Report Destinations: 
+* Click on 'Add New Destination' (original browser tab)
+* A new tab will open with a form to create a new destination. Fill in the required details.
+* Navigate back to the original browser tab. Click on 'Refresh Destination Names'
+* The newly added destination can now be seen in the dropdown and available for selection
 
 **[!UICONTROL Frequency]:** How often to send the report: *[!UICONTROL Once]*, *[!UICONTROL Daily]*, *[!UICONTROL Weekly]*, or *[!UICONTROL Monthly]*.
 
