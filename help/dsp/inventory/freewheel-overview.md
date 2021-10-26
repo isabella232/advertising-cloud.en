@@ -10,7 +10,7 @@ Setting up programmatic guaranteed deals with publishers on FreeWheel requires e
 
 >[!PREREQUISITES]
 >
->Work with your Adobe account team to ensure that your [!DNL DSP] account has the following permissions.
+>Work with your [!DNL Adobe] account team to ensure that your [!DNL DSP] account has the following permissions.
 >
 >1. Permission to use the [!DNL FreeWheel] programmatic guaranteed workflow, which is required to submit an ad for a programmatic guaranteed deal to [!DNL FreeWheel].
 >
