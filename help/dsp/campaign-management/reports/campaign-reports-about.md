@@ -75,7 +75,7 @@ For each placement, you can [open a (detail view [!UICONTROL Inspector])](placem
 | | The placement uses pre-bid filters that limit bidding. | Lower the thresholds of the pre-bid filters to allow more bidding. |
 | | Audience targeting for the placement is too restrictive. | Check if the specified audience targets have enough active users, and expand the audience if possible. |
 
-![placement Inspector](/help/dsp/assets/placement-inspector-sites.png)
+![placement Inspector](/help/dsp/assets/placement-inspector.png)
 
 You can export the data on the [!UICONTROL Sites], [!UICONTROL Ads], or [!UICONTROL Frequency] tab to your browser's default download folder as a report in XLSM format.
 
