@@ -10,7 +10,7 @@ exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
 
 The following features are new or recently changed.
 
-<!-- | 19  October 2021 | The [!UICONTROL Deal ID] settings and other places in the user interface reflect new branding for [!DNL Magnite] SSP:<ul><li>The SSP "[!DNL Tremor]" ([!DNL Telaria]) is now "[!DNL Magnite CTV]."</li><li>[!DNL Rubicon]" is now "[!DNL Magnite DV+]," where [!DNL DV+] stands for display, video, and other formats such as audio.</li></ul> | See "[SSP Partners](/help/dsp/inventory/ssp-partners.md)." | -->
+<!-- | 27  October 2021 | The [!UICONTROL Deal ID] settings and other places in the user interface reflect new branding for [!DNL Magnite] SSP:<ul><li>The SSP "[!DNL Tremor]" ([!DNL Telaria]) is now "[!DNL Magnite CTV]."</li><li>[!DNL Rubicon]" will soon change to "[!DNL Magnite DV+]," where [!DNL DV+] stands for display, video, and other formats such as audio.</li></ul> | See "[SSP Partners](/help/dsp/inventory/ssp-partners.md)." | -->
 
 | Date | Feature | Description | For More Information |
 | ---- | ------- | ----------- | -------------------- |
