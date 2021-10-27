@@ -20,7 +20,7 @@ Review the following information before you integrate Advertising Cloud with Ado
 
 >[!TIP]
 >
->To improve data fidelity, use the most recent version of the Experience Cloud Identity Service with CNAME support, as well as the most recent version of Analytics AppMeasurement for JavaScript.
+>To improve data fidelity, use the most recent version of each library.
 
 ## Requirements for Sharing Analytics Segments with Advertising Cloud
 
