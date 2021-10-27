@@ -67,7 +67,7 @@ For each placement, you can [open a (detail view [!UICONTROL Inspector])](placem
 | -----------| ---------- | ---------- |
 | [!UICONTROL Zero Auctions] | The publisher hasn't started sending bid requests. | Contact the publisher to activate the deal. |
 | | The deal was set up incorrectly, such as by entering an incorrect external deal ID. | Confirm the deal details and edit the deal. |
-| [!UICONTROL Non-zero Auctions but no Bids] | The placement targeting doesn't match the incoming bid requests for the deal. <br><br> For example, a placement might be targeting a geography that isn't eligible for the deal. | Edit the placement targets as needed to avoid targeting mismatches. |
+| [!UICONTROL Auctions but no Bids] | The placement targeting doesn't match the incoming bid requests for the deal. <br><br> For example, a placement might be targeting a geography that isn't eligible for the deal. | Edit the placement targets as needed to avoid targeting mismatches. |
 | | The placement doesn't have an active ad with the required media type for the deal. | Create and attach an ad with the correct media type to the placement. |
 | | The placement doesn't have adequate budget. | Increase the placement budget to allow bidding on incoming requests. |
 | | The placement flight dates don't overlap with the impression delivery dates for the deal. | Edit the placement's flight dates as needed. |
