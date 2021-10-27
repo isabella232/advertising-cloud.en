@@ -20,7 +20,7 @@ index: yes
         + [Advertising Cloud Metrics in Analysis Workspace](/help/integrations/analytics/advertising-cloud-metrics-in-analytics.md)
         + [[!DNL Analytics] Data in Advertising Cloud](/help/integrations/analytics/analytics-data-in-advertising-cloud.md)
         + [Expected Data Variances Between [!DNL Analytics] and Advertising Cloud](/help/integrations/analytics/data-variances.md)
-    + Working in [!DNL Analytics Marketing Channels]] {#mc}
+    + Working in [!DNL Analytics Marketing Channels] {#mc}
         + [Fundamentals of [!DNL Marketing Channels]](/help/integrations/analytics/marketing-channels/mc-overview.md)
         + [Using Advertising Cloud IDs to Create [!DNL Marketing Channels] Processing Rules](/help/integrations/analytics/marketing-channels/mc-ids.md)
         + [Using [!DNL Marketing Channels] with Advertising Cloud Data](/help/integrations/analytics/marketing-channels/mc-ac-data.md)
