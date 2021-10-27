@@ -21,7 +21,7 @@ You can further [customize the data tables](campaign-data-views-about.md) in add
 
 To view a campaign in more detail, click the campaign name.
 
-## Single Campaign Reporting
+## Single Campaign Reporting {#single-campaign-reporting}
 
 Within a campaign, you can filter data based on the campaign entity: [!UICONTROL Packages], [!UICONTROL Placements], and [!UICONTROL Ads]. You can further [filter the visible data](campaign-data-filter.md) to include only the packages, placements, or ads that you want to see.
 
