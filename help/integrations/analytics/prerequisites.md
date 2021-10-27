@@ -12,7 +12,9 @@ Review the following information before you integrate Advertising Cloud with Ado
 
 ## Requirements for Reporting Advertising Cloud Data in [!DNL Analytics]
 
-* Experience Cloud Identity Service: `visitorAPI.js` version 2.0 or higher
+* Either of the following:
+  * Adobe Experience Platform Web SDK: `alloy.js`
+  * Experience Cloud Identity Service: `visitorAPI.js` version 2.0 or higher
 * Any version of Adobe Analytics (including [!DNL Prime], [!DNL Premium], or [!DNL Ultimate])
 * Adobe Analytics: `appMeasurement.js` version 2.1 or higher
 
