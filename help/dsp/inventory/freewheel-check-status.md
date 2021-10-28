@@ -8,6 +8,10 @@ exl-id:
 
 See if ads submissions to [!DNL Freewheel] were successful. You can resubmit any ad as needed.
 
+For any additional questions or issues with resubmission, contact your [!DNL Adobe] account manager.
+
+## Check the Status from the [!UICONTROL Deals] View
+
 1. In the main menu, click **[!UICONTROL Inventory] > [!UICONTROL Deals].**
 
 1. Do either of the following:
@@ -24,7 +28,17 @@ See if ads submissions to [!DNL Freewheel] were successful. You can resubmit any
 
 1. (Optional) To resubmit an ad for approval, hold the cursor over the ad row, and then click **[!UICONTROL More] > [!UICONTROL Resubmit]**.
 
-For any additional questions or issues with resubmission, contact your [!DNL Adobe] account manager.
+## Check the Status from the [!UICONTROL Ads] View
+
+1. In the main menu, click **[!UICONTROL Campaigns]**.
+
+1. Click the name of the campaign.
+
+1. In the submenu, click **[!UICONTROL Ads]**.
+
+1. Next to the ad name, click  **... > [!UICONTROL see Freewheel status]**.
+
+1. (Optional) To resubmit an ad for approval, hold the cursor over the ad row, and then click **[!UICONTROL More] > [!UICONTROL Resubmit]**.
 
 >[!MORELIKETHIS]
 >
