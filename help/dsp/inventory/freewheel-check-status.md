@@ -42,7 +42,7 @@ For any additional questions or issues with resubmission, contact your [!DNL Ado
 
 >[!MORELIKETHIS]
 >
->* [Overview of Setting up Programmatic Guaranteed Deals in FreeWheel](freewheel-overview.md)
->* [Submit an Ad for a Programmatic Guaranteed Deal to FreeWheel](freewheel-submit.md)
->* [Error Codes for FreeWheel Ad Submissions](freewheel-error-codes.md)
+>* [Overview of Setting up Programmatic Guaranteed Deals in [!DNL Freewheel]](freewheel-overview.md)
+>* [Submit an Ad for a Programmatic Guaranteed Deal to [!DNL Freewheel]](freewheel-submit.md)
+>* [Error Codes for [!DNL Freewheel] Ad Submissions](freewheel-error-codes.md)
 >* [Accept a Deal in the Deal ID Inbox](deal-id-inbox-accept.md)

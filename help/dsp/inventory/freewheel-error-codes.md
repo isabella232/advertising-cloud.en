@@ -23,7 +23,7 @@ The error messages for failed ad submissions can come from either Advertising Cl
 
 {style="table-layout:auto"}
 
-## FreeWheel API Errors
+## [!DNL Freewheel] API Errors
 
 |Code|Meaning|Description|Next Steps|
 |--- |--- |--- |--- |
@@ -37,7 +37,7 @@ The error messages for failed ad submissions can come from either Advertising Cl
 
 {style="table-layout:auto"}
 
-## FreeWheel API 422 Errors {#freewheel-422-errors}
+## [!DNL Freewheel] API 422 Errors {#freewheel-422-errors}
 
 |Code|HTTP Code|Description|
 |--- |--- |--- |
@@ -58,7 +58,7 @@ The error messages for failed ad submissions can come from either Advertising Cl
 
 >[!MORELIKETHIS]
 >
->* [Overview of Setting up Programmatic Guaranteed Deals in FreeWheel](/help/dsp/inventory/freewheel-overview.md)
+>* [Overview of Setting up Programmatic Guaranteed Deals in [!DNL Freewheel]](/help/dsp/inventory/freewheel-overview.md)
 >* [Accept a Deal in the Deal ID Inbox](deal-id-inbox-accept.md)
->* [Submit an Ad for a Programmatic Guaranteed Deal to FreeWheel](/help/dsp/inventory/freewheel-submit.md)
+>* [Submit an Ad for a Programmatic Guaranteed Deal to [!DNL Freewheel]](/help/dsp/inventory/freewheel-submit.md)
 >* [Check the Status of Ads for [!DNL FreeWheel] Programmatic Guaranteed Deals](/help/dsp/inventory/freewheel-check-status.md)
