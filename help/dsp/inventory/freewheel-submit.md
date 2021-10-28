@@ -34,7 +34,7 @@ Once you [accept a programmatic guaranteed deal with a publisher on FreeWheel](#
 
        * Next to the ad name, click  **[!UICONTROL ...] > [!UICONTROL submit to FreeWheel]**.
 
-       * In the main menu, click **[!UICONTROL Inventory] > [!UICONTROL Deals].** 1. In the deal row, click ![Options menu](/help/dsp/assets/options-menu.png) **> [!UICONTROL submit to FreeWheel]**.
+       * In the main menu, click **[!UICONTROL Inventory] > [!UICONTROL Deals].** In the deal row, click ![Options menu](/help/dsp/assets/options-menu.png) **> [!UICONTROL submit to FreeWheel]**.
 
     1. Verify the deal ID, enter the **[!UICONTROL Ad Key]** you copied in Step 1, and then click **[!UICONTROL Submit]**.
 
