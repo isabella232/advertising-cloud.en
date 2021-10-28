@@ -32,7 +32,7 @@ Once you [accept a programmatic guaranteed deal with a publisher on FreeWheel](#
 
 1. [Copy the ad key for the ad](#copy-ad-key).
 
-1. Next to the ad name, click  **[!UICONTROL ...] > [!UICONTROL submit to [!DNL FreeWheel]**.
+1. Next to the ad name, click  **[!UICONTROL ...] > [!UICONTROL submit to FreeWheel]**.
 
 1. Verify the deal ID, enter [the **[!UICONTROL Ad Key]**](#copy-ad-key), and then click **[!UICONTROL Submit]**.
 
@@ -46,7 +46,7 @@ Once you [accept a programmatic guaranteed deal with a publisher on FreeWheel](#
 
 1. In the main menu, click **[!UICONTROL Inventory] > [!UICONTROL Deals].**
 
-1. In the deal row, click ![Options menu](/help/dsp/assets/options-menu.png) **> [!UICONTROL submit to [!DNL FreeWheel]]**.
+1. In the deal row, click ![Options menu](/help/dsp/assets/options-menu.png) **> [!UICONTROL submit to FreeWheel]**.
 
 1. Verify the deal ID, enter [the **[!UICONTROL Ad Key]**](#copy-ad-key), and then click **[!UICONTROL Submit]**.
 
