@@ -29,7 +29,7 @@ Within a campaign, you can filter data based on the campaign entity: [!UICONTROL
 
 In each entity tab, each row includes pacing and delivery metrics, by default, but you can [change the column view](column-view-change.md) or even [create a custom column view](column-view-create.md) to apply across all subtabs for the campaign. You can further [customize the data tables](campaign-data-views-about.md) in additional ways. Each data table includes a [!UICONTROL Subtotals] row, which shows either the sum or the average value of each metric across all visible rows.
 
-For each campaign, you can also customize time series trend charts with three metrics, which are available in each entity view. By default, data for [!UICONTROL Net Spend], [!UICONTROL Impressions], and [!UICONTROL Net CPM] are included in separate charts (trellis charts). You can optionally change the metrics. To enable hourly data in the time series trend charts, change your date selection to a single day (today, yesterday, or a specific day).  
+For each campaign, you can also customize time series trend charts with three metrics, which are available in each entity view. By default, data for [!UICONTROL Net Spend], [!UICONTROL Impressions], and [!UICONTROL Net CPM] are included in separate charts (trellis charts). You can optionally change the metrics. To enable hourly data in the time series trend charts, change your date selection to a single day ([!UICONTROL Today], [!UICONTROL Yesterday], or a specific day).  
 
 ![separate trend charts for three metrics](/help/dsp/assets/trend-chart-separate.png)
 
