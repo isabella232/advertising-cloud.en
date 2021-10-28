@@ -75,6 +75,8 @@ Contact your [!DNL Adobe] account manager for the latest supported ad environmen
 
 ## Things to Know Before You Implement
 
+*  The Advertising Cloud implementation team will set up the integration.
+
 * No additional costs are billed for this integration, nor do server calls result in additional [!DNL Analytics] or Advertising Cloud fees.
 
 * [!DNL Analytics for Advertising Cloud] is ad server-agnostic: a view-through or click-through may occur from any ad server, and the proper IDs are generated upon site entry.
