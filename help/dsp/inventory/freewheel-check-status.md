@@ -10,6 +10,18 @@ See if ads submissions to [!DNL Freewheel] were successful. You can resubmit any
 
 For any additional questions or issues with resubmission, contact your [!DNL Adobe] account manager.
 
+## Check the Status from the [!UICONTROL Ads] View
+
+1. In the main menu, click **[!UICONTROL Campaigns]**.
+
+1. Click the name of the campaign.
+
+1. In the submenu, click **[!UICONTROL Ads]**.
+
+1. Next to the ad name, click  **[!UICONTROL ...] > [!UICONTROL see Freewheel status]**.
+
+1. (Optional) To resubmit an ad for approval, hold the cursor over the ad row, and then click **[!UICONTROL More] > [!UICONTROL Resubmit]**.
+
 ## Check the Status from the [!UICONTROL Deals] View
 
 1. In the main menu, click **[!UICONTROL Inventory] > [!UICONTROL Deals].**
@@ -25,18 +37,6 @@ For any additional questions or issues with resubmission, contact your [!DNL Ado
    The [!UICONTROL Submission Status] column indicates whether or not the ad was submitted and approved.
    
    For failed submissions, the [!UICONTROL API] Response column indicates the error. For a full list of error codes for failed submissions, and next steps to correct them, see "[Error Codes for [!DNL FreeWheel] Ad Submissions](freewheel-error-codes.md)."
-
-1. (Optional) To resubmit an ad for approval, hold the cursor over the ad row, and then click **[!UICONTROL More] > [!UICONTROL Resubmit]**.
-
-## Check the Status from the [!UICONTROL Ads] View
-
-1. In the main menu, click **[!UICONTROL Campaigns]**.
-
-1. Click the name of the campaign.
-
-1. In the submenu, click **[!UICONTROL Ads]**.
-
-1. Next to the ad name, click  **... > [!UICONTROL see Freewheel status]**.
 
 1. (Optional) To resubmit an ad for approval, hold the cursor over the ad row, and then click **[!UICONTROL More] > [!UICONTROL Resubmit]**.
 
