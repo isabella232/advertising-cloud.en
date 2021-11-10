@@ -152,7 +152,7 @@ index: yes
       + Manually-entered Deal IDs {#manual}
         + [Manually Create [!UICONTROL Deal ID] Details](/help/dsp/inventory/deal-id-create.md)
         + [Manual [!UICONTROL Deal ID] Settings](/help/dsp/inventory/deal-id-settings.md)
-      + [Edit an Accepted Deal That the Publisher Has Modified](/help/dsp/inventory/deal-id-inbox-edit.md)
+      + [Edit an Accepted Deal That the Publisher Has Modified](/help/dsp/inventory/deal-id-edit.md)
       + Programmatic Guaranteed Deals {#programmatic-guaranteed-deal}
         + [Overview of Programmatic Guaranteed Deals](/help/dsp/inventory/programmatic-guaranteed-about.md)
         + [Tips for Negotiating a Programmatic Guaranteed Deal](/help/dsp/inventory/programmatic-guaranteed-tips.md)
