@@ -30,8 +30,8 @@ exl-id:
 
 1. Send the event-tracking pixels to the publisher for implementation in either of the following ways:
 
-  * (Optional) From the [!UICONTROL Activate Tag with Publisher] screen, send the deal tag to the publisher.
-
+   * (Optional) From the [!UICONTROL Activate Tag with Publisher] screen, send the deal tag to the publisher.
+   
      When you finish the previous steps, DSP generates an email message that you can send to the publisher. The message includes the deal details, a link from which to retrieve the deal tag, and an authorization code for the link.
 
      1. Review the deal details, and then do either of the following:
@@ -42,8 +42,8 @@ exl-id:
     
       1. (If necessary) Follow up with the publisher to see if the tag includes the appropriate macros so that the tag will work with the publisher's ad server.
 
-  * (Optional) Manually send the event-tracking pixels to the publisher: 
-
+   * (Optional) Manually send the event-tracking pixels to the publisher:
+   
      1. In the deal row within the [!UICONTROL Deals] view, click ![Options menu](/help/dsp/assets/options-menu.png) **> [!UICONTROL show pixel]**.
      
          The event pixels include a [!UICONTROL Clickthrough] pixel and an [!UICONTROL Impression] pixel. Video and audio ads also include event pixels by quartile completed (from [!UICONTROL 25% Complete] to [!UICONTROL 100% Complete]).

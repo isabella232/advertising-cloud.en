@@ -14,11 +14,11 @@ You can create and assign tags to deal IDs to group similar deals together. When
 
 1. In the [!UICONTROL Ad & Deal Tagging] settings, do any of the following:
 
-  * To assign an existing tag to the deal, select the check box next to the deal in the [!UICONTROL Custom Tags] list.
+   * To assign an existing tag to the deal, select the check box next to the deal in the [!UICONTROL Custom Tags] list.
 
-  * To create a new tag and associate it with the deal, enter the tag name in the **[!UICONTROL Create new tag(s)]** field, and then click **[!UICONTROL Create and Associate Tag]**.
+   * To create a new tag and associate it with the deal, enter the tag name in the **[!UICONTROL Create new tag(s)]** field, and then click **[!UICONTROL Create and Associate Tag]**.
   
-  * To remove an existing tag from the deal, clear the check box next to the deal in the [!UICONTROL Custom Tags] list.
+   * To remove an existing tag from the deal, clear the check box next to the deal in the [!UICONTROL Custom Tags] list.
 
 1. Click **[!UICONTROL Update]**.
 
