@@ -14,7 +14,7 @@ The event pixels include a [!UICONTROL Clickthrough] pixel and an [!UICONTROL Im
 
 1. In the deal row, click ![Options menu](/help/dsp/assets/options-menu.png) **> [!UICONTROL show pixel]**.
 
-1.	Copy the event-tracking pixels and provide them to your publisher.
+1. Copy the event-tracking pixels and provide them to your publisher.
 
 >[!MORELIKETHIS]
 >

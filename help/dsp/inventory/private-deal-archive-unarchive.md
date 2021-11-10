@@ -10,7 +10,7 @@ Hide a private deal that isn't being used, without deactivating it, by archiving
 
 You can unarchive a deal to restore its previous status at any time.
 
->[!NOTES]
+>[!NOTE]
 >
 >* You can't archive [!UICONTROL On Demand] deals.
 >* To deactivate a deal, contact your Platform Strategist.

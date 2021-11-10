@@ -15,9 +15,9 @@ exl-id:
 
 1. In the deal row, click  ![Options menu](/help/dsp/assets/options-menu.png) **> [!UICONTROL manage advertisers]**.
 
-1.	Select the check box next to each advertiser who should have access to the deal, and clear the check box next to each advertiser who shouldn't have access.
+1. Select the check box next to each advertiser who should have access to the deal, and clear the check box next to each advertiser who shouldn't have access.
 
-1.	Click **[!UICONTROL Update]**.
+1. Click **[!UICONTROL Update]**.
 
 >[!MORELIKETHIS]
 >* [About Private Inventory](private-inventory-about.md)

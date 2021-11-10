@@ -12,11 +12,11 @@ For programmatic guaranteed (PG) deals, you can create new placements with speci
 
 You can also [attach new ads to existing placements](/help/dsp/campaign-management/ads/ad-attach-to-placement.md) associated with PG and non-guaranteed deals at any time.
 
-# Specify a Non-Guaranteed Deal as an Inventory Target for a Placement
+## Specify a Non-Guaranteed Deal as an Inventory Target for a Placement
 
 * [Create a placement from the [!UICONTROL Placements] view](/help/dsp/campaign-management/placements/placement-create.md). In the [!UICONTROL Inventory Targeting] settings, select the private deal.
 
-# Attach Placements and Ads to a PG Deal
+## Attach Placements and Ads to a PG Deal
 
 1. In the main menu, click **[!UICONTROL Inventory] > [!UICONTROL Deals].**
 

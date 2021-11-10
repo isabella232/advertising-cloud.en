@@ -39,7 +39,7 @@ exl-id:
 | **[!UICONTROL Third Party Fee Description]** | (Optional) A description of the third-party fees. |
 | **[!UICONTROL Flight Dates]** | The start and end dates for traffic using this deal. The flight dates must be included within the campaign flight dates. The ad tags will return a response only during the specified flight.<br><br> The best practice to create a separate simple ad serving campaign with a year-long duration and to build tracking pixels within it. |
 | **[!UICONTROL Impressions]** | (Optional) The estimated number of impressions you expect to run using this deal. This value is used for tracking purposes only and to flag when delivery goals are met; the publisher controls actual ad delivery. The best practice is to enter a high number of impressions to keep the tag active within DSP so it can be renewed or extended if needed. |
-| **[!UICONTROL Deal Name]** | The deal name. Enter a name, or select *[!UICONTROL Auto Generate Deal Name]* to let DSP generate a name based on the deal details.<br><br>Example of an auto generated name: `Campaign-desktop_video_preroll_15-24Kitchen-$10_USD-jdoe-SAS`
+| **[!UICONTROL Deal Name]** | The deal name. Enter a name, or select *[!UICONTROL Auto Generate Deal Name]* to let DSP generate a name based on the deal details.<br><br>Example of an auto generated name: `Campaign-desktop_video_preroll_15-24Kitchen-$10_USD-jdoe-SAS` |
 | **[!UICONTROL Attached Ads]** | (Read-only) The ads that are part of the deal. To edit an ad, click the ad name. To remove an ad from the deal, click **[!UICONTROL X]** next to the ad name. |
 
 {style="table-layout:auto"}
