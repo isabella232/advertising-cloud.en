@@ -144,6 +144,7 @@ index: yes
     + [Re-request [!DNL On Demand] Premium Inventory Deals](/help/dsp/inventory/on-demand-inventory-rerequest.md)
     + [View the Status of Your [!DNL On Demand] Deal Requests and Subscriptions](/help/dsp/inventory/on-demand-inventory-view-status.md)
   + Private Inventory {#private-inventory}
+    + [About Private Inventory](/help/dsp/inventory/private-inventory-about.md)
     + Deal IDs {#deal-ids}
       + [!UICONTROL Deal ID Inbox] {#inbox}
         + [About the [!UICONTROL Deal ID Inbox]](/help/dsp/inventory/deal-id-inbox-about.md)
@@ -151,15 +152,29 @@ index: yes
       + Manually-entered Deal IDs {#manual}
         + [Manually Create [!UICONTROL Deal ID] Details](/help/dsp/inventory/deal-id-create.md)
         + [Manual [!UICONTROL Deal ID] Settings](/help/dsp/inventory/deal-id-settings.md)
-    + Programmatic Guaranteed Deals {#programmatic-guaranteed-deal}
-      + [Overview of Programmatic Guaranteed Deals](/help/dsp/inventory/programmatic-guaranteed-about.md)
-      + [Tips for Negotiating a Programmatic Guaranteed Deal](/help/dsp/inventory/programmatic-guaranteed-tips.md)
-      + [Set up a Programmatic Guaranteed Deal](/help/dsp/inventory/programmatic-guaranteed-set-up.md)
-      + [!DNL FreeWheel] Programmatic Guaranteed Deals {#freewheel}
+      + [Edit an Accepted Deal That the Publisher Has Modified](/help/dsp/inventory/deal-id-inbox-edit.md)
+      + Programmatic Guaranteed Deals {#programmatic-guaranteed-deal}
+        + [Overview of Programmatic Guaranteed Deals](/help/dsp/inventory/programmatic-guaranteed-about.md)
+        + [Tips for Negotiating a Programmatic Guaranteed Deal](/help/dsp/inventory/programmatic-guaranteed-tips.md)
+        + [Set up a Programmatic Guaranteed Deal](/help/dsp/inventory/programmatic-guaranteed-set-up.md)
+        + [!DNL FreeWheel] Programmatic Guaranteed Deals {#freewheel}
         + [Overview of Setting up Programmatic Guaranteed Deals in [!DNL FreeWheel]](/help/dsp/inventory/freewheel-overview.md)
         + [Submit an Ad for a Programmatic Guaranteed Deal to [!DNL FreeWheel]](/help/dsp/inventory/freewheel-submit.md)
         + [Check the Status of Ads for [!DNL FreeWheel] Programmatic Guaranteed Deals](/help/dsp/inventory/freewheel-check-status.md)
         + [Error Codes for FreeWheel Ad Submissions](/help/dsp/inventory/freewheel-error-codes.md)
+    + [Edit Deal ID Settings](/help/dsp/inventory/deal-id-edit.md)
+    + [Specify Placements and Ads for a Deal ID](/help/dsp/inventory/deal-id-attach-placements.md)
+    + [Edit the Accounts with Access to a Deal ID](/help/dsp/inventory/deal-id-share.md)
+    + [Edit the Advertisers with Access to a Deal ID](/help/dsp/inventory/deal-id-edit-advertisers.md)
+    + [Edit the Attribute Tags for a Deal ID](/help/dsp/inventory/deal-id-edit-attribute-tags.md)
+    + [List the Placements and Ads for a Private Deal](/help/dsp/inventory/private-deal-view-placements.md)
+    + [View a Detailed Report for a Private Deal](/help/dsp/inventory/private-deal-view-report.md)
+    + [Archive or Unarchive a Private Deal](/help/dsp/inventory/private-deal-archive-unarchive.md)
+    + [!UICONTROL Simple Ad Serving] Deals {#sas}
+      + [About [!UICONTROL Simple Ad Serving]](/help/dsp/inventory/simple-deal-about.md)
+      + [Create a [!UICONTROL Simple Ad Serving] Deal](/help/dsp/inventory/simple-deal-create.md)
+      + [[!UICONTROL Simple Ad Serving] Deal Settings](/help/dsp/inventory/simple-deal-settings.md)
+      +  [View Event-Tracking Pixels for a [!UICONTROL Simple Ad Serving] Deal](/help/dsp/inventory/simple-deal-show-pixels.md)
 + Custom Reports {#custom-reports}
   + [About Custom Reports](/help/dsp/reports/report-about.md)
   + [Create a Custom Report](/help/dsp/reports/report-create.md)
