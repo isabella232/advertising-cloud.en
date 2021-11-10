@@ -13,7 +13,7 @@ A programmatic guaranteed (PG) deal is a guaranteed buy directly with a publishe
 * The deal is always billed through DSP.
 * The deal has a fixed price and quantity.
 * The publisher or supply side platform (SSP) handles all budget pacing, budget capping, and any targeting.
-* Typically, the deal has a higher priority in publisher’s ad server
+* Typically, the deal has a higher priority in publisher’s ad server.
 * Bid requests aren't exclusive to a single deal or buyer.
 * Multiple types of video are supported on a single deal ID.
 * The SSPs and publishers have delivery SLAs.
