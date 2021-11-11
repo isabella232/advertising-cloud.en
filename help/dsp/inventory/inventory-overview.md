@@ -30,4 +30,4 @@ Set up and manage private marketplace deals (PMPs), which are deals that you've 
 >* [About the Deal ID Inbox](deal-id-inbox-about.md)
 >* [About Programmatic Guaranteed Deals](programmatic-guaranteed-about.md)
 >* [SSP Partners](ssp-partners.md)
-<!-- >* [About Private Inventory](private-inventory-about.md) -->
+>* [About Private Inventory](private-inventory-about.md)

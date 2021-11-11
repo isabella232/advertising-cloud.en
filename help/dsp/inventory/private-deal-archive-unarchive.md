@@ -41,4 +41,4 @@ If the feed was previously deactivated and you want to use it again, contact you
 >[!MORELIKETHIS]
 >
 >* [About Private Inventory](private-inventory-about.md)
->* [Edit Private Deal Settings](/help/dsp/inventory/private-deal-edit.md)
+>* [Edit Private Deal Settings](/help/dsp/inventory/deal-id-edit.md)

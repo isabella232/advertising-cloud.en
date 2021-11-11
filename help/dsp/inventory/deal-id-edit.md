@@ -27,5 +27,5 @@ Changes to an accepted deal aren't synced from the SSP. If you've accepted a dea
 >* [Manually Create Deal ID Details](deal-id-create.md)
 >* [Manual Deal ID Settings](deal-id-settings.md)
 >* [Set up a Programmatic Guaranteed Deal](programmatic-guaranteed-set-up.md)
->* [Attach Placements and Ads to a Private Deal](/help/dsp/inventory/private-deal-attach-placements.md)
+>* [Attach Placements and Ads to a Private Deal](/help/dsp/inventory/deal-id-attach-placements.md)
 >* [Archive or Unarchive a Private Deal](/help/dsp/inventory/private-deal-archive-unarchive.md)

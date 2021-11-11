@@ -25,4 +25,4 @@ You can create and assign tags to deal IDs to group similar deals together. When
 >[!MORELIKETHIS]
 >
 >* [About Private Inventory](private-inventory-about.md)
->* [Edit Private Deal Settings](/help/dsp/inventory/private-deal-edit.md)
+>* [Edit Private Deal Settings](/help/dsp/inventory/deal-id-edit.md)
