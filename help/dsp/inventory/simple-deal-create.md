@@ -20,7 +20,7 @@ exl-id:
       
          * For existing ads, select the ads.
         
-         * For new ads, create the new [first-party ad](/help/dsp/campaign-management/ads/ad-create.md) or [third-party ad](/help/dsp/campaign-management/ads/ad-create-third-party).
+         * For new ads, create the new [first-party ad](/help/dsp/campaign-management/ads/ad-create.md) or [third-party ad](/help/dsp/campaign-management/ads/ad-create-third-party.md).
 
        1. Click **[!UICONTROL Next]**.
 
