@@ -10,7 +10,7 @@ exl-id: ed1aab7b-9bd0-4d42-9bfb-9c6fa6db76bc
 
 *Applicable to Advertising Cloud DSP and Advertising Cloud Search*
 
-Advertising Cloud uses two IDs for onsite performance tracking:  the EF ID and the AMO ID.
+Advertising Cloud uses two IDs for onsite performance tracking:  the *EF ID* and the *AMO ID*.
 
 When an ad impression occurs, Advertising Cloud creates the AMO ID and EF ID values and stores them. When a visitor who has seen an ad enters the site without clicking an ad, [!DNL Analytics] calls these values from Advertising Cloud through the [!DNL Analytics for Advertising Cloud] JavaScript code. For view-through traffic, [!DNL Analytics] generates a supplemental ID (`SDID`), which is used to stitch the EF ID and AMO ID into [!DNL Analytics]. For click-through traffic, these IDs are included in the landing page URL using the `s_kwcid` and `ef_id` query string parameters.
 
