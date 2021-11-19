@@ -63,13 +63,13 @@ Example `EF `ID: WcmibgAAAHJK1RyY:1551968087687:d
 
 In [!DNL Analytics] reports, you can find EF ID data by searching for the [!UICONTROL EF ID] dimension and using the [!UICONTROL EF ID Instance] metric.
 
-`EF IDs` are subject to the 500k unique identifier limit in Analysis Workspace. Once the 500k value is reached, all new tracking codes are reported under the one-line-item title “[!UICONTROL Low Traffic].” Because of the possibility of missing reporting fidelity, the `EF IDs` are not classified, and you should not use them for segments or reporting in [!DNL Analytics].
+EF IDs are subject to the 500k unique identifier limit in Analysis Workspace. Once the 500k value is reached, all new tracking codes are reported under the one-line-item title “[!UICONTROL Low Traffic].” Because of the possibility of missing reporting fidelity, the EF IDs are not classified, and you should not use them for segments or reporting in [!DNL Analytics].
 
 ## Advertising Cloud AMO IDs
 
 The AMO ID tracks each unique ad combination at a less granular level and is used for [!DNL Analytics] data classification and ingestion of advertising metrics (such as impressions, clicks, and cost) from Advertising Cloud. The AMO ID is stored in an [!DNL Analytics] [eVar](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) or rVar dimension (AMO ID) and is used exclusively for reporting in [!DNL Analytics].
 
-The AMO ID is also called the `s_kwcid`, which is sometimes referred to as "the squid."
+The AMO ID is also called the `s_kwcid`, which is sometimes pronounced as "[!DNL the squid]."
 
 ### AMO ID Format for [!DNL DSP]
 
