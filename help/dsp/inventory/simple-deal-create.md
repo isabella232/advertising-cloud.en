@@ -12,15 +12,18 @@ exl-id:
 
 1. Enter the [deal settings](simple-deal-settings.md):
 
-   1. In the [!UICONTROL Select Ad Source] section, specify information about the publisher and ad type, and then click **[!UICONTROL Next]**.
+   1. In the [!UICONTROL Select Ad Source] section, specify information about the publisher, advertiser and campaign, and ad type, and then click **[!UICONTROL Next]**.
    
-   1. In the [!UICONTROL Select Ad(s)] section, specify the ad:
+   1. In the [!UICONTROL Select Ad(s)] section, specify an ad to use as a proxy in DSP:
 
        1. Do either of the following:
       
-         * For existing ads, select the ads.
+         * For existing ads, select the ads to use.
         
-         * For new ads, create the new [first-party ad](/help/dsp/campaign-management/ads/ad-create.md) or [third-party ad](/help/dsp/campaign-management/ads/ad-create-third-party.md).
+         * For new ads, create a proxy [first-party ad](/help/dsp/campaign-management/ads/ad-create.md) or [third-party ad](/help/dsp/campaign-management/ads/ad-create-third-party.md).
+
+       >[!NOTE]
+       > DSP won't actually serve the ads you specify. The publisher will serve the ad.
 
        1. Click **[!UICONTROL Next]**.
 
