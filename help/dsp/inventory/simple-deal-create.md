@@ -17,10 +17,10 @@ exl-id:
    1. In the [!UICONTROL Select Ad(s)] section, specify an ad to use as a proxy in DSP:
 
        1. Do either of the following:
-      
-         * For existing ads, select the ads to use.
+       
+          * For existing ads, select the ads to use.
         
-         * For new ads, create a proxy [first-party ad](/help/dsp/campaign-management/ads/ad-create.md) or [third-party ad](/help/dsp/campaign-management/ads/ad-create-third-party.md).
+          * For new ads, create a proxy [first-party ad](/help/dsp/campaign-management/ads/ad-create.md) or [third-party ad](/help/dsp/campaign-management/ads/ad-create-third-party.md).
 
        >[!NOTE]
        > DSP won't actually serve the ads you specify. The publisher will serve the ad.
