@@ -4,7 +4,6 @@ description: This page lists updates on integrations between Advertising Cloud a
 cloud: Experience Cloud
 product: advertising cloud
 index: yes
-exl-id: 
 ---
 # What's New
 

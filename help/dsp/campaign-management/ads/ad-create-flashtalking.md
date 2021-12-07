@@ -2,7 +2,6 @@
 title: Create Ads with Flashtalking
 description: Learn about DSP's fee-based ad serving partnership with Flashtalking.
 feature: DSP Ads
-exl-id: 
 ---
 # Create Ads with [!DNL Flashtalking]
  

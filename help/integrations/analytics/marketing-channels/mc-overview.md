@@ -2,7 +2,6 @@
 title: Fundamentals of [!DNL Marketing Channels]
 description: Learn key information about [!DNL Analytics Marketing Channels] that [!DNL Analytics for Advertising Cloud] users should understand.
 feature: Integration with Adobe Analytics
-exl-id: 
 ---
 # Fundamentals of [!DNL Analytics Marketing Channels]
 

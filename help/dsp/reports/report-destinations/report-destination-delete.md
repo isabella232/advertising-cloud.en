@@ -2,7 +2,6 @@
 title: Delete a Report Destination
 description: Learn how to delete a report destination.
 feature: DSP Custom Reports
-exl-id: 
 ---
 
 # Delete a Report Destination

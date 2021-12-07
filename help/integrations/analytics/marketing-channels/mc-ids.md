@@ -2,7 +2,6 @@
 title: Using Advertising Cloud IDs to Create [!DNL Marketing Channels] Rules
 description: Learn how to use Advertising Cloud IDs to create processing rules for [!DNL Analytics Marketing Channels].
 feature: Integration with Adobe Analytics
-exl-id: 
 ---
 # Using Advertising Cloud IDs to Create [!DNL Marketing Channels] Processing Rules
 

@@ -2,7 +2,6 @@
 title: Publisher-Specific Ad Specifications
 description: Reference the ad specifications for supported publishers.
 feature: DSP Ads
-exl-id: 
 ---
 # Publisher-Specific Ad Specifications
 

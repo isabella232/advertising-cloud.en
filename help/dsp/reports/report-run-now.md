@@ -2,7 +2,6 @@
 title: Run a Custom Report
 description: Learn how to run a custom report immediately.
 feature: DSP Custom Reports
-exl-id: 
 ---
 
 # Run a Custom Report

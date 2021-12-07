@@ -2,7 +2,6 @@
 title: Create a Report Destination
 description: Learn how to create a destination for the delivery of custom reports.
 feature: DSP Custom Reports
-exl-id: 
 ---
 
 # Create a Report Destination

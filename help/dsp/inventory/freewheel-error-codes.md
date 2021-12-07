@@ -2,7 +2,6 @@
 title: Error Codes for [!DNL FreeWheel] Ad Submissions
 description: Reference the error codes that are returned for ad submissions to [!DNL FreeWheel].
 feature: DSP Private Inventory, DSP Deal IDs
-exl-id: 
 ---
 # Error Codes for [!DNL FreeWheel] Ad Submissions
 
