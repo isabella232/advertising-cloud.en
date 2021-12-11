@@ -2,8 +2,8 @@
 title: Delete a Custom Report
 description: Learn how to delete a custom report.
 feature: DSP Custom Reports
+exl-id: 39418a0e-17d8-4413-9f00-b0f210adb72b
 ---
-
 # Delete a Custom Report
 
 1. In the main menu, click **[!UICONTROL Reports]**.

@@ -2,6 +2,7 @@
 title: Check the Status of Ads for a [!DNL [!DNL FreeWheel]] PG Deal
 description: Learn how to find the status of ads for [!DNL Freewheel] programmatic guaranteed deals.
 feature: DSP Private Inventory, DSP Deal IDs
+exl-id: 57c365f6-41cf-4ab6-b71d-fe9984eaf115
 ---
 # Check the Status of Ads for [!DNL Freewheel] Programmatic Guaranteed Deals
 

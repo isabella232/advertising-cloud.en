@@ -2,8 +2,8 @@
 title: Report Destination Settings
 description: See the details required for your report destinations, by destination type.
 feature: DSP Custom Reports
+exl-id: 584c9c69-7b94-4e5c-bcc1-277ac2689d8e
 ---
-
 # Report Destination Settings
 
 The details required for non-email report destinations vary by destination type.
