@@ -40,3 +40,4 @@ In all campaign management views ([!UICONTROL Campaigns], [!UICONTROL Packages],
 >* [View the Sites, Ads, and Frequency Details for a Placement](placement-details-view.md)
 >* [View the Placement Diagnostic Reports](placement-diagnostics.md)
 >* [Export Data from a Campaign Management View](campaign-export-data.md)
+>* [Video: DSP Account Structure and User Interface](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/ui.html)

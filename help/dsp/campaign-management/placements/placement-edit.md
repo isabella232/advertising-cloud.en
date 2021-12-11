@@ -30,3 +30,4 @@ exl-id: 135adad3-0bc0-4402-ac4a-a4fc71f78edf
 >* [Keyboard Shortcuts](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
 >* [Placement Settings](placement-settings.md)
 >* [About Correcting Placement Settings for a Campaign Using Spreadsheets](/help/dsp/campaign-management/qa/qa-about.md)
+>* [Video: How to Edit Placements Using Bulk Edit Tools](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/bulk-edit-placement-tools.html)

@@ -30,3 +30,4 @@ You can edit the placement name, status, maximum bid, and budget without opening
 >* [Edit the Ad Schedule for a Placement](placement-edit-ad-schedule.md)
 >* [Pause or Activate a Placement](placement-pause-activate.md)
 >* [Placement Settings](placement-settings.md)
+>* [Video: How to Edit Placements Using Bulk Edit Tools](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/bulk-edit-placement-tools.html)
