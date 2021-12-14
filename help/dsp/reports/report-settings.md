@@ -2,8 +2,8 @@
 title: Custom Report Settings
 description: See descriptions of the custom report settings.
 feature: DSP Custom Reports
+exl-id: 1d37fc96-0f9b-4eb2-ba8d-9534f627adaf
 ---
-
 # Custom Report Settings
 
 **[!UICONTROL Name]** The report name. The maximum length is 180 characters.

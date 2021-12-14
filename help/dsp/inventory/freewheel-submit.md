@@ -2,6 +2,7 @@
 title: Submit an Ad for a PG Deal to [!DNL FreeWheel]
 description: Learn how to request approval for an ad for a programmatic guaranteed deal with a publisher on [!DNL Freewheel].
 feature: DSP Private Inventory, DSP Deal IDs
+exl-id: 6cb41f3b-29e4-4feb-9c31-578ab40bd4f7
 ---
 # Submit an Ad for a Programmatic Guaranteed Deal to [!DNL Freewheel] 
 

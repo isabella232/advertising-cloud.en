@@ -2,6 +2,7 @@
 title: Certified Ad Serving Partners
 description: See all certified ad servers and ad units.
 feature: DSP Ads
+exl-id: 084b4c04-a876-4770-9efc-57268c333aa6
 ---
 # Certified Ad Serving Partners
 

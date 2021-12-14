@@ -2,8 +2,8 @@
 title: About [!UICONTROL Report Destinations]
 description: Learn about managing delivery locations for your custom reports.
 feature: DSP Custom Reports
+exl-id: 1b0fd016-3198-4d95-ad4e-2cd9832ce934
 ---
-
 # About [!UICONTROL Report Destinations]
 
 You can create and manage delivery locations, called *[!DNL report destinations]*, for your custom reports. Once you configure report destinations, you can set up each of your custom reports to be delivered to one or more locations of a single destination type. Once you save a report, you can't change the destination type.

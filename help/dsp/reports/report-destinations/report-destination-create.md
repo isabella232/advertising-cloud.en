@@ -2,8 +2,8 @@
 title: Create a Report Destination
 description: Learn how to create a destination for the delivery of custom reports.
 feature: DSP Custom Reports
+exl-id: 33c58a98-a7d3-4d05-99e7-5e55ba3e625a
 ---
-
 # Create a Report Destination
 
 1. In the main menu, click **[!UICONTROL Reports] > [!UICONTROL Report Destinations]**.
