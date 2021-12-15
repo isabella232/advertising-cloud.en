@@ -2,7 +2,6 @@
 title: List the Placements and Ads for a Private Deal
 description: Learn how to open a list of placements and ads associated with a private deal.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
-exl-id: 
 ---
 # List the Placements and Ads for a Private Deal
 

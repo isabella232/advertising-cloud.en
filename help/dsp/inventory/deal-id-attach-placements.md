@@ -2,7 +2,6 @@
 title: Specify Placements and Ads for a Deal ID
 description: Learn how to use a private deal with additional placements and ads.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
-exl-id: 
 ---
 # Specify Placements and Ads for a Deal ID
 

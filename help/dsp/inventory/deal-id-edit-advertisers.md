@@ -2,9 +2,7 @@
 title: Edit the Advertisers with Access to a Deal ID
 description: Learn how to specify which advertisers can access a deal ID.
 feature: DSP Private Inventory, DSP Deal IDs
-exl-id: 
 ---
-
 # Edit the Advertisers with Access to a Deal ID
 
 >[!NOTE]
