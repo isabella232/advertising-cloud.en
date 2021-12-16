@@ -114,7 +114,7 @@ Topic targeting requires you to create custom topic segments directly with [!DNL
 
 To create custom topic segments:
 
-* To create a [!DNL Comscore] account and create custom segments, you can request a login for [!DNL Activation Segment Manager] at ]http://agents.comscore.com](http://agents.comscore.com). See the [[!DNL Comscore] help center](https://comscoreactivation.zendesk.com/hc/) for full instructions for setting up custom segments. Fees for custom segments are visible in [!DNL Segment Manager] as you create them.
+* To create a [!DNL Comscore] account and create custom segments, you can request a login for [!DNL Activation Segment Manager] at [http://agents.comscore.com](http://agents.comscore.com). See the [[!DNL Comscore] help center](https://comscoreactivation.zendesk.com/hc/) for full instructions for setting up custom segments. Fees for custom segments are visible in [!DNL Segment Manager] as you create them.
 
 * To get started with [!DNL Oracle Data Cloud], contact [!DNL Oracle Data Cloud] or your [!DNL Adobe] account manager.
 
