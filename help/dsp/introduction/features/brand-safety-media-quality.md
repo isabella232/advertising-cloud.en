@@ -112,9 +112,11 @@ DSP topic targeting allows you to target or block keyword lists by leveraging ou
 
 Topic targeting helps you to ensure your ads are always served in an environment that aligns with your brand, whether that includes blocking harmful content or ensuring spend in a context that ensures a greater outcome.
 
-Topic targeting requires you to create topic segments directly with [!DNL Comscore] or [!DNL Grapeshot] (using [!DNL Oracle Data Cloud]). Once these are created in the partner platform, you can [target or exclude a segment ID in the[!UICONTROL  Audience Targeting] section for each placement](/help/dsp/campaign-management/placements/placement-settings.md). Additional fees may apply for this feature.
+Topic targeting requires you to create custom topic segments directly with [!DNL Comscore] or [!DNL Grapeshot] (using [!DNL Oracle Data Cloud]). Once these are created in the partner platform, you can [target or exclude a segment ID in the [!UICONTROL Audience Targeting] section for each placement](/help/dsp/campaign-management/placements/placement-settings.md). Additional fees may apply for this feature.
 
-To get started, contact your preferred vendor or your [!DNL Adobe] account manager.
+* To create a [!DNL Comscore] account and create custom segments, you can request a login for [!DNL Activation Segment Manager] at http://agents.comscore.com/. The process includes an assignment for Google. See the [[!DNL Comscore] help center](https://comscoreactivation.zendesk.com/hc/) for full instructions for setting up custom segments. Fees for custom segments are visible in [!DNL Segment Manager] as you create them.
+
+* To get started with [!DNL Oracle Data Cloud], contact [!DNL Oracle Data Cloud] or your [!DNL Adobe] account manager.
 
 ![Comscore logo](/help/dsp/assets/comscore-logo.png) ![Grapeshot logo](/help/dsp/assets/oracle-grapeshot-logo.png)
 
