@@ -66,7 +66,7 @@ Inventory mapping is the detailed review and on-boarding process required for al
 
 Advertising Cloud DSP provides both a globally blocked sites list and the option to create custom blocked sites lists for advertisers and accounts.
 
-#### Advertising Cloud DSP Globally Blocked Sites List
+#### Advertising Cloud DSP Globally Blocked Sites List {#global-blocked-sites}
 
 Advertising Cloud DSP maintains a globally blocked sites list of sites deemed unsafe to run ads on. This list contains sites featuring objectionable content (such as hate or terror) and sites infected by bots, fake pre-roll, mismatched domains, and other fraudulent activity.
 
