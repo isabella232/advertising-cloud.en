@@ -1,8 +1,8 @@
 ---
-title: Edit an Account-level or Advertiser-level Blocked Sites List
+title: Edit an Account-Level or Advertiser-Level Blocked Sites List
 description: Learn how to manage the blocked sites list for an account or advertiser.
 ---
-# Edit an Account-level or Advertiser-level Blocked Sites List
+# Edit an Account-Level or Advertiser-Level Blocked Sites List
 
 1. In the main menu, click **Settings > Sites.**
 
@@ -32,6 +32,6 @@ description: Learn how to manage the blocked sites list for an account or advert
 
 >[!MORELIKETHIS]
 >
->* [About Account-level and Advertiser-level Blocked Sites Lists](/help/dsp/admin/blocked-sites-list-about.md)
+>* [About Account-Level and Advertiser-Level Blocked Sites Lists](/help/dsp/admin/blocked-sites-list-about.md)
 > [Brand Safety and Media Quality](/help/dsp/introduction/features/brand-safety-media-quality.md)
 >* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
