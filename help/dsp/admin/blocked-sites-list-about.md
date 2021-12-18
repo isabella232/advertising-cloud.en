@@ -1,8 +1,8 @@
 ---
-title: About Account-level and Advertiser-level Blocked Sites Lists
+title: About Account-Level and Advertiser-Level Blocked Sites Lists
 description: Learn more about the blocked sites list for an account or advertiser.
 ---
-# About Account-level and Advertiser-level Blocked Sites Lists
+# About Account-Level and Advertiser-Level Blocked Sites Lists
 
 You can edit the blocked sites list used for the entire Advertising Cloud account and additional lists for individual advertisers in the account.
 
@@ -18,6 +18,6 @@ Advertiser-level lists override account-level lists.
 
 >[!MORELIKETHIS]
 >
->* [Edit an Account-level or Advertiser-level Blocked Sites List](/help/dsp/admin/blocked-sites-list-edit.md)
+>* [Edit an Account-Level or Advertiser-Level Blocked Sites List](/help/dsp/admin/blocked-sites-list-edit.md)
 >* [Brand Safety and Media Quality](/help/dsp/introduction/features/brand-safety-media-quality.md)
 >* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
