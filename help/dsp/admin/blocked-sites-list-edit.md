@@ -1,6 +1,7 @@
 ---
 title: Edit an Account-Level or Advertiser-Level Blocked Sites List
 description: Learn how to manage the blocked sites list for an account or advertiser.
+exl-id: b0bb5993-7d73-48fa-948d-b9edf4a4529f
 ---
 # Edit an Account-Level or Advertiser-Level Blocked Sites List
 
