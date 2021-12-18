@@ -1,12 +1,7 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: Edit an Account-level or Advertiser-level Blocked Sites List
-description: Edit an Account-level or Advertiser-level Blocked Sites List
+description: Learn how to manage the blocked sites list for an account or advertiser.
 ---
-
 # Edit an Account-level or Advertiser-level Blocked Sites List
 
 1. In the main menu, click **Settings > Sites.**
@@ -37,5 +32,6 @@ description: Edit an Account-level or Advertiser-level Blocked Sites List
 
 >[!MORELIKETHIS]
 >
+>* [About Account-level and Advertiser-level Blocked Sites Lists](/help/dsp/admin/blocked-sites-list-about.md)
 > [Brand Safety and Media Quality](/help/dsp/introduction/features/brand-safety-media-quality.md)
 >* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
