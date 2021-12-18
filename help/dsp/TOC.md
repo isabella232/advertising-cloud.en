@@ -176,6 +176,9 @@ index: yes
     + [Edit a [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-edit.md)
     + [Delete a [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-delete.md)
     + [[!UICONTROL Report Destination] Settings](/help/dsp/reports/report-destinations/report-destination-settings.md)
++ Administration {#admin}
+  + [About Account-level and Advertiser-level Blocked Sites Lists](/help/dsp/admin/blocked-sites-list-about.md)
+  + [Edit an Account-level or Advertiser-level Blocked Sites List](/help/dsp/admin/blocked-sites-list-edit.md)
 + [Integrations with Adobe Experience Cloud](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/home.html)<!-- Dupe link to this file, so need to use an absolute link in one of the listings -->
 + [Customer Support](https://helpx.adobe.com/contact/enterprise-support.ec.html)
 + [Adobe Experience Cloud Release Notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)
