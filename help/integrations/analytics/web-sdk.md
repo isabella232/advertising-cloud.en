@@ -2,6 +2,7 @@
 title: Using the [!DNL Last Event Service] JavaScript Library with [!DNL Web SDK]
 description: Learn the steps to switch from using the [!DNL Analytics] [!DNL visitorAPI] library to the [!DNL Experience Platform] [!DNL Web SDK] library for your [!DNL Analytics for Advertising Cloud] implementation.
 feature: Integration with Adobe Analytics
+exl-id: 96537244-1c5c-4d9a-a44e-ba7fcea9381d
 ---
 # Using the [!DNL Last Event Service] JavaScript Library with Adobe Experience Platform [!DNL Web SDK]
 
