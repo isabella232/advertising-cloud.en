@@ -16,45 +16,47 @@ You can manually insert a macro anywhere, such as in a VAST tag, in any URL, or 
 
 Use general tracking macros across all ad and tag types to pass back specific data, as required.
 
-<!-- Not included, but is there a macro for this, like there is for the other entities: | `${TM_CAMPAIGN_ID}` | The campaign key. | string | -->
-
 | Macro | Replacement Description | Type |
 | ----- | ----------------------- | ---- |
 | `${TM_ACCOUNT_ID}` | The account ID. | integer |
 | `${TM_AD_ID}` | The ad key (adKey). | string |
 | `${TM_AD_ID_NUM}` | The ad ID. | integer |
 | `${TM_ADVERTISER_ID}` | The advertiser ID. | integer |
+| `${TM_CAMPAIGN_ID}` | The campaign key. | string |
 | `${TM_CAMPAIGN_ID_NUM}` | The campaign ID. | integer |
 |` ${TM_CLICK_URL}` | The redirect URL, which enables ad servers to track and count ad clicks. When the ad is served, if the user clicks it, the macro is activated and the click is recorded and counted for reporting purposes. | string |
 |` ${TM_CLICK_URL_URLENC}` | The encoded redirect URL, which enables ad servers to track and count ad clicks. When the ad is served, if the user clicks it, the macro is activated and the click is recorded and counted for reporting purposes. Don't use this macro unless you are creating third-party ads and your vendor requires URL encoding. | string |
 | `${TM_FEED_ID}` | The key for the media placement (feedKey). | string |
 | `${TM_FEED_ID_NUM}` | The ID for the media placement. | integer |
-|` ${TM_MACRO_PLACEMENT_SITE_KEY` | The site key for the placement. Required for [!DNL AppsFlyer] click trackers for mobile app install ads | **key (I don't think that's a valid data type?)**<!-- is that a valid type? --> |
-|` ${TM_MACRO_PROMOTED_AD_KEY}` | The promoted ad key for the placement. Required for [!DNL AppsFlyer] click trackers for mobile app install ads | **key (I don't think that's a valid data type?)**<!-- is that a valid type? --> |
+|` ${TM_MACRO_PLACEMENT_SITE_KEY` | The site key for the placement. Required for [!DNL AppsFlyer] click trackers for mobile app install ads.<!-- should map to placement_site_key column of placement_site table --> | string |
 | `${TM_PLACEMENT_ID}` | The placement key (cpKey). | string |
 | `${TM_PLACEMENT_ID_NUM}` | The placement ID. | integer |
-| `${TM_RANDOM}` | Cachebuster: a random number between 1 and 1000000 | <integer |
+| `${TM_RANDOM}` | Cachebuster: a random number between 1 and 1000000. | long |
 | `${TM_SESSION_ID}` | The ID of the session, which corresponds to a single retrieval of the ad tag. | string |
 | `${TM_SITE_DOMAIN_URLENC}` | The page subdomain parsed from the URL in the bid request; URL-encoded. Not supported for in-banner, click-to-play ads. | string |
 |` ${TM_SITE_NAME}` | The site name for the placement. | string|
 | `${TM_SITE_URL_URLENC}` | The URL passed in the bid request; URL-encoded. Not supported for in-banner, click-to-play ads. | string |
 | `${TM_SITE_ID_NUM}` | The site ID for the placement. | integer |
-| `${TM_TIMESTAMP}` | The Unix timestamp indicating the number of seconds elapsed since midnight (00:00 UTC) on 1 January 1970. | <!-- verify -->**bigint???**  |
-|` ${TM_VIDEO_DURATION}` | The duration of the ad video **in seconds?** <!-- in seconds or min:sec? --> | <!-- verify -->**???** |
+| `${TM_TIMESTAMP}` | The Unix timestamp indicating the number of seconds elapsed since midnight (00:00 UTC) on 1 January 1970. | long  |
+|` ${TM_VIDEO_DURATION}` | The duration of the ad video in seconds. | integer |
 
 {style="table-layout:auto"}
+
+<!-- Removed because not found in code base:
+|` ${TM_MACRO_PROMOTED_AD_KEY}` | The promoted ad key for the placement. Required for [!DNL AppsFlyer] click trackers for mobile app install ads. | string |
+ -->
 
 ## Mobile-Specific Macros
 
 | Macro | Replacement Description | Type |
 | ----- | ----------------------- | ---- |
 | `${CS_PLATFORM_ID}` | ([!DNL ComScore]) The platform ID, which corresponds to the device's operating system:<ul><li>`ios` = [!DNL Apple iOS]</li><li>`android` = [!DNL Google Android]</li><li>`windows` = [!DNL Windows Mobile]</li><li>`blackberry` = [!DNL Blackberry]</li> <li>`other` when the platform is none of the above</li></ul> | varchar(50) |
-| `${CS_DEVICE_MODEL}` | ([!DNL ComScore]) The device model name, URL-encoded. | **????** |
-| `${CS_IMPLEMENTATION_TYPE}` | ([!DNL ComScore]) The environment in which the ad was served:<ul><li>`a` = mobile application</li><li>`b` = mobile website</li></ul> | **????** | 
+| `${CS_DEVICE_MODEL}` | ([!DNL ComScore]) The device model name, URL-encoded. | string |
+| `${CS_IMPLEMENTATION_TYPE}` | ([!DNL ComScore]) The environment in which the ad was served:<ul><li>`a` = mobile application</li><li>`b` = mobile website</li></ul> | string (`a` or `b`) |
 | `${NS_PLATFORM_ID}` | ([!DNL Nielsen]) The platform ID, which corresponds to the device's operating system:<ul><li>`ios`= [!DNL Apple iOS]</li><li>`android` = [!DNL Google Android]</li><li>`windows` = [!DNL Windows Mobile]</li><li>`blackberry` = [!DNL Blackberry]</li> <li>`other` when the platform is none of the above</li></ul> | varchar(50) **???** <!--verify --> |
 | `${NS_DEVICE_GROUPING}` | ([!DNL Nielsen]) The  the device type on which the ad was viewer:<ul><li>`TAB` = tablet</li><li>`PHN` = mobile</li><li>`computer` = computer</li></ul> | **???** |
-| `${UOO}` | ([!DNL Nielsen]) Whether or not the user has opted out of ad tracking:<ul><li>`1` (DNT flag = 1) = the user has opted out of ad tracking</li><ul><li>`0` (DNT flag = 0) = the user has opted in to ad tracking</li></ul> | **???** |
-| `${TM_BUNDLE}` | The [!DNL iOS] or [!DNL Android] app store bundle ID. Examples: com.zynga.wwf2.free or id804379658 | **string???** |
+| `${UOO}` | ([!DNL Nielsen]) Whether or not the user has opted out of ad tracking:<ul><li>`1` (DNT flag = 1) = the user has opted out of ad tracking</li><li>`0` (DNT flag = 0) = the user has opted in to ad tracking</li></ul> | integer (`0` or `1`) |
+| `${TM_BUNDLE}` | The [!DNL iOS] or [!DNL Android] app store bundle ID. Examples: com.zynga.wwf2.free or id804379658 | string |
 | `gdpr=${GDPR_ENFORCED}&gdpr_consent=${GDPR_CONSENT}` | `gdpr=${GDPR_ENFORCED}` indicates if the bidder determines that the bid request comes from the European Union origin and requires GDPR enforcement:<ul><li>`1` = GDPR should be enforced</li><li>`0` = GDPR should not be enforced</li></ul>`gdpr_consent=${GDPR_CONSENT}` is the consent value passed from the supply partner in the inbound bid request:<ul><li>In most cases, this is a base64url-encoded consent string, or daisybit (example: BN5lERiOMYEdiAKAWXEND1HoSBE6CAFAApAMgBkIDIgM0AgOJxAnQA)</li><li>`0` = no consent</li><li>`1` = consent</li></ul> | daisybit or integer |
 
 {style="table-layout:auto"}
