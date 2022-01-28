@@ -15,8 +15,8 @@ A supply-side platform (SSP) is an advertising technology platform used to help 
 |SSP Listed|Company|Seat ID|Programmatic Guaranteed Support|Region|Supported Currency|Video Desktop|Video Mobile|Video CTV|Display Desktop|Display Mobile|Native Display|Audio Desktop & Mobile|
 |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
 |[!DNL Adap.tv]|[!DNL Verizon Media Group]|[!DNL TubeMogul] or Adobe Advertising Cloud|No|Global|USD|X|X|X|||||
-|[!DNL AdColony] (previously [!DNL Opera])|[!DNL Digital Turbine]|[!DNL TubeMogul]|No|Global|USD||x||||||
-|[!DNL AdsWizz]|[!DNL Sirius XM Pandora]|Adobe Advertising Cloud|No|Global|USD, EUR, GBP|||||||x|
+|[!DNL AdColony] (previously [!DNL Opera])|[!DNL Digital Turbine]|[!DNL TubeMogul]|No|Global|USD||x||x|x|||
+|[!DNL AdsWizz]|[!DNL Sirius XM Pandora]|Adobe Advertising Cloud|Yes|Global|USD, EUR, GBP|||||||x|
 |[!DNL Ambient Digital]|n/a|[!DNL TubeMogul]|Yes|SEA|USD||x||x|||x|
 |[!DNL AppNexus]|[!DNL Xandr]|Video Seat ID: 9094<br>Display Seat ID: 3939|No|Global|USD|x|x|x|x|x|||
 |[!DNL DailyMotion]|n/a|[!DNL TubeMogul] or Adobe Advertising Cloud|No|US + EMEA|USD, EUR|x|x|x|||||
