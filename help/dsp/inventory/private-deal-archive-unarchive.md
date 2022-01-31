@@ -5,14 +5,14 @@ feature: DSP Private Inventory, DSP Deal IDs
 ---
 # Archive or Unarchive a Private Deal
 
-Hide a private deal that isn't being used, without deactivating it, by archiving it. The only action you can take on an archived deal is to unarchive it. Archived deal aren't shown by default but are still available for reporting.
+Hide a private deal that isn't being used by archiving it. The only action you can take on an archived deal is to unarchive it. Archived deal aren't shown by default but are still available for reporting.
 
 You can unarchive a deal to restore its previous status at any time.
 
 >[!NOTE]
 >
 >* You can't archive [!UICONTROL On Demand] deals.
->* To deactivate a deal, contact your Platform Strategist.
+>* To deactivate a deal on the publisher side, contact the publisher or SSP. After they deactivate the deal, you can archive it in DSP to hide it.
 
 ## Archive a Private Deal
 
@@ -31,7 +31,7 @@ You can unarchive a deal to restore its previous status at any time.
 1. In the deal row, click  ![Options menu](/help/dsp/assets/options-menu.png) **> [!UICONTROL unarchive]**.
 1. In the confirmation message, click **[!UICONTROL OK]**.
 
-If the feed was previously deactivated and you want to use it again, contact your Platform Strategist.
+If the publisher or SSP had previously deactivated the deal and you want to use it again, contact the publisher or SSP directly.
 
 >[!NOTE]
 >
