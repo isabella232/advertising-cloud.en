@@ -16,7 +16,7 @@ Available inventory types include:
 
 * **Private Inventory:** Set up and manage private marketplace deals (PMPs) that you've negotiated directly 1:1 with the publisher. 
 
-* **Simple Ad Serving:** Use streamlined technology for guaranteed, non-decisioned ad delivery and reporting when your publisher can't execute your deal via deal IDs.
+* **[!DNL Simple Ad Serving]:** Use streamlined technology for guaranteed, non-decisioned ad delivery and reporting when your publisher can't execute your deal via deal IDs.
 
 >[!MORELIKETHIS]
 >
