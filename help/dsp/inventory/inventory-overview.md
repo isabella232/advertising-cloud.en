@@ -10,19 +10,13 @@ Advertising Cloud DSP can support your inventory needs, whether you’re wanting
 
 Once you access or identify your inventory deals in DSP, you can use them as placement targets for your campaigns.
 
-## Available Inventory Types
+Available inventory types include:
 
-### On Demand Inventory
+* **[!DNL On Demand] Inventory:** Explore pre-negotiated, non-guaranteed deals that Adobe has curated with our premium publisher partners.
 
-Explore pre-negotiated, non-guaranteed deals that Adobe has curated with our premium publisher partners. You can access inventory from the top publishers in-region without the need for 1:1 negotiations or contracts.
+* **Private Inventory:** Set up and manage private marketplace deals (PMPs) that you've negotiated directly 1:1 with the publisher. 
 
-### Private Inventory
-
-Set up and manage private marketplace deals (PMPs), which are deals that you've negotiated directly 1:1 with the publisher, so that one or more advertisers in your account can target them. Execute these deals via deal IDs or VAST (Video Ad Serving Template) tags. You can set up non-guaranteed PMPs or set up programmatic guaranteed (PG) deals IDs with select SSPs.
-
-### Simple Ad Serving
-
-[!DNL Simple Ad Serving] is streamlined technology for guaranteed, non-decisioned ad delivery and reporting. Use [!DNL Simple Ad Serving] when your publisher can't execute your deal via deal IDs. All targeting, budget pacing and capping, and frequency capping is handled by the publisher. Execute these deals via ad tags or event pixels.
+* **Simple Ad Serving:** Use is streamlined technology for guaranteed, non-decisioned ad delivery and reporting when your publisher can't execute your deal via deal IDs.
 
 >[!MORELIKETHIS]
 >
