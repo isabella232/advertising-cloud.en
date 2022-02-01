@@ -23,7 +23,7 @@ The Advertising Cloud DSP premium marketplace allows you to:
 * Automatically access live events (such as NBA, NFL, and NHL events)
 * Track performance with consolidated reporting
 
-Once a deal is approved, it's available as a target for existing placements and automatically included as a target for new placements that target all [!DNL On Demand] inventory. If a deal request is denied, you can work with your account manager to resolve the issue and then re-request the deal.
+Once a deal is approved, it's available as a target for existing placements and automatically included as a target for new placements that target all [!DNL On Demand] inventory. If a deal request is denied, you can work with your [!DNL Adobe] account team to resolve the issue and then re-request the deal.
 
 ## The On Demand Views
 

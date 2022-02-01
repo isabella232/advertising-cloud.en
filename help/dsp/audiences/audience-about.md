@@ -28,7 +28,7 @@ Advertising Cloud DSP can import your own first-party data segments from your da
 
 Advertising Cloud DSP can also import custom third-party segments, including complex combinations of third-party segments. You can provide the segments to any set of advertisers, as needed.
 
-Contact your [!DNL Adobe] account manager for more information.
+Contact your [!DNL Adobe] account team for more information.
 
 ## Audiences Available as Placement Targets
 
@@ -96,11 +96,11 @@ The [!UICONTROL Segments] view also lists the following segment types:
 
 * All imported first-party segments available to the user.
 
-   You can't edit or share first-party segments that were shared with you. Contact your [!DNL Adobe] account manager if you need to share first-party segments with additional users.
+   You can't edit or share first-party segments that were shared with you. Contact your [!DNL Adobe] account team if you need to share first-party segments with additional users.
 
 * All custom third-party segments available to the user.
 
-   You can't edit or share third-party segments that were shared with you. Contact your [!DNL Adobe] account manager if you need to share third-party segments with additional users.
+   You can't edit or share third-party segments that were shared with you. Contact your [!DNL Adobe] account team if you need to share third-party segments with additional users.
 
 >[!MORELIKETHIS]
 >

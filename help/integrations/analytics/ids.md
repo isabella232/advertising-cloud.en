@@ -114,7 +114,7 @@ where:
 * `{ef_userid}` is the unique numeric user ID that Advertising Cloud assigns to the advertiser.
 * `{ef_sid}` is the numeric ID that Advertising Cloud uses for the specified search engine, such as `3` for [!DNL Google Ads] or `10` for [!DNL Microsoft Advertising].
 
-The following are the full AMO ID formats for a couple of search engines. For AMO ID formats for other search engines, contact your [!DNL Adobe] account manager.
+The following are the full AMO ID formats for a couple of search engines. For AMO ID formats for other search engines, contact your [!DNL Adobe] account team.
 
 AMO ID Format for [!DNL Google Ads]:
 

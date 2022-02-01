@@ -39,7 +39,7 @@ Primary benefits:
 
 To use [!DNL Analytics] as your paid media reporting tool, your organization needs an Experience Cloud login with access to Analysis Workspace. Your Advertising Cloud team will help you to map your Advertising Cloud data to individual report suites in Analysis Workspace. You can send Advertising Cloud data to any report suite, but you should be aware of the report suites that have been mapped to Advertising Cloud and those that haven't. Depending on the report suite, this may change the data reported.
 
-[Advertising Cloud IDs within [!DNL Analytics]](ids.md) works like other eVars, with a custom, persistent expiration. By default, the attribution lookback window is set to 60 days during the Advertising Cloud implementation. To change this setting, work with your [!DNL Adobe] account manager.
+[Advertising Cloud IDs within [!DNL Analytics]](ids.md) works like other eVars, with a custom, persistent expiration. By default, the attribution lookback window is set to 60 days during the Advertising Cloud implementation. To change this setting, work with your [!DNL Adobe] account team.
 
 Advertising Cloud dimensions are appended with the suffix "(AMO ID)" (such as "Ad Type (AMO ID)"). See "[Advertising Cloud Metrics in Analysis Workspace](advertising-cloud-metrics-in-analytics.md)" for a list of the available dimensions.
 

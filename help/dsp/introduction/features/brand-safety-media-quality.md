@@ -94,7 +94,7 @@ Leverage our third-party integrations with [!DNL Comscore], [!DNL DoubleVerify],
 
 You can set default pre-bid fraud blocking controls for each advertiser<!-- [default pre-bid fraud blocking controls for each advertiser](/help/dsp/admin/advertiser-settings.md) -->, and then optionally [customize the settings for each placement](/help/dsp/campaign-management/placements/placement-settings.md). Additional fees may apply when you use this feature.
 
-For more information on functionality, contact your preferred vendor directly, or contact your [!DNL Adobe] account manager.
+For more information on functionality, contact your preferred vendor directly, or contact your [!DNL Adobe] account team.
 
 ![Comscore logo](/help/dsp/assets/comscore-logo.png) ![DoubleVerify logo](/help/dsp/assets/doubleverify-logo.png) ![Integral Ad Science logo](/help/dsp/assets/ias-logo.png) ![Peer39 logo](/help/dsp/assets/peer39-logo.png)
 
@@ -116,7 +116,7 @@ To create custom topic segments:
 
 * To create a [!DNL Comscore] account and create custom segments, you can request a login for [!DNL Activation Segment Manager] at [https://agents.comscore.com](https://agents.comscore.com). See the [[!DNL Comscore] help center](https://comscoreactivation.zendesk.com/hc/) for full instructions for setting up custom segments. Fees for custom segments are visible in [!DNL Segment Manager] as you create them.
 
-* To get started with [!DNL Oracle Data Cloud], contact [!DNL Oracle Data Cloud] or your [!DNL Adobe] account manager.
+* To get started with [!DNL Oracle Data Cloud], contact [!DNL Oracle Data Cloud] or your [!DNL Adobe] account team.
 
 ![Comscore logo](/help/dsp/assets/comscore-logo.png) ![Grapeshot logo](/help/dsp/assets/oracle-grapeshot-logo.png)
 
@@ -128,7 +128,7 @@ Once you have built a [!DNL DoubleVerify] brand safety segment with the necessar
 
 You can specify a [!DNL DoubleVerify] segment ID for each advertiser<!-- [specify a DoubleVerify segment ID for each advertiser](/help/dsp/admin/advertiser-settings.md) -->, and then optionally [enable or disable [!UICONTROL Authentic Brand Safety] for each placement](/help/dsp/campaign-management/placements/placement-settings.md). DSP bills your account for usage for the segment ID.
 
-For more information about functionality, contact [!DNL DoubleVerify] directly, or contact your [!DNL Adobe] account manager.
+For more information about functionality, contact [!DNL DoubleVerify] directly, or contact your [!DNL Adobe] account team.
 
 ![DoubleVerify logo](/help/dsp/assets/doubleverify-logo.png)
 

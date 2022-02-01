@@ -16,7 +16,7 @@ exl-id: 33c58a98-a7d3-4d05-99e7-5e55ba3e625a
 
 >[!NOTE]
 >
-> If the report is configured for delivery to any type of FTP or [!DNL Amazon S3] location, you won't receive notifications if the report is canceled because of errors. If you don't receive the reports that you expect, then contact your [!DNL Adobe] account manager to find out why. 
+> If the report is configured for delivery to any type of FTP or [!DNL Amazon S3] location, you won't receive notifications if the report is canceled because of errors. If you don't receive the reports that you expect, then contact your [!DNL Adobe] account team to find out why. 
 
 >[!MORELIKETHIS]
 >

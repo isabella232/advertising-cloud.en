@@ -55,7 +55,7 @@ The [!DNL Analytics for Advertising Cloud] JavaScript uses these settings to det
 
 ## Advertising Cloud Data in [!DNL Analytics]
 
-[!DNL Analytics] sets Advertising Cloud IDs (AMO IDs) within the Analytics hit, subject to the advertiser's eVar persistence setting, which applies to both click-throughs and view-throughs. The persistence setting is configured on the Advertising Cloud back end, and your [!DNL Adobe] account manager can change it.
+[!DNL Analytics] sets Advertising Cloud IDs (AMO IDs) within the Analytics hit, subject to the advertiser's eVar persistence setting, which applies to both click-throughs and view-throughs. The persistence setting is configured on the Advertising Cloud back end, and your [!DNL Adobe] account team can change it.
 
 * [!DNL Analytics for Advertising Cloud] eVar expiration: 60 days by default for AMO IDs
 
@@ -71,7 +71,7 @@ The [!DNL Analytics for Advertising Cloud] JavaScript uses these settings to det
 * Online Video
 * Native
 
-Contact your [!DNL Adobe] account manager for the latest supported ad environments in each channel.  
+Contact your [!DNL Adobe] account team for the latest supported ad environments in each channel.  
 
 ## Things to Know Before You Implement
 
