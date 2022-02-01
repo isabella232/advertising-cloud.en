@@ -60,4 +60,4 @@ After you create the deal, you can use the deal as an inventory target for multi
 >* [Set up a Programmatic Guaranteed Deal](programmatic-guaranteed-set-up.md)
 >* [Submit an Ad for a Programmatic Guaranteed Deal with [!DNL FreeWheel]](freewheel-submit.md)
 >* [About Programmatic Guaranteed Deals](programmatic-guaranteed-about.md)
-<!-- >* [Specify Placements and Ads for a Private Deal](private-deal-attach-placements.md)-->
+<!-- >* [Specify Placements and Ads for a Private Deal](deal-id-attach-placements.md)-->
