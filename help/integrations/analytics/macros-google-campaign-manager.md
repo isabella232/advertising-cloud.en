@@ -12,7 +12,7 @@ exl-id:
 
 If you use ad tags from Google Campaign Manager 360 for your Advertising Cloud DSP ads, you can append Analytics for Advertising Cloud parameters to your landing page URLs using the [`%p` macro](https://support.google.com/campaignmanager/table/6096962).
 
-This allows Advertising Cloud to send click data for the ads to Adobe Analytics.<!-- Correct? -->
+The parameters allow Advertising Cloud to send click data for the ads to Adobe Analytics.<!-- Correct? -->
 
 # Append the Macros to Your Google Campaign Manager 360 Ads
 
