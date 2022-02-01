@@ -21,7 +21,7 @@ You can further [customize the data tables](campaign-data-views-about.md) in add
 
 To view a campaign in more detail, click the campaign name.
 
-## Single Campaign Reporting
+## Single Campaign Reporting {#single-campaign-reporting}
 
 Within a campaign, you can filter data based on the campaign entity: [!UICONTROL Packages], [!UICONTROL Placements], and [!UICONTROL Ads]. You can further [filter the visible data](campaign-data-filter.md) to include only the packages, placements, or ads that you want to see.
 
@@ -29,7 +29,7 @@ Within a campaign, you can filter data based on the campaign entity: [!UICONTROL
 
 In each entity tab, each row includes pacing and delivery metrics, by default, but you can [change the column view](column-view-change.md) or even [create a custom column view](column-view-create.md) to apply across all subtabs for the campaign. You can further [customize the data tables](campaign-data-views-about.md) in additional ways. Each data table includes a [!UICONTROL Subtotals] row, which shows either the sum or the average value of each metric across all visible rows.
 
-For each campaign, you can also customize time series trend charts with three metrics, which are available in each entity view. By default, data for [!UICONTROL Net Spend], [!UICONTROL Impressions], and [!UICONTROL Net CPM] are included in separate charts (trellis charts). You can optionally change the metrics.
+For each campaign, you can also customize time series trend charts with three metrics, which are available in each entity view. By default, data for [!UICONTROL Net Spend], [!UICONTROL Impressions], and [!UICONTROL Net CPM] are included in separate charts (trellis charts). You can optionally change the metrics. To enable hourly data in the time series trend charts, change your date selection to a single day ([!UICONTROL Today], [!UICONTROL Yesterday], or a specific day).  
 
 ![separate trend charts for three metrics](/help/dsp/assets/trend-chart-separate.png)
 
@@ -39,7 +39,7 @@ You also can optionally overlay the three metrics for easy detection of anomalie
 
 You can [customize the trend charts](campaign-data-visualization-manage.md) by campaign, and the same metrics are persisted across all trend charts for the campaign.
 
-### Placement Inspector
+### Placement [!UICONTROL Inspector] {#placement-inspector}
 
 For each placement, you can [open a (detail view [!UICONTROL Inspector])](placement-details-view.md), which includes the following in-depth data:
 
@@ -57,7 +57,25 @@ For each placement, you can [open a (detail view [!UICONTROL Inspector])](placem
     * the estimated number of impressions at the specified frequency level
     * the estimated average frequency for the specified frequency level. This value is equal to (Estimated Impressions)/(Estimated Uniques).
 
-![placement Inspector](/help/dsp/assets/placement-inspector-sites.png)
+* **[!UICONTROL Inventory]:** Information about all deals targeted by the placement.
+
+    The [!UICONTROL Inventory] tab includes search and filter features, the same standard and custom column view options that are available on the main page, and quick action buttons in each row, such as [!UICONTROL Edit] and [!UICONTROL View Report]. The [!UICONTROL Inventory] tab enables quick troubleshooting by showing performance statistics, such as [!UICONTROL Auctions], [!UICONTROL Bids], and [!UICONTROL Win Rate]. 
+
+#### Troubleshooting Inventory
+
+| Issue | Possible Cause  | Actions to Take |
+| -----------| ---------- | ---------- |
+| [!UICONTROL Zero Auctions] | The publisher hasn't started sending bid requests. | Contact the publisher to activate the deal. |
+| | The deal was set up incorrectly, such as by entering an incorrect external deal ID. | Confirm the deal details and edit the deal. |
+| [!UICONTROL Auctions but no Bids] | The placement targeting doesn't match the incoming bid requests for the deal. <br><br> For example, a placement might be targeting a geography that isn't eligible for the deal. | Edit the placement targets as needed to avoid targeting mismatches. |
+| | The placement doesn't have an active ad with the required media type for the deal. | Create and attach an ad with the correct media type to the placement. |
+| | The placement doesn't have adequate budget. | Increase the placement budget to allow bidding on incoming requests. |
+| | The placement flight dates don't overlap with the impression delivery dates for the deal. | Edit the placement's flight dates as needed. |
+| [!UICONTROL Low Win Rate] | The placement's maximum bid (floor or fixed) is below the minimum required by the deal. | Increase the placement's [!UICONTROL Max Bid] as needed. |
+| | The placement uses pre-bid filters that limit bidding. | Lower the thresholds of the pre-bid filters to allow more bidding. |
+| | Audience targeting for the placement is too restrictive. | Check if the specified audience targets have enough active users, and expand the audience if possible. |
+
+![placement Inspector](/help/dsp/assets/placement-inspector.png)
 
 You can export the data on the [!UICONTROL Sites], [!UICONTROL Ads], or [!UICONTROL Frequency] tab to your browser's default download folder as a report in XLSM format.
 

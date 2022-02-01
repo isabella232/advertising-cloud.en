@@ -2,7 +2,7 @@
 title: Error Codes for [!DNL FreeWheel] Ad Submissions
 description: Reference the error codes that are returned for ad submissions to [!DNL FreeWheel].
 feature: DSP Private Inventory, DSP Deal IDs
-exl-id: 
+exl-id: 2eb93971-ba82-4de8-96c5-48524d628b70
 ---
 # Error Codes for [!DNL FreeWheel] Ad Submissions
 
@@ -23,21 +23,21 @@ The error messages for failed ad submissions can come from either Advertising Cl
 
 {style="table-layout:auto"}
 
-## FreeWheel API Errors
+## [!DNL Freewheel] API Errors
 
 |Code|Meaning|Description|Next Steps|
 |--- |--- |--- |--- |
-|401|Unauthorized|Incorrect, missing, or invalid access credentials.|Contact your Adobe account manager.|
-|403|Forbidden|The server understood the request but refuses to authorize it.|Contact your Adobe account manager.|
-|404|Not Found|The resource you requested is not available. If the Creative ID is not found in the PUT operation, a 404 is returned.|Contact your Adobe account manager.|
-|405|Method Not Allowed|A request was made of a resource using a request method not supported by that resource (for example, using GET on a method that requires data to be sent by POST, or using PUT on a read-only resource).|Contact your Adobe account manager.|
-|408|Request Timeout|A timeout occurred while this request was processing. Timeouts are usually caused by concurrent requests of exclusive access to certain resources.|Resubmit the request when you receive this status. If the issue persists, contact your Adobe account manager.|
-|422|Unprocessable Entity|Invalid resource. This error happens when the request body is invalid or the created/updated resource is invalid (for example, if the Deal ID was not found). See [FreeWheel API 422 Errors](#freewheel-422-errors) for more information.|Contact your Adobe account manager.|
-|500|Internal Server Error|API system error.|Contact your Adobe account manager.|
+|401|Unauthorized|Incorrect, missing, or invalid access credentials.|Contact your [!DNL Adobe] account manager.|
+|403|Forbidden|The server understood the request but refuses to authorize it.|Contact your [!DNL Adobe] account manager.|
+|404|Not Found|The resource you requested is not available. If the Creative ID is not found in the PUT operation, a 404 is returned.|Contact your [!DNL Adobe] account manager.|
+|405|Method Not Allowed|A request was made of a resource using a request method not supported by that resource (for example, using GET on a method that requires data to be sent by POST, or using PUT on a read-only resource).|Contact your [!DNL Adobe] account manager.|
+|408|Request Timeout|A timeout occurred while this request was processing. Timeouts are usually caused by concurrent requests of exclusive access to certain resources.|Resubmit the request when you receive this status. If the issue persists, contact your [!DNL Adobe] account manager.|
+|422|Unprocessable Entity|Invalid resource. This error happens when the request body is invalid or the created/updated resource is invalid (for example, if the Deal ID was not found). See [FreeWheel API 422 Errors](#freewheel-422-errors) for more information.|Contact your [!DNL Adobe] account manager.|
+|500|Internal Server Error|API system error.|Contact your [!DNL Adobe] account manager.|
 
 {style="table-layout:auto"}
 
-## FreeWheel API 422 Errors {#freewheel-422-errors}
+## [!DNL Freewheel] API 422 Errors {#freewheel-422-errors}
 
 |Code|HTTP Code|Description|
 |--- |--- |--- |
@@ -58,7 +58,7 @@ The error messages for failed ad submissions can come from either Advertising Cl
 
 >[!MORELIKETHIS]
 >
->* [Overview of Setting up Programmatic Guaranteed Deals in FreeWheel](/help/dsp/inventory/freewheel-overview.md)
+>* [Overview of Setting up Programmatic Guaranteed Deals in [!DNL Freewheel]](/help/dsp/inventory/freewheel-overview.md)
 >* [Accept a Deal in the Deal ID Inbox](deal-id-inbox-accept.md)
->* [Submit an Ad for a Programmatic Guaranteed Deal to FreeWheel](/help/dsp/inventory/freewheel-submit.md)
+>* [Submit an Ad for a Programmatic Guaranteed Deal to [!DNL Freewheel]](/help/dsp/inventory/freewheel-submit.md)
 >* [Check the Status of Ads for [!DNL FreeWheel] Programmatic Guaranteed Deals](/help/dsp/inventory/freewheel-check-status.md)

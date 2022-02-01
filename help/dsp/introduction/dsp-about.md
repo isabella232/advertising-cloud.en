@@ -19,3 +19,8 @@ Adobe Advertising Cloud DSP elevates advertisers’ media strategies through adv
 * **Integrations with [Adobe Analytics](/help/integrations/analytics/overview.md), Adobe Audience Manager, and Adobe Experience Platform**: Integrations with your existing Adobe products allow you to maximize your first-party data and put advertising on the same level as the rest of the business insights.  
 
 * [**Premiere connected TV experience with [!DNL Roku]**](/help/dsp/inventory/roku-inventory.md): [!DNL Roku] and Advertising Cloud DSP have a unique partnership that empowers you to activate your first-party and third-party data across the [!DNL Roku] inventory to efficiently reach audiences across the big screen, at scale. By leveraging the only platform with the ability to sync with [!DNL Roku] IDs, marketers can take advantage of deterministic 1:1 targeting with precision and accuracy, as well as access [!DNL Roku] inventory and unique measurement insights.
+
+>[!MORELIKETHIS]
+>
+>* [Video: Introduction to Advertising Cloud DSP](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/intro.html)
+>* [Video: DSP Account Structure and User Interface](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/ui.html)

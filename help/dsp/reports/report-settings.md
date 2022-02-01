@@ -2,8 +2,8 @@
 title: Custom Report Settings
 description: See descriptions of the custom report settings.
 feature: DSP Custom Reports
+exl-id: 1d37fc96-0f9b-4eb2-ba8d-9534f627adaf
 ---
-
 # Custom Report Settings
 
 **[!UICONTROL Name]** The report name. The maximum length is 180 characters.
@@ -26,7 +26,7 @@ feature: DSP Custom Reports
 
 **[!UICONTROL Add Filters]:** (Optional) Additional dimensions by which to filter the data, whether or not the dimensions are included as columns in the report: *[!UICONTROL Account]*,\* *[!UICONTROL Advertiser]*, *[!UICONTROL Campaign]*, *[!UICONTROL Placement]*, *[!UICONTROL Ad]*, *[!UICONTROL Ad Type]*, *[!UICONTROL Video]*, *[!UICONTROL Video Duration]*, *[!UICONTROL Country]*, and *[!UICONTROL Package]*.
 
-\* *[!UICONTROL Account]* is available for the following report types only when your organization is configured for [cross-account reporting](report-about.md#cross-account-reporting):  [!UICONTROL Custom], [!UICONTROL Site], [!UICONTROL Segment], [!UICONTROL Geo], [!UICONTROL Device], [!UICONTROL Frequency (by Impression)], and [!UICONTROL Conversion]. Contact your Adobe account manager for more information about cross-account reporting.
+\* *[!UICONTROL Account]* is available for the following report types only when your organization is configured for [cross-account reporting](report-about.md#cross-account-reporting):  [!UICONTROL Custom], [!UICONTROL Site], [!UICONTROL Segment], [!UICONTROL Geo], [!UICONTROL Device], [!UICONTROL Frequency (by Impression)], and [!UICONTROL Conversion]. Contact your [!DNL Adobe] account manager for more information about cross-account reporting.
 
 To apply one or more filters, do the following:
 
@@ -101,11 +101,35 @@ Learn more about [cross-device solutions](/help/dsp/introduction/features/cross-
 
 * *[!UICONTROL Event Timestamp]:* Conversions will be reported based on the date of the impression or click that caused the conversion, as determined by the specified [!UICONTROL Attribution Rule Settings].
 
-## [!UICONTROL Add Email Recipients] Section
+## [!UICONTROL Add Report Destinations] Section
 
-**[!UICONTROL Email]:** Email address(es) to which to send completed reports or notifications if the report is canceled because of errors. To specify multiple addresses, separate them with commas or spaces.
+**[!UICONTROL Destination Type]:** Choose one of the following destination types:
 
-**[!UICONTROL Frequency]:** How often to send the report: *[!UICONTROL Once]*, *[!UICONTROL Daily]*, *[!UICONTROL Weekly]*, or *[!UICONTROL Monthly]*.
+* *[!UICONTROL S3]:* To send the completed report to one or more [!DNL Amazon Simple Storage Service] ([!DNL Amazon S3]) locations, which you'll specify in the **[!UICONTROL Destination Name]** field.
+* *[!UICONTROL sFTP]:* To send the completed report to one or more SFTP locations, which you'll specify in the **[!UICONTROL Destination Name]** field.
+* *[!UICONTROL FTP]:* To send the completed report to one or more FTP locations, which you'll specify in the **[!UICONTROL Destination Name]** field.
+* *[!UICONTROL FTP SSL] (Currently in Beta):* To send the completed report to one or more FTP SSL locations, which you'll specify in the **[!UICONTROL Destination Name]** field.
+* *[!UICONTROL Email]:* To specify email address(es) to which to send completed reports or notifications if the report is canceled because of errors. To specify multiple addresses, separate them with commas or spaces.
+
+>[!NOTE]
+>
+> You can't change the destination type once you save the report. 
+
+**[!UICONTROL Destination Name]:** (S3, FTP, sFTP, and FTP SSL destination types only) The names of the report destinations to which the custom report will be sent.
+
+* To specify an existing destination, select a destination name from the list. You can select multiple destination names separately.
+
+* To create a new destination:
+ 
+  1. Click **Add New Destination**.
+
+  1. Enter the [report destination settings](/help/dsp/reports/report-destinations/report-destination-settings.md), and click **Save**.
+
+  1. Back in the report settings, click **Refresh Destination Names.**
+
+      The new destination is now available from the list of existing destinations, and you can optionally add it to the report.
+
+**[!UICONTROL Frequency]:** (For each [!UICONTROL Destination Name] How often to send the report to the destination: *[!UICONTROL Once]*, *[!UICONTROL Daily]*, *[!UICONTROL Weekly]*, or *[!UICONTROL Monthly]*.
 
 ## [!UICONTROL Save Report] Section
 
@@ -123,4 +147,5 @@ Learn more about [cross-device solutions](/help/dsp/introduction/features/cross-
 >* [Edit a Custom Report](/help/dsp/reports/report-edit.md)
 >* [Run a Custom Report](/help/dsp/reports/report-run-now.md)
 >* [Custom Report Settings](/help/dsp/reports/report-settings.md)
+>* [About Report Destinations](/help/dsp/reports/report-destinations/report-destination-about.md)
 * [Available Report Columns](/help/dsp/reports/report-columns.md)

@@ -66,7 +66,7 @@ Inventory mapping is the detailed review and on-boarding process required for al
 
 Advertising Cloud DSP provides both a globally blocked sites list and the option to create custom blocked sites lists for advertisers and accounts.
 
-#### Advertising Cloud DSP Globally Blocked Sites List
+#### Advertising Cloud DSP Globally Blocked Sites List {#global-blocked-sites}
 
 Advertising Cloud DSP maintains a globally blocked sites list of sites deemed unsafe to run ads on. This list contains sites featuring objectionable content (such as hate or terror) and sites infected by bots, fake pre-roll, mismatched domains, and other fraudulent activity.
 
@@ -94,7 +94,7 @@ Leverage our third-party integrations with [!DNL Comscore], [!DNL DoubleVerify],
 
 You can set default pre-bid fraud blocking controls for each advertiser<!-- [default pre-bid fraud blocking controls for each advertiser](/help/dsp/admin/advertiser-settings.md) -->, and then optionally [customize the settings for each placement](/help/dsp/campaign-management/placements/placement-settings.md). Additional fees may apply when you use this feature.
 
-For more information on functionality, contact your preferred vendor directly, or contact your Adobe account manager.
+For more information on functionality, contact your preferred vendor directly, or contact your [!DNL Adobe] account manager.
 
 ![Comscore logo](/help/dsp/assets/comscore-logo.png) ![DoubleVerify logo](/help/dsp/assets/doubleverify-logo.png) ![Integral Ad Science logo](/help/dsp/assets/ias-logo.png) ![Peer39 logo](/help/dsp/assets/peer39-logo.png)
 
@@ -108,13 +108,15 @@ You can set default viewability filters for each advertiser<!-- [default pre-vie
 
 ### Topic Targeting
 
-DSP topic targeting allows you to target or block keyword lists by leveraging our industry-leading contextual partners [!DNL Comscore] and [!DNL Oracle Data Cloud] ([!DNL Grapeshot]).
+DSP topic targeting allows you to target or block keyword lists by leveraging our industry-leading contextual partners [!DNL Comscore] and [!DNL Oracle Data Cloud] ([!DNL Grapeshot]). Topic targeting helps you to ensure your ads are always served in an environment that aligns with your brand, whether that includes blocking harmful content or ensuring spend in a context that ensures a greater outcome.
 
-Topic targeting helps you to ensure your ads are always served in an environment that aligns with your brand, whether that includes blocking harmful content or ensuring spend in a context that ensures a greater outcome.
+Topic targeting requires you to create custom topic segments directly with [!DNL Comscore] or [!DNL Grapeshot] (using [!DNL Oracle Data Cloud]). Once these are created in the partner platform, you can [target or exclude a segment ID in the [!UICONTROL Audience Targeting] section for each placement](/help/dsp/campaign-management/placements/placement-settings.md). Additional fees may apply for this feature.
 
-Topic targeting requires you to create topic segments directly with [!DNL Comscore] or [!DNL Grapeshot] (using [!DNL Oracle Data Cloud]). Once these are created in the partner platform, you can [target or exclude a segment ID in the[!UICONTROL  Audience Targeting] section for each placement](/help/dsp/campaign-management/placements/placement-settings.md). Additional fees may apply for this feature.
+To create custom topic segments:
 
-To get started, contact your preferred vendor or your Adobe account manager.
+* To create a [!DNL Comscore] account and create custom segments, you can request a login for [!DNL Activation Segment Manager] at [https://agents.comscore.com](https://agents.comscore.com). See the [[!DNL Comscore] help center](https://comscoreactivation.zendesk.com/hc/) for full instructions for setting up custom segments. Fees for custom segments are visible in [!DNL Segment Manager] as you create them.
+
+* To get started with [!DNL Oracle Data Cloud], contact [!DNL Oracle Data Cloud] or your [!DNL Adobe] account manager.
 
 ![Comscore logo](/help/dsp/assets/comscore-logo.png) ![Grapeshot logo](/help/dsp/assets/oracle-grapeshot-logo.png)
 
@@ -126,7 +128,7 @@ Once you have built a [!DNL DoubleVerify] brand safety segment with the necessar
 
 You can specify a [!DNL DoubleVerify] segment ID for each advertiser<!-- [specify a DoubleVerify segment ID for each advertiser](/help/dsp/admin/advertiser-settings.md) -->, and then optionally [enable or disable [!UICONTROL Authentic Brand Safety] for each placement](/help/dsp/campaign-management/placements/placement-settings.md). DSP bills your account for usage for the segment ID.
 
-For more information about functionality, contact [!DNL DoubleVerify] directly, or contact your Adobe account manager.
+For more information about functionality, contact [!DNL DoubleVerify] directly, or contact your [!DNL Adobe] account manager.
 
 ![DoubleVerify logo](/help/dsp/assets/doubleverify-logo.png)
 

@@ -10,7 +10,7 @@ exl-id: ed1aab7b-9bd0-4d42-9bfb-9c6fa6db76bc
 
 *Applicable to Advertising Cloud DSP and Advertising Cloud Search*
 
-Advertising Cloud uses two IDs for onsite performance tracking:  the EF ID and the AMO ID.
+Advertising Cloud uses two IDs for onsite performance tracking:  the *EF ID* and the *AMO ID*.
 
 When an ad impression occurs, Advertising Cloud creates the AMO ID and EF ID values and stores them. When a visitor who has seen an ad enters the site without clicking an ad, [!DNL Analytics] calls these values from Advertising Cloud through the [!DNL Analytics for Advertising Cloud] JavaScript code. For view-through traffic, [!DNL Analytics] generates a supplemental ID (`SDID`), which is used to stitch the EF ID and AMO ID into [!DNL Analytics]. For click-through traffic, these IDs are included in the landing page URL using the `s_kwcid` and `ef_id` query string parameters.
 
@@ -63,13 +63,13 @@ Example `EF `ID: WcmibgAAAHJK1RyY:1551968087687:d
 
 In [!DNL Analytics] reports, you can find EF ID data by searching for the [!UICONTROL EF ID] dimension and using the [!UICONTROL EF ID Instance] metric.
 
-`EF IDs` are subject to the 500k unique identifier limit in Analysis Workspace. Once the 500k value is reached, all new tracking codes are reported under the one-line-item title “[!UICONTROL Low Traffic].” Because of the possibility of missing reporting fidelity, the `EF IDs` are not classified, and you should not use them for segments or reporting in [!DNL Analytics].
+EF IDs are subject to the 500k unique identifier limit in Analysis Workspace. Once the 500k value is reached, all new tracking codes are reported under the one-line-item title “[!UICONTROL Low Traffic].” Because of the possibility of missing reporting fidelity, the EF IDs are not classified, and you should not use them for segments or reporting in [!DNL Analytics].
 
 ## Advertising Cloud AMO IDs
 
 The AMO ID tracks each unique ad combination at a less granular level and is used for [!DNL Analytics] data classification and ingestion of advertising metrics (such as impressions, clicks, and cost) from Advertising Cloud. The AMO ID is stored in an [!DNL Analytics] [eVar](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) or rVar dimension (AMO ID) and is used exclusively for reporting in [!DNL Analytics].
 
-The AMO ID is also called the `s_kwcid`, which is sometimes referred to as "the squid."
+The AMO ID is also called the `s_kwcid`, which is sometimes pronounced as "[!DNL the squid]."
 
 ### AMO ID Format for [!DNL DSP]
 
@@ -114,7 +114,7 @@ where:
 * `{ef_userid}` is the unique numeric user ID that Advertising Cloud assigns to the advertiser.
 * `{ef_sid}` is the numeric ID that Advertising Cloud uses for the specified search engine, such as `3` for [!DNL Google Ads] or `10` for [!DNL Microsoft Advertising].
 
-The following are the full AMO ID formats for a couple of search engines. For AMO ID formats for other search engines, contact your Adobe account manager.
+The following are the full AMO ID formats for a couple of search engines. For AMO ID formats for other search engines, contact your [!DNL Adobe] account manager.
 
 AMO ID Format for [!DNL Google Ads]:
 

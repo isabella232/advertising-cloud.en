@@ -1,6 +1,6 @@
 ---
 title: Accept a Deal in the [!UICONTROL Deal ID Inbox]
-description: Learn how to accept a private deal you've already negotiated with a publisher on [!DNL Google Authorized Buyers], [!DNL FreeWheel], or [!DNL Rubicon] using the Deal ID Inbox.
+description: Learn how to accept a private deal you've already negotiated with a publisher on [!DNL FreeWheel], [!DNL Google Authorized Buyers] (formerly known as [!DNL AdX]), and [!DNL Magnite DV+] (formerly [!DNL Rubicon]) using the Deal ID Inbox.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 55e8ca50-05f5-4f38-9fd5-afaed71315dc
 ---
@@ -8,7 +8,7 @@ exl-id: 55e8ca50-05f5-4f38-9fd5-afaed71315dc
 
 *Users in DSP Accounts that Are Mapped to SSP Accounts Only*
 
-Use the [!UICONTROL Deal ID inbox] to quickly accept a private deal you've already negotiated with a publisher on [!DNL Google Authorized Buyers], [!DNL FreeWheel], or [!DNL Rubicon].
+Use the [!UICONTROL Deal ID inbox] to quickly accept a private deal you've already negotiated with a publisher on [!DNL FreeWheel], [!DNL Google Authorized Buyers] (formerly known as [!DNL AdX]), and [!DNL Magnite DV+] (formerly [!DNL Rubicon]).
 
 >[!NOTE]
 >
@@ -20,7 +20,7 @@ Use the [!UICONTROL Deal ID inbox] to quickly accept a private deal you've alrea
 
 1. (Optional) To refresh the deal details, click **[!UICONTROL Refresh]**.
 
-   DSP automatically refreshes all deal details daily at 4:30 a.m. EST. It also refreshes all [!DNL FreeWheel] deals and updates existing deals from [!DNL Google] and [!DNL Rubicon] hourly.
+   DSP automatically refreshes all deal details daily at 4:30 a.m. EST. It also refreshes all [!DNL FreeWheel] deals and updates existing deals from [!DNL Google] and [!DNL Magnite DV+] hourly.
 
 1. (If you previously ignored the deal) Click the **[!UICONTROL Ignored Deals]** tab.
 
