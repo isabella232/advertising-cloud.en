@@ -2,6 +2,7 @@
 title: Create a [!UICONTROL Simple Ad Serving] Deal
 description: Learn how to create a tracking pixel for a [!UICONTROL Simple Ad Serving] deal.
 feature: DSP Simple Ad Serving
+exl-id: d8de85ec-616c-44ed-9a1a-cc25713ad4a4
 ---
 # Create a [!UICONTROL Simple Ad Serving] Deal
 

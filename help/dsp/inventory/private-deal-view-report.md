@@ -2,6 +2,7 @@
 title: View a Detailed Report for a Private Deal
 description: Learn how to open a deal-level report.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
+exl-id: 80ed239f-16c9-4aba-b1d2-2471133c676b
 ---
 # View a Detailed Report for a Private Deal
 

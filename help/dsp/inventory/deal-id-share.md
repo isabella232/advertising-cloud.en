@@ -2,6 +2,7 @@
 title: Edit the Accounts with Access to a Deal ID
 description: Learn how to share and stop sharing a deal ID with different accounts.
 feature: DSP Private Inventory, DSP Deal IDs
+exl-id: 5ddd406d-1ee5-4d13-8e12-be575cbb7551
 ---
 # Edit the Accounts with Access to a Deal ID
 

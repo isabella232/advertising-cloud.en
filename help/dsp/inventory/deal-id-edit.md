@@ -2,6 +2,7 @@
 title: Edit Deal ID Settings
 description: Learn how to edit details for a deal ID.
 feature: DSP Private Inventory, DSP Deal IDs
+exl-id: 171a3dae-6a25-4e16-85f8-cd4138ec4ba8
 ---
 # Edit Deal ID Settings
 
