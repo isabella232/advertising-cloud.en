@@ -4,7 +4,6 @@ description: Learn about policies and guidelines for Advertising Cloud DSP and A
 index: yes
 cloud: Experience Cloud
 product: advertising cloud
-exl-id: 
 ---
 # Advertising Cloud Policies and Guidelines
 

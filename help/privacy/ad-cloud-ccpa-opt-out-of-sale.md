@@ -42,7 +42,7 @@ You can communicate consumer opt-out-of-sale requests by using either:
 
 ### Method 2: Communicate CCPA Opt-Out-of-Sale Requests Using the Adobe Experience Platform Privacy Service API
 
-*Advertisers assigned an Experience Cloud Organization ID (IMS Org ID) only*
+*Advertisers assigned an Adobe Experience Cloud [!DNL Organization ID] ([!DNL IMS Org ID]) only*
 
 1. Deploy a JavaScript library to retrieve your customer's cookies. The same library, `AdobePrivacy.js`, is used for all Adobe Experience Cloud solutions.
 
@@ -85,7 +85,7 @@ You can retrieve links to the monthly reports that were created in the previous 
 
 This feature is available to organizations that use the [!DNL Trafficking API]. See the documentation for the [!DNL Trafficking API] for more information.
 
-If your organization doesn't use the [!DNL Trafficking API] but is interested in more information, contact your Adobe account manager.
+If your organization doesn't use the [!DNL Trafficking API] but is interested in more information, contact your [!DNL Adobe] account manager.
 
 ## Appendix: Example [!UICONTROL CCPA Opt-Out-of-Sale] Request for Privacy Service API Users
 

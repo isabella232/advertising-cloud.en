@@ -12,13 +12,15 @@ Review the following information before you integrate Advertising Cloud with Ado
 
 ## Requirements for Reporting Advertising Cloud Data in [!DNL Analytics]
 
-* Experience Cloud Identity Service: `visitorAPI.js` version 2.0 or higher
+* Either of the following:
+  * Adobe Experience Platform Web SDK: `alloy.js`
+  * Experience Cloud Identity Service: `visitorAPI.js` version 2.0 or higher
 * Any version of Adobe Analytics (including [!DNL Prime], [!DNL Premium], or [!DNL Ultimate])
 * Adobe Analytics: `appMeasurement.js` version 2.1 or higher
 
 >[!TIP]
 >
->To improve data fidelity, use the most recent version of the Experience Cloud Identity Service with CNAME support, as well as the most recent version of Analytics AppMeasurement for JavaScript.
+>To improve data fidelity, use the most recent version of each library.
 
 ## Requirements for Sharing Analytics Segments with Advertising Cloud
 
@@ -53,7 +55,7 @@ The [!DNL Analytics for Advertising Cloud] JavaScript uses these settings to det
 
 ## Advertising Cloud Data in [!DNL Analytics]
 
-[!DNL Analytics] sets Advertising Cloud IDs (AMO IDs) within the Analytics hit, subject to the advertiser's eVar persistence setting, which applies to both click-throughs and view-throughs. The persistence setting is configured on the Advertising Cloud back end, and your Adobe account manager can change it.
+[!DNL Analytics] sets Advertising Cloud IDs (AMO IDs) within the Analytics hit, subject to the advertiser's eVar persistence setting, which applies to both click-throughs and view-throughs. The persistence setting is configured on the Advertising Cloud back end, and your [!DNL Adobe] account manager can change it.
 
 * [!DNL Analytics for Advertising Cloud] eVar expiration: 60 days by default for AMO IDs
 
@@ -69,9 +71,11 @@ The [!DNL Analytics for Advertising Cloud] JavaScript uses these settings to det
 * Online Video
 * Native
 
-Contact your Adobe account manager for the latest supported ad environments in each channel.  
+Contact your [!DNL Adobe] account manager for the latest supported ad environments in each channel.  
 
 ## Things to Know Before You Implement
+
+*  The Advertising Cloud implementation team will set up the integration.
 
 * No additional costs are billed for this integration, nor do server calls result in additional [!DNL Analytics] or Advertising Cloud fees.
 
