@@ -59,3 +59,4 @@ You can immediately create an ad with the uploaded creative, or you can create a
 >* [Best Practices for Setting up Performance Campaigns](/help/dsp/optimization/campaign-best-practices-performance.md)
 >* [About In-Platform Reports](/help/dsp/campaign-management/reports/campaign-reports-about.md)
 >* [About the Campaign Data Views](/help/dsp/campaign-management/reports/campaign-data-views-about.md)
+>* [Video: DSP Account Structure and User Interface](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/ui.html)

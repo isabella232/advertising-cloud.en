@@ -2,8 +2,8 @@
 title: Currencies Supported
 description: See a list of the supported currencies.
 feature: DSP Custom Reports, DSP Campaign Data Views
+exl-id: 7cbce17b-12f0-49e5-8acd-adf9b7d01557
 ---
-
 # Currencies Supported in Adobe Advertising Cloud
 
 Advertising Cloud supports the following currencies.

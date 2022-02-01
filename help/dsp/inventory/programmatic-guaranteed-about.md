@@ -13,7 +13,7 @@ A programmatic guaranteed (PG) deal is a guaranteed buy directly with a publishe
 * The deal is always billed through DSP.
 * The deal has a fixed price and quantity.
 * The publisher or supply side platform (SSP) handles all budget pacing, budget capping, and any targeting.
-* Typically, the deal has a higher priority in publisher’s ad server
+* Typically, the deal has a higher priority in publisher’s ad server.
 * Bid requests aren't exclusive to a single deal or buyer.
 * Multiple types of video are supported on a single deal ID.
 * The SSPs and publishers have delivery SLAs.
@@ -25,10 +25,10 @@ PG deals require a PG default placement and ads so DSP can return a request to e
 * [!DNL Ambient Digital]
 * [!DNL FreeWheel]
 * [!DNL Google Authorized Buyers]
+* [!DNL Magnite CTV] (formerly [!DNL Telaria])
+* [!DNL Magnite DV+] (formerly [!DNL Rubicon])
 * [!DNL OpenX]
-* [!DNL Rubicon]
 * [!DNL SpotX]
-* [!DNL Telaria]
 
 >[!MORELIKETHIS]
 >

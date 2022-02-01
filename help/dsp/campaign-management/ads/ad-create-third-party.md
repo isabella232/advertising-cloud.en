@@ -59,3 +59,4 @@ To create a single third-party ad, see [Create an Ad](ad-create.md).
 >* [Create an Ad](ad-create.md)
 >* [Available Ad Types](ad-types.md)
 >* [Ad Specifications](/help/dsp/assets/ad-specs.pdf)
+>* [Video: How to Bulk Upload Third-Party Ad Tags](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/bulk-upload-third-party-ad-tags.html)

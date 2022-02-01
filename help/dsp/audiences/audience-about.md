@@ -28,7 +28,7 @@ Advertising Cloud DSP can import your own first-party data segments from your da
 
 Advertising Cloud DSP can also import custom third-party segments, including complex combinations of third-party segments. You can provide the segments to any set of advertisers, as needed.
 
-Contact your Account Manager for more information.
+Contact your [!DNL Adobe] account manager for more information.
 
 ## Audiences Available as Placement Targets
 
@@ -60,7 +60,7 @@ You can target your placements to all of the following types of audiences.
    
    >[!NOTE]
    >
-   >See the documentation for [Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html), [Analytics](https://experienceleague.adobe.com/docs/analytics/landing/home.html), and [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/audiences/audience-library.html) for information about setting up and collecting data for segments in those solutions.
+   >See the documentation for [Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html), [Analytics](https://experienceleague.adobe.com/docs/analytics.html), and [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/audiences/audience-library.html) for information about setting up and collecting data for segments in those solutions.
 
 ## Audience Size Data
 
@@ -96,11 +96,11 @@ The [!UICONTROL Segments] view also lists the following segment types:
 
 * All imported first-party segments available to the user.
 
-   You can't edit or share first-party segments that were shared with you. Contact your Account Manager if you need to share first-party segments with additional users.
+   You can't edit or share first-party segments that were shared with you. Contact your [!DNL Adobe] account manager if you need to share first-party segments with additional users.
 
 * All custom third-party segments available to the user.
 
-   You can't edit or share third-party segments that were shared with you. Contact your Account Manager if you need to share third-party segments with additional users.
+   You can't edit or share third-party segments that were shared with you. Contact your [!DNL Adobe] account manager if you need to share third-party segments with additional users.
 
 >[!MORELIKETHIS]
 >
