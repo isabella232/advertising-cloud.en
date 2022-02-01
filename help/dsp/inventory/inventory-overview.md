@@ -14,7 +14,7 @@ Available inventory types include:
 
 * **[!DNL On Demand] Inventory:** Explore pre-negotiated, non-guaranteed deals that Adobe has curated with our premium publisher partners.
 
-* **Private Inventory:** Set up and manage private marketplace deals (PMPs) that you've negotiated directly 1:1 with the publisher. 
+* **Private Inventory [!DNL Deal IDs]:** Set up and manage private marketplace deals (PMPs) that you've negotiated directly 1:1 with the publisher. 
 
 * **[!DNL Simple Ad Serving]:** Use streamlined technology for guaranteed, non-decisioned ad delivery and reporting when your publisher can't execute your deal via deal IDs.
 
