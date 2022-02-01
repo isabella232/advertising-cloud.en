@@ -2,6 +2,7 @@
 title: Archive or Unarchive a Private Deal
 description: Learn how to archive or unarchive a private deal.
 feature: DSP Private Inventory, DSP Deal IDs
+exl-id: 6ecf90b6-a52f-42f3-aa3f-b2c489ea0aa8
 ---
 # Archive or Unarchive a Private Deal
 

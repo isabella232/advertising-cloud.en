@@ -2,6 +2,7 @@
 title: About Private Inventory
 description: About Private Inventory
 feature: DSP Private Inventory
+exl-id: 6b3923ca-ccd1-450e-bff0-139e3838c999
 ---
 # About Private Inventory
 

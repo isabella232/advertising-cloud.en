@@ -2,6 +2,7 @@
 title: Edit the Attribute Tags for a Deal ID
 description: Learn how to create and edit the attribute tags for a deal ID.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
+exl-id: 9a0190e7-26d0-4236-abbb-f1264b5d61e9
 ---
 # Edit the Attribute Tags for a Deal ID
 
