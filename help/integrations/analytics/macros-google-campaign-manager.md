@@ -43,7 +43,7 @@ https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;
 1. In the main menu, click the [!UICONTROL Campaigns] tab.
 1. Click the campaign name.
 1. Click [!UICONTROL Properties].
-1. In the [!UICONTROL Landing page URL suffix] settings, include `%pamo!;` in the [!UICONTROL URL suffix] field.	 
+1. In the [!UICONTROL Landing page URL suffix] settings, include `%pamo!;` in the [!UICONTROL URL suffix] field.
 
 ## Configure the Creative-Level Landing Page URL Suffix
 
