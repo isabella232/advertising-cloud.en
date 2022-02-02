@@ -12,9 +12,9 @@ exl-id:
 
 If you use ad tags from Google Campaign Manager 360 for your Advertising Cloud DSP ads, you can append Analytics for Advertising Cloud parameters to your landing page URLs using the [`%p` macro](https://support.google.com/campaignmanager/table/6096962).
 
-The parameters allow Advertising Cloud to send click data for the ads to Adobe Analytics.<!-- Correct? -->
+The parameters allow Advertising Cloud to send click data for the ads to Adobe Analytics.
 
-# Append the Macros to Your Google Campaign Manager 360 Ads
+## Append the Macros to Your Google Campaign Manager 360 Ads
 
 Within Google Campaign Manager 360, append to the following parameter to the landing page URL: `%pamo=!;`
 
@@ -26,7 +26,7 @@ The following is an example of the landing page URL formatted with the suffix.
 https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;
 ```
 
->[!NOTES]
+>[!NOTE]
 >
 >
 >* If the landing page URL includes a hash symbol (#), which is not common, then place the `amo` parameter before the hash symbol.
@@ -53,11 +53,11 @@ https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;
 1. Click the creative name.
 1. In the [!UICONTROL Click tags] setting, include `%pamo!;` in the [!UICONTROL Landing page] column for the click tag.
 
-# How Analytics for Advertising Cloud Macros Are Expanded in Advertising Cloud DSP
+## How Analytics for Advertising Cloud Macros Are Expanded in DSP
 
-In Advertising Cloud DSP, when you create an ad that includes the Analytics for Advertising Cloud parameter (`amo`), the `ef_id` and `s_kwcid` macros are automatically appended to the click URL. The best practice is to check the tag in Advertising Cloud DSP to ensure that the `ef_id` and `s_kwcid` macros are present.
+In DSP, when you create an ad that includes the Analytics for Advertising Cloud parameter (`amo`), the `ef_id` and `s_kwcid` macros are automatically appended to the click URL. The best practice is to check the tag in DSP to ensure that the `ef_id` and `s_kwcid` macros are present.
 
-The following is an example of a Google Campaign Manager 360 [ins tag](https://support.google.com/campaignmanager/answer/6080468) as it appears in Advertising Cloud DSP.
+The following is an example of a Google Campaign Manager 360 [ins tag](https://support.google.com/campaignmanager/answer/6080468) as it appears in DSP.
 
 ```
 <ins class='dcmads' style='display:inline-block;width:160px;height:600px'
@@ -71,4 +71,4 @@ data-dcm-param-amo='ef_id=${TM_USER_ID}:${TM_DATETIME}:d&s_kwcid=AC!${TM_AD_ID}!
 </ins>
 ```
 
-When a user clicks the ad<!-- ??? -->, Google Campaign Manager 360 sees `%pamo` in the URL suffix and dynamically inserts the value of the `amo` parameter into the URL.
+When a user clicks the ad, Google Campaign Manager 360 sees `%pamo` in the URL suffix and dynamically inserts the value of the `amo` parameter into the URL.
