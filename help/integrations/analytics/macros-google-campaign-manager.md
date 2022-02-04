@@ -2,7 +2,6 @@
 title: Analytics for Advertising Cloud Macros for Google Campaign Manager 360 Ad Tags
 description: Learn about Analytics for Advertising Cloud macros for Google Campaign Manager 360 ad tags
 feature: Integration with Adobe Analytics
-exl-id:
 ---
 # Analytics for Advertising Cloud Macros for Google Campaign Manager 360 Ad Tags<!-- wording? correct terms? -->
 
