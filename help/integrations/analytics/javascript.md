@@ -10,9 +10,9 @@ exl-id: 184508ce-df8d-4fa0-b22b-ca0546a61d58
 
 *Advertisers with Advertising Cloud DSP only*
 
-For Advertising Cloud DSP, the [!DNL Analytics for Advertising Cloud] integration tracks view-through and click-through site interactions. Click-through visits are tracked by the standard Adobe Analytics code on your webpages; the [!DNL Analytics] code captures the AMO ID and EF ID parameters in the landing page URL and tracks them in their respective reserved eVars. You can track view-through visits by deploying two lines of JavaScript code in your webpages.
+For Advertising Cloud DSP, the [!DNL Analytics for Advertising Cloud] integration tracks view-through and click-through site interactions. Click-through visits are tracked by the standard Adobe Analytics code on your webpages; the [!DNL Analytics] code captures the AMO ID and EF ID parameters in the landing page URL and tracks them in their respective reserved eVars. You can track view-through visits by deploying a JavaScript snippet in your webpages.
 
-On the first page view of a visit to the site, the Advertising Cloud JavaScript code checks to see if the visitor has previously seen or clicked on an ad. If the user has previously entered the site via a click-through or hasn't seen an ad, then the visitor is ignored. If the visitor has seen an ad and hasn't entered the site via a click-through during the [click lookback window](/help/integrations/analytics/prerequisites.md#lookback-a4adc) set within Advertising Cloud, then the Advertising Cloud JavaScript code either a) uses the [Experience Cloud ID Service](https://experienceleague.adobe.com/docs/id-service/using/home.html) to generate a supplemental ID (`SDID`) or b) uses the Adobe Experience Platform [!DNL Web SDK] to generate a `[!DNL StitchID]`. Either ID is used to stitch data from Advertising Cloud to the visitor’s Adobe Analytics hit. Adobe Analytics then queries Advertising Cloud for the AMO ID and EF ID associated with the ad exposure. The AMO ID and EF IDs are then populated in their respective eVars. These values persist for a designated period (by default, 60 days).
+On the first page view of a visit to the site, the Advertising Cloud JavaScript code checks to see if the visitor has previously seen or clicked on an ad. If the user has previously entered the site via a click-through or hasn't seen an ad, then the visitor is ignored. If the visitor has seen an ad and hasn't entered the site via a click-through during the [click lookback window](/help/integrations/analytics/prerequisites.md#lookback-a4adc) set within Advertising Cloud, then the Advertising Cloud JavaScript code either a) uses the [Experience Cloud ID Service](https://experienceleague.adobe.com/docs/id-service/using/home.html) to generate a supplemental ID (`SDID`) or b) uses the Adobe Experience Platform [!DNL Web SDK]`generateRandomID` method to generate a `[!DNL StitchID]`. Either ID is used to stitch data from Advertising Cloud to the visitor’s Adobe Analytics hit. Adobe Analytics then queries Advertising Cloud for the AMO ID and EF ID associated with the ad exposure. The AMO ID and EF IDs are then populated in their respective eVars. These values persist for a designated period (by default, 60 days).
 
 [!DNL Analytics] sends site traffic metrics (such as page views, visits, and time spent) and any [!DNL Analytics] custom or standard events to Advertising Cloud hourly, using the EF ID as the key. These [!DNL Analytics] metrics then run through the Advertising Cloud attribution system to connect the conversions to the click and exposure history.
 
@@ -59,12 +59,13 @@ You can perform validation using any packet sniffer type of tool (such as [!DNL 
 
 1. Compare the ID values between the two hits. All of the values will be in query string parameters except for the report suite ID in the Analytics hit, which is the URL path immediately after `/b/ss/`.
 
-     | ID | Analytics Parameter | Advertising Cloud Parameter |
+     | ID | Analytics Parameter | Edge Network | Advertising Cloud Parameter |
      |--- |--- |--- |
-     | Experience Cloud IMS Org | `mcorgid` | `_les_imsOrgid` |
-     | Supplemental Data ID | sdid | `_les_sdid` |
-     | Analytics Report Suite | The value after `/b/ss/` | `_les_rsid` |
-     | Experience Cloud Visitor ID | mid | `_les_mid` |
+     | Experience Cloud IMS Org | `mcorgid` |  | `_les_imsOrgid` |
+     | Supplemental Data ID | sdid |  | `_les_sdid` |
+     | Stitch ID |   | `advertisingStitchID` under the `_adcloud` property <!-- ??? -->  | stitchId |
+     | Analytics Report Suite | The value after `/b/ss/` | | `_les_rsid` |
+     | Experience Cloud Visitor ID | mid |  | `_les_mid` |
 
      If the ID values match, then the JavaScript implementation is confirmed. Advertising Cloud will send the [!DNL Analytics] server any click-through or view-through tracking details if they exist.
 
@@ -75,7 +76,8 @@ You can perform validation using any packet sniffer type of tool (such as [!DNL 
 1. In the [!UICONTROL Solutions Filter] toolbar, click [!UICONTROL Advertising Cloud] and [!UICONTROL Analytics].
 1. In the [!UICONTROL Request URL – Hostname] parameter row, locate `lasteventf-tm.everesttech.net`.
 1. In the [!UICONTROL Request – Parameters] row, audit the signals generated, similar to Step 3 in "[How to Confirm the Code with [!DNL Chrome Developer Tools]](#validate-js-chrome)."
-     * Check to make sure the `SDID` parameter matches the `Supplemental Data ID` in the Adobe Analytics filter.
+     * (Implementations that use the Experience Cloud Identity Service `visitorAPI.js` code) Make sure the `Sdid` parameter matches the `Supplemental Data ID` in the Adobe Analytics filter.
+     * (Implementations that use the Experience Platform [!DNL Web SDK] `alloy.js`code) Make sure the value of the `advertisingStitchID` parameter matches the `Sdid` sent to the Experience Platform Edge Network.
      * If the code isn't generating, then check to make sure the Advertising Cloud cookie has been removed in the [!UICONTROL Application] tab. Once it's removed, refresh the page and repeat the process.
 
      ![Auditing [!DNL Analytics for Advertising Cloud] JavaScript code in [!DNL Experience Cloud Debugger]](/help/integrations/assets/a4adc-js-audit-debugger.png)
