@@ -60,7 +60,7 @@ You can perform validation using any packet sniffer type of tool (such as [!DNL 
 1. Compare the ID values between the two hits. All of the values will be in query string parameters except for the report suite ID in the Analytics hit, which is the URL path immediately after `/b/ss/`.
 
      | ID | Analytics Parameter | Edge Network | Advertising Cloud Parameter |
-     |--- |--- |--- |
+     | --- | --- | --- | --- |
      | Experience Cloud IMS Org | `mcorgid` |  | `_les_imsOrgid` |
      | Supplemental Data ID | sdid |  | `_les_sdid` |
      | Stitch ID |   | `advertisingStitchID` under the `_adcloud` property <!-- ??? -->  | stitchId |
