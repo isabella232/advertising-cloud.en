@@ -33,8 +33,6 @@ The JavaScript library consists of two lines that allow [!DNL Analytics] and Adv
      if("undefined" != typeof AdCloudEvent) 
           AdCloudEvent('IMS ORG Id');
 </script>
-<noscript><!-- fill in -->
-</noscript>
 ```
 
 **(Implementations that use the Experience Platform [!DNL Web SDK] `alloy.js`code)**
@@ -44,8 +42,6 @@ The JavaScript library consists of two lines that allow [!DNL Analytics] and Adv
      if("undefined" != typeof AdCloudEvent) 
           stitchId = AdCloudEvent('IMS ORG Id').generateRandomId();
 </script>
-<noscript><!-- fill in -->
-</noscript>
 ```
 
 ### Where to Place the Code
@@ -90,7 +86,7 @@ You can perform validation using any packet sniffer type of tool (such as [!DNL 
      | --- | --- | --- | --- |
      | Experience Cloud IMS Org | `mcorgid` |  | `_les_imsOrgid` |
      | Supplemental Data ID | sdid |  | `_les_sdid` |
-     | Stitch ID |   | `advertisingStitchID` under the `_adcloud` property <!-- ???  -->  |  |
+     | Stitch ID | stitchId | `advertisingStitchID` under the `_adcloud` property  |  |
      | Analytics Report Suite | The value after `/b/ss/` | | `_les_rsid` |
      | Experience Cloud Visitor ID | mid |  | `_les_mid` |
 
