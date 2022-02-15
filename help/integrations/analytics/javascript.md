@@ -80,7 +80,7 @@ You can perform validation using any packet sniffer type of tool (such as [!DNL 
 
      ![Filtering on `/b/ss`](/help/integrations/assets/a4adc-code-validation-filter-bss.png)
 
-1.	(Implementations that use the Experience Platform [!DNL Web SDK] `alloy.js`code) Filter on `/interact` to verify that the request payload to the Edge Network contains `advertisingStitchID`.
+1. (Implementations that use the Experience Platform [!DNL Web SDK] `alloy.js`code) Filter on `/interact` to verify that the request payload to the Edge Network contains `advertisingStitchID`.
 
      ![Filtering on `/interact`](/help/integrations/assets/a4adc-code-validation-filter-interact.png)
 
