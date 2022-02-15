@@ -24,9 +24,11 @@ On the first page view of a visit to the site, the Advertising Cloud JavaScript 
 
 ## Deploying the JavaScript Code
 
-The JavaScript library consists of two lines that allow [!DNL Analytics] and Advertising Cloud to communicate with each other. If the [!DNL Analytics for Advertising Cloud] integration was completed during the Advertising Cloud implementation, then you should have received this code with instructions on how to deploy it.
+The JavaScript library consists of two lines that allow [!DNL Analytics] and Advertising Cloud to communicate with each other. If the [!DNL Analytics for Advertising Cloud] integration was completed during the Advertising Cloud implementation, then you should have already received this code with instructions on how to deploy it.
 
-**(Implementations that use the Experience Cloud Identity Service `visitorAPI.js` code)**
+### The Code
+
+#### Implementations that use the Experience Cloud Identity Service `visitorAPI.js` code
 
 ```
 <script>
@@ -35,7 +37,7 @@ The JavaScript library consists of two lines that allow [!DNL Analytics] and Adv
 </script>
 ```
 
-**(Implementations that use the Experience Platform [!DNL Web SDK] `alloy.js`code)**
+#### Implementations that use the Experience Platform [!DNL Web SDK] `alloy.js`code
 
 ```
 <script>
