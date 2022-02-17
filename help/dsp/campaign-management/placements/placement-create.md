@@ -120,3 +120,4 @@ exl-id: 4e37b571-9af4-4897-bff2-035a5f2600a5
 >* [Placement Settings](placement-settings.md)
 >* [Keyboard Shortcuts](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
 >*[Troubleshooting Performance](/help/dsp/optimization/troubleshooting-performance.md)
+>* [Video: How to Create a Standard Display Placement](https://video.tv.adobe.com/v/340454)
