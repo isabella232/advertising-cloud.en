@@ -1,6 +1,6 @@
 ---
-title: [!DNL Analytics] Data in Advertising Cloud
-description: [!DNL Analytics] Data in Advertising Cloud
+title: "[!DNL Analytics] Data in Advertising Cloud"
+description: "[!DNL Analytics] Data in Advertising Cloud"
 feature: Integration with Adobe Analytics
 exl-id: 79fbc809-9965-41c1-971f-3652cc78fee3
 ---

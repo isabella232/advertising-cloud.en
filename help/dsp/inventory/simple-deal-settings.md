@@ -1,5 +1,5 @@
 ---
-title: [!UICONTROL Simple Ad Serving] Deal Settings
+title: "[!UICONTROL Simple Ad Serving] Deal Settings"
 description: Learn about the available settings for [!UICONTROL Simple Ad Serving] deals.
 feature: DSP Simple Ad Serving
 ---
