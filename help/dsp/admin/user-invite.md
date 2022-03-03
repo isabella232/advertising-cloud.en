@@ -24,7 +24,7 @@ If necessary, you can uninvite a user with a pending invitation.
 
 >[!MORELIKETHIS]
 >
->* [Resend a Pending User Invitation for Your Organization Account](user-resend-invite.md)
+>* [Resend a Pending User Invitation](user-resend-invite.md)
 >* [Uninvite a Pending User](user-uninvite.md)
 
 <!-- >* [Edit User Permissions or Delete a User](user-edit.md) -->
