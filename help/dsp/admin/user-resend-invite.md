@@ -11,6 +11,7 @@ You can resend an invitation to user a with a pending invitation for the organiz
 1. Do either of the following:
 
     * In the main menu, click **[!UICONTROL Settings] > [!UICONTROL Users]**.
+    
     * In the main menu, click **[!UICONTROL Settings] > [!UICONTROL Account]**, and then click **[!UICONTROL Edit users]**.
 
 1. In the **Invitations** section, click ![Resend](/help/dsp/assets/resend.png).
