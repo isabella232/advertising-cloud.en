@@ -6,7 +6,7 @@ description: Learn how to resend a pending user invitation.
 
 *Administrator Users Only*
 
-You can resend an invitation to user a with a pending invitation for the organization account.
+You can resend an invitation to a user with a pending invitation for the organization account.
 
 1. Do either of the following:
 
