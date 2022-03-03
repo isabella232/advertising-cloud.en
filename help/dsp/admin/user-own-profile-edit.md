@@ -35,5 +35,6 @@ Your account profile includes your login credentials and other information. Some
 
 >[!MORELIKETHIS]
 >
-<!-- >* [User Profile and Organization Account Settings](user-and-account-settings.md) -->
 >* [Invite a New User for Your Organization Account](user-invite.md)
+
+<!-- >* [User Profile and Organization Account Settings](user-and-account-settings.md) -->
