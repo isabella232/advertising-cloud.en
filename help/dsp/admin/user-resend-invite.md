@@ -1,16 +1,17 @@
 ---
-title: Resend a Pending User Invitation for Your Organization Account
+title: Resend a Pending User Invitation
 description: Learn how to resend a pending user invitation.
 ---
-# Resend a Pending User Invitation for Your Organization Account
+# Resend a Pending User Invitation
 
 *Administrator Users Only*
 
-You can resend an invitation to user a with a pending invitation for the organization account.
+You can resend an invitation to a user with a pending invitation for the organization account.
 
 1. Do either of the following:
 
     * In the main menu, click **[!UICONTROL Settings] > [!UICONTROL Users]**.
+
     * In the main menu, click **[!UICONTROL Settings] > [!UICONTROL Account]**, and then click **[!UICONTROL Edit users]**.
 
 1. In the **Invitations** section, click ![Resend](/help/dsp/assets/resend.png).
