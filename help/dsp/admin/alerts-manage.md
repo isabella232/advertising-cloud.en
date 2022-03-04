@@ -14,7 +14,7 @@ description: Learn how to manage automatic email alerts.
 
 1. In the **[!UICONTROL Add Alerts]** section:
 
-    1. Select the the first alert type.
+    1. Select the first alert type.
     
     1. Enter the alert parameters.
 
@@ -22,7 +22,7 @@ description: Learn how to manage automatic email alerts.
 
     1. (Optional) To run the alert right away, select **[!UICONTROL Alert immediately]**. By default, the alert is run <!-- at what time? -->.
 
-    1. (Optional) To add an additional alert to the subscription, click **[!UICONTROL Add Alert]** and create the new alert.
+    1. (Optional) To add an additional alert to the subscription, click **[!UICONTROL Add Alert]** and create the alert.
 
        <!-- You can add up to NN alerts per subscription. -->
        <!-- You can add quite a few, many unlimited -->
@@ -37,7 +37,7 @@ description: Learn how to manage automatic email alerts.
 
    1. To the right of the subscription name, click **[!UICONTROL + Add Alert]**.
    
-   1. Select the the alert type.
+   1. Select the alert type.
     
    1. Enter the alert parameters.
 
