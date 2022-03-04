@@ -10,7 +10,7 @@ description: See descriptions of the available advertiser settings.
 
 **[!UICONTROL Advertiser Name]:** The advertiser name.
 
-**[!UICONTROL Category]:** The category in which the advertiser’s business operates. The category will be communicated to the publishers when you bid on inventory. Make sure you choose a category that aligns with your ads, or publishers may reject your ads.
+**[!UICONTROL Category]:** The category in which the advertiser’s business operates. The category is communicated to the publishers when you bid on inventory. Make sure you choose a category that aligns with your ads, or publishers may reject your ads.
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ Advertisers with additional Adobe Experience Cloud products can share data acros
 
 **[!UICONTROL Adobe Media Optimizer]:** (Advertisers with Advertising Cloud Search or who use Advertising Cloud conversion pixels) A [!DNL Search] account with which DSP will exchange attribution data.
 
-**[!UICONTROL Adobe Device Co-op or 3rd Party Graph]:** (Advertisers who use Advertising Cloud conversion pixels; optional) You can leverage a device graph for person-based attribution measurement from the advertiser's account settings in Advertising Cloud Search.
+**[!UICONTROL Adobe Device Co-op or 3rd Party Graph]:** (Advertisers who use Advertising Cloud conversion pixels; optional) You can use a device graph for person-based attribution measurement from the advertiser's account settings in Advertising Cloud Search.
 
 >[!NOTE]
 >
@@ -74,7 +74,7 @@ You can optionally configure default targets for the advertiser's new placements
 
 ### [!UICONTROL Audience Targeting]
 
-**[!UICONTROL Audiences to exclude]:** Any audiences or segments that will be suppressed by default. Users can change the exclusions for each placement.
+**[!UICONTROL Audiences to exclude]:** Any audiences or segments to suppress by default. Users can change the exclusions for each placement.
 
 ### Media Quality]
 
@@ -106,7 +106,7 @@ Types of sites to block based on fraudulent traffic and suspicious activities me
 
 ##### [!UICONTROL DoubleVerify] {#doubleverify-fraud}
 
-**[!UICONTROL Block Fraud Sites (100% Invalid traffic) and User-Based Fraud and IVT Devices]:** By default, blocks all 100% invalid traffic, including traffic on highjacked devices, for new placements. Additional fees may apply.
+**[!UICONTROL Block Fraud Sites (100% Invalid traffic) and User-Based Fraud and IVT Devices]:** By default, blocks all 100% invalid traffic, including traffic on hijacked devices, for new placements. Additional fees may apply.
 
 **[!UICONTROL Also block sites with]:** (Optional) An additional level of fraud and invalid traffic that will cause DSP to block ads by default:  *[!UICONTROL None]* (the default, which doesn't block additional traffic), *[!UICONTROL >2% Average Fraud/IVT levels (lowest reach)]*, *[!UICONTROL >4% Average Fraud/IVT levels]*, *[!UICONTROL >6% Average Fraud/IVT levels]*, *[!UICONTROL >10% Average Fraud/IVT levels]*, or *[!UICONTROL >25% Average Fraud/IVT levels]*. Additional fees may apply.
 
