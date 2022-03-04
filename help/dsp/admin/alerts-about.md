@@ -4,9 +4,9 @@ description: Learn about automatic email alerts.
 ---
 # About Alert Subscriptions
 
-You can create groups of automatic email alerts, called subscriptions, which sends email notifications when specified account, campaign, ad, and private inventory deal parameters are met.
+You can create groups of automatic email alerts, called subscriptions, which send email notifications when specified account, campaign, ad, and private inventory deal parameters are met.
 
-For example, you can be alerted when a campaign has spent a specified amount of its budget, and also when a private inventory deal has had less than a specified win rate in the last N days.
+For example, you can receive an alert when a campaign has spent a specified amount of its budget. You can also receive an alert when a private inventory deal has had less than a specified win rate in the last N days.
 
 You can add or remove alerts from a subscription, edit the users who receive email notifications for a subscription, disable and reenable alert subscriptions, and delete alert subscriptions.
 
