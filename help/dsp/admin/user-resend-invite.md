@@ -1,6 +1,7 @@
 ---
 title: Resend a Pending User Invitation
 description: Learn how to resend a pending user invitation.
+exl-id: e326460b-8354-452e-aa35-00c82c7d76bf
 ---
 # Resend a Pending User Invitation
 

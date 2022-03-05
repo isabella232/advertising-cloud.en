@@ -1,7 +1,8 @@
 ---
-title: "[!UICONTROL Simple Ad Serving] Deal Settings"
+title: '[!UICONTROL Simple Ad Serving] Deal Settings'
 description: Learn about the available settings for [!UICONTROL Simple Ad Serving] deals.
 feature: DSP Simple Ad Serving
+exl-id: 1a8f215c-c52b-4099-a55f-99c4232b7a22
 ---
 # [!UICONTROL Simple Ad Serving] Deal Settings
 

@@ -1,6 +1,7 @@
 ---
 title: Invite a New User for Your Organization Account
 description: Learn how to invite a new user to join the account.
+exl-id: 5394d4e8-e081-4db4-909b-38bd366ce4fc
 ---
 # Invite a New User for Your Organization Account
 

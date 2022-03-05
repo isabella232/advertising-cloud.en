@@ -1,6 +1,7 @@
 ---
 title: Uninvite a Pending User
 description: Learn how to rescind a pending user invitation.
+exl-id: a67290f7-27ae-4891-a1d4-8283e8426f72
 ---
 # Uninvite a Pending User
 
