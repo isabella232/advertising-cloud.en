@@ -76,9 +76,9 @@ You can optionally configure default targets for the advertiser's new placements
 
 **[!UICONTROL Audiences to exclude]:** Any audiences or segments to suppress by default. Users can change the exclusions for each placement.
 
-### Media Quality]
+### [!UICONTROL Media Quality]
 
-#### Contextual Filtering]
+#### [!UICONTROL Contextual Filtering]
 
 Types of [!DNL Comscore], [!DNL DoubleVerify], [!DNL Integral Ad Science], and [!DNL Peer39] contextual filters to apply. You can override the advertiser-level settings at the [placement level](/help/dsp/campaign-management/placements/placement-settings.md).
 
@@ -144,5 +144,4 @@ You can override the advertiser-level setting at the placement level.
 >
 >* [Create an Advertiser Account](/help/dsp/admin/advertiser-create.md)
 
-<!-->* [View the Advertiser List for the Account](/help/dsp/admin/advertiser-view.md)
--->
+<!-- >* [View the Advertiser List for the Account](/help/dsp/admin/advertiser-view.md) -->
