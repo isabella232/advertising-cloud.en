@@ -1,5 +1,5 @@
 ---
-title: Create a [!UICONTROL Simple Ad Serving] Deal
+title: About [!UICONTROL Simple Ad Serving]
 description: Learn about [!UICONTROL Simple Ad Serving] deals using event-tracking pixels.
 feature: DSP Simple Ad Serving
 exl-id: d65d1d8e-4d10-4d1d-86d3-f4457c29ae8d
