@@ -199,6 +199,9 @@ index: yes
   + Blocked Sites {#sites}
     + [About Account-Level and Advertiser-Level Blocked Sites Lists](/help/dsp/admin/blocked-sites-list-about.md)
     + [Edit an Account-Level or Advertiser-Level Blocked Sites List](/help/dsp/admin/blocked-sites-list-edit.md)
+  + Notifications {#notifications}
+    + [About Alert Subscriptions](/help/dsp/admin/alerts-about.md)
+    + [Manage Alert Subscriptions](/help/dsp/admin/alerts-manage.md)
 + [Integrations with Adobe Experience Cloud](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/home.html)<!-- Dupe link to this file, so need to use an absolute link in one of the listings -->
 + [Customer Support](https://helpx.adobe.com/contact/enterprise-support.ec.html)
 + [Adobe Experience Cloud Release Notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)
