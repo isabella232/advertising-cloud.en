@@ -20,12 +20,9 @@ description: Learn how to manage automatic email alerts.
 
        The settings vary by alert type.
 
-    1. (Optional) To run the alert right away, select **[!UICONTROL Alert immediately]**. By default, the alert is run <!-- at what time? -->.
+    1. (Optional) To run the alert right away, select **[!UICONTROL Alert immediately]**. By default, the alert is run at 08:00 in the account's time zone.
 
     1. (Optional) To add an additional alert to the subscription, click **[!UICONTROL Add Alert]** and create the alert.
-
-       <!-- You can add up to NN alerts per subscription. -->
-       <!-- You can add quite a few, many unlimited -->
 
 1. In the **[!UICONTROL Add Subscriber Email Addresses]** field, enter each email address that will receive the alerts, and then press the **[!UICONTROL Enter]** key.
 
