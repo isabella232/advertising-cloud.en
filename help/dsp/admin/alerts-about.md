@@ -1,6 +1,7 @@
 ---
 title: About Alert Subscriptions
 description: Learn about automatic email alerts.
+exl-id: 9ed07a89-5a5f-4c63-a504-4a5680c1afd4
 ---
 # About Alert Subscriptions
 
