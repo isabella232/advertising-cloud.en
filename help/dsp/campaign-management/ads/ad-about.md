@@ -8,11 +8,10 @@ exl-id: 72c8bbef-d09c-4cf4-994d-99578d043d39
 
 <!-- add "The Ads View (Dashboard?)" section -->
 
-Advertising Cloud DSP offers two ways to serve your ads:
+Advertising Cloud DSP supports ad delivery via direct upload of third-party ad serving tags (such as Google, Flashtalking, or Sizmek).  You can upload tags individually or in bulk. Bulk uploads use partner tag sheets or a bulk tag template. 
 
-* Advertising Cloud DSP will serve your ads for free when you upload your own assets (such as display banners, video assets, audio files, or URLs) directly to DSP. For DSP-served assets, you have access to additional features, such as overlays.
-
-* If you use a third-party ad server (such as Google, Flashtalking, or Sizmek), you can upload your third-party ad serving tags to DSP individually or in bulk. The bulk upload feature requires you to either a) upload DoubleClick and Flashtalking tag sheets or b) download a template, input your tags into the template, and then re-upload the template.<!-- need a list of all supported third-party ad servers; see file in future-tbd folder -->
+<!-- The bulk upload feature requires you to either a) upload DoubleClick and Flashtalking tag sheets or b) download a template, input your tags into the template, and then re-upload the template. -->
+<!-- need a list of all supported third-party ad servers; see file in future-tbd folder -->
 
 Once your ads are set up, you'll need to attach each ad to a placement, which includes the targeting parameters (such as geo, audience, device, and inventory targeting) that will control how your campaign will deliver. You can attach a single ad to one or multiple placements.
 
@@ -22,35 +21,10 @@ Once your ads are set up, you'll need to attach each ad to a placement, which in
 * Connected TV
 * Display
 * Mobile
-* Native
+* Native Display
 * Pre-Roll
 
 For more information about these ad types, see [Available Ad Types](ad-types.md) and the complete [Ad Specifications](/help/dsp/assets/ad-specs.pdf).
-
-## Special Ad Features
-
-The following features are available for DSP-served ads only.
-
-### Companion Banners
-
-Companion banners are served alongside [pre-roll ads](ad-settings-pre-roll.md) or (with some publishers) [audio ads](ad-settings-audio.md) and can help reinforce brand and message association.
-
->[!NOTE]
->
->* Not all publishers allow companion banners. The publishers who do allow companion banners don't guarantee companion banner impressions.
->* Companion banners from third-party ad tags may not always available for preview.
-
-You can upload your own companion banner asset or upload a third-party iFrame or script banner tag from a certified third-party ad serving partner.
-
-### Overlays
-
-Overlays help with persistent branding throughout the video and can drive additional clicks. The overlay feature is available for [interactive pre-roll ads](ad-settings-pre-roll.md) and for [mobile ads in interactive and tap-to-play formats](ad-settings-mobile.md).
-
-See the [Best Practices for Designing Overlays](/help/dsp/campaign-management/ads/ad-best-practices-overlays.md)
-
-### Teasers
-
-A teaser is an eye-catching image that entices the viewer to play an ad. Teasers apply only to mobile tap-to-play ad formats.
 
 ## Advertising Cloud DSP Ad Approvals
 
@@ -68,7 +42,6 @@ When DSP approves an ad, you'll see a green dot in the Status column.
 
 >[!MORELIKETHIS]
 >
->* [Create an Ad](ad-create.md)
 >* [Create Multiple Third-party Ads](ad-create-third-party.md)
 >* [Available Ad Types](ad-types.md)
 >* [Ad Specifications](/help/dsp/assets/ad-specs.pdf)
