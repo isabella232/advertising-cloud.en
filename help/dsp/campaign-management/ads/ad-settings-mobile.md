@@ -112,61 +112,11 @@ This is the same as the **[!UICONTROL Height]** field.
 
 ### [!UICONTROL Teaser]
 
-*Mobile tap-to-play formats for DSP-served ads*
-
-**[!UICONTROL Asset]:** The teaser image or video asset:
-
-* To select your own image, click **[!UICONTROL Choose File],** locate the file on your device or network, and then click **[!UICONTROL Upload Image]**.
-
-   The best practice is to use an image with the same dimensions as the ad unit.
-
-* To select an image from the creative, click **[!UICONTROL Choose Thumbnail]**.
-
-Requirements for Static Image Teasers:
-
-* Format: GIF, JPEG, PNG
-* Image size: 300x250
-* File size: 50KB or less
-* Recommended: call to action, recognizable image, brand logo
-
-Requirements for Video Teasers:
-
-* File type: MOV, MP4  
-* File Size: Less than 2MB
-* Duration: 7-10sec
-* Recommended: recognizable images, faces, quick cuts
+Deprecated
 
 ### [!UICONTROL Overlays]
 
-*Interactive pre-roll and mobile interactive and tap-to-play formats for DSP-served ads*
-
-The following settings apply to each overlay that you create or edit.
-
-**[!UICONTROL Asset]:** (Raw assets only) The overlay image asset. The file must be in single-frame GIF, JPG, or PNG format, and the maximum image size is less than 2MB. To upload the asset, click **[!UICONTROL Browse]** and locate the file on your device or network, and then click **[!UICONTROL Upload]**.
-
->[!TIP]
->
->See the [Best Practices for Designing Overlays](/help/dsp/campaign-management/ads/ad-best-practices-overlays.md)
-
-**[!UICONTROL Click URL]:**  The URL on which the viewer will land when they click an overlay for your ad.
-
-**[!UICONTROL X]:** The X coordinate for the overlay. Select the overlay starting position, and then enter the number of pixels from the starting position (such as 10px From Center). The best practice is to use *From Center*, which prevents the overlay from moving around with different player sizes on publisher sites.
-
-**[!UICONTROL Y]:** The Y coordinate for the overlay. Select the overlay starting position, and then enter the number of pixels from the starting position (such as 10px from Top). The best practice is specify a coordinate *[!UICONTROL From Bottom]* or *[!UICONTROL From Top],* depending the position in which you’d like the overlay to be displayed on the ad.
-
-**[!UICONTROL Layer]:** The layer in which the overlay will appear. The video and each overlay will be in separate layers.
-
-* *[!UICONTROL 2 through 5]:* In front of the video but behind other overlays.
-
-* *[!UICONTROL 1]:* In front of the video.
-
-* *[!UICONTROL 0]:* In the same layer as the video. The video will shrink to fill the remaining space. Not recommended for Interactive Preroll.
-
-* *[!UICONTROL -1]:* Behind the video.
-
-* *[!UICONTROL -2 through -5]:* Behind the video but in front of other overlays.
-
-* *[!UICONTROL Background]:* Behind the video and other overlays. The overlay will scale to the full width and height of the video, and the aspect ratio won't be preserved.
+Deprecated
 
 ### [!UICONTROL Endcap]
 
@@ -199,5 +149,4 @@ Deprecated
 >* [List the Placements Associated with an Ad](/help/dsp/campaign-management/ads/ad-list-placements.md)
 >* [Available Ad Types](ad-types.md)
 >* [Ad Specifications](/help/dsp/assets/ad-specs.pdf)
->* [Best Practices for Designing Overlays](/help/dsp/campaign-management/ads/ad-best-practices-overlays.md)
 >* [Advertising Cloud DSP Macros](/help/dsp/campaign-management/macros.md)
