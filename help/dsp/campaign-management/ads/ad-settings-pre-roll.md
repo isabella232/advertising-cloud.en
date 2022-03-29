@@ -82,58 +82,11 @@ This is the same as the **[!UICONTROL Height]** field.
 
 ### [!UICONTROL Companion]
 
-*DSP-served ads only*
-
-You can optionally attach up to three companion banners with an ad. The best practice is to attach companion banners where possible.
-
->[!NOTE]
->
-> Not all publishers allow companion banners. The publishers who do allow companion banners don't guarantee companion banner impressions.
-> Companion banners from third-party ad tags may not always available for preview.
-
-**\[Check Box\]:** Includes the specified companion banner with the ad. When the check box is disabled, the companion banner isn't included.
-
-**\[Banner Size\]:** The companion banner size: *[!UICONTROL 300x600 (Skyscraper)]*; *[!UICONTROL 300x250 (Medium Rectangle)]*, which is the most common ad size and recommended for all ads; *[!UICONTROL 300x60 (Small Banner)]*; or *[!UICONTROL 728x90 (Leaderboard)]*, which is a less common ad size.
-
-**\[Source\]:** Whether you're uploading your own companion banner asset or using a third-party tag.
-
-**Asset:** (Raw assets only) The companion banner asset. Click **[!UICONTROL Browse]** and locate the file on your device or network, and then click **[!UICONTROL Upload]**.
-
-**Ad Tag]:[!UICONTROL ** (Ads using VAST tags only) An URL to a third-party companion banner source.
-
-**[!UICONTROL Final Ad Tag]:** (Ads using VAST tags only) An URL to a third-party companion banner source source with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
+Deprecated
 
 ### [!UICONTROL Overlays]
 
-*Interactive pre-roll and mobile interactive and tap-to-play formats for DSP-served ads*
-
-The following settings apply to each overlay that you create or edit.
-
-**[!UICONTROL Asset]:** (Raw assets only) The overlay image asset. The file must be in single-frame GIF, JPG, or PNG format, and the maximum image size is less than 2MB. To upload the asset, click **[!UICONTROL Browse]** and locate the file on your device or network, and then click **[!UICONTROL Upload]**.
-
->[!TIP]
->
->See the [Best Practices for Designing Overlays](/help/dsp/campaign-management/ads/ad-best-practices-overlays.md)
-
-**[!UICONTROL Click URL]:**  The URL on which the viewer will land when they click an overlay for your ad.
-
-**[!UICONTROL X]:** The X coordinate for the overlay. Select the overlay starting position, and then enter the number of pixels from the starting position (such as 10px From Center). The best practice is to use *From Center*, which prevents the overlay from moving around with different player sizes on publisher sites.
-
-**[!UICONTROL Y]:** The Y coordinate for the overlay. Select the overlay starting position, and then enter the number of pixels from the starting position (such as 10px from Top). The best practice is specify a coordinate *[!UICONTROL From Bottom]* or *[!UICONTROL From Top],* depending the position in which you’d like the overlay to be displayed on the ad.
-
-**[!UICONTROL Layer]:** The layer in which the overlay will appear. The video and each overlay will be in separate layers.
-
-* *[!UICONTROL 2 through 5]:* In front of the video but behind other overlays.
-
-* *[!UICONTROL 1]:* In front of the video.
-
-* *[!UICONTROL 0]:* In the same layer as the video. The video will shrink to fill the remaining space. Not recommended for Interactive Preroll.
-
-* *[!UICONTROL -1]:* Behind the video.
-
-* *[!UICONTROL -2 through -5]:* Behind the video but in front of other overlays.
-
-* *[!UICONTROL Background]:* Behind the video and other overlays. The overlay will scale to the full width and height of the video, and the aspect ratio won't be preserved.
+Deprecated
 
 ### [!UICONTROL Pixel]
 
@@ -158,5 +111,4 @@ The following settings apply to each pixel that you create or edit.
 >* [List the Placements Associated with an Ad](/help/dsp/campaign-management/ads/ad-list-placements.md)
 >* [Available Ad Types](ad-types.md)
 >* [Ad Specifications](/help/dsp/assets/ad-specs.pdf)
->* [Best Practices for Designing Overlays](/help/dsp/campaign-management/ads/ad-best-practices-overlays.md)
 >* [Advertising Cloud DSP Macros](/help/dsp/campaign-management/macros.md)
