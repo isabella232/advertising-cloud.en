@@ -65,16 +65,6 @@ index: yes
   + Ads {#ads}
     + [About Ad Management](/help/dsp/campaign-management/ads/ad-about.md)
     + [Available Ad Types](/help/dsp/campaign-management/ads/ad-types.md)
-    + Advertising Cloud-served Ads {#advertising-cloud-served}
-      + [Create an Ad](/help/dsp/campaign-management/ads/ad-create.md)
-      + Ad Settings {#ad-settings}
-        + [Audio Ad Settings](/help/dsp/campaign-management/ads/ad-settings-audio.md)
-        + [Connected TV Settings](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
-        + [Display Ad Settings](/help/dsp/campaign-management/ads/ad-settings-display.md)
-        + [Mobile Ad Settings](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
-        + [Native Ad Settings](/help/dsp/campaign-management/ads/ad-settings-native.md)
-        + [Pre-roll Ad Settings](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
-      + [Best Practices for Designing Overlays](/help/dsp/campaign-management/ads/ad-best-practices-overlays.md)
     + Bulk Third-Party Ads {#bulk-third-party}
       + [Create Multiple Third-Party Ads](/help/dsp/campaign-management/ads/ad-create-third-party.md)
       + [Create Ads with [!DNL Flashtalking]](/help/dsp/campaign-management/ads/ad-create-flashtalking.md)
