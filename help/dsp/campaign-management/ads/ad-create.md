@@ -20,7 +20,7 @@ To create multiple third-party ads at a time, see [Create Multiple Third-party A
 
 1. Specify the ad settings for [audio ads](ad-settings-audio.md), [connected TV](ad-settings-connected-tv.md), [display ads](ad-settings-display.md), [mobile ads](ad-settings-mobile.md), [native ads](ad-settings-native.md), or [pre-roll ads](ad-settings-pre-roll.md):
 
-    1. (Video and audio ads only) On the [!UICONTROL Upload or Select Creative] screen, upload a tracking tag from a certified third-party ad serving partner.
+    1. On the [!UICONTROL Insert Ad Tag] screen, enter information about the ad from a certified third-party ad serving partner.
 
     1. On the [!UICONTROL Options] screen:
 
