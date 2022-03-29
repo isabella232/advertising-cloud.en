@@ -26,6 +26,7 @@ You can duplicate an ad within the same campaign.
 >[!MORELIKETHIS]
 >
 >* [About Ad Management](ad-about.md)
->* [Create Multiple Third-party Ads](ad-create-third-party.md)
+>* [Create a Single Third-party Ad](ad-create.md)
+>* [Create Multiple Third-party Ads](ad-create-multiple.md)
 >* [Edit an Ad](ad-edit.md)
 >* [Ad Specifications](/help/dsp/assets/ad-specs.pdf)

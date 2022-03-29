@@ -1,10 +1,10 @@
 ---
-title: Native Ad Settings
-description: See descriptions of the available ad settings for native ads.
+title: Native Display Ad Settings
+description: See descriptions of the available ad settings for native display ads.
 feature: DSP Ads
 exl-id: 3ae59e63-ae64-41b2-8734-3df2da020c7c
 ---
-# Native Ad Settings
+# Native Display Ad Settings
 
 ## [!UICONTROL Upload or Select Creative]
 
@@ -65,7 +65,7 @@ The following settings apply to each pixel that you create or edit.
 >[!MORELIKETHIS]
 >
 >* [About Ad Management](ad-about.md)
->* [Create an Ad](ad-create.md)
+>* [Create a Single Third-party Ad](ad-create.md)
 >* [List the Placements Associated with an Ad](/help/dsp/campaign-management/ads/ad-list-placements.md)
 >* [Available Ad Types](ad-types.md)
 >* [Ad Specifications](/help/dsp/assets/ad-specs.pdf)

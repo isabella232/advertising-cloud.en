@@ -105,7 +105,7 @@ The following settings apply to each pixel that you create or edit.
 >[!MORELIKETHIS]
 >
 >* [About Ad Management](ad-about.md)
->* [Create an Ad](ad-create.md)
+>* [Create a Single Third-party Ad](ad-create.md)
 >* [List the Placements Associated with an Ad](/help/dsp/campaign-management/ads/ad-list-placements.md)
 >* [Available Ad Types](ad-types.md)
 >* [Ad Specifications](/help/dsp/assets/ad-specs.pdf)

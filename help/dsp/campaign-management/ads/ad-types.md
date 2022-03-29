@@ -6,7 +6,7 @@ exl-id: 27df3948-b645-4ddf-a5e0-ade72f15a969
 ---
 # Available Ad Types
 
-All of the following ad types are available in Advertising Cloud DSP for [third-party-served ads](/help/dsp/campaign-management/ads/ad-create-third-party.md).
+All of the following ad types are available in Advertising Cloud DSP for [third-party-served ads](/help/dsp/campaign-management/ads/ad-create-multiple.md).
 
 For full specifications for each ad type, see the [Ad Specifications](/help/dsp/assets/ad-specs.pdf).
 
@@ -37,5 +37,6 @@ Connected TV ads are shown before and during premium TV video content. All conne
 >[!MORELIKETHIS]
 >
 >* [About Ad Management](ad-about.md)
->* [Create Multiple Third-Party Ads](ad-create-third-party.md)
+>* [Create a Single Third-party Ad](ad-create.md)
+>* [Create Multiple Third-Party Ads](ad-create-multiple.md)
 >* [Ad Specifications](/help/dsp/assets/ad-specs.pdf)

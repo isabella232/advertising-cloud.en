@@ -73,7 +73,8 @@ exl-id: 4d85b89b-217f-46eb-a8b2-27da4c220be7
 >[!MORELIKETHIS]
 >
 >* [About Ad Management](ad-about.md)
->* [Create Multiple Third-party Ads](ad-create-third-party.md)
+>* [Create a Single Third-party Ad](ad-create.md)
+>* [Create Multiple Third-party Ads](ad-create-multiple.md)
 >* [Edit an Ad](ad-edit.md)
 >* [List the Placements Associated with an Ad](ad-list-placements.md)
 >* [Edit the Ad Schedule for a Placement](/help/dsp/campaign-management/placements/placement-edit-ad-schedule.md)
