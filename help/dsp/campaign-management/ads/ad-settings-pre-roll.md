@@ -6,7 +6,7 @@ exl-id: 638d5a3d-3dff-40b6-a3ba-7ab3f08282b9
 ---
 # Pre-roll Ad Settings
 
-## [!UICONTROL Upload or Select Creative]
+## [!UICONTROL Insert Ad Tag]
 
 *New ads only*
 
@@ -16,23 +16,15 @@ exl-id: 638d5a3d-3dff-40b6-a3ba-7ab3f08282b9
 
 **[!UICONTROL XTrader]:** (Some users, depending on permissions) Indicates that the video uses one or more [!DNL X_TRADER] feed.
 
-**[!UICONTROL Upload Video]:** To upload a raw asset to DSP. When you select this, do the following:
+**[!UICONTROL Advanced: URL]:** (Some ad types) The VAST tag URL.
 
-1. Click **[!UICONTROL Choose File]** and locate the file on your device or network.
-1. Enter a title for the file, which will be used in the [!UICONTROL Ads] view and reports.
-1. Click **[!UICONTROL Upload]**.
+**[!UICONTROL Title]:** A title for the file, which will be used in the [!UICONTROL Ads] view and reports.
 
-**[!UICONTROL Use Existing Video]:** To select any previously-uploaded creative in the correct format within the account.
-
-**[!UICONTROL Advanced: VAST Tag URL]:** (Some ad types) To enter a third-party VAST tag that contains creative assets and tracking pixels:
-
-1. Click ![arrow](/help/dsp/assets/compressed.png) next to **[!UICONTROL Advanced: VAST Tag URL]**.
-1. In the **[!UICONTROL URL]** field, enter the VAST tag URL.
-1. Enter a **[!UICONTROL Title]** for the file, which will be used in the [!UICONTROL Ads] view and reports.
-
+<!-- I think "Go" checks the validity.
 >[!TIP]
 >
 > To check the validity of a VAST tag, paste it into a browser and hit the **[!UICONTROL Enter]** key. If the tag is valid, you will see an XML file that includes `<VAST>` near the top.
+-->
 
 ## [!UICONTROL Ad Options]
 
@@ -79,14 +71,6 @@ This is the same as the **[!UICONTROL Height]** field.
 **[!UICONTROL Video Format]:** (Interactive pre-roll only) The format of the ad player for potential inventory: *[!UICONTROL VPAID]* or *[!UICONTROL VPAID & VAST]*. Viewability is always measured for VPAID, but VPAID & VAST includes inventory that doesn’t allow viewability measurement. Keep this in mind if viewability metrics are important to your campaign.
 
 **[!UICONTROL Clock Number]**: (Interactive pre-roll only; used only in the United Kingdom; available only to users with permission) A unique identifier used to ensure that the right ad is broadcast. If this setting isn't applicable, leave it blank.
-
-### [!UICONTROL Companion]
-
-Deprecated
-
-### [!UICONTROL Overlays]
-
-Deprecated
 
 ### [!UICONTROL Pixel]
 
