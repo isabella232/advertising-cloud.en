@@ -56,35 +56,7 @@ This field may or may not be displayed, depending on the account permissions.
 
 ### [!UICONTROL Companion]
 
-*DSP-served ads only*
-
-You can optionally attach up to three companion banners with an ad. The best practice is to attach companion banners where possible.
-
->[!NOTE]
->
->* Not all publishers allow companion banners. The publishers who do allow companion banners don't guarantee companion banner impressions.
->* Companion banners from third-party ad tags may not always available for preview.
-
-**\[Check Box\]:** Includes the specified companion banner with the ad. When the check box is disabled, the companion banner isn't included.
-
-**\[Banner Size\]:** The companion banner size: *[!UICONTROL 300x250]* (used for [!DNL iHeartRadio], [!DNL Spotify], [!DNL SoundCloud], and [!DNL TuneIn]), *[!UICONTROL 640x640]* (used for [!DNL Spotify), or *1024x1024]* (used for [!DNL SoundCloud]).
-
-**\[Source\]:** The source of the companion banner asset:
-
-* *[!UICONTROL Upload My Own Asset]:* To upload your own asset.
-* *[!UICONTROL Use a Third Party Tag]:* To enter an iFrame or script tag from a certified third-party ad serving partner.
-
-Use a third-party tag when you want to track third-party companion banner impressions.
-
-**[!UICONTROL Asset]:** (Raw assets only) The companion banner asset, in GIF, JPG, or PNG format. Click **[!UICONTROL Browse]** and locate the file on your device or network, and then click **[!UICONTROL Upload]**.
-
-**[!UICONTROL Click URL]:** (Raw assets only) The URL on which the viewer will land when they click the companion banner for the ad. It can include a click redirect using a third-party click tracking pixel.
-
-**[!UICONTROL Final Click URL]:** (Raw assets only; read-only) The Click URL with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
-
-**[!UICONTROL Ad Tag]:** (Ads using third-party ad tags only) An iFrame or script banner tag for a third-party companion banner source. It must be from a certified third-party ad serving partner.
-
-**[!UICONTROL Final Ad Tag]:** (Ads using third-party ad tags only) The Ad Tag with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
+Deprecated
 
 ### Pixel
 
