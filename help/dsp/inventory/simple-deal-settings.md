@@ -28,7 +28,7 @@ exl-id: 1a8f215c-c52b-4099-a55f-99c4232b7a22
 
 ### [!UICONTROL Select & Upload [Media Type]]
 
-(New ads only) Screens to create a new [first-party ad](/help/dsp/campaign-management/ads/ad-create.md) or [third-party ad](/help/dsp/campaign-management/ads/ad-create-third-party.md).
+(New ads only) Screens to create a new [third-party ad](/help/dsp/campaign-management/ads/ad-create-third-party.md).
 
 ### [!UICONTROL Feed Details]
 
