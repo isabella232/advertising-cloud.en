@@ -10,8 +10,6 @@ You can create up to 500 third-party ads at a time by uploading tags that point 
 
 You can upload either [!DNL DoubleClick] and [!DNL Flashtalking] tag sheets or  a manually-populated file using the provided template.
 
-To create a single third-party ad, see [Create an Ad](ad-create.md).
-
 >[!TIP]
 >
 > The best practice is to use third-party ads that are served securely using HTTPS. URLs served using HTTPS begin with "https."
@@ -56,7 +54,6 @@ To create a single third-party ad, see [Create an Ad](ad-create.md).
 >[!MORELIKETHIS]
 >
 >* [About Ad Management](ad-about.md)
->* [Create an Ad](ad-create.md)
 >* [Available Ad Types](ad-types.md)
 >* [Ad Specifications](/help/dsp/assets/ad-specs.pdf)
 >* [Video: How to Bulk Upload Third-Party Ad Tags](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/bulk-upload-third-party-ad-tags.html)
