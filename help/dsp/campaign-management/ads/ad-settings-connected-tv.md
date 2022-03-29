@@ -6,7 +6,7 @@ exl-id: 4daae9e4-27eb-4496-9186-f33aebd8daae
 ---
 # Connected TV Ad Settings
 
-## [!UICONTROL Upload or Select Creative]
+## [!UICONTROL Insert Ad Tag]
 
 *New ads only*
 
