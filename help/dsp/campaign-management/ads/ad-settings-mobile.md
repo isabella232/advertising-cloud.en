@@ -6,7 +6,7 @@ exl-id: f67c4ba0-1011-4ad6-bd36-98c312b81b67
 ---
 # Mobile Ad Settings
 
-## [!UICONTROL Upload or Select Creative]
+## [!UICONTROL Insert Ad Tag]
 
 *New mobile video ads formats only*
 
@@ -17,14 +17,6 @@ exl-id: f67c4ba0-1011-4ad6-bd36-98c312b81b67
 **[!UICONTROL Custom Transcode]:** (Beta users only; not available when Vertical Video is selected) ) Indicates that the video uses custom transcode. If you select this option, then specify the file format, video bitrate, zoom, and dimensions for up to three custom transcode versions.
 
 **[!UICONTROL XTrader]:** (Some users, depending on permissions) Indicates that the video uses one ore more [!DNL X_TRADER] feed.
-
-**[!UICONTROL Upload Video]:** To upload a raw asset to DSP. When you select this, do the following:
-
-1. Click **[!UICONTROL Choose File]** and locate the file on your device or network.
-1. Enter a title for the file, which will be used in the [!UICONTROL Ads] view and reports.
-1. Click **[!UICONTROL Upload]**.
-
-**[!UICONTROL Use Existing Video]:** To select any previously-uploaded creative in the correct format within the account.
 
 **[!UICONTROL Advanced: VAST Tag URL]:** (Some ad types) To enter a third-party VAST tag that contains creative assets and tracking pixels:
 
@@ -109,18 +101,6 @@ This is the same as the **[!UICONTROL Height]** field.
 **[!UICONTROL Final VAST Tag]:** (Ads using VAST tags only; read-only) The third-party VAST tag you entered as the creative asset with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
 
 **[!UICONTROL Wmode]:** (Some ad types) The window mode: *[!UICONTROL window]*, *[!UICONTROL transparent]*, or *[!UICONTROL opaque]*.
-
-### [!UICONTROL Teaser]
-
-Deprecated
-
-### [!UICONTROL Overlays]
-
-Deprecated
-
-### [!UICONTROL Endcap]
-
-Deprecated
 
 ### [!UICONTROL Pixel]
 
