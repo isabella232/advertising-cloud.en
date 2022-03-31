@@ -1,10 +1,12 @@
 ---
-title: Create a Third-Party Ad
+title: Create a Single Ad
 description: Learn how to create a single third-party ad.
 feature: DSP Ads
 exl-id: d93c6a66-a5cb-4117-97e8-424422200fce
 ---
-# Create a Third-Party Ad
+# Create a Single Ad
+
+You can create individual native display ads or third-party ads. 
 
 To create multiple third-party ads at a time, see [Create Multiple Third-party Ads](ad-create-multiple.md).
 
@@ -20,7 +22,7 @@ To create multiple third-party ads at a time, see [Create Multiple Third-party A
 
 1. Specify the ad settings for [audio ads](ad-settings-audio.md), [connected TV](ad-settings-connected-tv.md), [display ads](ad-settings-display.md), [mobile ads](ad-settings-mobile.md), [native ads](ad-settings-native.md), or [pre-roll ads](ad-settings-pre-roll.md):
 
-    1. On the [!UICONTROL Insert Ad Tag] screen, enter information about the ad from a certified third-party ad serving partner.
+    1. On the [!UICONTROL Insert Ad Tag] screen, enter information about the ad from a certified third-party ad serving partner, and then click **[!UICONTROL Go]**.
 
     1. On the [!UICONTROL Options] screen:
 
