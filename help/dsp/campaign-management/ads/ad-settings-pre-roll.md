@@ -14,17 +14,16 @@ exl-id: 638d5a3d-3dff-40b6-a3ba-7ab3f08282b9
 
 **[!UICONTROL Custom Transcode]:** (Beta users only; not available when Vertical Video is selected) ) Indicates that the video uses custom transcode. If you select this option, then specify the file format, video bitrate, zoom, and dimensions for up to three custom transcode versions.
 
-**[!UICONTROL XTrader]:** (Some users, depending on permissions) Indicates that the video uses one or more [!DNL X_TRADER] feed.
+**[!UICONTROL XTrader]:** (Some users, depending on permissions) Indicates that the video uses one or more [!DNL X_TRADER] feeds.
 
 **[!UICONTROL Advanced: URL]:** (Some ad types) The VAST tag URL.
 
-**[!UICONTROL Title]:** A title for the file, which will be used in the [!UICONTROL Ads] view and reports.
+**[!UICONTROL Title]:** A title for the file, which is in the [!UICONTROL Ads] view and reports.
 
-<!-- I think "Go" checks the validity.
+<!-- I think "Go" checks the validity. -->
 >[!TIP]
 >
 > To check the validity of a VAST tag, paste it into a browser and hit the **[!UICONTROL Enter]** key. If the tag is valid, you will see an XML file that includes `<VAST>` near the top.
--->
 
 ## [!UICONTROL Ad Options]
 
@@ -48,7 +47,7 @@ exl-id: 638d5a3d-3dff-40b6-a3ba-7ab3f08282b9
 
 **[!UICONTROL Player Width]:** The width of the entire ad unit. This option may be locked depending on the type of ad unit you selected.
 
-This is the same as the **[!UICONTROL Width]** field.
+This field is the same as the **[!UICONTROL Width]** field.
 
 **[!UICONTROL Player Height]:** The height of the entire ad unit. This option may be locked depending on the type of ad unit you selected.
 
@@ -56,9 +55,9 @@ This is the same as the **[!UICONTROL Height]** field.
 
 **[!UICONTROL Show Controls]:** Where to include video controls for the ad: *[!UICONTROL Under]*, *[!UICONTROL Over]*, *[!UICONTROL Bottom]*, or *[!UICONTROL None]* (the default).
 
-**[!UICONTROL Preserve Aspect Ratio]:** Whether to to keep the video's width and height proportions (*[!UICONTROL Yes]*) or to stretch the video to fill available space (*[!UICONTROL No]*).
+**[!UICONTROL Preserve Aspect Ratio]:** Whether to keep the video's width and height proportions (*[!UICONTROL Yes]*) or to stretch the video to fill available space (*[!UICONTROL No]*).
 
-**[!UICONTROL Click URL]:** (Adobe-served ads only) The URL on which the viewer will land when they click the ad.
+**[!UICONTROL Click URL]:** (Adobe-served ads only) The URL on which the viewer lands when they click the ad.
 
 **[!UICONTROL Final Click URL]:** (Adobe-served ads only; read-only) The [!UICONTROL Click URL] with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
 
@@ -68,7 +67,7 @@ This is the same as the **[!UICONTROL Height]** field.
 
 **[!UICONTROL Wmode]:** (Interactive pre-roll only) The window mode: *[!UICONTROL window]*, *[!UICONTROL transparent]*, or *[!UICONTROL opaque]*.
 
-**[!UICONTROL Video Format]:** (Interactive pre-roll only) The format of the ad player for potential inventory: *[!UICONTROL VPAID]* or *[!UICONTROL VPAID & VAST]*. Viewability is always measured for VPAID, but VPAID & VAST includes inventory that doesn’t allow viewability measurement. Keep this in mind if viewability metrics are important to your campaign.
+**[!UICONTROL Video Format]:** (Interactive pre-roll only) The format of the ad player for potential inventory: *[!UICONTROL VPAID]* or *[!UICONTROL VPAID & VAST]*. Viewability is always measured for VPAID, but VPAID & VAST includes inventory that doesn’t allow viewability measurement. Consider this distinction if viewability metrics are important to your campaign.
 
 **[!UICONTROL Clock Number]**: (Interactive pre-roll only; used only in the United Kingdom; available only to users with permission) A unique identifier used to ensure that the right ad is broadcast. If this setting isn't applicable, leave it blank.
 
@@ -84,14 +83,14 @@ The following settings apply to each pixel that you create or edit.
 
 **[!UICONTROL Pixel URL or Code]:** The URL of the pixel image, in the appropriate format for the specified [!UICONTROL Pixel Type].
 
-**[!UICONTROL Pixel Name]:** The pixel name. Use a name that will help you easily identify the pixel.
+**[!UICONTROL Pixel Name]:** The pixel name. Use a name that helps you easily identify the pixel.
 
 **[!UICONTROL Pixel Provider]:** The pixel provider: *[!UICONTROL None]*, *[!UICONTROL Nielsen]*, or *[!UICONTROL Comscore]*.
 
 >[!MORELIKETHIS]
 >
 >* [About Ad Management](ad-about.md)
->* [Create a Single Third-party Ad](ad-create.md)
+>* [Create a Single Ad](ad-create.md)
 >* [List the Placements Associated with an Ad](/help/dsp/campaign-management/ads/ad-list-placements.md)
 >* [Available Ad Types](ad-types.md)
 >* [Ad Specifications](/help/dsp/assets/ad-specs.pdf)
