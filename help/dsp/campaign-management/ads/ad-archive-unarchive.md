@@ -32,6 +32,6 @@ You can unarchive an ad to restore its previous status at any time.
 
 >[!MORELIKETHIS]
 >
->* [Create a Single Third-party Ad](ad-create.md)
+>* [Create a Single Ad](ad-create.md)
 >* [Create Multiple Third-party Ads](ad-create-multiple.md)
 >* [Edit an Ad](ad-edit.md)
