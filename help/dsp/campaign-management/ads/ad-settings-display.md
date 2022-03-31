@@ -6,7 +6,7 @@ exl-id: ae88dfab-0b0c-42ab-9135-422b20a4b6cd
 ---
 # Display Ad Settings
 
-The following settings are for standard display ads. You can also serve click-to-play video ads for display ads, but we don't recommend doing so because not many publishers support them.
+The following settings are for standard display ads.
 
 ## [!UICONTROL Ad Options]
 
@@ -60,14 +60,14 @@ The following settings apply to each pixel that you create or edit.
 
 **[!UICONTROL Pixel URL or Code]:** The URL of the pixel image, in the appropriate format for the specified [!UICONTROL Pixel Type].
 
-**[!UICONTROL Pixel Name]:** The pixel name. Use a name that will help you easily identify the pixel.
+**[!UICONTROL Pixel Name]:** The pixel name. Use a name that helps you easily identify the pixel.
 
 **[!UICONTROL Pixel Provider]:** The pixel provider: *[!UICONTROL None]*, *[!UICONTROL Nielsen]*, or *[!UICONTROL Comscore]*.
 
 >[!MORELIKETHIS]
 >
 >* [About Ad Management](ad-about.md)
->* [Create a Single Third-party Ad](ad-create.md)
+>* [Create a Single Ad](ad-create.md)
 >* [List the Placements Associated with an Ad](ad-list-placements.md)
 >* [Available Ad Types](ad-types.md)
 >* [Ad Specifications](/help/dsp/assets/ad-specs.pdf)
