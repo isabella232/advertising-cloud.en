@@ -10,19 +10,9 @@ exl-id: 746b6f40-ff59-4bbe-bfc0-3579d4461e4a
 
 *New ads only*
 
-**[!UICONTROL Upload Audio]:** To upload a raw asset to DSP. When you select this, do the following:
+**[!UICONTROL URL]**: The VAST tag URL.
 
-1. Click **[!UICONTROL Choose File]** and locate the file on your device or network.
-1. Enter a title for the file, which will be used in the [!UICONTROL Ads] view and reports.
-1. Click **[!UICONTROL Upload]**.
-
-**[!UICONTROL Use Existing Audio]:** To select any previously-uploaded creative in the correct format within the account.
-
-**[!UICONTROL Advanced: VAST Tag URL]:** To enter a third-party VAST tag that contains creative assets and tracking pixels:
-
-1. Click ![arrow](/help/dsp/assets/compressed.png) next to **[!UICONTROL Advanced: VAST Tag URL]**.
-1. In the **[!UICONTROL URL]** field, enter the VAST tag URL.
-1. Enter a **[!UICONTROL Title]** for the file, which will be used in the [!UICONTROL Ads] view and reports.
+**[!UICONTROL Title]: A name for the file, which will be used in the [!UICONTROL Ads] view and reports.
 
 >[!TIP]
 >
@@ -66,14 +56,14 @@ The following settings apply to each pixel that you create or edit.
 
 **[!UICONTROL Pixel URL or Code]:** The URL of the pixel image, in the appropriate format for the specified Pixel Type.
 
-**[!UICONTROL Pixel Name]:** The pixel name. Use a name that will help you easily identify the pixel.
+**[!UICONTROL Pixel Name]:** The pixel name. Use a name that helps you easily identify the pixel.
 
 **[!UICONTROL Pixel Provider]:** The pixel provider: *[!UICONTROL None]*, *[!UICONTROL Nielsen]*, or *[!UICONTROL Comscore]*.
 
 >[!MORELIKETHIS]
 >
 >* [About Ad Management](ad-about.md)
->* [Create a Single Third-party Ad](ad-create.md)
+>* [Create a Single Ad](ad-create.md)
 >* [List the Placements Associated with an Ad](/help/dsp/campaign-management/ads/ad-list-placements.md)
 >* [Available Ad Types](ad-types.md)
 >* [Ad Specifications](/help/dsp/assets/ad-specs.pdf)
