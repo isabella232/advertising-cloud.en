@@ -18,11 +18,9 @@ exl-id: f67c4ba0-1011-4ad6-bd36-98c312b81b67
 
 **[!UICONTROL XTrader]:** (Some users, depending on permissions) Indicates that the video uses one ore more [!DNL X_TRADER] feed.
 
-**[!UICONTROL Advanced: VAST Tag URL]:** (Some ad types) To enter a third-party VAST tag that contains creative assets and tracking pixels:
+**[!UICONTROL URL]** or **[!UICONTROL Ad Tag]**: A third-party VAST ad tag or ad tag that contains creative assets and tracking pixels
 
-1. Click ![arrow](/help/dsp/assets/compressed.png) next to **[!UICONTROL Advanced: VAST Tag URL]**.
-1. In the **[!UICONTROL URL]** field, enter the VAST tag URL.
-1. Enter a **[!UICONTROL Title]** for the file, which will be used in the [!UICONTROL Ads] view and reports.
+**[!UICONTROL Ad Title]** or **[!UICONTROL Title]**: A name for the ad that is used in the [!UICONTROL Ads] view and reports.
 
 >[!TIP]
 >
@@ -48,17 +46,9 @@ exl-id: f67c4ba0-1011-4ad6-bd36-98c312b81b67
 
 **\[Ad Source\]**: Whether Advertising Cloud DSP is serving the ad (*[!UICONTROL Adobe served]*) or you're using a third-party ad server (*[!UICONTROL 3rd party]*).
 
-**[!UICONTROL Creative type]:** (Adobe-served ads only) Whether the asset is an *[!UICONTROL Image]* or an *[!UICONTROL HTML5]* asset.
+**[!UICONTROL Display Code]:** The URL of the third-party creative asset. Any [timestamp] and [[timestamp]] parameters will be replaced with actual values.
 
-**[!UICONTROL Asset] | [!UICONTROL HTML5 Asset]:** (Adobe-served ads only) An image file or zipped HTML5 asset to upload, depending on the creative type. Click **[!UICONTROL Browse]** and locate the file on your device or network, and then click **[!UICONTROL Upload]**.
-
-**[!UICONTROL Click URL]:** (Adobe-served ads only) The URL on which the viewer will land when they click the ad.
-
-**[!UICONTROL Final Click URL]:** (Adobe-served ads only; read-only) The Click URL with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
-
-**[!UICONTROL Display Code]:** (Third-party ads only) The URL of the third-party creative asset. Any [timestamp] and [[timestamp]] parameters will be replaced with actual values.
-
-**[!UICONTROL Final Display Code]:** (Third-party ads only) The URL for the third-party creative asset, with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
+**[!UICONTROL Final Display Code]:** The URL for the third-party creative asset, with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
 
 ### [!UICONTROL Basic]: Video Ads
 
@@ -114,7 +104,7 @@ The following settings apply to each pixel that you create or edit.
 
 **[!UICONTROL Pixel URL or Code]:** The URL of the pixel image, in the appropriate format for the specified [!UICONTROL Pixel Type].
 
-**[!UICONTROL Pixel Name]:** The pixel name. Use a name that will help you easily identify the pixel.
+**[!UICONTROL Pixel Name]:** The pixel name. Use a name that helps you easily identify the pixel.
 
 **[!UICONTROL Pixel Provider]:** The pixel provider: *[!UICONTROL None]*, *[!UICONTROL Nielsen]*, or *[!UICONTROL Comscore]*.
 
@@ -125,7 +115,7 @@ Deprecated
 >[!MORELIKETHIS]
 >
 >* [About Ad Management](ad-about.md)
->* [Create a Single Third-party Ad](ad-create.md)
+>* [Create a Single Ad](ad-create.md)
 >* [List the Placements Associated with an Ad](/help/dsp/campaign-management/ads/ad-list-placements.md)
 >* [Available Ad Types](ad-types.md)
 >* [Ad Specifications](/help/dsp/assets/ad-specs.pdf)
