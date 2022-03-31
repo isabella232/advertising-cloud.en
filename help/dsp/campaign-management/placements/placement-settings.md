@@ -401,7 +401,7 @@ Which level of [Ads.txt](https://iabtechlab.com/ads-txt-about/) pre-bid filterin
    * To create a new pixel:
       1. Click **[!UICONTROL Create]**.
       1. Enter the following information:
-         * **[!UICONTROL Pixel name]:** The pixel name; the maximum length is 500 characters. Use a name that will help you easily identify the pixel.
+         * **[!UICONTROL Pixel name]:** The pixel name; the maximum length is 500 characters. Use a name that helps you easily identify the pixel.
          * **[!UICONTROL Pixel event fires on]:** The event that triggers the pixel to fire. The available events vary by ad type.
          * **[!UICONTROL Pixel type]:** Whether the pixel is an *[!UICONTROL IMG URL]* (1x1 pixel image file), *[!UICONTROL HTML]*, or *[!UICONTROL JavaScript URL]*.
          * **[!UICONTROL Pixel URL]:** The URL of the pixel image.
@@ -416,7 +416,7 @@ Which level of [Ads.txt](https://iabtechlab.com/ads-txt-about/) pre-bid filterin
    * To create a new pixel:
       1. Click **[!UICONTROL Create]**.
       1. Enter the following information:
-         * **[!UICONTROL Conversion pixel name]:** The pixel name; the maximum length is 500 characters. Use a name that will help you easily identify the pixel.
+         * **[!UICONTROL Conversion pixel name]:** The pixel name; the maximum length is 500 characters. Use a name that helps you easily identify the pixel.
          * **[!UICONTROL Conversion category]:** The type of conversion.
          * **[!UICONTROL Impression conversion window]:** The number of days after an ad impression occurs in which the impression can be attributed to a conversion. The default is 30 days.
          * **[!UICONTROL Click conversion window]:** The number of days after an ad click occurs in which the click can be attributed to a conversion. The default is 30 days.
