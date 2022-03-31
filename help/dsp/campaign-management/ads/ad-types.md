@@ -37,6 +37,6 @@ Connected TV ads are shown before and during premium TV video content. All conne
 >[!MORELIKETHIS]
 >
 >* [About Ad Management](ad-about.md)
->* [Create a Single Third-party Ad](ad-create.md)
+>* [Create a Single Ad](ad-create.md)
 >* [Create Multiple Third-Party Ads](ad-create-multiple.md)
 >* [Ad Specifications](/help/dsp/assets/ad-specs.pdf)
