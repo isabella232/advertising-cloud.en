@@ -20,7 +20,6 @@ exl-id: 638d5a3d-3dff-40b6-a3ba-7ab3f08282b9
 
 **[!UICONTROL Title]:** A title for the file, which is in the [!UICONTROL Ads] view and reports.
 
-<!-- I think "Go" checks the validity. -->
 >[!TIP]
 >
 > To check the validity of a VAST tag, paste it into a browser and hit the **[!UICONTROL Enter]** key. If the tag is valid, you will see an XML file that includes `<VAST>` near the top.
