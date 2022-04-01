@@ -12,7 +12,7 @@ exl-id: 746b6f40-ff59-4bbe-bfc0-3579d4461e4a
 
 **[!UICONTROL URL]**: The VAST tag URL.
 
-**[!UICONTROL Title]: A name for the file, which will be used in the [!UICONTROL Ads] view and reports.
+**[!UICONTROL Title]**: A name for the file, which will be used in the [!UICONTROL Ads] view and reports.
 
 >[!TIP]
 >
