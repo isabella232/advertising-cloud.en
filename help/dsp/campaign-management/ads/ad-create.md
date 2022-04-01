@@ -6,7 +6,7 @@ exl-id: d93c6a66-a5cb-4117-97e8-424422200fce
 ---
 # Create a Single Ad
 
-You can create individual native display ads or third-party ads. 
+You can create an individual display, native display, or third-party ad. 
 
 To create multiple third-party ads at a time, see [Create Multiple Third-party Ads](ad-create-multiple.md).
 
