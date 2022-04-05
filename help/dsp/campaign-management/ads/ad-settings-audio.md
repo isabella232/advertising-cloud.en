@@ -34,10 +34,6 @@ exl-id: 746b6f40-ff59-4bbe-bfc0-3579d4461e4a
 
 This field may or may not be displayed, depending on the account permissions.
 
-**[!UICONTROL Click URL]:** (Ads using raw assets and with display banners only; optional) The URL on which the viewer will land when they click a display banner that accompanies your ad.
-
-**[!UICONTROL Final Click URL]:** (Ads using raw assets and with display banners only; read-only) The [!UICONTROL Click URL] with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
-
 **[!UICONTROL VAST Tag]:** (Ads using VAST tags only) An URL for a third-party ad source. Make sure that the VAST tag includes only audio media files.
 
 **[!UICONTROL Final VAST Tag]:** (Ads using VAST tags only) The URL for the third-party ad source with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
@@ -46,7 +42,7 @@ This field may or may not be displayed, depending on the account permissions.
 
 ### Pixel
 
-All existing event tracking pixels for the placement are automatically attached. You can detach existing pixels and create new pixels as needed, based on your tracking needs.
+All existing event tracking pixels for the placement are automatically attached. You can detach existing pixels and create new pixels as needed, based on your tracking needs for the individual ad.
 
 The following settings apply to each pixel that you create or edit.
 

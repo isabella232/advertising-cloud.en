@@ -50,10 +50,6 @@ This is the same as the **[!UICONTROL Height]** field.
 
 **[!UICONTROL Preserve Aspect Ratio]:** Whether to to keep the video's width and height proportions (*[!UICONTROL Yes]*) or to stretch the video to fill available space (*[!UICONTROL No]*).
 
-**[!UICONTROL Click URL]:** (Adobe-served ads only) The URL on which the viewer will land when they click the ad.
-
-**[!UICONTROL Final Click URL]:** (Adobe-served ads only; read-only) The [!UICONTROL Click URL] with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
-
 **[!UICONTROL VAST Tag]:** (Ads using VAST tags only; read-only) The third-party VAST tag you entered as the ad source.
 
 **[!UICONTROL Final VAST Tag]:** (Ads using VAST tags only; read-only) The third-party VAST tag you entered as the ad source with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
@@ -62,7 +58,7 @@ This is the same as the **[!UICONTROL Height]** field.
 
 ### [!UICONTROL Pixel]
 
-All existing event tracking pixels for the placement are automatically attached. You can detach existing pixels and create new pixels as needed, based on your tracking needs.
+All existing event tracking pixels for the placement are automatically attached. You can detach existing pixels and create new pixels as needed, based on your tracking needs for the individual ad.
 
 The following settings apply to each pixel that you create or edit.
 

@@ -10,14 +10,6 @@ exl-id: f67c4ba0-1011-4ad6-bd36-98c312b81b67
 
 *New mobile video ads formats only*
 
-**[!UICONTROL Vertical video]:** (Not available when [!UICONTROL Custom Transcode] is selected) Indicates that the video is vertical (portrait mode).
-
-**[!UICONTROL Transcode to]:** (Some users, depending on permissions; optional) The formats you want to include in your VAST tag when the publisher has specific creative file requirements. Formats accepted by most publishers are selected by default.
-
-**[!UICONTROL Custom Transcode]:** (Beta users only; not available when Vertical Video is selected) ) Indicates that the video uses custom transcode. If you select this option, then specify the file format, video bitrate, zoom, and dimensions for up to three custom transcode versions.
-
-**[!UICONTROL XTrader]:** (Some users, depending on permissions) Indicates that the video uses one ore more [!DNL X_TRADER] feed.
-
 **[!UICONTROL URL]** or **[!UICONTROL Ad Tag]**: A third-party VAST ad tag or ad tag that contains creative assets and tracking pixels
 
 **[!UICONTROL Ad Title]** or **[!UICONTROL Title]**: A name for the ad that is used in the [!UICONTROL Ads] view and reports.
@@ -25,12 +17,6 @@ exl-id: f67c4ba0-1011-4ad6-bd36-98c312b81b67
 >[!TIP]
 >
 > To check the validity of a VAST tag, paste it into a browser and hit the **[!UICONTROL Enter]** key. If the tag is valid, you will see an XML file that includes `<VAST>` near the top.
-
-**[!UICONTROL Advanced: 3rd party Ad Tag]:** (Some ad types) To enter a third-party ad tag that contains creative assets and tracking pixels:
-
-1. Click ![arrow](/help/dsp/assets/compressed.png) next to **[!UICONTROL Advanced: #3rd party Ad Tag]**.
-1. Enter an **[!UICONTROL Ad Title]** for the file, which will be used in the [!UICONTROL Ads] view and reports.
-1. In the **[!UICONTROL Ad Tag]** field, enter the ad tag.
 
 ## [!UICONTROL Ad Options]
 
@@ -44,7 +30,7 @@ exl-id: f67c4ba0-1011-4ad6-bd36-98c312b81b67
 >
 > Use a name that will be easy to find when you attach the ad to a placement, in the Ads view, and in reports. For example, describe the unit type and some key attributes (such as Holiday Product Preview: 300x250 Gamer”).
 
-**\[Ad Source\]**: Whether Advertising Cloud DSP is serving the ad (*[!UICONTROL Adobe served]*) or you're using a third-party ad server (*[!UICONTROL 3rd party]*).
+**\[Ad Source\]**: (Read-only) *[!UICONTROL 3rd party]*.
 
 **[!UICONTROL Display Code]:** The URL of the third-party creative asset. Any [timestamp] and [[timestamp]] parameters will be replaced with actual values.
 
@@ -82,10 +68,6 @@ This is the same as the **[!UICONTROL Height]** field.
 
 **[!UICONTROL Close Button Delay]:** (Some ad types) The number of seconds to delay the appearance of the close button.
 
-**[!UICONTROL Click URL]:** (Adobe-served ads only) The URL on which the viewer will land when they click the ad.
-
-**[!UICONTROL Final Click URL]:** (Adobe-served ads only; read-only) The [!UICONTROL Click URL] with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
-
 **[!UICONTROL VAST Tag]:** (Ads using VAST tags only; read-only) The third-party VAST tag you entered as the creative asset.
 
 **[!UICONTROL Final VAST Tag]:** (Ads using VAST tags only; read-only) The third-party VAST tag you entered as the creative asset with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
@@ -94,7 +76,7 @@ This is the same as the **[!UICONTROL Height]** field.
 
 ### [!UICONTROL Pixel]
 
-All existing event tracking pixels for the placement are automatically attached. You can detach existing pixels and create new pixels as needed, based on your tracking needs.
+All existing event tracking pixels for the placement are automatically attached. You can detach existing pixels and create new pixels as needed, based on your tracking needs for the individual ad.
 
 The following settings apply to each pixel that you create or edit.
 

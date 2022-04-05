@@ -36,7 +36,7 @@ exl-id: 3ae59e63-ae64-41b2-8734-3df2da020c7c
 
 ### [!UICONTROL Pixel]
 
-All existing event tracking pixels for the placement are automatically attached. You can detach existing pixels and create new pixels as needed, based on your tracking needs.
+All existing event tracking pixels for the placement are automatically attached. You can detach existing pixels and create new pixels as needed, based on your tracking needs for the individual ad.
 
 The following settings apply to each pixel that you create or edit.
 

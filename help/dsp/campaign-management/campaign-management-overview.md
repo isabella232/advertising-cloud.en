@@ -34,7 +34,7 @@ A [placement](/help/dsp/campaign-management/placements/placement-about.md) store
 
 ## [!UICONTROL Ads]
 
-[Ads](/help/dsp/campaign-management/ads/ad-about.md) include creative assets and tracking URLs. You can upload third-party ad serving tags individually or in bulk by using partner tag sheets or the bulk tag template.
+[Ads](/help/dsp/campaign-management/ads/ad-about.md) include creative assets and tracking URLs. You can upload third-party ad serving tags individually or in bulk by using partner tag sheets or the bulk tag template. You can also manually create native display ads for DSP to serve.
 
 Once your ads are set up, you'll need to attach each ad to a placement. You can attach a single ad to one or more placements.
 

@@ -8,7 +8,7 @@ exl-id: 72c8bbef-d09c-4cf4-994d-99578d043d39
 
 <!-- add "The Ads View (Dashboard?)" section -->
 
-Advertising Cloud DSP supports ad delivery via the manual creation of display and native display ads and the direct upload of third-party ad serving tags (such as Google, Flashtalking, or Sizmek). You can upload third-party tags individually or in bulk. Bulk uploads use partner tag sheets or a bulk tag template. 
+Advertising Cloud DSP supports ad delivery via the manual creation of native display ads and the direct upload of ad serving tags (such as Google, Flashtalking, or Sizmek)for various ad types. You can upload third-party tags individually or in bulk. Bulk uploads use partner tag sheets or a bulk tag template. 
 
 <!-- The bulk upload feature requires you to either a) upload DoubleClick and Flashtalking tag sheets or b) download a template, input your tags into the template, and then re-upload the template. -->
 <!-- need a list of all supported third-party ad servers; see file in future-tbd folder -->
@@ -17,12 +17,12 @@ Once your ads are set up, you'll need to attach each ad to a placement, which in
 
 ## Available Ad Types
 
-* Audio
-* Connected TV
-* Display
-* Mobile
-* Native Display
-* Pre-Roll
+* Audio (third-party only)
+* Connected TV (third-party only)
+* Display (third-party only)
+* Mobile (third-party only)
+* Native Display (first-party only)
+* Pre-Roll Video (third-party only)
 
 For more information about these ad types, see [Available Ad Types](ad-types.md) and the complete [Ad Specifications](/help/dsp/assets/ad-specs.pdf).
 

@@ -10,13 +10,7 @@ exl-id: 638d5a3d-3dff-40b6-a3ba-7ab3f08282b9
 
 *New ads only*
 
-**[!UICONTROL Transcode to]:** (Some users, depending on permissions; optional) The formats you want to include in your VAST tag when the publisher has specific creative file requirements. Formats accepted by most publishers are selected by default.
-
-**[!UICONTROL Custom Transcode]:** (Beta users only; not available when Vertical Video is selected) ) Indicates that the video uses custom transcode. If you select this option, then specify the file format, video bitrate, zoom, and dimensions for up to three custom transcode versions.
-
-**[!UICONTROL XTrader]:** (Some users, depending on permissions) Indicates that the video uses one or more [!DNL X_TRADER] feeds.
-
-**[!UICONTROL Advanced: URL]:** (Some ad types) The VAST tag URL.
+**[!UICONTROL URL]:** The VAST tag URL.
 
 **[!UICONTROL Title]:** A title for the file, which is in the [!UICONTROL Ads] view and reports.
 
@@ -56,10 +50,6 @@ This is the same as the **[!UICONTROL Height]** field.
 
 **[!UICONTROL Preserve Aspect Ratio]:** Whether to keep the video's width and height proportions (*[!UICONTROL Yes]*) or to stretch the video to fill available space (*[!UICONTROL No]*).
 
-**[!UICONTROL Click URL]:** (Adobe-served ads only) The URL on which the viewer lands when they click the ad.
-
-**[!UICONTROL Final Click URL]:** (Adobe-served ads only; read-only) The [!UICONTROL Click URL] with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
-
 **[!UICONTROL VAST Tag]:** (Ads using VAST tags only; read-only) The third-party VAST tag you entered as the ad source.
 
 **[!UICONTROL Final VAST Tag]:** (Ads using VAST tags only; read-only) The third-party VAST tag you entered as the ad source with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
@@ -72,7 +62,7 @@ This is the same as the **[!UICONTROL Height]** field.
 
 ### [!UICONTROL Pixel]
 
-All existing event tracking pixels for the placement are automatically attached. You can detach existing pixels and create new pixels as needed, based on your tracking needs.
+All existing event tracking pixels for the placement are automatically attached. You can detach existing pixels and create new pixels as needed, based on your tracking needs for the individual ad.
 
 The following settings apply to each pixel that you create or edit.
 
