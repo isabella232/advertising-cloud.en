@@ -6,7 +6,7 @@ exl-id: 27df3948-b645-4ddf-a5e0-ade72f15a969
 ---
 # Available Ad Types
 
-All of the following ad types are available in Advertising Cloud DSP for [third-party-served ads](/help/dsp/campaign-management/ads/ad-create-multiple.md).
+All of the following ad types are available in Advertising Cloud DSP.
 
 For full specifications for each ad type, see the [Ad Specifications](/help/dsp/assets/ad-specs.pdf).
 
