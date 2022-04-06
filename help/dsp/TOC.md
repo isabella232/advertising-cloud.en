@@ -64,7 +64,6 @@ index: yes
     + [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
   + Ads {#ads}
     + [About Ad Management](/help/dsp/campaign-management/ads/ad-about.md)
-    + [Available Ad Types](/help/dsp/campaign-management/ads/ad-types.md)
     + [Certified Ad Serving Partners](/help/dsp/campaign-management/ads/certified-ad-servers.md)
     + [Create a Single Ad](/help/dsp/campaign-management/ads/ad-create.md)
     + [Create Multiple Third-Party Ads](/help/dsp/campaign-management/ads/ad-create-multiple.md)
