@@ -15,7 +15,7 @@ Advertising Cloud DSP supports ad delivery via third-party ad serving tags (such
 
 Once your ads are set up, you'll need to attach each ad to a placement, which includes the targeting parameters (such as geo, audience, device, and inventory targeting) that will control how your campaign will deliver. You can attach a single ad to one or multiple placements.
 
-## Available Ad Types 
+## Available Ad Types {#ad-types}
 
 All of the following ad types are available in Advertising Cloud DSP. For full specifications for each ad type, see the [Ad Specifications](/help/dsp/assets/ad-specs.pdf).
 
