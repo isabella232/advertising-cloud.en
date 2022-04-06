@@ -49,5 +49,4 @@ When DSP approves an ad, you'll see a green dot in the Status column.
 >
 >* [Create a Single Ad](ad-create.md)
 >* [Create Multiple Third-party Ads](ad-create-multiple.md)
->* [Available Ad Types](ad-types.md)
 >* [Ad Specifications](/help/dsp/assets/ad-specs.pdf)

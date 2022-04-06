@@ -99,6 +99,5 @@ Deprecated
 >* [About Ad Management](ad-about.md)
 >* [Create a Single Ad](ad-create.md)
 >* [List the Placements Associated with an Ad](/help/dsp/campaign-management/ads/ad-list-placements.md)
->* [Available Ad Types](ad-types.md)
 >* [Ad Specifications](/help/dsp/assets/ad-specs.pdf)
 >* [Advertising Cloud DSP Macros](/help/dsp/campaign-management/macros.md)
