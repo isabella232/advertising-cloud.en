@@ -6,7 +6,7 @@ exl-id: d93c6a66-a5cb-4117-97e8-424422200fce
 ---
 # Create a Single Ad
 
-You can create an individual native display ad or a third-party ad in various [ad types](ad-types.md).
+You can create an individual native display ad or a third-party ad in various [ad types](ad-about.md#ad-types).
 
 To create multiple third-party ads at a time, see [Create Multiple Third-party Ads](ad-create-multiple.md).
 
@@ -18,7 +18,7 @@ To create multiple third-party ads at a time, see [Create Multiple Third-party A
 
 1. Click the name of the campaign in which the ad will be included.
 
-1. Above the data table, click **[!UICONTROL Create]**. In the [!UICONTROL Ad Types] section of the menu, click the [ad type](ad-types.md).
+1. Above the data table, click **[!UICONTROL Create]**. In the [!UICONTROL Ad Types] section of the menu, click the [ad type](ad-about.md#ad-types).
 
 1. Specify the ad settings for [audio ads](ad-settings-audio.md), [connected TV](ad-settings-connected-tv.md), [display ads](ad-settings-display.md), [mobile ads](ad-settings-mobile.md), [native ads](ad-settings-native.md), or [pre-roll ads](ad-settings-pre-roll.md):
 
