@@ -6,7 +6,7 @@ exl-id: ae88dfab-0b0c-42ab-9135-422b20a4b6cd
 ---
 # Display Ad Settings
 
-The following settings are for standard display ads. You can also serve click-to-play video ads for display ads, but we don't recommend doing so because not many publishers support them.
+The following settings are for standard display ads.
 
 ## [!UICONTROL Ad Options]
 
@@ -20,7 +20,7 @@ The following settings are for standard display ads. You can also serve click-to
 >
 > Use a name that will be easy to find when you attach the ad to a placement, in the [!UICONTROL Ads] view, and in reports. For example, describe the unit type and some key attributes (such as Holiday Product Preview: 300x250 Gamer”).
 
-**\[Ad Source\]**: Whether Advertising Cloud DSP is serving the ad (*[!UICONTROL Adobe served]*) or you're using a third-party ad server (*[!UICONTROL 3rd party]*).
+**\[Ad Source\]**: (Read-only) *[!UICONTROL 3rd party]*.
 
 **[!UICONTROL This is an expandable Banner]:** (Third-party ads only) Indicates the ad is an expandable banner ad. The related expansion settings determine which inventory to buy, so make sure they reflect the ad behavior.
 
@@ -34,23 +34,15 @@ The following settings are for standard display ads. You can also serve click-to
 
 **[!UICONTROL Final Display Code]:** (Third-party ads only) The URL for the third-party creative asset, with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
 
-**[!UICONTROL Creative type]:** (Adobe-served ads only) Whether the asset is an *[!UICONTROL Image]* or an *[!UICONTROL HTML5]* asset.
-
-**[!UICONTROL Asset] | [!UICONTROL HTML5 Asset]:** (Adobe-served ads only) An image file or zipped HTML5 asset to upload, depending on the creative type. Click **[!UICONTROL Browse]** and locate the file on your device or network, and then click **[!UICONTROL Upload]** or **[!UICONTROL Upload Image]**.
-
 **[!UICONTROL Ad Size]:** The width and height of the ad. It must be a [supported standard display ad size](/help/dsp/assets/ad-specs.pdf). You can manually enter the ad size before you upload the ad or enter a [!UICONTROL Display Code]. If you don't enter the ad size, the dimensions of the uploaded ad or ad tag are automatically entered as read-only. Note that the Display ad will not save if the dimensions are not within Standard Display as sizes - e.g. 301x250 instead of 300x250 ad size.
 
 >[!IMPORTANT]
 >
 > The ad size declared in the width and height fields will be matched with incoming bid requests. You may experience delivery issues if the ad's dimensions don't match the declared ad size.
 
-**[!UICONTROL Click URL]:** (Adobe-served ads only) The URL on which the viewer will land when they click the ad.
-
-**[!UICONTROL Final Click URL]:** (Adobe-served ads only; read-only) The [!UICONTROL Click URL] with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
-
 ### [!UICONTROL Pixel]
 
-All existing event tracking pixels for the placement are automatically attached. You can detach existing pixels and create new pixels as needed, based on your tracking needs.
+All existing event tracking pixels for the placement are automatically attached. You can detach existing pixels and create new pixels as needed, based on your tracking needs for the individual ad.
 
 The following settings apply to each pixel that you create or edit.
 
@@ -60,15 +52,14 @@ The following settings apply to each pixel that you create or edit.
 
 **[!UICONTROL Pixel URL or Code]:** The URL of the pixel image, in the appropriate format for the specified [!UICONTROL Pixel Type].
 
-**[!UICONTROL Pixel Name]:** The pixel name. Use a name that will help you easily identify the pixel.
+**[!UICONTROL Pixel Name]:** The pixel name. Use a name that helps you easily identify the pixel.
 
 **[!UICONTROL Pixel Provider]:** The pixel provider: *[!UICONTROL None]*, *[!UICONTROL Nielsen]*, or *[!UICONTROL Comscore]*.
 
 >[!MORELIKETHIS]
 >
 >* [About Ad Management](ad-about.md)
->* [Create an Ad](ad-create.md)
+>* [Create a Single Ad](ad-create.md)
 >* [List the Placements Associated with an Ad](ad-list-placements.md)
->* [Available Ad Types](ad-types.md)
 >* [Ad Specifications](/help/dsp/assets/ad-specs.pdf)
 >* [Advertising Cloud DSP Macros](/help/dsp/campaign-management/macros.md)

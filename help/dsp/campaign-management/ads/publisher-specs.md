@@ -17,5 +17,5 @@ The following links take you to the ad specifications for some of the publishers
 >[!MORELIKETHIS]
 >
 >* [About Ad Management](ad-about.md)
->* [Create an Ad](ad-create.md)
+>* [Create Multiple Third-party Ads](ad-create-multiple.md)
 >* [Ad Specifications](/help/dsp/assets/ad-specs.pdf)

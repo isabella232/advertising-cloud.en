@@ -8,9 +8,7 @@ exl-id: 83d35d27-1ab6-4fcf-877f-650a2dc6975a
 
 You can create up to 500 third-party ads at a time by uploading tags that point to creative assets hosted on third-party ad servers. You can include tracking pixels for the ads.<!-- The bulksheet template for other ad servers says you can include 200. Which is it: 200 or 500? -->
 
-You can upload either [!DNL DoubleClick] and [!DNL Flashtalking] tag sheets or  a manually-populated file using the provided template.
-
-To create a single third-party ad, see [Create an Ad](ad-create.md).
+You can upload either [!DNL DoubleClick] and [!DNL Flashtalking] tag sheets or a manually-populated file using the provided template.
 
 >[!TIP]
 >
@@ -56,7 +54,6 @@ To create a single third-party ad, see [Create an Ad](ad-create.md).
 >[!MORELIKETHIS]
 >
 >* [About Ad Management](ad-about.md)
->* [Create an Ad](ad-create.md)
->* [Available Ad Types](ad-types.md)
 >* [Ad Specifications](/help/dsp/assets/ad-specs.pdf)
+>* [Create a Single Ad](ad-create.md)
 >* [Video: How to Bulk Upload Third-Party Ad Tags](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/bulk-upload-third-party-ad-tags.html)

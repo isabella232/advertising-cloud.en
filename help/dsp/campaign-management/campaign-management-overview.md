@@ -12,8 +12,6 @@ Advertising Cloud DSP campaigns have the following hierarchy:
   * Package(s)
     * Placement(s)
       * Ad(s)
-        * Creative(s)
-<!-- Add "Feature: DSP Creatives" once we have other topics on creatives; get Bob to update the feature list. -->
 <!-- Do clients think in terms of insertion orders? If yes, then work in the following info.:
 In Advertising Cloud DSP, an insertion order is represented as a campaign, and line items are represented as packages. Each package will include placements, which can use different strategies and tactics to deliver the line item requirements.
 -->
@@ -36,18 +34,11 @@ A [placement](/help/dsp/campaign-management/placements/placement-about.md) store
 
 ## [!UICONTROL Ads]
 
-[Ads](/help/dsp/campaign-management/ads/ad-about.md) include creative assets and tracking URLs. You can either upload your creative assets and DSP will serve the ads that use them for free, or you can upload third-party ad serving tags.
+[Ads](/help/dsp/campaign-management/ads/ad-about.md) include creative assets and tracking URLs. You can upload third-party ad serving tags individually or in bulk by using partner tag sheets or the bulk tag template. You can also manually create native display ads for DSP to serve.
 
 Once your ads are set up, you'll need to attach each ad to a placement. You can attach a single ad to one or more placements.
 
 All active, approved ads in an active placement in an active campaign are eligible to run based on the placement targeting parameters.
-
-## [!UICONTROL Creatives]
-
-You can upload audio and video files to use in ads for specified campaigns.
-<!-- add link to [About Creative Management](/help/dsp/campaign-management/creatives/creative-about.md) when it's available-->
-
-You can immediately create an ad with the uploaded creative, or you can create an ad later from either the Creatives view or the Ads view.
 
 >[!MORELIKETHIS]
 >

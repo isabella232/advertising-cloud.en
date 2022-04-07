@@ -64,27 +64,23 @@ index: yes
     + [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
   + Ads {#ads}
     + [About Ad Management](/help/dsp/campaign-management/ads/ad-about.md)
-    + [Available Ad Types](/help/dsp/campaign-management/ads/ad-types.md)
-    + Advertising Cloud-served Ads {#advertising-cloud-served}
-      + [Create an Ad](/help/dsp/campaign-management/ads/ad-create.md)
-      + Ad Settings {#ad-settings}
-        + [Audio Ad Settings](/help/dsp/campaign-management/ads/ad-settings-audio.md)
-        + [Connected TV Settings](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
-        + [Display Ad Settings](/help/dsp/campaign-management/ads/ad-settings-display.md)
-        + [Mobile Ad Settings](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
-        + [Native Ad Settings](/help/dsp/campaign-management/ads/ad-settings-native.md)
-        + [Pre-roll Ad Settings](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
-      + [Best Practices for Designing Overlays](/help/dsp/campaign-management/ads/ad-best-practices-overlays.md)
-    + Bulk Third-Party Ads {#bulk-third-party}
-      + [Create Multiple Third-Party Ads](/help/dsp/campaign-management/ads/ad-create-third-party.md)
-      + [Create Ads with [!DNL Flashtalking]](/help/dsp/campaign-management/ads/ad-create-flashtalking.md)
-      + [Certified Ad Serving Partners](/help/dsp/campaign-management/ads/certified-ad-servers.md)
-    + [Attach an Ad to a Placement](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/campaign-management/placements/ad-attach-to-placement.html)<!-- Dupe link to this file (in Placements chapter), so need to use an absolute link in one of the listings -->
+    + [Certified Ad Serving Partners](/help/dsp/campaign-management/ads/certified-ad-servers.md)
+    + [Create a Single Ad](/help/dsp/campaign-management/ads/ad-create.md)
+    + [Create Multiple Third-Party Ads](/help/dsp/campaign-management/ads/ad-create-multiple.md)
+    + [Create Ads with [!DNL Flashtalking]](/help/dsp/campaign-management/ads/ad-create-flashtalking.md)
     + [Edit an Ad](/help/dsp/campaign-management/ads/ad-edit.md)
     + [Duplicate an Ad](/help/dsp/campaign-management/ads/ad-duplicate.md)
+    + [Attach an Ad to a Placement](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/campaign-management/placements/ad-attach-to-placement.html)<!-- Dupe link to this file (in Placements chapter), so need to use an absolute link in one of the listings -->
     + [List the Placements Associated with an Ad](/help/dsp/campaign-management/ads/ad-list-placements.md)
     + [View a Detailed Report for an Ad](/help/dsp/campaign-management/ads/ad-view-report.md)
     + [Archive or Unarchive an Ad](/help/dsp/campaign-management/ads/ad-archive-unarchive.md)
+    + Ad Settings {#ad-settings}
+      + [Audio Ad Settings](/help/dsp/campaign-management/ads/ad-settings-audio.md)
+      + [Connected TV Settings](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
+      + [Display Ad Settings](/help/dsp/campaign-management/ads/ad-settings-display.md)
+      + [Mobile Ad Settings](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
+      + [Native Display Ad Settings](/help/dsp/campaign-management/ads/ad-settings-native.md)
+      + [Pre-roll Ad Settings](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
     + [Specifications for Supported Ad Types](/help/dsp/assets/ad-specs.pdf)
   + Campaign Reports {#campaign-reports}
     + [About In-Platform Reports](/help/dsp/campaign-management/reports/campaign-reports-about.md)

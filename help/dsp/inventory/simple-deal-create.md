@@ -20,7 +20,7 @@ exl-id: d8de85ec-616c-44ed-9a1a-cc25713ad4a4
        
           * For existing ads, select the ads to use.
         
-          * For new ads, create a proxy [first-party ad](/help/dsp/campaign-management/ads/ad-create.md) or [third-party ad](/help/dsp/campaign-management/ads/ad-create-third-party.md).
+          * For new ads, create a proxy [third-party ad](/help/dsp/campaign-management/ads/ad-create-multiple.md).
 
        >[!NOTE]
        > DSP won't actually serve the ads you specify. The publisher will serve the ad.

@@ -1,14 +1,14 @@
 ---
-title: Create an Ad
-description: Learn how to create an ad.
+title: Create a Single Ad
+description: Learn how to create a single third-party ad.
 feature: DSP Ads
 exl-id: d93c6a66-a5cb-4117-97e8-424422200fce
 ---
-# Create an Ad
+# Create a Single Ad
 
-You can create a single first-party or third-party ad.
+You can create an individual native display ad or a third-party ad in various [ad types](ad-about.md#ad-types).
 
-To create multiple third-party ads at a time, see [Create Multiple Third-party Ads](ad-create-third-party.md).
+To create multiple third-party ads at a time, see [Create Multiple Third-party Ads](ad-create-multiple.md).
 
 >[!NOTE]
 >
@@ -18,21 +18,15 @@ To create multiple third-party ads at a time, see [Create Multiple Third-party A
 
 1. Click the name of the campaign in which the ad will be included.
 
-1. Above the data table, click **[!UICONTROL Create]**. In the [!UICONTROL Ad Types] section of the menu, click the [ad type](ad-types.md).
+1. Above the data table, click **[!UICONTROL Create]**. In the [!UICONTROL Ad Types] section of the menu, click the [ad type](ad-about.md#ad-types).
 
-1. Specify the ad settings for [audio ads](ad-settings-audio.md), [connected TV](ad-settings-connected-tv.md), [display ads](ad-settings-display.md), [mobile ads](ad-settings-mobile.md), [native ads](ad-settings-native.md), or [pre-roll ads](ad-settings-pre-roll.md).:
+1. Specify the ad settings for [audio ads](ad-settings-audio.md), [connected TV](ad-settings-connected-tv.md), [display ads](ad-settings-display.md), [mobile ads](ad-settings-mobile.md), [native ads](ad-settings-native.md), or [pre-roll ads](ad-settings-pre-roll.md):
 
-    1. (Video and audio ads only) On the [!UICONTROL Upload or Select Creative] screen, upload a raw creative asset directly into DSP, select an existing creative asset, or upload a tracking tag from a certified third-party ad serving partner.
+    1. On the [!UICONTROL Insert Ad Tag] screen, enter information about the ad from a certified third-party ad serving partner, and then click **[!UICONTROL Go]**.
 
     1. On the [!UICONTROL Options] screen:
 
         1. On the [!UICONTROL Basics] tab, specify the ad details.
-
-        1. (Some DSP-served mobile video ad types; optional) On the [!UICONTROL Teasers] tab, specify a teaser image or video asset for the ad.
-
-        1. (DSP-served pre-roll video ads and audio ads; optional) On the [!UICONTROL Companion Banners] tab, specify up to three companion banner assets for the ad.
-
-        1. (Some DSP-served mobile and pre-roll video ads; optional) On the [!UICONTROL Overlays] tab, specify overlay assets for the ad.
 
         1. (Optional) On the [!UICONTROL Pixel] tab, specify any third-party tracking pixels you want to attach to the ad.
 
@@ -47,7 +41,6 @@ To create multiple third-party ads at a time, see [Create Multiple Third-party A
 >[!MORELIKETHIS]
 >
 >* [About Ad Management](ad-about.md)
->* [Create Multiple Third-party Ads](ad-create-third-party.md)
+>* [Create Multiple Third-party Ads](ad-create-multiple.md)
 >* [Edit an Ad](ad-edit.md)
->* [Available Ad Types](ad-types.md)
 >* [Ad Specifications](/help/dsp/assets/ad-specs.pdf)
