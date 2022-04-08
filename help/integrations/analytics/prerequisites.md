@@ -34,7 +34,7 @@ Provide the Advertising Cloud implementation team with the following:
 * The [!DNL Analytics] report suite ID that will be used for reporting on paid media activity and for feeding site activity for optimization and reporting in Advertising Cloud
 * The company's Experience Cloud Organization ID (Org ID).
 
-You can find both of these IDs on the [Summary screen of the Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using/run-debugger.html).
+You can find both of these IDs on the [Summary tab of the Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using-v2/summary.html).
 
 ![Experience Cloud Debugger Summary screen](/help/integrations/assets/a4adc-debugger-summary.png)
 
@@ -105,7 +105,7 @@ Example: `sdid=2F3C18E511F618CC-45F83E994AEE93A0`
 
 For accurate data integration, all Advertising Cloud calls used by an [!DNL Analytics for Advertising Cloud] activity to deliver content or record the goal metric must have a corresponding [!DNL Analytics] hit that shares the same supplemental ID.
 
-When you're troubleshooting in [!DNL Analytics], be sure to confirm that the supplemental ID is present for [!DNL Analytics] hits. In the [Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html), you can see this ID in the Advertising Cloud tab as the `sdid` parameter.
+When you're troubleshooting in [!DNL Analytics], be sure to confirm that the supplemental ID is present for [!DNL Analytics] hits. In the [Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using-v2/summary.html), you can see this ID in the Advertising Cloud tab as the `sdid` parameter.
 
 >[!NOTE]
 >
