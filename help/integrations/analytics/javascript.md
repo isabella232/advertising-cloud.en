@@ -96,7 +96,7 @@ You can perform validation using any packet sniffer type of tool (such as [!DNL 
 
 #### How to Confirm the Code with [!DNL Adobe Experience Cloud Debugger]
 
-1. Open the [[!DNL Adobe Experience Cloud Debugger]](https://experienceleague.adobe.com/docs/debugger/using/run-debugger.html) on your homepage.
+1. Open the [[!DNL Adobe Experience Cloud Debugger]](https://experienceleague.adobe.com/docs/debugger/using-v2/summary.html) on your homepage.
 1. Go to the [!UICONTROL Network] tab.
 1. In the [!UICONTROL Solutions Filter] toolbar, click [!UICONTROL Advertising Cloud] and [!UICONTROL Analytics].
 1. In the [!UICONTROL Request URL – Hostname] parameter row, locate `lasteventf-tm.everesttech.net`.
