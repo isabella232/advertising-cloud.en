@@ -12,7 +12,7 @@ The following features are new or recently changed.
 
 | Date | Feature | Description | For More Information |
 | ---- | ------- | ----------- | -------------------- |
-| 17 February 2022 | Video tutorials | A new video on "How to Create a Standard Display Placement" is available. | See [Advertising Cloud Tutorials](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/placement-create.html).  |
+| 17 February 2022 | Video tutorials | A new video on "How to Create a Standard Display Placement" is available. | See [Advertising Cloud Tutorials](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/placement-create.html). |
 | 31 January 2022 | Help | Additional information about [!DNL Deal IDs] and [!DNL Simple Ad Serving] is now available. | See the subchapter on Inventory > Private Inventory. |
 | 10 December 2021 | Video tutorials | New video tutorials are available: "Introduction to Advertising Cloud DSP," "Account Structure and User Interface," "How to Create a Package," "How to Bulk Upload Third-Party Ad Tags," and "How to Edit Placements Using Bulk Edit Tools." | See "[Advertising Cloud Tutorials](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/overview.html)." |
 | 12 November 2021 | [!UICONTROL Deal IDs] | In the [!UICONTROL Deal ID] settings, "[!DNL Rubicon]" was changed to "[!DNL Magnite DV+]," where [!DNL DV+] stands for display, video, and other formats such as audio. This reflects the new branding for [!DNL Magnite] SSP. **Note:** [!DNL Magnite DV+] is still listed as "[!DNL Rubicon]" in the [!UICONTROL Deal ID Inbox]. | See "[SSP Partners](/help/dsp/inventory/ssp-partners.md)." |
