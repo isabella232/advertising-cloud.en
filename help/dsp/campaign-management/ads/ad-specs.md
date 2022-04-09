@@ -7,11 +7,11 @@ feature: DSP Ads
 
 ## Video Ads (Pre-Roll and CTV)
 
-## Supported Screens
+### Supported Screens
 
 Ads are delivered by default on desktop, mobile, and connected TV devices. Device targeting is available to adjust delivery.
 
-## Supported Third-Party Ad Servers
+### Supported Third-Party Ad Servers
 
 [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], and [!DNL Sizmek].<!-- Is this just a partial list of ad servers for display ads? If it's only part of them, then why list any? --> For a full list of supported vendors, see "[Certified Ad Serving Partners](certified-ad-servers.md)."
 
@@ -74,7 +74,7 @@ Ads are delivered by default on desktop, mobile, and connected TV devices. Devic
 
 ## Display Ads
 
-## Supported Screens
+### Supported Screens
 
 Ads are delivered by default on desktop and mobile devices. Device targeting is available to adjust delivery.
 
@@ -84,7 +84,7 @@ Ads are delivered by default on desktop and mobile devices. Device targeting is 
 
 **HTML5:** Image file types: GIF, JPG/JPEG, PNG, SVG
 
-#### Image Asset (Required)
+### Image Asset (Required)
 
 Universal Display supported <!-- What is this? Is it actually an image type? -->
 
@@ -180,7 +180,7 @@ Desktop, Mobile, Tablet, Smart Speakers, and Connected TV.
 
 Each ad can include either a still image or a moving GIF (cinemagraph).
 
-## Supported Screens
+### Supported Screens
 
 Ads are delivered by default on desktop and mobile devices. Device targeting is available to adjust delivery.
 
