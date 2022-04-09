@@ -29,7 +29,7 @@ Ads are delivered by default on desktop, mobile, and connected TV devices. Devic
 
 **Video Frame Rate:** 29.970 fps (commonly referred to as 30 fps) for NTSC countries, 25 fps for PAL countries, 23.976 fps (commonly referred to as 24 fps) for film-look content
 
-** Video Color Space:** 4:2:0 YUV Chroma subsampling 
+**Video Color Space:** 4:2:0 YUV Chroma subsampling 
 
 **Video Interlacing:** Progressive scanning, i.e., non-interlaced. No intra-field motion (blending frames) or interlacing.
 
