@@ -104,7 +104,7 @@ Desktop, Mobile, Tablet, Smart Speakers, and Connected TV
 
 ### Supported Third-Party Ad Servers
 
-For a full list of supported vendors, see "[Certified Ad Serving Partners](certified-ad-servers.md)."
+You can use tag sheets from [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], and [!DNL Sizmek]. For a full list of supported vendors, see "[Certified Ad Serving Partners](certified-ad-servers.md)."
 
 ### Requirements for Audio Assets (Required) 
 
