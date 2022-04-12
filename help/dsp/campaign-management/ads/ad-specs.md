@@ -2,6 +2,7 @@
 title: Ad Specifications
 description: Reference general and publisher-specific ad specifications.
 feature: DSP Ads
+exl-id: 905dfd9b-e7a3-4eb6-988f-b49d4b282dd2
 ---
 # Specifications for Supported Ad Types
 
