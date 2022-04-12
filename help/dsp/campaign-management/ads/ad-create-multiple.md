@@ -54,6 +54,6 @@ You can upload either [!DNL DoubleClick] and [!DNL Flashtalking] tag sheets or a
 >[!MORELIKETHIS]
 >
 >* [About Ad Management](ad-about.md)
->* [Ad Specifications](/help/dsp/assets/ad-specs.pdf)
+>* [Ad Specifications](ad-specs.md)
 >* [Create a Single Ad](ad-create.md)
 >* [Video: How to Bulk Upload Third-Party Ad Tags](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/bulk-upload-third-party-ad-tags.html)

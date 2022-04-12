@@ -5,7 +5,7 @@ feature: DSP Ads
 ---
 # Publisher-Specific Ad Specifications
 
-Some publishers have stricter ad specifications than Advertising Cloud's [general ad specifications](/help/dsp/assets/ad-specs.pdf).  When the publisher specifications are stricter that Advertising Cloud's, make sure to follow the publisher specifications.
+Some publishers have stricter ad specifications than Advertising Cloud's [general ad specifications](/help/dsp/campaign-management/ads/ad-specs.md).  When the publisher specifications are stricter that Advertising Cloud's, make sure to follow the publisher specifications.
 
 The following links take you to the ad specifications for some of the publishers with stricter requirements.
 
@@ -18,4 +18,4 @@ The following links take you to the ad specifications for some of the publishers
 >
 >* [About Ad Management](ad-about.md)
 >* [Create Multiple Third-party Ads](ad-create-multiple.md)
->* [Ad Specifications](/help/dsp/assets/ad-specs.pdf)
+>* [Ad Specifications](/help/dsp/campaign-management/ads/ad-specs.md)

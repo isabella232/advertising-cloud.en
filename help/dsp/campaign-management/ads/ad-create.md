@@ -43,4 +43,4 @@ To create multiple third-party ads at a time, see [Create Multiple Third-party A
 >* [About Ad Management](ad-about.md)
 >* [Create Multiple Third-party Ads](ad-create-multiple.md)
 >* [Edit an Ad](ad-edit.md)
->* [Ad Specifications](/help/dsp/assets/ad-specs.pdf)
+>* [Ad Specifications](ad-specs.md)

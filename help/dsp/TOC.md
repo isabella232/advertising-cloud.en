@@ -81,7 +81,7 @@ index: yes
       + [Mobile Ad Settings](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
       + [Native Display Ad Settings](/help/dsp/campaign-management/ads/ad-settings-native.md)
       + [Pre-roll Ad Settings](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
-    + [Specifications for Supported Ad Types](/help/dsp/assets/ad-specs.pdf)
+    + [Specifications for Supported Ad Types](/help/dsp/campaign-management/ads/ad-specs.md)
   + Campaign Reports {#campaign-reports}
     + [About In-Platform Reports](/help/dsp/campaign-management/reports/campaign-reports-about.md)
     + [Export Data from a Campaign Management View](/help/dsp/campaign-management/reports/campaign-export-data.md)
