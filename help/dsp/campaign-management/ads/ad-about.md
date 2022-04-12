@@ -17,7 +17,7 @@ Once your ads are set up, you'll need to attach each ad to a placement, which in
 
 ## Available Ad Types {#ad-types}
 
-All of the following ad types are available in Advertising Cloud DSP. For full specifications for each ad type, see the [Ad Specifications](/help/dsp/assets/ad-specs.pdf).
+All of the following ad types are available in Advertising Cloud DSP. For full specifications for each ad type, see the [Ad Specifications](ad-specs.md).
 
 * **Audio Ads (third-party only)**: Audio ads play between content on digital publisher sites and can be run standalone as audio files or along with companion banners. Audio is best used to drive brand awareness and engage with on-the-go audiences. Key performance indicators for audio include [!UICONTROL Completion Rate] and [!UICONTROL Cost per Completion].
 
@@ -49,4 +49,4 @@ When DSP approves an ad, you'll see a green dot in the Status column.
 >
 >* [Create a Single Ad](ad-create.md)
 >* [Create Multiple Third-party Ads](ad-create-multiple.md)
->* [Ad Specifications](/help/dsp/assets/ad-specs.pdf)
+>* [Ad Specifications](ad-specs.md)

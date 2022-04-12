@@ -31,4 +31,4 @@ exl-id: ef140d61-f04e-4c1c-acdd-9985730dfb07
 >* [Create Multiple Third-party Ads](ad-create-multiple.md)
 >* [Duplicate an Ad](ad-duplicate.md)
 >* [List the Placements Associated with an Ad](ad-list-placements.md)
->* [Ad Specifications](/help/dsp/assets/ad-specs.pdf)
+>* [Ad Specifications](ad-specs.md)

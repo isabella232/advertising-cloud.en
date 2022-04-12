@@ -34,7 +34,7 @@ The following settings are for standard display ads.
 
 **[!UICONTROL Final Display Code]:** (Third-party ads only) The URL for the third-party creative asset, with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
 
-**[!UICONTROL Ad Size]:** The width and height of the ad. It must be a [supported standard display ad size](/help/dsp/assets/ad-specs.pdf). You can manually enter the ad size before you upload the ad or enter a [!UICONTROL Display Code]. If you don't enter the ad size, the dimensions of the uploaded ad or ad tag are automatically entered as read-only. Note that the Display ad will not save if the dimensions are not within Standard Display as sizes - e.g. 301x250 instead of 300x250 ad size.
+**[!UICONTROL Ad Size]:** The width and height of the ad. It must be a [supported standard display ad size](ad-specs.md). You can manually enter the ad size before you upload the ad or enter a [!UICONTROL Display Code]. If you don't enter the ad size, the dimensions of the uploaded ad or ad tag are automatically entered as read-only. Note that the Display ad will not save if the dimensions are not within Standard Display as sizes - e.g. 301x250 instead of 300x250 ad size.
 
 >[!IMPORTANT]
 >
@@ -61,5 +61,5 @@ The following settings apply to each pixel that you create or edit.
 >* [About Ad Management](ad-about.md)
 >* [Create a Single Ad](ad-create.md)
 >* [List the Placements Associated with an Ad](ad-list-placements.md)
->* [Ad Specifications](/help/dsp/assets/ad-specs.pdf)
+>* [Ad Specifications](ad-specs.md)
 >* [Advertising Cloud DSP Macros](/help/dsp/campaign-management/macros.md)
