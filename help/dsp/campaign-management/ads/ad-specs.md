@@ -13,11 +13,11 @@ Ads are delivered by default on desktop, mobile, and connected TV devices. Devic
 
 ### Supported Third-Party Ad Servers
 
-[!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], and [!DNL Sizmek].<!-- Is this just a partial list of ad servers for display ads? If it's only part of them, then why list any? --> For a full list of supported vendors, see "[Certified Ad Serving Partners](certified-ad-servers.md)."
+You can use tag sheets from [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], and [!DNL Sizmek]. For a full list of supported vendors, see "[Certified Ad Serving Partners](certified-ad-servers.md)."
 
-### High-Definition Video Asset (Required)
+### Requirements for High-Definition Video Assets (Required)
 
-**Video Protocol:**<!-- correct term here? --> VPAID 2 JavaScript only
+**Video Tag Type:** VPAID 2 JavaScript only
 
 **Video Codec:** MP4/H.264
 
@@ -33,7 +33,7 @@ Ads are delivered by default on desktop, mobile, and connected TV devices. Devic
 
 **Video Interlacing:** Progressive scanning, i.e., non-interlaced. No intra-field motion (blending frames) or interlacing.
 
-**Leaders (Slate):** Not permitted<!-- before or after ad content -->
+**Leaders (Slate):** Not permitted
 
 **Audio Codec:** AAC-LC or HE-AACv1 
 
@@ -55,22 +55,26 @@ Ads are delivered by default on desktop, mobile, and connected TV devices. Devic
   
     **Bit Rate:** > 14000kbps
     **Format:** .mp4
-    **Tag Format:<!-- wording? -->** VAST 2.0
+    **Tag Type:** VAST 2.0
     **Creative Size:** 1280x720 or 1920x1080
 
   * Full-episode programming (FEP): ESPN, ABC, Freeform, Nat Geo, and FX
   
-    **Bit Rate:** > 14000kbps
-    **Format:** .mp4
-    **Tag Format:<!-- wording? -->** VAST 2.0
-    **Creative Size:** 1280x720 or 1920x1080
+    * **Bit Rate:** > 14000 kbps:
+    
+      **Format:** .mp4
 
-* ???<!-- ??? -->
-  
-    **Bit Rate:** > 1000kbps (low resolution) or 15000kbps (high resolution)
-    **Format:** .mp4
-    **Tag Format:<!-- wording? -->** VAST 2.0 (VPAID 1.0 on desktop only)
-    **Creative Size:** 1280x720 or 1920x1080
+      **Tag Type:** VAST 2.0
+      
+      **Creative Size:** 1280x720 or 1920x1080
+    
+    * **Bit Rate:** > 1000 kbps (low resolution) or 15000 kbps (high resolution):
+    
+      **Format:** .mp4
+      
+      **Tag Type:** VAST 2.0 (VPAID 1.0 on desktop only)
+      
+      **Creative Size:** 1280x720 or 1920x1080
 
 ## Display Ads
 
@@ -78,33 +82,33 @@ Ads are delivered by default on desktop, mobile, and connected TV devices. Devic
 
 Ads are delivered by default on desktop and mobile devices. Device targeting is available to adjust delivery.
 
-### File Types
+### Supported File Types
 
 **Image:** GIF, JPG/JPEG, PNG
 
 **HTML5:** Image file types: GIF, JPG/JPEG, PNG, SVG
 
-### Image Asset (Required)
+### Requirements for Image Assets (Required)
 
-Universal Display supported <!-- What is this? Is it actually an image type? -->
+Universal Display is supported.
 
 **Recommended ad sizes:** 120x60, 160x600, 180x150, 300x50, 300x100, 300x1050, 300x250, 300x600, 320x50, 320x480, 480x60, 640x480, 88x31, 728x90, 970x250, 970x90
 
-**Supported Third-Party Ad Servers:** [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], and [!DNL Sizmek].<!-- Is this just a partial list of ad servers for display ads? If it's only part of them, then why list any? --> For a full list of supported vendors, see "[Certified Ad Serving Partners](certified-ad-servers.md)."
+**Supported Third-Party Ad Servers:** You can use tag sheets from [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], and [!DNL Sizmek]. For a full list of supported vendors, see "[Certified Ad Serving Partners](certified-ad-servers.md)."
 
 ## Audio Ads
 
 ### Supported Screens
 
-Desktop, Mobile, Tablet, Smart Speakers, and Connected TV.
+Desktop, Mobile, Tablet, Smart Speakers, and Connected TV
 
 ### [Supported Third-Party Ad Servers](certified-ad-servers.md)
 
-### Audio Asset (Required) 
+### Requirements for Audio Assets (Required) 
 
 **File type:** MP3, OGG, AAC
 
-**Leaders (slate):**  Not permitted<!-- before or after ad content -->
+**Leaders (slate):**  Not permitted
 
 **Maximum file size:** 2MB
 
@@ -145,7 +149,7 @@ Desktop, Mobile, Tablet, Smart Speakers, and Connected TV.
   * Length: 15, 30 or 60 seconds
   * File type: MP3
 
-### Companion Banner Ads (Optional)
+### Requirements for Companion Banner Ads (Optional)
 
 **Supported sizes:** 300x250, 500x500, 640x640, 1024x1024
 
@@ -233,3 +237,10 @@ Requirements for click trackers:
 * Third-party click-tracking pixels: Must redirect to the landing page embedded in the URL (HTTP 302 redirect)
 
 * Data management platform (DMP) click trackers with 200 or more responses aren't supported.
+
+>[!MORELIKETHIS]
+>
+>* [About Ad Management](ad-about.md)
+>* [Create a Single Ad](ad-create.md)
+>* [Create Multiple Third-party Ads](ad-create-multiple.md)
+>* [Edit an Ad](ad-edit.md)
