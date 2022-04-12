@@ -3,7 +3,7 @@ title: Ad Specifications
 description: Reference general and publisher-specific ad specifications.
 feature: DSP Ads
 ---
-# Ad Specifications
+# Specifications for Supported Ad Types
 
 ## Video Ads (Pre-Roll and CTV)
 
@@ -102,7 +102,9 @@ Universal Display is supported.
 
 Desktop, Mobile, Tablet, Smart Speakers, and Connected TV
 
-### [Supported Third-Party Ad Servers](certified-ad-servers.md)
+### Supported Third-Party Ad Servers
+
+For a full list of supported vendors, see "[Certified Ad Serving Partners](certified-ad-servers.md)."
 
 ### Requirements for Audio Assets (Required) 
 
