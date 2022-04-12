@@ -17,7 +17,7 @@ You can use tag sheets from [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], and
 
 ### Requirements for High-Definition Video Assets (Required)
 
-**Video Tag Type:** VPAID 2 JavaScript only
+**Video Tag Type:** VPAID 2.0 JavaScript or VAST (CTV). All VPAID ad units must adhere to the [VPAID 2.0 specification](https://iabtechlab.com/wp-content/uploads/2016/04/VPAID_2_0_Final_04-10-2012.pdf) as defined by the Interactive Advertising Bureau (IAB).
 
 **Video Codec:** MP4/H.264
 
