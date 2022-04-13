@@ -3,7 +3,7 @@ title: Configure [!DNL Flashtalking] Tags with Macros to Capture AMO IDs and Oth
 description: Learn how to add Analytics for Advertising Cloud macros to [!DNL Flashtalking] ad tags
 feature: Integration with Adobe Analytics
 ---
-# Configure Flashtalking Tags with Macros to Capture AMO IDs and Other Data
+# Configure [!DNL Flashtalking] Tags with Macros to Capture AMO IDs and Other Data
 
 <!-- Rewrite description as appropriate. -->
 
