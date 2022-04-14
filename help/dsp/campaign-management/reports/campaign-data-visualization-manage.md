@@ -6,7 +6,7 @@ exl-id: f557ddfc-9a20-4cbc-8ad3-230ba5df32e3
 ---
 # Manage Data Visualizations
 
-You can change the metrics and chart mode for all data visualizations for a single campaign. The changes are applied across all data visualizations for the campaign, including the [!UICONTROL Packages], [!UICONTROL Placements], and [!UICONTROL Ads] tabs.
+You can change the metrics and chart mode for all data visualizations across campaigns or for a single campaign. Changes to a single campaign are applied across all data visualizations for the campaign, including the [!UICONTROL Packages], [!UICONTROL Placements], and [!UICONTROL Ads] tabs.
 
 ## Change the Metrics for a Data Visualization
 
