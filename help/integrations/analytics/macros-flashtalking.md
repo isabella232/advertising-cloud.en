@@ -13,11 +13,9 @@ feature: Integration with Adobe Analytics
 
 *Applicable to Advertising Cloud DSP only*
 
-If you use ad tags from [!DNL Flashtalking] for your Advertising Cloud DSP ads, you can append Analytics for Advertising Cloud parameters to your landing page URLs.
+If you use ad tags from [!DNL Flashtalking] for your Advertising Cloud DSP ads, you can append Analytics for Advertising Cloud parameters to your landing page URLs. The parameters allow Advertising Cloud to send click data for the ads to Adobe Analytics.
 
-The parameters allow Advertising Cloud to send click data for the ads to Adobe Analytics.
-
-Use macros in the following situations for [!DNL Flashtalking] display and video ads:
+Use macros for [!DNL Flashtalking] display and video ads for the following types of [!DNL Analytics for Advertising Cloud] implementations:
 
 * **Advertisers with the [!DNL Adobe] [!DNL Analytics for Advertising Cloud] JavaScript code implemented on their websites**: You should see some click-through data in Adobe Analytics from ads you buy through Advertising Cloud, without extra macros. To capture additional click-through data that isn't captured through the JavaScript code<!-- give example of what that might include-->, though, add the macros in the following sections to your [!DNL Flashtalking] ad tags.
 
@@ -25,7 +23,7 @@ Use macros in the following situations for [!DNL Flashtalking] display and video
 >
 >The JavaScript code is a solution for click tracking only while cookies are still available. Once Advertising Cloud discontinues cookies, implementing the following macros will be necessary.
 
-* For advertisers whose websites don't use the [!DNL Analytics for Advertising Cloud] JavaScript code and instead rely on [!DNL Analytics] server-side forwarding for click-through data only (without any view-through data), then the following macros are required to report onsite click activity driven from ads you buy through Advertising Cloud.
+* **Advertisers whose websites don't use the [!DNL Analytics for Advertising Cloud] JavaScript code and instead rely on [!DNL Analytics] server-side forwarding for click-through data only** (without any view-through data): The following macros are required to report onsite click activity driven from ads you buy through Advertising Cloud.
 
 ## Display Ad Tags
 
