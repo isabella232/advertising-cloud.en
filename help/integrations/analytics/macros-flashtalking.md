@@ -9,9 +9,15 @@ feature: Integration with Adobe Analytics
 
 <!-- This doesn't apply specifically to Analytics for Advertising Cloud; it can also apply to any type of Analytics integration?  Or should this be in a generic "Tracking" chapter of DSP help (or a cross-product chapter)? -->
 
-*Advertisers with [!DNL Flashtalking] ads*
+*Advertisers with an Advertising Cloud-Adobe Analytics Integration Only*
 
-The following types of advertisers should use macros to capture AMO Ids and other data for [!DNL Flashtalking] display and video ads:
+*Applicable to Advertising Cloud DSP only*
+
+If you use ad tags from [!DNL Flashtalking] for your Advertising Cloud DSP ads, you can append Analytics for Advertising Cloud parameters to your landing page URLs.
+
+The parameters allow Advertising Cloud to send click data for the ads to Adobe Analytics.
+
+Use macros in the following situations for [!DNL Flashtalking] display and video ads:
 
 * **Advertisers with the [!DNL Adobe] [!DNL Analytics for Advertising Cloud] JavaScript code implemented on their websites**: You should see some click-through data in Adobe Analytics from ads you buy through Advertising Cloud, without extra macros. To capture additional click-through data that isn't captured through the JavaScript code<!-- give example of what that might include-->, though, add the macros in the following sections to your [!DNL Flashtalking] ad tags.
 
