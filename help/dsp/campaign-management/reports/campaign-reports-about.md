@@ -9,9 +9,21 @@ exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
 <!-- rename "About Performance Reports in Campaign Management Views?" -->
 The campaign management views include comprehensive report data. The available reports help you to identify the packages and placements that are performing well and those that need your attention. Quick action buttons also make you more productive.
 
-## All Campaigns List
+## All Campaigns View
 
-The [!UICONTROL Campaigns] view opens to a list of all campaigns within your account. The [!UICONTROL Subtotals] row shows either the sum or the average value of each metric across all visible rows.
+The [!UICONTROL Campaigns] view opens to a list of all campaigns within your account. <!-- The [!UICONTROL Subtotals] row shows either the sum or the average value of each metric across all visible rows. -----   Is there still a Subtotals row? I don't see one. -->
+
+### Chart View {#chart-view}
+
+You can [customize time series trend charts](campaign-data-visualization-manage.md) across all campaigns using three metrics. By default, data for [!UICONTROL Net Spend], [!UICONTROL Impressions], and [!UICONTROL Net CPM] are included in separate charts (trellis charts). You can optionally change the metrics. To enable hourly data in the time series trend charts, change your date selection to a single day ([!UICONTROL Today], [!UICONTROL Yesterday], or a specific day).  
+
+![separate trend charts for three metrics](/help/dsp/assets/trend-chart-separate.png)
+
+You also can optionally overlay the three metrics for easy detection of anomalies and areas in which to improve scale or performance.
+
+![trend chart with overlay](/help/dsp/assets/trend-chart.png)
+
+### Table View
 
 ![Campaigns list](/help/dsp/assets/campaigns-list.png)
 
@@ -27,17 +39,15 @@ Within a campaign, you can filter data based on the campaign entity: [!UICONTROL
 
 ![Campaign entity tabs](/help/dsp/assets/campaign-subtabs.png)
 
+### Chart View
+
+For each campaign, you can [customize time series trend charts](campaign-data-visualization-manage.md) with three metrics, which are available in each entity view. The same metrics are persisted across all trend charts for the campaign.
+
+See the ["Chart View" section on cross-campaign metrics](#chart-view) for more information.
+
+### Table View
+
 In each entity tab, each row includes pacing and delivery metrics, by default, but you can [change the column view](column-view-change.md) or even [create a custom column view](column-view-create.md) to apply across all subtabs for the campaign. You can further [customize the data tables](campaign-data-views-about.md) in additional ways. Each data table includes a [!UICONTROL Subtotals] row, which shows either the sum or the average value of each metric across all visible rows.
-
-For each campaign, you can also customize time series trend charts with three metrics, which are available in each entity view. By default, data for [!UICONTROL Net Spend], [!UICONTROL Impressions], and [!UICONTROL Net CPM] are included in separate charts (trellis charts). You can optionally change the metrics. To enable hourly data in the time series trend charts, change your date selection to a single day ([!UICONTROL Today], [!UICONTROL Yesterday], or a specific day).  
-
-![separate trend charts for three metrics](/help/dsp/assets/trend-chart-separate.png)
-
-You also can optionally overlay the three metrics for easy detection of anomalies and areas in which to improve scale or performance.
-
-![trend chart with overlay](/help/dsp/assets/trend-chart.png)
-
-You can [customize the trend charts](campaign-data-visualization-manage.md) by campaign, and the same metrics are persisted across all trend charts for the campaign.
 
 ### Placement [!UICONTROL Inspector] {#placement-inspector}
 
