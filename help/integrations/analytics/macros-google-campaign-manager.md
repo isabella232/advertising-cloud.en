@@ -1,21 +1,29 @@
 ---
-title: Analytics for Advertising Cloud Macros for Google Campaign Manager 360 Ad Tags
-description: Learn about Analytics for Advertising Cloud macros for Google Campaign Manager 360 ad tags
+title: Append [!DNL Analytics for Advertising Cloud] Macros to [!DNL Google Campaign Manager 360] Ad Tags
+description: Learn why and how to add [!DNL Analytics for Advertising Cloud] macros to your [!DNL Google Campaign Manager 360] ad tags
 feature: Integration with Adobe Analytics
 ---
-# Analytics for Advertising Cloud Macros for Google Campaign Manager 360 Ad Tags<!-- wording? correct terms? -->
+# Append [!DNL Analytics for Advertising Cloud] Macros to [!DNL Google Campaign Manager 360] Ad Tags
 
 *Advertisers with an Advertising Cloud-Adobe Analytics Integration Only*
 
 *Applicable to Advertising Cloud DSP only*
 
-If you use ad tags from Google Campaign Manager 360 for your Advertising Cloud DSP ads, you can append Analytics for Advertising Cloud parameters to your landing page URLs using the [`%p` macro](https://support.google.com/campaignmanager/table/6096962).
+If you use ad tags from [!DNL Google Campaign Manager 360] for your Advertising Cloud DSP ads, append Analytics for Advertising Cloud parameters to your landing page URLs using the [`%p` macro](https://support.google.com/campaignmanager/table/6096962). The parameters allow Advertising Cloud to send click data for the ads to Adobe Analytics.
 
-The parameters allow Advertising Cloud to send click data for the ads to Adobe Analytics.
+Use macros for [!DNL Campaign Manager 360] display and video ads for the following types of [!DNL Analytics for Advertising Cloud] implementations:
 
-## Append the Macros to Your Google Campaign Manager 360 Ads
+* **Advertisers with the [!DNL Adobe] [!DNL Analytics for Advertising Cloud] JavaScript code implemented on their websites**: You should see some click-through data in Adobe Analytics from ads you buy through Advertising Cloud, without extra macros. To capture click-through data in browsers that don't support third-party cookies and therefore isn't captured through the JavaScript code, though, add the macros in the following sections to your [!DNL Campaign Manager 360] ad tags.
 
-Within Google Campaign Manager 360, append to the following parameter to the landing page URL: `%pamo=!;`
+>[!NOTE]
+>
+>The JavaScript code is a solution for click tracking only while cookies are still available. Once Advertising Cloud discontinues cookies, implementing the following macros will be necessary.
+
+* **Advertisers whose websites don't use the [!DNL Analytics for Advertising Cloud] JavaScript code and instead rely on [!DNL Analytics] server-side forwarding for click-through data only** (without any view-through data): The following macros are required to report onsite click activity driven from ads you buy through Advertising Cloud.
+
+## Append the Macros to Your [!DNL Google Campaign Manager 360] Ads
+
+Within [!DNL Google Campaign Manager 360], append to the following parameter to the landing page URL: `%pamo=!;`
 
 You can specify the landing page URL in several ways. Instructions for each option are included in the following subsections.
 
@@ -52,11 +60,11 @@ https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;
 1. Click the creative name.
 1. In the [!UICONTROL Click tags] setting, include `%pamo!;` in the [!UICONTROL Landing page] column for the click tag.
 
-## How Analytics for Advertising Cloud Macros Are Expanded in DSP
+## How [!DNL Analytics for Advertising Cloud] Macros Are Expanded in DSP
 
-In DSP, when you create an ad that includes the Analytics for Advertising Cloud parameter (`amo`), the `ef_id` and `s_kwcid` macros are automatically appended to the click URL. The best practice is to check the tag in DSP to ensure that the `ef_id` and `s_kwcid` macros are present.
+In DSP, when you create an ad that includes the [!DNL Analytics for Advertising Cloud] parameter (`amo`), the `ef_id` and `s_kwcid` macros are automatically appended to the click URL. The best practice is to check the tag in DSP to ensure that the `ef_id` and `s_kwcid` macros are present.
 
-The following is an example of a Google Campaign Manager 360 [ins tag](https://support.google.com/campaignmanager/answer/6080468) as it appears in DSP.
+The following is an example of a [!DNL Google Campaign Manager 360] [ins tag](https://support.google.com/campaignmanager/answer/6080468) as it appears in DSP.
 
 ```
 <ins class='dcmads' style='display:inline-block;width:160px;height:600px'
@@ -70,4 +78,10 @@ data-dcm-param-amo='ef_id=${TM_USER_ID}:${TM_DATETIME}:d&s_kwcid=AC!${TM_AD_ID}!
 </ins>
 ```
 
-When a user clicks the ad, Google Campaign Manager 360 sees `%pamo` in the URL suffix and dynamically inserts the value of the `amo` parameter into the URL.
+When a user clicks the ad, [!DNL Google Campaign Manager 360] sees `%pamo` in the URL suffix and dynamically inserts the value of the `amo` parameter into the URL.
+
+
+>[!MORELIKETHIS]
+>
+>* [Overview of [!DNL Analytics for Advertising Cloud]](overview.md)
+>* [Append [!DNL Analytics for Advertising Cloud] Macros to [!DNL Flashtalking] Ad Tags](macros-flashtalking.md)
