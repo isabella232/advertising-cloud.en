@@ -9,15 +9,15 @@ feature: Integration with Adobe Analytics
 
 *Applicable to Advertising Cloud DSP only*
 
-If you use ad tags from [!DNL Google Campaign Manager 360] for your Advertising Cloud DSP ads, append Analytics for Advertising Cloud parameters to your landing page URLs using the [`%p` macro](https://support.google.com/campaignmanager/table/6096962). The parameters allow Advertising Cloud to send click data for the ads to Adobe Analytics.
+If you use ad tags from [!DNL Google Campaign Manager 360] for your Advertising Cloud DSP ads, append Analytics for Advertising Cloud parameters to your landing page URLs using the [`%p` macro](https://support.google.com/campaignmanager/table/6096962). The parameters record `s_kwcid` and `ef_id` query string parameters in the landing page URL, allowing Advertising Cloud to send click data for the ads to Adobe Analytics.
 
 Use macros for [!DNL Campaign Manager 360] display and video ads for the following types of [!DNL Analytics for Advertising Cloud] implementations:
 
-* **Advertisers with the [!DNL Adobe] [!DNL Analytics for Advertising Cloud] JavaScript code implemented on their websites**: You should see some click-through data in Adobe Analytics from ads you buy through Advertising Cloud, without extra macros. To capture click-through data in browsers that don't support third-party cookies and therefore isn't captured through the JavaScript code, though, add the macros in the following sections to your [!DNL Campaign Manager 360] ad tags.
+* **Advertisers with the [!DNL Adobe] [!DNL Analytics for Advertising Cloud] JavaScript code implemented on their websites**: The JavaScript code already records the `s_kwcid` and `ef_id` query string parameters. However, using macros extends tracking to include click-based conversions when third-party cookies aren't supported. The best practice is to add the macros in the following sections to your ad tags to capture additional click-through data that isn't captured through the JavaScript code.
 
 >[!NOTE]
 >
->The JavaScript code is a solution for click tracking only while cookies are still available. Once Advertising Cloud discontinues cookies, implementing the following macros will be necessary.
+>The JavaScript code is a solution for click tracking only while cookies are still available. Once cookies are discontinued, implementing the following macros will be necessary.
 
 * **Advertisers whose websites don't use the [!DNL Analytics for Advertising Cloud] JavaScript code and instead rely on [!DNL Analytics] server-side forwarding for click-through data only** (without any view-through data): The following macros are required to report onsite click activity driven from ads you buy through Advertising Cloud.
 
@@ -84,4 +84,5 @@ When a user clicks the ad, [!DNL Google Campaign Manager 360] sees `%pamo` in th
 >[!MORELIKETHIS]
 >
 >* [Overview of [!DNL Analytics for Advertising Cloud]](overview.md)
+>* [Advertising Cloud IDs Used by [!DNL Analytics]](/help/integrations/analytics/ids.md)
 >* [Append [!DNL Analytics for Advertising Cloud] Macros to [!DNL Flashtalking] Ad Tags](macros-flashtalking.md)
