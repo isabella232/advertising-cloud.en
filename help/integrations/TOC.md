@@ -17,8 +17,8 @@ index: yes
         + [JavaScript Code for [!DNL Analytics for Advertising Cloud]](/help/integrations/analytics/javascript.md)
         + [Using the [!DNL Last Event Service] JavaScript Library with Adobe Experience Platform [!DNL Web SDK]](/help/integrations/analytics/web-sdk.md)
         + [Macros for Ad Tags]{macros}
-          + [Configure Flashtalking Ad Tags with Macros to Capture AMO IDs and Other Data](/help/integrations/analytics/macros-flashtalking.md)
-          + [Configure Google Campaign Manager 360 Ad Tags with Macros to Capture AMO IDs and Other Data](/help/integrations/analytics/macros-google-campaign-manager.md)
+          + [Append [!DNL Analytics for Advertising Cloud] Macros to [!DNL Flashtalking] Ad Tags](/help/integrations/analytics/macros-flashtalking.md)
+          + [Append [!DNL Analytics for Advertising Cloud] Macros to [!DNL Google Campaign Manager 360] Ad Tags](/help/integrations/analytics/macros-google-campaign-manager.md)
     + Data Exchanged {#data}
         + [Advertising Cloud Metrics in Analysis Workspace](/help/integrations/analytics/advertising-cloud-metrics-in-analytics.md)
         + [[!DNL Analytics] Data in Advertising Cloud](/help/integrations/analytics/analytics-data-in-advertising-cloud.md)
