@@ -91,7 +91,7 @@ You can export the data on the [!UICONTROL Sites], [!UICONTROL Ads], or [!UICONT
 
 ### Other Types of Campaign-level Reporting
 
-For other data breakouts, view [the legacy campaign-level reporting pages](/help/dsp/campaign-management/campaigns/campaign-view-report.md). The legacy report includes sections on [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability], and [!UICONTROL Audience Performance] data.
+For other data breakouts, view [the campaign-level reporting pages](/help/dsp/campaign-management/campaigns/campaign-view-report.md). The <!--legacy --> report includes sections on [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability], and [!UICONTROL Audience Performance] data.
 
 >[!MORELIKETHIS]
 >
