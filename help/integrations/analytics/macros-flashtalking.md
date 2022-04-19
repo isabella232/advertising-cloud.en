@@ -48,4 +48,5 @@ Example:  `https://www.adobe.com/products/photoshop?[%EL:param['AdobeAMO']%]&s_k
 >[!MORELIKETHIS]
 >
 >* [Overview of [!DNL Analytics for Advertising Cloud]](overview.md)
->* [Append [!DNL Analytics for Advertising Cloud] Macros to [!DNL Google Campaign Manager 360] Ad Tags](macros-google-campaign-manager.md)
+
+<!-- >* [Append [!DNL Analytics for Advertising Cloud] Macros to [!DNL Google Campaign Manager 360] Ad Tags](macros-google-campaign-manager.md) -->
