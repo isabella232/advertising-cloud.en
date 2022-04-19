@@ -2,6 +2,7 @@
 title: Append [!DNL Analytics for Advertising Cloud] Macros to [!DNL Flashtalking] Ad Tags
 description: Learn why and how to add [!DNL Analytics for Advertising Cloud] macros to your [!DNL Flashtalking] ad tags
 feature: Integration with Adobe Analytics
+exl-id: 4b060668-723c-4cd2-b70e-409501ec67de
 ---
 # Append [!DNL Analytics for Advertising Cloud] Macros to [!DNL Flashtalking] Ad Tags
 
