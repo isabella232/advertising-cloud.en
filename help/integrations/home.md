@@ -1,6 +1,6 @@
 ---
 title: What's New
-description: This page lists updates on integrations between Advertising Cloud and other products and services in Adobe Experience Cloud.
+description: Learn about updates to integrations between Advertising Cloud and other products and services in Adobe Experience Cloud.
 cloud: Experience Cloud
 product: advertising cloud
 index: yes
