@@ -6,7 +6,7 @@ exl-id: e222e9db-c828-4ac1-9df6-eb350d2ba9ef
 ---
 # View a Detailed Report for an Ad
 
-The legacy ad-level report includes [!UICONTROL Overview], [!UICONTROL Geography], and [!UICONTROL Viewability] data.
+The <!--legacy --> ad-level report includes [!UICONTROL Overview], [!UICONTROL Geography], and [!UICONTROL Viewability] data.
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. Click the name of the campaign.
