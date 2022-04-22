@@ -11,7 +11,7 @@ The campaign management views include comprehensive report data. The available r
 
 ## All Campaigns View
 
-The [!UICONTROL Campaigns] view opens to a list of all campaigns within your account. <!-- The [!UICONTROL Subtotals] row shows either the sum or the average value of each metric across all visible rows. -----   Is there still a Subtotals row? I don't see one. -->
+The [!UICONTROL Campaigns] view opens to a list of all campaigns within your account.
 
 ### Chart View {#chart-view}
 
