@@ -11,7 +11,7 @@ The campaign management views include comprehensive report data. The available r
 
 ## All Campaigns View
 
-The [!UICONTROL Campaigns] view opens to a list of all campaigns within your account.
+The [!UICONTROL Campaigns] view opens to a set of performance data charts and a list of all campaigns within your account.
 
 ### Chart View {#chart-view}
 
